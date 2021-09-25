@@ -161,12 +161,11 @@
                             "url": "http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8
-                           
-                           
-
+                            
+                          
 "name": "Canal Live 13(Aqui) [COLOR white] 16:15h La Liga. Valencia CF vs Athletic Club CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://186873244.global.cdnfastest.com/live/173573c3f5991ce42ec96f409477f0f6ddc/playlist.m3u8"',
+                            "url": "https://google-br.cdn.booyah.live/hls/1000019/79691263.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8
                             
@@ -180,14 +179,14 @@
 
 "name": "Canal Live 15(Aqui) [COLOR white] 18:30h Premier League. Brentford vs Liverpool CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-
-
-"name": "Canal Live 16(Aqui) [COLOR white] 18:30h Bundesliga. Borussia M.gladbach	vs Borussia Dortmund CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            
+                            
+"name": "Canal live 16(Aqui) [COLOR white] 18:30h Sevilla FC vs Espanyol CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://google-br.cdn.booyah.live/hls/1000019/79691263.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -213,14 +212,28 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 26(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 20(Aqui) [COLOR white] 21:00h La Liga. Real Madrid vs Villarreal CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://google-br.cdn.booyah.live/hls/1000019/79691263.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"noname": "Canal Live 21(Aqui) [COLOR white] 21:00h La Liga. Real Madrid vs Villarreal CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                                                
+                            
+"noname": "Canal Live 22(Aqui) [COLOR white] 21:00h La Liga. Real Madrid vs Villarreal CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                            
-"noname": "Canal Live 26(Aqui) [COLOR white]   CristalAzul",
+
+"noname": "Canal Live 23(Aqui) [COLOR white] 21:00h  CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -290,7 +303,7 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "CanalFavorito (Aqui) [COLOR white] SPORTTV 2 CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ELEVEN SPORTTV 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -405,13 +418,6 @@
 "name": "CanalFavorito (Aqui) [COLOR white] SKY-SPORTS F1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://lon-haproxy.angelthump.com/hls/spf1general/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"name": "CanalFavorito (Aqui) [COLOR white] SKY-BUNDESLIGA 1 CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://31.220.41.87:8081/live/de-skybundes1.stream/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
