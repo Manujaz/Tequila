@@ -227,9 +227,9 @@
                            
                                                 
                             
-"noname": "Canal Live 22(Aqui) [COLOR white] 21:00h La Liga. Real Madrid vs Villarreal CristalAzul",
+"name": "Canal Live 22(Aqui) [COLOR white] 21:00h La Liga. Real Madrid vs Villarreal CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://cdn.boxter.live:8081/DEP/TNT_SPORTS_ARG545/chunks.m3u8"',
+                            "url": "http://209.126.119.148:20102/live/fec9f23af8da49e79a334db291efa74a/483d0902207b4d468813740bfd23253c/172.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
