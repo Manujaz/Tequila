@@ -203,30 +203,23 @@
                             "url": "https://rtvelivestreamv3.akamaized.net/tdp_main_720.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                            
+                                                       
                             
 "name": "Canal Live 19(Aqui) [COLOR white] 21:00h Titulo Mundial. S. Maravilla Martínez vs B. Rose CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://cdn.boxter.live:8081/DEP/TNT_SPORTS_ARG545/chunks.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"name": "Canal Live 20(Aqui) [COLOR white] 21:00h Titulo Mundial. S. Maravilla Martínez vs B. Rose CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport2hdnntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 21(Aqui) [COLOR white] 21:00h Francia Ligue 1. PSG vs Montpellier CristalAzul",
+"name": "Canal Live 20(Aqui) [COLOR white] 21:00h Francia Ligue 1. PSG vs Montpellier CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 22(Aqui) [COLOR white] 21:00h La Liga. Real Madrid vs Villarreal CristalAzul",
+"name": "Canal Live 21(Aqui) [COLOR white] 21:00h La Liga. Real Madrid vs Villarreal CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://google-br.cdn.booyah.live/hls/1000019/79691263.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -234,16 +227,16 @@
                            
                                                 
                             
-"noname": "Canal Live 23(Aqui) [COLOR white] 21:00h La Liga. Real Madrid vs Villarreal CristalAzul",
+"noname": "Canal Live 22(Aqui) [COLOR white] 21:00h La Liga. Real Madrid vs Villarreal CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://cdn.boxter.live:8081/DEP/TNT_SPORTS_ARG545/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
 
-"noname": "Canal Live 23(Aqui) [COLOR white] 21:00h  CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] TNT SPORTS ARG CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://cdn.boxter.live:8081/DEP/TNT_SPORTS_ARG545/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
