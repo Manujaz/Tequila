@@ -102,7 +102,7 @@
                  
 "name": "Canal Live 4(Aqui) [COLOR white] 10:00h Gran Premio Russian F1 Entrenamientos CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://lon-haproxy.angelthump.com/hls/spf1general/index.m3u8"',
+                            "url": "https://www.uncdp.com/proxy.php/http://stream.tvtap.live:8081/live/es-moviestarf1.stream/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
