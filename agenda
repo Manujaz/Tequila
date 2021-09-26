@@ -179,7 +179,7 @@
                             
 "name": "Canal live 15(Aqui) [COLOR white] 16:15h La Liga. FC Barcelona vs Levante CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://rtvc-live1-rm.flumotion.com/rtvc-rm/live1-rm_high/chunks.m3u8"',
+                            "url": "https://rtmp.loola.tv:8081/hlspush/Z1rI58U-ZW8fNj.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
