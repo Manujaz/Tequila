@@ -272,7 +272,14 @@
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://cdn.boxter.live:8081/ssl/WIN_+9856465/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                             
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] MMA-TV CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://alchimie-mmatv-samsung.amagi.tv/playlist1080_p.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
                                               
                                                                                                           
 "name": "CanalFavorito (Aqui) [COLOR white] WIN SPORTS PLUS LAT CristalAzul",
@@ -809,7 +816,7 @@
  
 "name": "Canal 37(Aqui) [COLOR white] MMA-TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/3000.m3u8"',
+                            "url": "https://alchimie-mmatv-samsung.amagi.tv/playlist1080_p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
  
