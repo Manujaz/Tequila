@@ -385,8 +385,15 @@
                             "url": "https://95-213-224-179.livesports24.online/ooomatch.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-
-
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] MATHY SPORT 1 RUS CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                                                        
+                           
 "name": "CanalFavorito (Aqui) [COLOR white] KOK TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"',
