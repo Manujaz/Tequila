@@ -318,25 +318,39 @@ Tour de l'Eurométropole. UCI Europe Tour
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 15(Aqui) [COLOR white] 21:00h VfL Wolfsburg vs Sevilla FC CristalAzul",
+"noname": "Canal Live 15(Aqui) [COLOR white] 21:00h Champions League. VfL Wolfsburg vs Sevilla FC CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. Manchester Utd. vs Villarreal
                             
                             
-"noname": "Canal Live 16(Aqui) [COLOR white] 21:00h Manchester Utd. vs Villarreal CristalAzul",
+"noname": "Canal Live 16(Aqui) [COLOR white] 21:00h Champions League. Manchester Utd. vs Villarreal CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 17(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 17(Aqui) [COLOR white] 21:00h Champions League. FC Bayern vs Dynamo Kyiv CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"noname": "Canal Live 18(Aqui) [COLOR white] 21:00h Champions League. Benfica vs FC Barcelona CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"noname": "Canal Live 19(Aqui) [COLOR white] 21:00h Champions League. Red Bull Salzburg vs Lille CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                             
                                                                                                                                                                       
                                                     
 "name": "CanalFavorito (Aqui) [COLOR white] MMA-TV CristalAzul",
