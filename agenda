@@ -135,7 +135,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
- "name": "Canal Live 9(Aqui) [COLOR white] 21:00h EHF European League. BM Granollers vs Kadetten Schaffhausen CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 21:00h EHF European League. BM Granollers vs Kadetten Schaffhausen CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -147,58 +147,61 @@
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+ "name": "Canal Live 11(Aqui) [COLOR white] 01:00h WNBA Basketball Playoffs CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://31.220.41.88:8081/live/espn2hd.stream/chunks.m3u8?token=null"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 12(Aqui) [COLOR white] 01:30h American Football CFL. Ottawa Redblacks vs Edmonton EskimosCristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8"
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "Canal Live 13(Aqui) [COLOR white] 02:00h WWE NXT CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://178.17.167.58/02_SPORTTV_4_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
                                                        
                             
-"name": "Canal Live 11(Aqui) [COLOR white] 02:30h Copa Libertadores. Atlético Mineiro vs Palmeiras CristalAzul",
+"name": "Canal Live 14(Aqui) [COLOR white] 02:30h Copa Libertadores. Atlético Mineiro vs Palmeiras CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                       
                             
-"name": "Canal Live 12(Aqui) [COLOR white] 02:30h Brazil Serie B. Coritiba vs Confiança CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 02:30h Brazil Serie B. Coritiba vs Confiança CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                                                    
                                                                       
  
-"name": "Canal Live 13(Aqui) [COLOR white] 02:30h Brazil Serie B : Vila Nova vs Operário PR CristalAzul",
+"name": "Canal Live 16(Aqui) [COLOR white] 02:30h Brazil Serie B : Vila Nova vs Operário PR CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://cdn.boxter.live:8081/DEP/TNT_SPORTS_ARG545/chunks.m3u8
                             
                             
-"name": "Canal Live 14(Aqui) [COLOR white] 02:40h Colombia Primera B. Real Cartagena vs Llaneros CristalAzul",
+"name": "Canal Live 17(Aqui) [COLOR white] 02:40h Colombia Primera B. Real Cartagena vs Llaneros CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://cdn.boxter.live:8081/ssl/WIN_+9856465/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                                                       
-                                                   
-"noname": "Canal Live 26(Aqui) [COLOR white]  CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-                            
-                            
-"noname": "Canal Live 27(Aqui) [COLOR white] CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-                            
-                            
-"noname": "Canal Live 28(Aqui) [COLOR white]  CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://cdn.boxter.live:8081/ssl/WIN_+9856465/chunks.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                                                                                                         
+                                                  
+
                             
                                                         
-"noname": "Canal Live 29(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 18(Aqui) [COLOR white]  CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://cdn.boxter.live:8081/DEP/TNT_SPORTS_ARG545/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
