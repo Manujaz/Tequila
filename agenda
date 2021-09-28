@@ -79,79 +79,30 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal Live 1(Aqui) [COLOR white] 13:20h Giro de Sicilia. Etapa 1 CristalAzul",
+"name": "Canal Live 1(Aqui) [COLOR white] 13:20h Giro de Sicilia. Etapa.1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://www.uncdp.com/proxy.php/http://stream.tvtap.live:8081/live/es-moviestarf1.stream/playlist.m3u8
                             
-                            
-"name": "Canal live 2(Aqui) [COLOR white] 14:00h UEFA Youth League. RB Leipzig Academy vs Club Brugge Academy CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://95-213-224-179.livesports24.online/ooomatch.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8                            
-                            
-                                                                                 
-"name": "Canal Live 3(Aqui) [COLOR white] 14:30h UEFA Youth League. AC Milan Academy vs At. Madrid Academy CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": " "',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"name": "Canal Live 4(Aqui) [COLOR white] 15:00h Tour de Croacia. Etapa 1 CristalAzul",
+                          http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8                                                                                                                                                                  
+"name": "Canal Live 4(Aqui) [COLOR white] 15:00h Tour de Croacia. Etapa.1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
-
-
-"name": "Canal Live 5(Aqui) [COLOR white] 16:00h UEFA Youth League. Real Madrid Academy	vs Sheriff Academy CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jp",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8                            
-                                                                                                                                                                               
-                            
-"name": "Canal Live 6(Aqui) [COLOR white] 18:45h Champions League. Ajax vs Besiktas CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://178.17.167.58/02_SPORTTV_3_720p/chunklist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-                            
-                            
-"name": "Canal Live 7(Aqui) [COLOR white] 18:45h Champions League. Shakhtar Donetsk vs Inter Milan CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                                                                              
-
-"name": "Canal Live 8(Aqui) [COLOR white] 20:45h BM Granollers vs Kadetten Schaffhausen CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8
-
-
-"name": "Canal Live 9(Aqui) [COLOR white] 21:00h Champions League. PSG vs Manchester City CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://cdn.boxter.live:8081/DEP/TNT_SPORTS_ARG545/chunks.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8
                             
                           
-"noname": "Canal Live 10(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 5(Aqui) [COLOR white] 21:00h 	Porto vs Liverpool  CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8
                             
                           http://31.220.41.88:8081/live/espn2hd.stream/chunks.m3u8?token=null
-"noname": "Canal live 11(Aqui) [COLOR white] CristalAzul",
+"noname": "Canal live 6(Aqui) [COLOR white] 16:00h Real Madrid Academy vs Sheriff Academy CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://akamai2-br.cdn.booyah.live/hls/1000040/81258086.m3u8?Manujaz"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8
                             
