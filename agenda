@@ -218,8 +218,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://www.uncdp.com/proxy.php/http://stream.tvtap.live:8081/live/es-moviestarf1.stream/playlist.m3u8
                                                       
-                            
-                          http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8                                                                                                                                                                  
+                                                     http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8                                                                                                                                                                  
 "name": "Canal Live 2(Aqui) [COLOR white] 15:00h Tour de Croacia. Etapa.2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
@@ -332,7 +331,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 18(Aqui) [COLOR white] 01:00 NHL. Ottawa Senators vs Toronto Maple Leafs CristalAzul",
+"name": "Canal Live 18(Aqui) [COLOR white] 01:00h NHL. Ottawa Senators vs Toronto Maple Leafs CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -381,7 +380,7 @@
                             "embed": "SOL M.*?sica">'.
                             
 
-"name": "Canal Live 22(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 22(Aqui) [COLOR white]  CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
