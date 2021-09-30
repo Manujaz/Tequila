@@ -201,7 +201,7 @@
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "name": "Canal Live 19(Aqui) [COLOR white] 21:00h UEFA Europa League. Olympique Marseille vs Galatasaray CristalAzul",
@@ -243,10 +243,17 @@
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://cdn.boxter.live:8081/ssl/WIN_+9856465/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 25(Aqui) [COLOR white] 04:00h WNBA Basketball. Las Vegas Aces W vs Phoenix Mercury W CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": ""http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                                                                                                                                         
                             
-"name": "Canal Live 21(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 26(Aqui) [COLOR white]  CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -267,18 +274,10 @@
                             "embed": "SOL M.*?sica">'.
                             
 
-"noname": "Canal Live 22(Aqui) [COLOR white]  CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+
                             
                             
-"noname": "Canal Live 22(Aqui) [COLOR white] CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+
                                                         
                             
 "noname": "Canal Live 22(Aqui) [COLOR white] CristalAzul",
@@ -417,13 +416,6 @@
 "name": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 2 ESP CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport2hdnntv.smil/playlist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 USA CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://31.220.41.88:8081/live/espn2hd.stream/chunks.m3u8?token=null"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
