@@ -383,7 +383,14 @@
                             "url": "https://alchimie-mmatv-samsung.amagi.tv/playlist1080_p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                                              
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN 3 LAT CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://cdn.boxter.live:8081/ssl/espn3_sur565656556/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                                                                                                    
                                                                                                           
 "name": "CanalFavorito (Aqui) [COLOR white] WIN SPORTS PLUS LAT CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
