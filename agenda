@@ -225,84 +225,84 @@
                             "embed": "SOL M.*?sica">'.                                                                                                                                          
                                                                                                                
                                                                                   
-"noname": "Canal Live 3(Aqui) [COLOR white] 16:00h UEFA Youth League. Benfica Academy vs FC Barcelona Academy CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 18:45h UEFA Europa League. Napoli vs Spartak Moskva CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 17:00	
 
 
-"noname": "Canal Live 4(Aqui) [COLOR white] 17:00h Tour de l'Eurométropole. UCI Europe Tour CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 18:45h UEFA Europa Conference League. Zorya vs Roma CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 5(Aqui) [COLOR white] 17:00h Amistoso. Palma Futsal vs Barça FS CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 19:00h FIFA Copa Mundial Futsal. Portugal vs Kazajistán CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
+                            "url": "http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 6(Aqui) [COLOR white] 18:45h Balonmano Champions League. Telekom Veszprem vs Barcelona CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 21:00h UEFA Europa League. Sporting Braga vs Midtjylland CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 7(Aqui) [COLOR white] 18:45h Champions League. Atalanta vs Young Boys CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 21:00h UEFA Europa League. West Ham United vs Rapid Wien CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8"',
+                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
                             
-"noname": "Canal Live 8(Aqui) [COLOR white] 18:45h Champions League. Zenit St. Petersburg vs Malmö FF CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 21:00h UEFA Europa Conference League. Tottenham Hotspur vs Mura CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://95-213-224-179.livesports24.online/ooomatch.m3u8"',
+                            "url": "https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 9(Aqui) [COLOR white] 18:45h EHF Champions League. Telekom Veszprem vs Barça BM CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 20:45h Betfred Super League. Dragons Catalans vs Hull KR CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 10(Aqui) [COLOR white] 19:00h FIFA Copa Mundial Futsal. Brasil vs Argentina CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 21:00h Europa League. Ferencvaros vs Real Betis CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"noname": "Canal Live 11(Aqui) [COLOR white] 19:00h Primera Iberdrola. Real Madrid Femenino vs Real Sociedad CristalAzul",
+"noname": "Canal Live 11(Aqui) [COLOR white]  CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 12(Aqui) [COLOR white] 21:00h Champions League. Juventus vs Chelsea CristalAzul",
+"noname": "Canal Live 12(Aqui) [COLOR white]  CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                   
                             
-"noname": "Canal Live 13(Aqui) [COLOR white] 21:00h Champions League. Manchester Utd. vs Villarreal CristalAzul",
+"noname": "Canal Live 13(Aqui) [COLOR white]  CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                             
                             
-"noname": "Canal Live 14(Aqui) [COLOR white] 21:00h Champions League. Benfica vs FC Barcelona CristalAzul",
+"noname": "Canal Live 14(Aqui) [COLOR white] CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
