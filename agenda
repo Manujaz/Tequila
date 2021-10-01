@@ -92,7 +92,7 @@
                             "embed": "SOL M.*?sica">'.                             
                             
                                                                                                              
-"name": "Canal Live 3(Aqui) [COLOR white] 12:30h WRC.Rally Finland Action from SSI Harju  Portugal CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 12:30h WRC.Rally Finland Action from SSI Harju Portugal CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -167,37 +167,44 @@
                             "url": "https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 14(Aqui) [COLOR white] 20:45h Aviva Premiership Rugby. Bristol Bears vs Bath Rugby CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                                                                                                                                           
                             
-"name": "Canal Live 14(Aqui) [COLOR white] 21:00h LaLiga. Athletic Club vs Deportivo Alavés CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 21:00h LaLiga. Athletic Club vs Deportivo Alavés CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 15(Aqui) [COLOR white] 21:00h LaLiga. Athletic Club vs Deportivo Alavés CristalAzul",
+"name": "Canal Live 16(Aqui) [COLOR white] 21:00h LaLiga. Athletic Club vs Deportivo Alavés CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"name": "Canal Live 16(Aqui) [COLOR white] 22:00h Bellator. Douglas Lima vs Michael Page CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
 "name": "Canal Live 17(Aqui) [COLOR white] 22:00h Bellator. Douglas Lima vs Michael Page CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 18(Aqui) [COLOR white] 22:00h Bellator. Douglas Lima vs Michael Page CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 18(Aqui) [COLOR white] 22:15h Famalicão vs Vitória Guimarães CristalAzul",
+"name": "Canal Live 19(Aqui) [COLOR white] 22:15h Famalicão vs Vitória Guimarães CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -223,21 +230,7 @@
                             "url": "https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                            
-                            
-"name": "Canal Live 23(Aqui) [COLOR white] 02:00h Paulista Men's Volleyball Championship. Volleyball Future vs Ses CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"name": "Canal Live 24(Aqui) [COLOR white] 02:00h Puebla vs Pachuca CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                                                       
+                                                                                                                                                                     
                             
 "name": "Canal Live 25(Aqui) [COLOR white] 02:00H WWE. Viernes Noche Smackdown  CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
@@ -262,7 +255,7 @@
                             
 "noname": "Canal Live 28(Aqui) [COLOR white] 03:05h Colombia Primera A. Junior vs Patriotas Boyacá CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://cdn.boxter.live:8081/ssl/WIN_+9856465/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -292,11 +285,8 @@
                             "url": "https://178.17.167.58/02_SPORTTV_4_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
-                            
-                           
-                            
-                                                      
-                                                                                                                                                                                                                         
+                                                                                  
+                                                                                                                                                                                                                                                                               
 "name": "CanalFavorito (Aqui) [COLOR white] MMA-TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://alchimie-mmatv-samsung.amagi.tv/playlist1080_p.m3u8"',
@@ -1013,7 +1003,7 @@
 
 "name": "Canal 63(Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://95-213-224-179.livesports24.online/ooomatch.m3u8
 
