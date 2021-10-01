@@ -99,14 +99,14 @@
                             "embed": "SOL M.*?sica">'.
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
                             
-"name": "Canal Live 4(Aqui) [COLOR white] 13:20h Giro de Sicilia. Etapa.3 CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 13:20h Giro de Sicilia. Etapa.4 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://www.uncdp.com/proxy.php/http://stream.tvtap.live:8081/live/es-moviestarf1.stream/playlist.m3u8
                                                       
                                                                                                                                                                                                                       
-"name": "Canal Live 5(Aqui) [COLOR white] 15:00h Tour de Croacia. Etapa.3 CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 15:00h Tour de Croacia. Etapa.4 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -115,7 +115,7 @@
                             
 "name": "Canal Live 6(Aqui) [COLOR white] 16:00h Gran Premio de MotoGP las Americas CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                                                       
@@ -934,7 +934,7 @@
 
 "name": "Canal 63(Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://Richi@playoutengine-v2.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae/g.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://95-213-224-179.livesports24.online/ooomatch.m3u8
 
