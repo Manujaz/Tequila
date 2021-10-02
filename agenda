@@ -184,13 +184,13 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
- "name": "Canal Live 14(Aqui) [COLOR white] 18:00h Gran Premio de MotoGP las Americas CristalAzul",
+"name": "Canal Live 14(Aqui) [COLOR white] 18:00h Gran Premio de MotoGP las Americas CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_5_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
-                            
+                                                        
 "name": "Canal Live 15(Aqui) [COLOR white] 18:30h Brighton & Hove Albion x Arsenal CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_3_720p/chunklist.m3u8"',
@@ -205,35 +205,42 @@
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live 17(Aqui) [COLOR white] 19:55h LPGA. Shoprite LPGA Classic. Dia 2nd CristalAzul",
+"name": "Canal Live 17(Aqui) [COLOR white] 19:35h Gran Premio de MotoGP las Americas CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8?Manujaz"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                                                                                  
+                                                       
+"name": "Canal Live 18(Aqui) [COLOR white] 19:55h LPGA. Shoprite LPGA Classic. Dia 2nd CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_4_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live 18(Aqui) [COLOR white] 20:45h Sassuolo vs Internazionale CristalAzul",
+"name": "Canal Live 19(Aqui) [COLOR white] 20:45h Sassuolo vs Internazionale CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_3_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live 19(Aqui) [COLOR white] 21:00h LaLiga. Atlético Madrid vs Barcelona CristalAzul",
+"name": "Canal Live 20(Aqui) [COLOR white] 21:00h LaLiga. Atlético Madrid vs Barcelona CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 20(Aqui) [COLOR white] 21:00h LaLiga. Atlético Madrid vs Barcelona CristalAzul",
+"name": "Canal Live 21(Aqui) [COLOR white] 21:00h LaLiga. Atlético Madrid vs Barcelona CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live 21(Aqui) [COLOR white] 21:35h Arouca vs Sporting CP CristalAzul",
+"name": "Canal Live 22(Aqui) [COLOR white] 21:35h Arouca vs Sporting CP CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
