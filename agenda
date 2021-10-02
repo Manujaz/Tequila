@@ -233,11 +233,18 @@
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live 21(Aqui) [COLOR white] 21:30h Arouca vs Sporting CP CristalAzul",
+"name": "Canal Live 21(Aqui) [COLOR white] 21:35h Arouca vs Sporting CP CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+ "name": "Canal Live 14(Aqui) [COLOR white] 21:35h Gran Premio de MotoGP las Americas CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://178.17.167.58/02_SPORTTV_5_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "name": "Canal Live 22(Aqui) [COLOR white] 01:00h UFC Fight Night. Santos v Walker CristalAzul",
