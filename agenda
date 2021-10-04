@@ -254,7 +254,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
- "noname": "Canal Live 14(Aqui) [COLOR white] 21:35h Gran Premio de MotoGP las Americas CristalAzul",
+"noname": "Canal Live 14(Aqui) [COLOR white] 21:35h Gran Premio de MotoGP las Americas CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_5_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -363,10 +363,45 @@
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://cdn.boxter.live:8081/ssl/WIN_+9856465/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 1 UK CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 2 UK CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://178.17.167.58:443/02_BTSPORTHD_2_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 3 UK CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://178.17.167.58:443/02_BTSPORTHD_3_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 4 UK CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://178.17.167.58:443/02_BTSPORTHD_4_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 5 UK CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://178.17.167.58:443/02_BTSPORTHD_5_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
 
-"name": "CanalFavorito (Aqui) [COLOR white] SETANTA SPORTS CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] SETANTA SPORTS 1 CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://bal.varcdn1.ru/lb/setanta1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
