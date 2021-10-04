@@ -1019,7 +1019,7 @@
 
 "noname": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8"',
+                            "url": "https://playback2.akamaized.net/streams/27014129_8167338_lsidgtu8yukwfmpq9x0_1/master.m3u8?dw=80&hdnts=exp=1633350754~acl=/streams/27014129_8167338_lsidgtu8yukwfmpq9x0_1/master.m3u8*~hmac=439f0f1532573a0fb1715218f10d5ba552447b9e56c850683a2cfc7a6cc242b2"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
