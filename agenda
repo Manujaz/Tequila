@@ -366,11 +366,11 @@
                             "embed": "SOL M.*?sica">'.
                             
 
-"name": "CanalFavorito (Aqui) [COLOR white] TNT SPORTS ARG CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] SETANTA SPORTS CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://cdn.boxter.live:8081/DEP/TNT_SPORTS_ARG545/chunks.m3u8"',
+                            "url": "https://bal.varcdn1.ru/lb/setanta1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://cdn.boxter.live:8081/DEP/TNT_SPORTS_ARG545/chunks.m3u8
 
 
 "name": "CanalFavorito (Aqui) [COLOR white] SPORT TV BRA CristalAzul",
@@ -413,20 +413,6 @@
                             "url": "http://31.220.41.88:8081/live/us-nbc.stream/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
-
-"name": "CanalFavorito (Aqui) [COLOR white] SPORTTV 1 CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://31.220.41.88:8081/live/pt-sporttv1.stream/playlist.m3u8
-
-
-"name": "CanalFavorito (Aqui) [COLOR white] SPORTTV 3 CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://31.220.41.88:8081/live/pt-sporttv3.stream/playlist.m3u8
 
 
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN BRA CristalAzul",
@@ -497,8 +483,22 @@
                             "url": "https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                                                        
-                           
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] МАТЧ! БОЕЦ 3 RUS CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://bal.varcdn1.ru/lb/m3/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+ "name": "CanalFavorito (Aqui) [COLOR white] SETANTA SPORT 1 CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://bal.varcdn1.ru/lb/setanta1/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
+                            
+                            
 "name": "CanalFavorito (Aqui) [COLOR white] KOK TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"',
@@ -1010,21 +1010,21 @@
                             "embed": "SOL M.*?sica">'.http://31.220.41.88:8081/live/pt-sporttv4.stream/playlist.m3u8                      
 
 
-"name": "Canal 56(Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://cdn.boxter.live:8081/DEP/TNT_SPORTS_ARG545/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://77.54.145.209:81/live/play/a03d.m3u8"',
+                            "url": "https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://178.17.167.58/02_BTSPORTHD_1_720p/chunklist.m3u8
                             
                             
-"name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8?per"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
