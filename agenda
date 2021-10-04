@@ -359,9 +359,23 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN 3 LAT CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN 1 ARG CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://cdn.boxter.live:8081/ssl/espn3_sur565656556/playlist.m3u8"',
+                            "url": "http://o.findsports.stream/srv/espnsur.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 ARG CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://o.findsports.stream/srv/espn2sur.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                                                        
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN 3 ARG CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://o.findsports.stream/srv/espn3sur.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                                                                                          
