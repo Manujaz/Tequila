@@ -86,7 +86,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live (Aqui) [COLOR white] CANAL TENIS 10 CristalAzul",
+"noname": "Canal Live (Aqui) [COLOR white] CANAL TENIS 10 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://31.220.41.90:8081/live/de-dazn2.stream/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -102,7 +102,7 @@
                             
 "name": "Canal Live 2(Aqui) [COLOR white] 15:00h European Cricket Championship. Netherlands XI vs Italy CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
+                            "url": "https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
@@ -144,7 +144,7 @@
                             
 "name": "Canal Live 7(Aqui) [COLOR white] 21:00h BT Sport Fight Night Live. Tyson Fury vs Deontay Wilder 3 Preview Show CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8?Manujaz"',
+                            "url": "https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                             
@@ -193,7 +193,7 @@
                             
 "noname": "Canal Live 14(Aqui) [COLOR white]  CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://178.17.167.58/02_SPORTTV_5_720p/chunklist.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -1024,7 +1024,7 @@
                             "embed": "SOL M.*?sica">'.https://178.17.167.58/02_BTSPORTHD_1_720p/chunklist.m3u8
                             
                             
-"name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
+"noname": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8?per"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
