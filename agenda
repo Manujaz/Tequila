@@ -342,7 +342,14 @@
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_4_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                                                                                 
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] M.DAZN F1 CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://www.uncdp.com/proxy.php/http://stream.tvtap.live:8081/live/es-moviestarf1.stream/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                                                                                                             
                                                                                                                                                                                                                                                                                
 "name": "CanalFavorito (Aqui) [COLOR white] MMA-TV CristalAzul",
@@ -1047,7 +1054,7 @@
 
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://cdn.boxter.live:8081/DEP/TNT_SPORTS_ARG545/chunks.m3u8"',
+                            "url": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -1061,7 +1068,7 @@
                             
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://www.uncdp.com/proxy.php/http://stream.tvtap.live:8081/live/es-moviestarf1.stream/playlist.m3u8"',
+                            "url": "http://38.18.237.42:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport3/index.m3u8?per
                                                                                     
