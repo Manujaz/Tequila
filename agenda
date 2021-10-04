@@ -1017,7 +1017,7 @@
                             "embed": "SOL M.*?sica">'.http://31.220.41.88:8081/live/pt-sporttv4.stream/playlist.m3u8                      
 
 
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://playback2.akamaized.net/streams/27014129_8167338_lsidgtu8yukwfmpq9x0_1/master.m3u8?dw=80&hdnts=exp=1633350754~acl=/streams/27014129_8167338_lsidgtu8yukwfmpq9x0_1/master.m3u8*~hmac=439f0f1532573a0fb1715218f10d5ba552447b9e56c850683a2cfc7a6cc242b2"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
