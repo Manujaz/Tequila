@@ -144,7 +144,7 @@
                             
 "name": "Canal Live 7(Aqui) [COLOR white] 19:00h IHF Super Globe. Barça BM vs Zamalek SC CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://91.126.138.141:1935/live/barza/chunklist_w1270912450.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -202,7 +202,7 @@
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8                            
+                            "embed": "SOL M.*?sica">'.                            
                             
                                                         
 "name": "Canal Live 15(Aqui) [COLOR white] 01:30h Brazil Brasileirão. RB Bragantino vs Flamengo CristalAzul",
@@ -223,31 +223,38 @@
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://31.220.41.86:8081/live/nba.stream/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.
                             
-                                                                                  
-"name": "Canal Live 18(Aqui) [COLOR white] 02:30h Brazil Brasileirão. Grêmio vs Cuiabá CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8
                             
-                                                        
 "name": "Canal Live 19(Aqui) [COLOR white] 02:00h WNBA Semi Finals. Connecticut Sun vs Chicago Sky CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                                                                                                                                                                                                                          
+                            "embed": "SOL M.*?sica">'. 
                             
-"noname": "Canal Live 20(Aqui) [COLOR white]  CristalAzul",
+                            
+"name": "Canal Live 20(Aqui) [COLOR white] 02:00h All Elite Wrestling. Dynamite CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                                                                                  
+"name": "Canal Live 21(Aqui) [COLOR white] 02:30h Brazil Brasileirão. Grêmio vs Cuiabá CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8
+                                                                                   
+                                                                                                                                                                                                                                                      
+"noname": "Canal Live 22(Aqui) [COLOR white]  CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 21(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 23(Aqui) [COLOR white]  CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -599,7 +606,7 @@
 
 "noname": "CanalFavorito (Aqui) [COLOR white] BARÇA TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://91.126.138.141:1935/live/gol/media_w2146311915_199.m3u8"',
+                            "url": "http://91.126.138.141:1935/live/barza/chunklist_w1270912450.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://91.126.138.140:1935/live/bemad/chunklist_w1673279471.m3u8
 
@@ -1005,7 +1012,7 @@
 
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.157.62.180/ArenaSport2/tracks-v1a1/mono.m3u8"',
+                            "url": "http://93.157.62.180/ArenaSport2/tracks-v2a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
