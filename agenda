@@ -921,12 +921,12 @@
 
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://31.220.41.86:8081/live/nba.stream/playlist.m3u8"',
+                            "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
                             
                             
-"name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
+"noname": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
