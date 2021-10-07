@@ -254,9 +254,9 @@
                             "embed": "SOL M.*?sica">'.https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8
                                                                                                                                                                                                                                                                                                                                                                                                                
                             
-"noname": "Canal Live 23(Aqui) [COLOR white]  CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] OVERSPORT CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
