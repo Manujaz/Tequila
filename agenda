@@ -64,17 +64,10 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
-
+                            
 "name": "Canal Live (Aqui) [COLOR white] CANAL NBA 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://d1l6ukdiijnb7u.cloudfront.net/hls/nbatv.m3u8
-
-
-"noname": "Canal Live (Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d1l6ukdiijnb7u.cloudfront.net/hls/nbatv_1080p30.m3u8
 
@@ -84,14 +77,7 @@
                             "url": "https://d1l6ukdiijnb7u.cloudfront.net/hls/nbatv.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                                                                                    
-                            
-"name": "Canal Live (Aqui) [COLOR white] Resumen - Rally de Finlandia 2021 CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://rtve-mediavod.secure.footprint.net/resources/TE_GLESP/mp4/2/0/1631472222402.mp4?nvb=20211004110401&nva=20211004170401&token=075153cbe2bbc36fd5e2f"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
+                                                                                                                                                                        
                             
 "noname": "Canal Live 1(Aqui) [COLOR white] 15:20h Giro del Piemonte. UCI Europe Tour CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
@@ -347,7 +333,7 @@
 
 "noname": "CanalFavorito (Aqui) [COLOR white] SPORT TV BRA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://cdn99.one/vando123/vando1234/72329.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://107.152.43.155/live/1020304050/stfforever10/771177.m3u8                                                                      
 
@@ -394,23 +380,9 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "CanalFavorito (Aqui) [COLOR white] NBA TV CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
 "name": "CanalFavorito(Aqui) [COLOR white] APEHA TV RUS CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://95-213-224-181.livesports24.online/rumatcharena.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"noname": "CanalFavorito(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -524,12 +496,12 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'. http://31.220.41.87:8081/live/nl-ziggoracing.stream/playlist.m3u8
  
  
-"name": "Canal 15(Aqui) [COLOR white] ZRACING CristalAzul",
+"name": "Canal 15(Aqui) [COLOR white] NBA TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://31.220.41.87:8081/live/nl-ziggoracing.stream/playlist.m3u8"',
+                            "url": "https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
