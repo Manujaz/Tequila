@@ -348,9 +348,23 @@
                             
 "name": "Canal Live 2(Aqui) [COLOR white] 10:45h Gran Premio Formula 1 Turquia CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://encodercdn1.frontline.ca/kamino/output/TSN2_720p/chunks.m3u8                           
+                            "embed": "SOL M.*?sica">'. http://encodercdn1.frontline.ca/kamino/output/TSN2_720p/chunks.m3u8
+                            
+                            
+"name": "Canal Live 2(Aqui) [COLOR white] 13:30h Gran Premio DTM Turquia CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://178.17.167.58/02_SPORTTV_3_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                                                        
+"name": "Canal Live 2(Aqui) [COLOR white] 15:00h Gran Premio DTM Trophy Turquia CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://178.17.167.58/02_SPORTTV_5_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
                             
 "name": "Canal Live 3(Aqui) [COLOR white] 18:00h Campeonato Europa Pista. Grenchen 2021 CristalAzul",
@@ -508,7 +522,7 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal 1(Aqui) [COLOR white] SKY SPORTS F1 CristalAzul",
+"name": "Canal 1(Aqui) [COLOR white] SPORTS F1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://lon-haproxy.angelthump.com/hls/spf1general/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -979,7 +993,7 @@
                             
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "https://video-weaver.mad01.hls.live-video.net/v1/playlist/CpoFRtoPGGx8KIPH9aZvBsTEWWq6xFavB8Hr-VD-JjnR0ERAmyD43MTJpu479oir26-foPBhOOhsIt68oJFfPkesV34VEYlrT3d1F1znnMAGXzjOCdzyrieQqB8XQY36JevGUHeOb1pa0BhR-uyHY81qM_W1NX34p0PslOQf1oOJpAax4CVj3cnCbYfeZzlLF2w83hQwdKZ08WE5uA5o9dLbUvYJg_PVWvTvaoMMkRsXIfcP04qyR_JUgWvt2Kv629oHVOFYIEaP9opVGX4AYC2X0MSMTXkhGBslk1B2Yz5us-Z3bBtz1jTWBFvhf-1kLjivWUESsSDKESNu6tduR4dONmsAr2CsIJbw6dMRjDOfk0dOQw6h1YocvQrPqJxEhTOwMZLq5GJAvGarkkw8Wqw3hnQvOcZQpISHj2RgMmxvONz-P8oTc49n3dqWshruV8O5daqoRllWfL7MsdZ006XWt6COekgEgCVsSDawepK_q9KAPan3SIWOIEGjzd7I-byNY1Wg1kCpoiCCLYyGCViRASWqwQ35rZKtBr290OoystIiGaLf-6u8tmGMf7VTor-Fz-SjIY3SPu5K0a8B8VQCRcsiOkk_Wc2ROd2zKW2bwWRVmQrsj20KFN4pQpoiK0J8PwM0LObHcgp19ums8Z7jt0KIearN35NOeIb_V309iieLzLJO5fDgN_REX8XnmtGfGb0sRft6qe4042ghf__MLSj0LcNc5fCqcVgTFOYjQrNQaVBgkVn5hkcefGQYmTPQSng81ilkH2yeGg5tDpy5-QIeQVBy46PhatVDSGcU__d1GxCkjYlQoUiPStClnU2Unsxd9rjdlFWFpEwi2WYffvk319XAolFYk_duWW3m-wv7p_c-Wpwmjy-JGgx-O02ggfxVOuPWD70gASoJZXUtd2VzdC0yMIIC.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
