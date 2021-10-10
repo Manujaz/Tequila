@@ -79,7 +79,7 @@
                             "embed": "SOL M.*?sica">'.https://d1l6ukdiijnb7u.cloudfront.net/hls/nbatv_1080p30.m3u8
 
 
-"name": "Canal Live (Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
+"noname": "Canal Live (Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -119,7 +119,13 @@
                             "url": "https://lon-haproxy.angelthump.com/hls/spf1general/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+                            
+                       
+  "name": "Canal Live 4(Aqui) [COLOR white] 11:00h Gran Premio Formula 1 Turquia CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://vsd88.mycdn.me/hls/1317437770395.m3u8/sig/X-erWGQlALs/expires/1633951017805/srcIp/37.14.130.214/clientType/1/srcAg/UNKNOWN_ANDROID/mid/2305419714203/1317437770395_fullhd/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
                             
 "name": "Canal Live 5(Aqui) [COLOR white] 11:00h Primera Iberdrola. Sevilla FC Femenino vs Athletic Femenino CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
@@ -370,6 +376,20 @@
 "name": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 2 ESP CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport2hdnntv.smil/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.chunklist_w27818905378.m3u8
+                            
+                                                       
+"name": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 1 POR CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/89.chunklist_w27818905378.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 2 POR CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.chunklist_w27818905378.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
