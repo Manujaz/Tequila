@@ -74,19 +74,19 @@
                             
 "name": "Canal Live (Aqui) [COLOR white] CANAL NBA 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://77.247.109.111/hls/T3.m3u8"',
+                            "url": "https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d1l6ukdiijnb7u.cloudfront.net/hls/nbatv_1080p30.m3u8
 
 
-"noname": "Canal Live (Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
+"name": "Canal Live (Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
                             
                                                      
-"name": "Canal Live (Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
+"name": "noCanal Live (Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://807a6a24ea06.us-east-1.playback.live-video.net/api/video/v1/us-east-1.432633290415.channel.fcSYcGvhtPAq.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
