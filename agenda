@@ -32,7 +32,7 @@
 
 "name": "Canal Live (Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://rtvelivestreamv3.akamaized.net/tdp_main_720.m3u8"',
+                            "url": "https://playoutengine-v2.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/e.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://playoutengine-v2.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/g.m3u8
                             
@@ -41,7 +41,7 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://playoutengine-v2.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/tdp_main_720.m3u8
 
 
 "name": "Canal Live (Aqui) [COLOR white] CANAL TENIS 4 CristalAzul",
@@ -86,9 +86,9 @@
                             "embed": "SOL M.*?sica">'.https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
                             
                                                      
-"name": "noCanal Live (Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
+"name": "Canal Live (Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://807a6a24ea06.us-east-1.playback.live-video.net/api/video/v1/us-east-1.432633290415.channel.fcSYcGvhtPAq.m3u8"',
+                            "url": "https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                                                                                                                                                                                                                                                                                                                                                                         
