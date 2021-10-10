@@ -74,16 +74,16 @@
                             
 "name": "Canal Live (Aqui) [COLOR white] CANAL NBA 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8"',
+                            "url": "http://77.247.109.111/hls/T3.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d1l6ukdiijnb7u.cloudfront.net/hls/nbatv_1080p30.m3u8
 
 
 "name": "Canal Live (Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://broadcast.c2agora.com/live/n7/chunklist_w742192167.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
                             
                                                      
 "name": "Canal Live (Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
@@ -267,6 +267,13 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
                             
+                                                        
+"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT BOX CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://77.247.109.180:1935/stream1/boxing1/chunklist_w212243377.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
                             
 "name": "CanalFavorito (Aqui) [COLOR white] VIASAT SPORT CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
@@ -279,7 +286,7 @@
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                             
+                            "embed": "SOL M.*?sica">'. http://77.247.109.180:1935/stream1/boxing1/chunklist_w212243377.m3u8                            
                                                                                                                                                                                                                                                                                                                                        
                                                                                                                                                                                                                                                                                
 "name": "CanalFavorito (Aqui) [COLOR white] MMA-TV CristalAzul",
