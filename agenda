@@ -831,7 +831,7 @@
 
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://c4af3793bf76b33c.mediapackage.us-west-2.amazonaws.com/out/v1/0c7f2c59cb2643449bdb1d5fc4cce773/live.m3u8"',
+                            "url": "http://209.126.105.238:20102/live/896d308920a94b5ebdbce771241dd966/b3ad0def82fb46c7bbaa7a72ec7f811e/85.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
                             
