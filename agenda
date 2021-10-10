@@ -822,14 +822,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                       
-"name": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
+"noname": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://77.247.109.92/hls/n1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
 
 
-"name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
+"noname": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://209.126.105.238:20102/live/896d308920a94b5ebdbce771241dd966/b3ad0def82fb46c7bbaa7a72ec7f811e/85.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
