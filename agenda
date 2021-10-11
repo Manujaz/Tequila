@@ -120,50 +120,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                                                                                                                                                                                                                                                                                                                                                                                                                                 
-                           
-                            
-"noname": "Canal Live 4(Aqui) [COLOR white] 11:00h Gran Premio Formula 1 Turquia CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://77.247.109.180:1935/stream1/ch07/chunklist_w717517102.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                       
-"noname": "Canal Live 4(Aqui) [COLOR white] 11:00h Gran Premio Formula 1 Turquia CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.  
-                            
-                            
-"noname": "Canal Live 5(Aqui) [COLOR white] 11:00h Primera Iberdrola. Sevilla FC Femenino vs Athletic Femenino CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://streamamghdl-lh.akamaihd.net/i/0wzckw85c_1@723099/index_0_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1633929228~acl=%2fi%2f0wzckw85c_1%40723099*~data=hdntl~hmac=1cb389c5b22f346ed384d7cb579ffa0b5bbe82084414008d3dbaa1840491cc88"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                                                                                  
-                            
-"noname": "Canal Live 6(Aqui) [COLOR white] 12:00h Menorca Open. Final Masculina CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"noname": "Canal Live 7(Aqui) [COLOR white] 12:00h Primera Iberdrola. Real Madrid Femenino vs Eibar Femenino CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-                            
-                                                       
-"noname": "Canal Live 8(Aqui) [COLOR white] 12:00h Reto Iberdrola. Deportivo Abanca vs Zaragoza CFF CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 "noname": "Canal Live 9(Aqui) [COLOR white] 12:00h Portugal Campeonato Nacional Women. CS Maritimo (W) vs SL Benfica (W) CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_1_720p/chunklist.m3u8"',
@@ -280,24 +237,31 @@
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                                                                                                             
+                            "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal live 4(Aqui) [COLOR white] 18:00h Cyprus vs Malta CristalAzul",
+"name": "Canal live 4(Aqui) [COLOR white] 16:00h BOXEO WBO European title Parimatch. Albert Batyrgaziev vs Laze Suat CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                                                        
+                            
+"name": "Canal live 5(Aqui) [COLOR white] 18:00h Cyprus vs Malta CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 5(Aqui) [COLOR white] 19:00h CFL. Montreal Alouettes vs Ottawa Redblacks CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 19:00h CFL. Montreal Alouettes vs Ottawa Redblacks CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live 6(Aqui) [COLOR white] 19:00h BWF Thomas & Uber Cup Day 3. South Korea vs France CristalAzul",
+"name": "Canal Live 7MA(Aqui) [COLOR white] 19:00h BWF Thomas & Uber Cup Day 3. South Korea vs France CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -374,39 +338,42 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 16(Aqui) [COLOR white] 22:00h CFL Hamilton Tiger-Cats vs Toronto Argonauts CristalAzul",
+"name": "Canal Live 17(Aqui) [COLOR white] 22:00h CFL Hamilton Tiger-Cats vs Toronto Argonauts CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://77.247.109.180:1935/stream1/13/chunklist_w927194900.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
                                                         
-"name": "Canal live 17(Aqui) [COLOR white] 22:45h LNF. Corinthians vs Jaragua CristalAzul",
+"name": "Canal live 18(Aqui) [COLOR white] 22:45h LNF. Corinthians vs Jaragua CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal live 18(Aqui) [COLOR white] 01:07h MLB. Tampa Bay Rays vs Boston Red Sox CristalAzul",
+"name": "Canal live 19(Aqui) [COLOR white] 01:00h Brazil Brasileirão. Cuiabá vs São Paulo CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal live 20(Aqui) [COLOR white] 01:07h MLB. Tampa Bay Rays vs Boston Red Sox CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal live 19(Aqui) [COLOR white] 02:00h WWE Monday Night Raw CristalAzul",
+"name": "Canal live 21(Aqui) [COLOR white] 02:00h WWE Monday Night Raw CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_4_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                                                                                                                                   
                                                                                                                 
-"noname": "Canal live 20(Aqui) [COLOR white]  CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://178.17.167.58/02_SPORTTV_5_720p/chunklist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+
                             
                             
 "noname": "Canal live 20(Aqui) [COLOR white]  CristalAzul",
@@ -430,9 +397,9 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal live 20(Aqui) [COLOR white]  CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] MATCH SPORT RUS CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://178.17.167.58/02_SPORTTV_5_720p/chunklist.m3u8"',
+                            "url": "https://95-213-172-221.livesports24.online/ooomatch.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
