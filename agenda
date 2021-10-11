@@ -290,6 +290,13 @@
                             "url": "https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                                                        
+                            
+"name": "Canal live 3(Aqui) [COLOR white] 15:00h ABA League 2. KK Siroki vs FK Borac Banja Luka CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "name": "Canal live 4(Aqui) [COLOR white] 18:00h Cyprus vs Malta CristalAzul",
@@ -539,7 +546,7 @@
 
 "name": "CanalFavorito(Aqui) [COLOR white] APEHA TV RUS CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://95-213-224-181.livesports24.online/rumatcharena.m3u8"',
+                            "url": "https://95-213-224-181.livesports24.online/rumatch.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -1029,23 +1036,23 @@
                       
 "noname": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://77.247.109.92/hls/n1.m3u8"',
+                            "url": "http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
+                            "embed": "SOL M.*?sica">'.
 
 
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://209.126.105.238:20102/live/896d308920a94b5ebdbce771241dd966/b3ad0def82fb46c7bbaa7a72ec7f811e/85.m3u8"',
+                            "url": "http://93.157.62.180/ArenaSport2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
+                            "url": "http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
                             
                             
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 4 CristalAzul",
