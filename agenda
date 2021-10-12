@@ -261,39 +261,42 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal live 21(Aqui) [COLOR white] 02:30h Brazil Brasileirão. Bahia vs Palmeiras CristalAzul",
+"name": "Canal live 21(Aqui) [COLOR white] 01:30h NCAAF Louisiana-Lafayette vs Appalachian State CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8"',
+                            "url": "http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/89.chunklist_w27818905378.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                                                        
+                            "embed": "SOL M.*?sica">'.                             
                             
-"name": "Canal live 22(Aqui) [COLOR white] 02:30h Brazil Serie B. Cruzeiro vs Botafogo CristalAzul",
-                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-                                                                                                                                                                         
                             
-"name": "Canal Live 23(Aqui) [COLOR white] 02:00h MMA Dana White Contender Series. Reyes Cortez Jr. vs Christian Rodriguez CristalAzul",
+"name": "Canal Live 22(Aqui) [COLOR white] 02:00h MMA Dana White Contender Series. Reyes Cortez Jr. vs Christian Rodriguez CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.ttp://77.247.109.180:1935/stream1/13/chunklist_w927194900.m3u8
                             
                             
-"name": "Canal live 24(Aqui) [COLOR white] 02:00h WWE NXT CristalAzul",
+"name": "Canal live 23(Aqui) [COLOR white] 02:00h WWE NXT CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                                                                                                                                          
+                            "embed": "SOL M.*?sica">'.                              
                             
-"noname": "Canal live 25(Aqui) [COLOR white]  CristalAzul",
+                            
+"name": "Canal live 24(Aqui) [COLOR white] 02:30h Brazil Brasileirão. Bahia vs Palmeiras CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/89.chunklist_w27818905378.m3u8"',
+                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
+                                                        
+                            
+"name": "Canal live 25(Aqui) [COLOR white] 02:30h Brazil Serie B. Cruzeiro vs Botafogo CristalAzul",
+                             "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                                                                                                                                                                         
+                                                                                                                                                                                                
+                           
                             
                                                         
 "noname": "Canal live 25(Aqui) [COLOR white] CristalAzul",
