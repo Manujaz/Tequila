@@ -447,7 +447,7 @@
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://foreign-free.persik.tv:82/live/Ch247/playlist.m3u8?securehash=evrm0SoofzVJfeXoJnLaDhh-X7XkJVicje09UOIvL_g%3D&secureendtime=1633785185&securestarttime=1633698785&secureuserid=287583&UserID=287583&device_code=playlist&r=%7B"type"%3A"channel"%2C"id"%3A"135"%7D"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://encodercdn1.frontline.ca/kamino/output/TSN2_720p/chunks.m3u8                            
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] FOX SPORTS BRA CristalAzul",
@@ -611,9 +611,9 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui)[COLOR white] ARENASPORT 3 CristalAzul",
+"noname": "CanalFavorito (Aqui)[COLOR white] ARENASPORT 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -954,9 +954,9 @@
                             "embed": "SOL M.*?sica">'.http://encodercdn1.frontline.ca/kamino/output/TSN1_720p/chunks.m3u8
                                                                                     
                             
-"name": "Canal 49(Aqui) [COLOR white] TSN2 SPORTS CristalAzul",
+"name": "Canal 49(Aqui) [COLOR white] ARENASPORTS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
 
