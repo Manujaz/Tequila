@@ -268,9 +268,9 @@
                             "embed": "SOL M.*?sica">'. http://77.247.109.180:1935/stream1/19/chunklist_w2015224151.m3u8                          
                                                       
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] BTSPORT ESPN CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 USA CristalAzul",
                              "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://77.247.109.180:1935/stream1/18/chunklist_w573942232.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                         
