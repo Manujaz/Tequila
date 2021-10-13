@@ -885,7 +885,7 @@
  
 "name": "Canal 61(Aqui) [COLOR white] GOLTV ESP CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://api.goltelevision.com/api/v1/stream/live/stream.m3u8"',  
+                            "url": "https://www.goltelevision.com/api/stream/live.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJsaXZlLm0zdTgiLCJpcCI6IjMxLjQuMTkwLjE4OSIsImV4cGlyZXNJbiI6IjE0NDAwcyIsImlhdCI6MTYzNDE0MzE2NiwiZXhwIjoxNjM0MTU3NTY2fQ.pGaZWEz6uEROmwxLCVPRVvBcS1y4AfiuVg43l7pp1zk"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
 
