@@ -124,66 +124,73 @@
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
+                            "embed": "SOL M.*?sica">'.
+                                                                                                               
                                                        
 "name": "Canal Live 4(Aqui) [COLOR white] 18:30h Basketball. Igokea vs Galatasaray NEF CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 5(Aqui) [COLOR white] 19:00h Thomas Cup HSBC BWF World Tour 2021. South Korea vs Chinese Taipei CristalAzul",
+                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-                                                        
-"name": "Canal Live 5(Aqui) [COLOR white] 21:00h Basketball Champions League. Hapoel Jerusalem vs BAXI Manresa CristalAzul",
+                                                                                                                                          
+"name": "Canal Live 6(Aqui) [COLOR white] 21:00h Thomas Cup HSBC BWF World Tour 2021. Denmark vs South Korea CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 6(Aqui) [COLOR white] 23:07h MLB. Boston Red Sox vs Tampa Bay Rays CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 23:07h MLB. Boston Red Sox vs Tampa Bay Rays CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"name": "Canal live 7(Aqui) [COLOR white] 00:00h Brazil Brasileirão. Flamengo vs Juventude CristalAzul",
+"name": "Canal live 8(Aqui) [COLOR white] 00:00h Brazil Brasileirão. Flamengo vs Juventude CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8                                                                                   
                                                                                                                                                                                                                                                                                  
                                                         
-"name": "Canal Live 8(Aqui) [COLOR white] 01:00h World Cup Qualifying. USA vs Costa Rica CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 01:00h World Cup Qualifying. USA vs Costa Rica CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://77.247.109.180:1935/stream1/18/chunklist_w573942232.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8                            
                                                                                                                                         
                             
-"name": "Canal Live 9(Aqui) [COLOR white] 01:00h Women's College Soccer. Indiana vs Penn State CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 01:00h Women's College Soccer. Indiana vs Penn State CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://stream2.grandma.fit/espnu.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000.m3u8 
                                                                                                                  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"name": "Canal Live 10(Aqui) [COLOR white] 02:00h Brazil Brasileirão. Corinthians vs Fluminense CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 02:00h Brazil Brasileirão. Corinthians vs Fluminense CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 11(Aqui) [COLOR white] 02:30h Brazil Brasileirão. Internacional vs América Mineiro CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 02:30h Brazil Brasileirão. Internacional vs América Mineiro CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                                                                                                                                                                                                                                                              
-"name": "Canal Live 12(Aqui) [COLOR white] 03:00h Women's College Volleyball. Indiana vs Nebraska CristalAzul",
+"name": "Canal Live 13(Aqui) [COLOR white] 03:00h Women's College Volleyball. Indiana vs Nebraska CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://stream2.grandma.fit/espnu.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
