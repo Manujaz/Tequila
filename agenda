@@ -881,32 +881,25 @@
                             "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
- 
- 
-"name": "Canal 61(Aqui) [COLOR white] GOLTV ESP CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://www.goltelevision.com/api/stream/live.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJsaXZlLm0zdTgiLCJpcCI6IjMxLjQuMTkwLjE4OSIsImV4cGlyZXNJbiI6IjE0NDAwcyIsImlhdCI6MTYzNDE0MzE2NiwiZXhwIjoxNjM0MTU3NTY2fQ.pGaZWEz6uEROmwxLCVPRVvBcS1y4AfiuVg43l7pp1zk"',  
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
 
  
-"name": "Canal 62(Aqui) [COLOR white] TELEDEPORTE CristalAzul",
+"name": "Canal 61(Aqui) [COLOR white] TELEDEPORTE CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net/tdp_main_720.m3u8"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. TDP.http://91.126.141.13:1935/live/91/1800-def.m3u8
  
  
-"name": "Canal 63(Aqui) [COLOR white] HARLEY-DAVISON-TVHD CristalAzul",
+"name": "Canal 62(Aqui) [COLOR white] HARLEY-DAVISON-TVHD CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://hdtv.prod2.ioio.tv/broker/manifests/de245a96-516c-413d-81e9-419c05bbc6a7/1080/4423680.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                  
 
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
                             
