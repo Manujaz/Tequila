@@ -904,9 +904,9 @@
                             "embed": "SOL M.*?sica">'.
                                                  
 
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.m3u8"',
+                            "url": "https://playback.akamaized.net/streams/5057055_9891705_lsifctp5t144vrftd7w_1/media/5057055_9891705_lsifctp5t144vrftd7w_1@728000b.m3u8?dw=80&ts=1634209200&hdnts=exp=1634385238~acl=/streams/5057055_9891705_lsifctp5t144vrftd7w_1/media*~hmac=01ca38d6d1aa4f07690ffc267a36ee2a642573251b6c55fde2ce1b1280c14da9"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
                             
