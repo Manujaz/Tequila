@@ -86,20 +86,20 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "CanalDiferido 1(Aqui) [COLOR white] WRC. Camp. Mundo de Rally de Racc En Diferido. 1 CristalAzul",
+"name": "Canal Live 1(Aqui) [COLOR white] 14:00 England Premier League. Everton vs West Ham United CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtve-mediavod.secure.footprint.net/resources/TE_GLESP/mp4/7/4/1507452244247.mp4?nvb=20211015145151&nva=20211015205151&token=06b5f2f6767d023aafe4c"',
+                            "url": "https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8"',
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                                                                                                                                                                                                                                                    
                                                       
-"noname": "CanalDiferido 2(Aqui) [COLOR white] WRC. Camp. Mundo de Rally de Racc En Diferido. 2 CristalAzul",
+"noname": "Canal Live 2(Aqui) [COLOR white]  CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtve-mediavod.secure.footprint.net/resources/TE_GLESP/mp4/7/9/1507463907997.mp4?nvb=20211015135634&nva=20211015195634&token=0097207a71ce91a4e8a4e"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                     
                                                                                                                
-"noname": "CanalDiferido 3(Aqui) [COLOR white] WRC. Camp. Mundo de Rally de Racc En Diferido. 3 CristalAzul",
+"noname": "Canal Live 3(Aqui) [COLOR white] WRC. Camp. Mundo de Rally de Racc En Diferido. 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtve-mediavod.secure.footprint.net/resources/TE_GLESP/mp4/4/9/1507501061894.mp4?nvb=20211015124144&nva=20211015184144&token=05fb3c18cbc4f899148ed"
                             "embed": "SOL M.*?sica">'.
@@ -144,7 +144,7 @@
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "noname": "Canal Live 7(Aqui) [COLOR white] 19:00h BWF Thomas & Uber Cup. Thomas Cup Quarter Final CristalAzul",
