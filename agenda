@@ -975,9 +975,9 @@
                             "embed": "SOL M.*?sica">'.http://31.220.41.88:8081/live/pt-sporttv4.stream/playlist.m3u8
                             
                                                         
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/high/index.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/skysports4/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
