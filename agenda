@@ -90,45 +90,52 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "Canal Live 2(Aqui) [COLOR white] 18:45H UEFA Champions League. Club Brugge vs Manchester City CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://cdn2.cyclingstreams.xyz/hls/P1.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
                                                                                                                                                                                                                                                                                                                                                                                                                                                         
                                                                                                                                                                                                    
-"name": "Canal Live 2(Aqui) [COLOR white] 20:00h AFC Asian Champions League. Al Nassr vs Al Hilal CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 20:00h AFC Asian Champions League. Al Nassr vs Al Hilal CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 3(Aqui) [COLOR white] 20:45h Brazil U-17 Soccer Cup. São Paulo vs Atlético-Mg CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 20:45h Brazil U-17 Soccer Cup. São Paulo vs Atlético-Mg CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                                                        
                             
-"name": "Canal Live 4(Aqui) [COLOR white] 21:00h UEFA Champions League. PSG vs RB Leipzig CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 21:00h UEFA Champions League. PSG vs RB Leipzig CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 5(Aqui) [COLOR white] 21:00h UEFA Champions League. Atlético Madrid vs Liverpool CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 21:00h UEFA Champions League. Atlético Madrid vs Liverpool CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 6(Aqui) [COLOR white] 21:00h UEFA Champions League. Shakhtar Donetsk vs Real Madrid CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 21:00h UEFA Champions League. Shakhtar Donetsk vs Real Madrid CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://77.247.109.180:1935/stream1/13/chunklist_w981083074.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 7(Aqui) [COLOR white] 00:00h Brazil Serie B. Londrina vs Goiás CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 00:00h Brazil Serie B. Londrina vs Goiás CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -268,6 +275,13 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
+"name": "CanalFavorito(Aqui) [COLOR white] BTSPORT 1 CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://cdn2.cyclingstreams.xyz/hls/P1.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                                                       
 "name": "CanalFavorito(Aqui) [COLOR white] BTSPORT 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
