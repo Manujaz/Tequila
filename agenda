@@ -102,7 +102,7 @@
                             
 "name": "Canal Live 2(Aqui) [COLOR white] 16:30h UEFA Europa League. Spartak Moskva vs Leicester City CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
+                            "url": "https://d8fsn9iygv0ur.cloudfront.net/stream/MTM2NA==/1080p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -345,9 +345,9 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"name": "CanalFavorito (Aqui) [COLOR white] SKY SPORT NFL CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] M.LALIGA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://77.247.109.180:1935/stream1/5/chunklist_w1579662537.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/beinlaliga/32898037.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
