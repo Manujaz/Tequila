@@ -78,8 +78,15 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
                             
-                                                     
+                            
 "name": "Canal Live (Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                                                        
+                                                     
+"name": "Canal Live (Aqui) [COLOR white] CANAL NBA 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://51.222.42.17:8080/TNT/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -471,7 +478,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] SPORT TV 1 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SPORT TV 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -485,14 +492,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] SPORT TV 3 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SPORT TV 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_3_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] SPORT TV 4 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SPORT TV 4 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_4_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -502,13 +509,6 @@
 "noname": "CanalFavorito (Aqui) [COLOR white] SPORT TV 5 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://178.17.167.58/02_SPORTTV_5_720p/chunklist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"name": "CanalFavorito(Aqui) [COLOR white] APEHA TV RUS CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://95-213-224-181.livesports24.online/rumatch.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -583,14 +583,14 @@
                             "embed": "SOL M.*?sica">'.
  
  
-"name": "Canal 7(Aqui) [COLOR white] SPORTS TV 3 BRA CristalAzul",
+"noname": "Canal 7(Aqui) [COLOR white] SPORTS TV 3 BRA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://107.152.43.155:80/live/1020304050/stfforever10/771177.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
  
  
-"name": "Canal 8(Aqui) [COLOR white] BEINSPORTS-XTRA CristalAzul",
+"noname": "Canal 8(Aqui) [COLOR white] BEINSPORTS-XTRA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -601,15 +601,15 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://176.222.164.73/btv/SWM/M1/M1_1080p_5000kbps.m3u8
- 
-                                                                                                                                                                    
-"name": "Canal 10(Aqui) [COLOR white] PAG 12 NETWORKS CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-
+                            
+                            
+"name": "Canal 10(Aqui) [COLOR white] APEHA TV RUS CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://95-213-224-181.livesports24.online/rumatch.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                                                                                                                                                                                                 
  
 "name": "Canal 11(Aqui)[COLOR white] QAZ-SPORT CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
@@ -632,7 +632,7 @@
                             "embed": "SOL M.*?sica">'.  
  
  
-"name": "Canal 14(Aqui) [COLOR white] BEINSPORTS XTRA CristalAzul",
+"noname": "Canal 14(Aqui) [COLOR white] BEINSPORTS XTRA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
