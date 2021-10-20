@@ -181,7 +181,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                              
+                            "embed": "SOL M.*?sica">'. https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8                             
                                                                                                                
                                                                                                                                                                                                                                                                                                                     
 "noname": "Canal Live 7(Aqui) [COLOR white]  CristalAzul",
@@ -193,7 +193,7 @@
                             
 "noname": "Canal Live 8(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -900,19 +900,19 @@
 
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.157.62.180/ArenaSport4/tracks-v1a1/mono.m3u8"',
+                            "url": "http://93.157.62.180/ArenaSport2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
                             
                                                                                     
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.152.174.144:4000/play/beinlaliga/32898037.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://31.220.41.88:8081/live/pt-sporttv4.stream/playlist.m3u8
                             
                                                         
-"name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
+"noname": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://betsson-live.akamaized.net:443/hls/live/2006646/WinSports_8253634/../../2006646/WinSports_8253634/WinSports_8253634/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
