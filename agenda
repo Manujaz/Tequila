@@ -67,16 +67,15 @@
                             
 "name": "Canal Live (Aqui) [COLOR white] CANAL NBA 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8"',
+                            "url": "http://51.222.42.17:8080/TNT/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://d1l6ukdiijnb7u.cloudfront.net/hls/nbatv_1080p30.m3u8
+                            "embed": "SOL M.*?sica">'.
 
-
-"name": "Canal Live (Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
+"noname": "Canal Live (Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "noname": "Canal Live (Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
@@ -86,9 +85,9 @@
                             "embed": "SOL M.*?sica">'.                            
                                                         
                                                      
-"name": "Canal Live (Aqui) [COLOR white] CANAL NBA 4 CristalAzul",
+"noname": "Canal Live (Aqui) [COLOR white] CANAL NBA 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://51.222.42.17:8080/TNT/tracks-v1a1/mono.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -184,7 +183,7 @@
                             "embed": "SOL M.*?sica">'.                              
                                                                                                                
                                                                                                                                                                                                                                                                                                                     
-"name": "Canal Live 7(Aqui) [COLOR white] 02:08h MLB. Los Angeles Dodgers vs Atlanta Braves CristalAzul",
+"noname": "Canal Live 7(Aqui) [COLOR white] 02:08h MLB. Los Angeles Dodgers vs Atlanta Braves CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
