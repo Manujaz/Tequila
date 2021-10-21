@@ -88,7 +88,7 @@
                                                      
 "name": "Canal Live (Aqui) [COLOR white] CANAL NBA 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
+                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                                                                            
@@ -191,7 +191,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 15(Aqui) [COLOR white] 02:00h Women's Friendly. USA vs Korea Republic CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 01:00 NHL. Ottawa Senators vs San Jose Sharks CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
+                            
+                            
+"name": "Canal Live 16(Aqui) [COLOR white] 02:00h Women's Friendly. USA vs Korea Republic CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://stream2.grandma.fit/espn2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -210,14 +217,7 @@
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8                           
-                                                        
-                                                       
-"noname": "Canal Live 17(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
+                                                                                                                                           
                             
 "noname": "Canal Live 18(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
