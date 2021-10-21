@@ -233,9 +233,9 @@
                             "embed": "SOL M.*?sica">'.
                             
                                                         
-"noname": "Canal Live 15(Aqui) [COLOR white]  CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] ESPN 2 SUR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
+                            "url": "http://198.255.22.210:8081/ssl/esp_2_sur_8455465/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                          
                                                                                                               
