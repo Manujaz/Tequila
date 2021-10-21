@@ -225,7 +225,14 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                                                        
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] HARLEY-DAVISON-TV CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                                                                                    
 "name": "CanalFavorito(Aqui) [COLOR white] ESPN 2 SUR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://198.255.22.210:8081/ssl/esp_2_sur_8455465/chunks.m3u8"',
@@ -650,7 +657,7 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://hdtv.prod2.ioio.tv/broker/manifests/de245a96-516c-413d-81e9-419c05bbc6a7/1080/4423680.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
                                                                                                              
 
 "name": "Canal 31(Aqui) [COLOR white] SKY-SPORTS F1 CristalAzul",
