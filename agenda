@@ -359,9 +359,13 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
+"name": "CanalFavorito(Aqui) [COLOR white] BTSPORT 1 CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                          
                          
-                            
-                                                                                                                
+                                                                                                                                           
 "name": "CanalFavorito(Aqui) [COLOR white] HARLEY-DAVISON-TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8"',
