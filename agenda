@@ -282,28 +282,28 @@
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                        
                             
-"noname": "Canal Live 10(Aqui) [COLOR white] 19:00h Liga Sacyr ASOBAL. Barça BM vs Bada Huesca CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 13:00h Segunda División. UMA Antequera vs Noia Portus Apostoli FS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000.m3u8"',
+                            "url": "https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 11(Aqui) [COLOR white] 20:00h France Ligue 1. Saint-Étienne vs Angers SCO CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 15:10h 1ª Autonómica Juvenil. Nuevo Boadilla Real Madrid Academy Real Madrid Ac CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8"',
+                            "url": "http://185.41.244.69/realmadridtvhd/tracks-v3a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"noname": "Canal Live 12(Aqui) [COLOR white] 20:30h LaLiga SmartBank. Málaga vs Lugo CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 16:00h LNFS. Industrias Santa Coloma vs Barça FS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8"',
+                            "url": "http://185.41.244.69/barcelonatv/tracks-v2a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 13(Aqui) [COLOR white] 20:45h Brazilian Under-20 Football Championship. Atlético-Mg vs Botafogo CristalAzul",
+"noname": "Canal Live 13(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -865,9 +865,9 @@
 
 "name": "Canal 40(Aqui) [COLOR white] BARÇA TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://91.126.138.141:1935/live/barza/chunklist_w1270912450.m3u8"',
+                            "url": "http://185.41.244.69/barcelonatv/tracks-v2a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://91.126.138.141:1935/live/barza/chunklist_w1270912450.m3u8
 
 
 "name": "Canal 41(Aqui) [COLOR white] SPORT3 CAT CristalAzul",
