@@ -240,30 +240,30 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "Canal Live 4(Aqui) [COLOR white] 16:00h LNFS.Industrias Santa Coloma vs Barça FS CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] G.P. MotoGp Emilia Romagna (Misano) -> Libres 3 On Board 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8"',
+                            "url": "https://dornatoken.secure.footprint.net/token=nva=1635000415~dirs=2~ip=182.253.48.207~data=xnQ2NeCBNmXhXldMIl7htF7%252BxmsZ2P2AWnopA1BJayKnrQ%252FaKMku87sDH8e%252FVW4w~token=060b377ea7e2de7e46644/hls/ob1/2.m3u8?start=0&"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 5(Aqui) [COLOR white] 18:00h Fórmula 1 G.P. Estados Unidos (Austin) Practicas CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] G.P. MotoGp Emilia Romagna (Misano) -> Libres 3 On Board 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
+                            "url": "https://dornatoken.secure.footprint.net/token=nva=1635000415~dirs=2~ip=182.253.48.207~data=xnQ2NeCBNmXhXldMIl7htF7%252BxmsZ2P2AWnopA1BJayKnrQ%252FaKMku87sDH8e%252FVW4w~token=0f7e9492669f9f320d2bd/hls/ob2/2.m3u8?start=0&"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 6(Aqui) [COLOR white] 18:00h Fórmula 1 G.P. Estados Unidos (Austin) Practicas CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] G.P. MotoGp Emilia Romagna (Misano) -> Libres 3 On Board 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://lon-haproxy.angelthump.com/hls/spf1general_src/index.m3u8"',
+                            "url": "https://dornatoken.secure.footprint.net/token=nva=1635000415~dirs=2~ip=182.253.48.207~data=xnQ2NeCBNmXhXldMIl7htF7%252BxmsZ2P2AWnopA1BJayKnrQ%252FaKMku87sDH8e%252FVW4w~token=00e8bf8e452220ef77e8f/hls/ob3/2.m3u8?start=0&"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 7(Aqui) [COLOR white] 18:00h Croatia 1. HNL. Šibenik vs Slaven Koprivnica CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] G.P. MotoGp Emilia Romagna (Misano) -> Libres 3 On Board 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8"',
+                            "url": "https://dornatoken.secure.footprint.net/token=nva=1635000415~dirs=2~ip=182.253.48.207~data=xnQ2NeCBNmXhXldMIl7htF7%252BxmsZ2P2AWnopA1BJayKnrQ%252FaKMku87sDH8e%252FVW4w~token=05a545fdbe386f8ffddb9/hls/ob4/2.m3u8?start=0&"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -317,21 +317,21 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"name": "Canal Live 4(Aqui) [COLOR white] 23:00h Fórmula 1 G.P. Estados Unidos (Austin) Clasificación CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 23:00h Fórmula 1 G.P. Estados Unidos (Austin) Clasificación CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://lon-haproxy.angelthump.com/hls/spf1general_src/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                        
-"name": "Canal Live 5(Aqui) [COLOR white] 23:00h Fórmula 1 G.P. Estados Unidos (Austin) Clasificación CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 23:00h Fórmula 1 G.P. Estados Unidos (Austin) Clasificación CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 6(Aqui) [COLOR white] 23:00h Fórmula 1 G.P. Estados Unidos (Austin) Clasificación CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 23:00h Fórmula 1 G.P. Estados Unidos (Austin) Clasificación CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://stream2.grandma.fit/espn2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
