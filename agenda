@@ -268,9 +268,9 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                     
-"noname": "Canal Live 8(Aqui) [COLOR white] 18:25h Campeonato Mundo Pista. Roubaix 2021 CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 12:00h Córdoba Open. Semifinal Masculina World Padel Tour CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
+                            "url": "http://185.41.244.69/goltv/tracks-v1a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -599,7 +599,7 @@
 
 "name": "Canal 2(Aqui) [COLOR white] GOLTV ESP CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8"',
+                            "url": "http://185.41.244.69/goltv/tracks-v1a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
