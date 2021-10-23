@@ -275,9 +275,9 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 9(Aqui) [COLOR white] 18:30h Italy Serie A. Torino vs Genoa CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 12:30h Real Madrid Academy vs Rayo Ciudad Alcobendas CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8"',
+                            "url": "http://185.41.244.69/realmadridtvhd/tracks-v3a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                        
@@ -809,7 +809,7 @@
 
 "name": "Canal 32(Aqui) [COLOR white] REALMADRID TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8"',
+                            "url": "http://185.41.244.69/realmadridtvhd/tracks-v3a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
