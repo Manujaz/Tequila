@@ -25,7 +25,7 @@
  
 "name": "Canal Live (Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://uk.gcdn.co/DEP275184/tracks-v1a1/mono.m3u8"',
+                            "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -41,7 +41,7 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://stream2.grandma.fit/acc.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
+                            "embed": "SOL M.*?sica">'.
 
 
 "name": "Canal Live (Aqui) [COLOR white] CANAL TENIS 4 CristalAzul",
@@ -275,21 +275,21 @@
                             "embed": "SOL M.*?sica">'.https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8
                             
                             
-"noname": "Canal live 38(Aqui) [COLOR white]  CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT Ñ CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
+                            "url": "https://uk.gcdn.co/DEP88420/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8                            
                             
                             
-"noname": "Canal live 39(Aqui) [COLOR white]  CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8"',
+                            "url": "https://uk.gcdn.co/DEP88420/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] M.DEPORTES CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] M.LIGACAMPEONES CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://uk.gcdn.co/DEP275184/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
