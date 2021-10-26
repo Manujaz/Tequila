@@ -146,24 +146,38 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://pc-la7delarioja-hls.flumotion.com/promecal/live3_720p/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.
                             
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-"name": "Canal Live 9(Aqui) [COLOR white] 21:00h La Liga. Espanyol vs Athletic Club CristalAzul",
+                            
+"name": "Canal Live 9(Aqui) [COLOR white] 20:45h England League Cup. Chelsea vs Southampton CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 10(Aqui) [COLOR white] 20:45h Italy Serie A. Milan vs Torino CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://cdn2.cyclingstreams.xyz/hls/P1.m3u8                            
+                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+"name": "Canal Live 11(Aqui) [COLOR white] 21:00h La Liga. Espanyol vs Athletic Club CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.41.244.69/goltv/tracks-v1a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live 10(Aqui) [COLOR white] 21:00h Eurocup. Joventut Badalona vs Hamburg Towers CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 21:00h Eurocup. Joventut Badalona vs Hamburg Towers CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://93.152.174.144:4000/play/btsport1/index.m3u8
                             
                             
-"name": "Canal Live 11(Aqui) [COLOR white] 21:30h La Liga. Villarreal vs Cádiz CF CristalAzul",
+"name": "Canal Live 13(Aqui) [COLOR white] 21:30h La Liga. Villarreal vs Cádiz CF CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/beinlaliga/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -173,18 +187,10 @@
                              
                                                         
                                                                                                                                                                                                                                                                                                                                                                              
-"name": "Canal Live 22(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+
                                                                                                                
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"noname": "Canal Live 23(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://cdn2.cyclingstreams.xyz/hls/P1.m3u8
+
                                                                                                                                             
                             
 "noname": "Canal Live 24(Aqui) [COLOR white]  CristalAzul",
