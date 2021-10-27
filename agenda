@@ -25,18 +25,18 @@
  
 "name": "Canal Live (Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
+                            "url": "https://uk.gcdn.co/DEP275183/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
 "name": "Canal Live (Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://playoutengine-v2.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/g.m3u8"',
+                            "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://playoutengine-v2.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
                          
-
+https://playoutengine-v2.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/g.m3u8
 "name": "Canal Live (Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://stream2.grandma.fit/acc.m3u8"',
@@ -240,9 +240,9 @@
                             "embed": "SOL M.*?sica">'.http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8                           
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] CHAMPIONS TV CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] M.DEPORTES CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://uk.gcdn.co:443/DEP275184/tracks-v1a1/mono.m3u8"',
+                            "url": "https://uk.gcdn.co/DEP275183/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -265,9 +265,16 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://uk.gcdn.co/DEP20102/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8                           
+                            "embed": "SOL M.*?sica">'.https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8 
                             
                             
+"name": "CanalFavorito(Aqui) [COLOR white] ESPN 3 USA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://uk.gcdn.co/DEP20103/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8                            
+                            
+                                                       
 "name": "CanalFavorito(Aqui) [COLOR white] SUPERSPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/epl17/tracks-v1a1/mono.m3u8"',
