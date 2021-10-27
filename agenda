@@ -226,7 +226,7 @@ https://playoutengine-v2.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal live 30(Aqui) [COLOR white] NBC GOLF ESP CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] NBC GOLF ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://uk.gcdn.co/DEP275185/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -294,15 +294,8 @@ https://playoutengine-v2.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c
                             "url": "https://uk.gcdn.co/DEP87460/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
-                            
-                                                        
-"name": "CanalFavorito(Aqui) [COLOR white] DIRECT SPORT CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://uk.gcdn.co:443/DEP20106/tracks-v1a1/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                         
-                            
-                                                                                                                                                                     
+                                                                                                          
+                                                                                                                                                                                                
 "name": "CanalFavorito(Aqui) [COLOR white] BTSPORT 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
