@@ -93,91 +93,91 @@ https://playoutengine-v2.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c
                             "embed": "SOL M.*?sica">'.
                             
                             
- "name": "Canal Live 1(Aqui) [COLOR white] 15:30h Futsal Champions League. Levante UD FS vs Barça FS CristalAzul",
+"name": "Canal Live 1(Aqui) [COLOR white] 18:00h Eurocopa Femenina. Sorteo Fase Final CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.41.244.69/barcelonatv/tracks-v2a1/mono.m3u8"',
+                            "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
+                            "embed": "SOL M.*?sica">'. http://185.41.244.69/barcelonatv/tracks-v2a1/mono.m3u8                          
                             
                                                        
-"name": "Canal live 2(Aqui) [COLOR white] 17:00h Euroliga Femenina. Dynamo Kursk vs Spar Girona CristalAzul",
+"name": "Canal live 2(Aqui) [COLOR white] 20:45h EHF Champions League. Porto HB vs Barça BM CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8
                             
                             
-"name": "Canal Live 3(Aqui) [COLOR white] 18:30 Italy Serie A. Juventus vs Sassuolo CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 20:45h Serie A Italiana. Napoli vs Bologna CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
                            
                                                         
-"name": "Canal Live 4(Aqui) [COLOR white] 18:30 Italy Serie A. Juventus vs Sassuolo CristalAzul",
+"noname": "Canal Live 4(Aqui) [COLOR white] 21:30h La Liga. Levante vs At. Madrid CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": " https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/index_1.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 5(Aqui) [COLOR white] 18:30h Italy Serie A. Sampdoria vs Atalanta CristalAzul",
+"noname": "Canal Live 5(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 6(Aqui) [COLOR white] 18:30h Italy Serie A. Udinese vs Hellas Verona CristalAzul",
+"noname": "Canal Live 6(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                         
                                                         
-"name": "Canal Live 7(Aqui) [COLOR white] 19:00h La Liga. Mallorca vs Sevilla CristalAzul",
+"noname": "Canal Live 7(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 8(Aqui) [COLOR white] 19:00h La Liga. Rayo Vallecano vs FC Barcelona CristalAzul",
+"noname": "Canal Live 8(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://uk.gcdn.co/DEP87460/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
                             
-"name": "Canal Live 9(Aqui) [COLOR white] 20:30h FIBA Europe Cup. Reggio Emilia vs Casademont Zaragoza CristalAzul",
+"noname": "Canal Live 9(Aqui) [COLOR white] 20:30h FIBA Europe Cup. Reggio Emilia vs Casademont Zaragoza CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8                            
                                                                                                                                                                                                                                                                                 
                                                                                                                                                                      
-"name": "Canal Live 10(Aqui) [COLOR white] 20:45h Italy Serie A. Empoli vs Internazionale CristalAzul",
+"noname": "Canal Live 10(Aqui) [COLOR white] 20:45h Italy Serie A. Empoli vs Internazionale CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/epl17/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.  http://93.152.174.144:4000/play/beinlaliga/index.m3u8                            
                             
                                                                                                                                                                        
-"name": "Canal Live 11(Aqui) [COLOR white] 21:30h Spain La Liga. Real Madrid vs Osasuna CristalAzul",
+"noname": "Canal Live 11(Aqui) [COLOR white] 21:30h Spain La Liga. Real Madrid vs Osasuna CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ".https://uk.gcdn.co/DEP20102/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'                                                        
                             
                             
-"name": "Canal Live 12(Aqui) [COLOR white] 21:30h Spain La Liga. Real Madrid vs Osasuna  CristalAzul",
+"noname": "Canal Live 12(Aqui) [COLOR white] 21:30h Spain La Liga. Real Madrid vs Osasuna  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://cdn2.cyclingstreams.xyz/hls/P1.m3u8
                                                                                                                
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"name": "Canal Live 13(Aqui) [COLOR white] 23:00h Professional Fighters League. Kayla Harrison vs Taylor Guardado CristalAzul",
+"noname": "Canal Live 13(Aqui) [COLOR white] 23:00h Professional Fighters League. Kayla Harrison vs Taylor Guardado CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
