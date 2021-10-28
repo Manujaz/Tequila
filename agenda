@@ -79,7 +79,7 @@ https://playoutengine-v2.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live (Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
+"noname": "Canal Live (Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
