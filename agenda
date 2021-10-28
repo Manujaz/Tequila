@@ -135,21 +135,28 @@ https://playoutengine-v2.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c
                             "embed": "SOL M.*?sica">'.https://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8                            
                            
                                                         
-"name": "Canal Live 7(Aqui) [COLOR white] 21:30h La Liga. Levante vs At. Madrid CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 21:30h ESP La Liga. Levante vs At. Madrid CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://uk.gcdn.co/DEP87460/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 8(Aqui) [COLOR white] 21:30h BRA La Liga. Levante vs At. Madrid CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://uk.gcdn.co/BR26286/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
                                                                                                                
                                                                                                                                            
-"name": "Canal Live 8(Aqui) [COLOR white] 02:20 NFL. Green Bay Packers vs Arizona Cardinals  CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 02:20 NFL. Green Bay Packers vs Arizona Cardinals  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 8(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 10(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://uk.gcdn.co/DEP87460/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -219,9 +226,9 @@ https://playoutengine-v2.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c
                             "embed": "SOL M.*?sica">'.
                                                                                                                                                                                                                                                                                   
                             
-"noname": "Canal Live 15(Aqui) [COLOR white]  CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] FREE SPORTS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.41.244.69/goltv/tracks-v1a1a2/mono.m3u8"',
+                            "url": "https://uk.gcdn.co/BR26286/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                                                         
