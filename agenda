@@ -174,24 +174,31 @@ https://playoutengine-v2.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://uk.gcdn.co/DEP87460/index.m3u8                                                        
+                            "embed": "SOL M.*?sica">'.https://uk.gcdn.co/DEP87460/index.m3u8 
                             
                             
-"name": "Canal Live 10(Aqui) [COLOR white] 01:00 NHRA. Drag Racing Dodge Nationals Qualifying CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 22:00h ESP 24h LeMans FIA World Endurance Championship CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv/chunklist_w2013514111_b3128000_sling.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 11(Aqui) [COLOR white] 22:00h ENG 24h LeMans FIA World Endurance Championship CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/89.chunklist_w27818905378.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
+                                                       
+                                                        
+"name": "Canal Live 12(Aqui) [COLOR white] 01:00 NHRA. Drag Racing Dodge Nationals Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
-                            
-                                                                                                                                                                                                                                                          
-"noname": "Canal Live 11(Aqui) [COLOR white] 22:00h FIA World Endurance Championship. 24h de Le Mans CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                       
                                                         
-"noname": "Canal Live 12(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 13(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
