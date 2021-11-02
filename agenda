@@ -137,9 +137,9 @@ https://playoutengine-v2.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c
                             
 "name": "Canal Live 7(Aqui) [COLOR white] 19:00h LaLiga SmartBank. Ponferradina vs Huesca CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/beinlaliga/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
+                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/beinlaliga/index.m3u8                           
                                                                                                                 
                                                         
 "name": "Canal Live 8(Aqui) [COLOR white] 20:30h Eurocup. BC Partizan Beograd vs Joventut Badalona CristalAzul",
