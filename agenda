@@ -394,20 +394,34 @@ https://playoutengine-v2.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c
                             "embed": "SOL M.*?sica">'.https://178.17.167.58:443/02_BTSPORTHD_1_720p/chunklist.m3u8                            
                                                                                    
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] SUPERSPORT 2 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SUPER SPORT 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                         
-"noname": "CanalFavorito(Aqui) [COLOR white] M.LALIGA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SUPERSPORT 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-                                                                                                          
-                                                                                                                                                                                                
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+ "name": "CanalFavorito(Aqui) [COLOR white] SUPERSPORT 3 CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+ "name": "CanalFavorito(Aqui) [COLOR white] SUPERSPORT 4 CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                                                                                                                                                                                                                                                                                                                                     
 "name": "CanalFavorito(Aqui) [COLOR white] BTSPORT 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
@@ -1017,9 +1031,9 @@ https://playoutengine-v2.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c
                             "embed": "SOL M.*?sica">'.
                             
                                                                                     
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://45.141.156.27:3333/sunshine/ne5b5dpSwFIYgj8oQpxksybh1DO5h7VJUEjNySRmfBkcKw55j732Fk1YUY-pud8F_mOQLOG9_uOAocXFshcS8vgZjnSx0w8ZlzrHnuiYOFOym3rJXyWC3qzzb7TT-dTTC4fws2T04uvRO4eMKnGqyOiYWTkWQ0BnZ-Mw5ZkCtBckTFtx7BUoTEJY5cUdP30S/v.m3u8"',
+                            "url": "http://212.83.182.155:8080/live/ADCVMKNBDSA/xNuC7mgXVe/7428.chunklist_w894316004.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
