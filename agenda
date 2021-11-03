@@ -144,54 +144,61 @@ https://playoutengine-v2.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c
                                                                                                                                                                                                  
 "name": "Canal live 8(Aqui) [COLOR white] 18:45h Champions League. Real Madrid vs Shakhtar Donetsk CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
                             
+                            
+"name": "Canal live 9(Aqui) [COLOR white] 18:45h Champions League. Real Madrid vs Shakhtar Donetsk CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                                                        
                                                                                     
-"name": "Canal Live 9(Aqui) [COLOR white] 18:45h Champions League. AC Milan vs FC Porto CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 18:45h Champions League. AC Milan vs FC Porto CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/beinlaliga/index.m3u8                           
                                                                                                                 
                                                         
-"name": "Canal Live 10(Aqui) [COLOR white] 19:00h LaLiga SmartBank. Mirandés vs Lugo CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 19:00h LaLiga SmartBank. Mirandés vs Lugo CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 11(Aqui) [COLOR white] 20:15h Euroliga Femenina. Spar Girona vs Galatasaray Istanbul CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 20:15h Euroliga Femenina. Spar Girona vs Galatasaray Istanbul CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                             
                                                         
-"name": "Canal Live 12(Aqui) [COLOR white] 21:00h UEFA Champions League. RB Leipzig vs PSG CristalAzul",
+"name": "Canal Live 13(Aqui) [COLOR white] 21:00h UEFA Champions League. RB Leipzig vs PSG CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live 13(Aqui) [COLOR white] 21:00h UEFA Champions LeagueSheriff vs Internazionale CristalAzul",
+"name": "Canal Live 14(Aqui) [COLOR white] 21:00h UEFA Champions LeagueSheriff vs Internazionale CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                                                                              
                                                                                                                 
-"name": "Canal Live 14(Aqui) [COLOR white] 21:15h LaLiga SmartBank. Eibar vs Real Oviedo CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 21:15h LaLiga SmartBank. Eibar vs Real Oviedo CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/beinlaliga/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"name": "Canal Live 15(Aqui) [COLOR white] 01:09h MLB. Atlanta Braves vs Houston Astros CristalAzul",
+"name": "Canal Live 16(Aqui) [COLOR white] 01:09h MLB. Atlanta Braves vs Houston Astros CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
