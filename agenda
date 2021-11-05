@@ -82,9 +82,9 @@
                             
 "name": "Canal Live (Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://cdn2.cyclingstreams.xyz/hls/P1.m3u8"',
+                            "url": "http://sp236.azureedge.net/hls/heat/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
+                            "embed": "SOL M.*?sica">'.http://cdn2.cyclingstreams.xyz/hls/P1.m3u8                           
                                                         
                                                      
 "name": "Canal Live (Aqui) [COLOR white] CANAL NBA 4 CristalAzul",
@@ -94,14 +94,14 @@
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live (Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
+"noname": "Canal Live (Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ent.gcdn.co/S29/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live (Aqui) [COLOR white] CANAL NBA 6 CristalAzul",
+"noname": "Canal Live (Aqui) [COLOR white] CANAL NBA 6 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://dxla3.gcdn.co/BR23/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
