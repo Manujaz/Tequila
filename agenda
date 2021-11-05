@@ -96,7 +96,7 @@
                             
 "name": "Canal Live (Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://77.247.109.92/hls/n4.m3u8"',
+                            "url": "https://38q.gcdn.co/FR135/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -148,8 +148,8 @@
                             "url": "http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                            
-                            
+                                                                                                                
+                                                        
 "name": "Canal Live 7(Aqui) [COLOR white] 19:15h Under-20 Football Championship. Flamengo vs São Paulo CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://dxla3.gcdn.co/BR22/tracks-v1a1/mono.m3u8"',
@@ -217,40 +217,37 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ent.gcdn.co/S23/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 17(Aqui) [COLOR white] 00:30 NCAA FBS. Boston College vs Virginia Tech CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://ent.gcdn.co/S21/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
-                                                        
-"name": "Canal Live 17(Aqui) [COLOR white] 01:00h WWE. Friday Night SmackDown Live CristalAzul",
+                                                                                    
+"name": "Canal Live 18(Aqui) [COLOR white] 01:00h WWE. Friday Night SmackDown Live CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://5.182.229.75:8080/2505/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.01:00 WWE Friday Night SmackDown Live
                             
-                                                                                    
-
-                            
-                            
-"noname": "Canal Live 15(Aqui) [COLOR white]  CristalAzul",
+                                                                                                                                                                                                    
+"name": "Canal Live 19(Aqui) [COLOR white] 02:45h CFL. Edmonton Eskimos vs Saskatchewan Roughriders CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://ent.gcdn.co/S22/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 15(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 20(Aqui) [COLOR white] 01:00h Senior Women’s rugby. USA vs. Canada CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://ent.gcdn.co/S21/tracks-v1a1/mono.m3u"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.                           
                             
-                            
-"noname": "Canal Live 15(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                                                                                                               
-                            
+                                                                                                                                                                                                   
 "name": "CanalFavorito(Aqui) [COLOR white] TSN 1 SPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ent.gcdn.co/S20/tracks-v1a1/mono.m3u8"',
