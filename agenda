@@ -243,33 +243,40 @@
                             
 "name": "Canal Live 19(Aqui) [COLOR white] 16:15h La Liga. Celta vs FC Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dxla3.gcdn.co/BR22/tracks-v1a1/mono.m3u8"',
+                            "url": "https://ent.gcdn.co/S21/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
 "name": "Canal Live 20(Aqui) [COLOR white] 16:15h La Liga. Celta vs FC Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://ent.gcdn.co/S23/tracks-v1a1/mono.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 21(Aqui) [COLOR white] 18:00h Serie A Italiana. Juventus vs Fiorentina CristalAzul",
+"name": "Canal Live 21(Aqui) [COLOR white] 16:15h La Liga. Celta vs FC Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 22(Aqui) [COLOR white] 18:00h Serie A Italiana. Juventus vs Fiorentina CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://38q.gcdn.co/FR136/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                     
-"name": "Canal Live 22(Aqui) [COLOR white] 18:15h LaLiga SmartBank. Real Valladolid vs Mirandés CristalAzul",
+"name": "Canal Live 23(Aqui) [COLOR white] 18:15h LaLiga SmartBank. Real Valladolid vs Mirandés CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.01:00 WWE Friday Night SmackDown Live
                             
                                                                                                                                                                                                     
-"name": "Canal Live 23(Aqui) [COLOR white] 18:15h LaLiga SmartBank. Real Oviedo vs Las Palmas CristalAzul",
+"name": "Canal Live 24(Aqui) [COLOR white] 18:15h LaLiga SmartBank. Real Oviedo vs Las Palmas CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -292,7 +299,7 @@
                             
 "name": "Canal Live 26(Aqui) [COLOR white] 18:30h Bundesliga. RB Leipzig vs Borussia Dortmund CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://38q.gcdn.co/FR135/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                         
