@@ -138,21 +138,21 @@
                                                         
 "name": "Canal Live 5(Aqui) [COLOR white] Camara 1 MotoGP Gran Premio del Algarve 2021 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
 "name": "Canal Live 6(Aqui) [COLOR white] Camara 2 MotoGP Gran Premio del Algarve 2021 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
 "name": "Canal Live 7(Aqui) [COLOR white] Camara 3 MotoGP Gran Premio del Algarve 2021 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -529,21 +529,21 @@
                             "embed": "SOL M.*?sica">'.                           
                                                         
                                                         
-"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS 1 FRA CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS 1 FRA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://38q.gcdn.co/FR135/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS 2 FRA CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS 2 FRA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://38q.gcdn.co/FR136/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS 3 FRA CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS 3 FRA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://38q.gcdn.co/FR137/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
