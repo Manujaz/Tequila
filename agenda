@@ -159,7 +159,7 @@
                             
 "name": "Canal Live 5(Aqui) [COLOR white] Formula 1 Gran Premio de la Ciudad de México CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8"',
+                            "url": "http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -190,6 +190,7 @@
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
+                                                     
                                                         
                             
 "name": "Canal Live 10(Aqui) [COLOR white] 12:00h Primera Division Femenina. Real Madrid vs. Rayo Vallecano CristalAzul",
@@ -229,7 +230,7 @@
                             
 "name": "Canal Live 15(Aqui) [COLOR white] 16:15h La Liga. Celta vs FC Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://s9ci8xv6uplmyhayfg2kto.liga.newnow.me:25461/live/bKorYYQgqi/611131115111/3849.chunklist_w644323776.m3u8"',
+                            "url": "https://centurylink.br.cdn.booyah.live/hls/1000007/94372161.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
