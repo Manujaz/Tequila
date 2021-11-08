@@ -101,11 +101,18 @@
                             "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S22/tracks-v1a1/mono.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] TUDN MEX CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] TUDN DEPORTES MEX CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ent.gcdn.co/S59/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S8/tracks-v1a1/mono.m3u8
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] FOX DEPORTES MEX CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://ent.gcdn.co/S8/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 "name": "CanalFavorito(Aqui) [COLOR white] MAT TV MOTORSPORT 1 CristalAzul",
@@ -490,9 +497,43 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://stream2.grandma.fit/fs2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN USA CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://stream2.grandma.fit/fs2.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
                             
                             
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 USA CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://ent.gcdn.co/S2/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN 3 USA CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://ent.gcdn.co/S3/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+ "name": "CanalFavorito (Aqui) [COLOR white] ESPN U USA CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://ent.gcdn.co/S4/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S7/tracks-v1a1/mono.m3u8
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 2 USA CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://ent.gcdn.co/S7/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                                                        
 "name": "CanalFavorito (Aqui) [COLOR white] NFL NETWORK USA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://ent.gcdn.co/S27/tracks-v1a1/mono.m3u8"',
