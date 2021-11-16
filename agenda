@@ -75,21 +75,21 @@
 
 "name": "Canal Live (Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dxla3.gcdn.co/BR24/tracks-v1a1/mono.m3u8"',
+                            "url": "http://g.givemereddit.stream/hls/ch4_480p/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                                                                                                                                            
                                                      
 "name": "Canal Live (Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://whistle-1-us.sinclair.wurl.tv/3000.m3u8"',
+                            "url": "http://g.givemereddit.stream/hls/ch6_480p/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.https://whistle-1-us.sinclair.wurl.tv/3000.m3u8 
                             
                             
 "noname": "Canal Live (Aqui) [COLOR white] CANAL NBA 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://ent.gcdn.co/S29/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                         
@@ -200,7 +200,7 @@
                             "embed": "SOL M.*?sica">'. https://lon-haproxy.angelthump.com/hls/spf1general/index.m3u8
                             
                             
-"name": "Canal Live 15(Aqui) [COLOR white] 01:00h NBA. Washington Wizards vs New Orleans Pelicans CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 01:00h http://g.givemereddit.stream/hls/ch6_480p/playlist.m3u8. Washington Wizards vs New Orleans Pelicans CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ent.gcdn.co/S23/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -249,14 +249,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 22(Aqui) [COLOR white] 04:00h NBA. Portland Trail Blazers vs Toronto Raptors CristalAzul",
+"noname": "Canal Live 22(Aqui) [COLOR white] 04:00h NBA. Portland Trail Blazers vs Toronto Raptors CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ent.gcdn.co/S23/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
                                                         
-"name": "Canal Live 23(Aqui) [COLOR white] 04:30h Brazil Serie B. Remo vs Goiás CristalAzul",
+"name": "Canal Live 22(Aqui) [COLOR white] 04:30h Brazil Serie B. Remo vs Goiás CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://dxla3.gcdn.co/BR22/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
