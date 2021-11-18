@@ -87,14 +87,14 @@
                             "embed": "SOL M.*?sica">'.https://whistle-1-us.sinclair.wurl.tv/3000.m3u8 
                             
                             
-"noname": "Canal Live (Aqui) [COLOR white] CANAL NFL 1 CristalAzul",
+"name": "Canal Live (Aqui) [COLOR white] CANAL NFL 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://ent.gcdn.co/S2/tracks-v1a1/mono.m3u8"',
+                            "url": "https://ent.gcdn.co/S31/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S27/tracks-v1a1/mono.m3u8
                                                         
                                                                                                                                         
-"noname": "Canal Live (Aqui) [COLOR white] CANAL NFL 2 CristalAzul",
+"name": "Canal Live (Aqui) [COLOR white] CANAL NFL 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ent.gcdn.co/S27/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -485,21 +485,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://ppv.gcdn.co/DZ2/tracks-v1a1/mono.m3u8                            
                             
-                                                        
-"name": "CanalFavorito(Aqui) [COLOR white] ESPN 2 SUR CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://38q.gcdn.co/LA80/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
-                                                        
-"noname": "CanalFavorito(Aqui) [COLOR white] ESPN 3 SUR CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://38q.gcdn.co/LA79/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-                            
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 "name": "CanalFavorito(Aqui) [COLOR white] MAT TV MOTORSPORT 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ent.gcdn.co/S55/tracks-v1a1/mono.m3u8"',
@@ -1456,14 +1442,14 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://dxla1.gcdn.co/ES95/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES155/tracks-v1a1/mono.m3u8?TELE5
+                            "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES155/tracks-v1a1/mono.m3u8
                             
                                                         
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://dxla1.gcdn.co/ES61/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S59/tracks-v1a1/mono.m3u8?TUDN
+                            "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S59/tracks-v1a1/mono.m3u8
                             
                                                         
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
@@ -1491,7 +1477,7 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://dxla1.gcdn.co/ES95/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://dxla1.gcdn.co/ES84/tracks-v1a1/mono.m3u8?movistar
+                            "embed": "SOL M.*?sica">'. https://dxla1.gcdn.co/ES84/tracks-v1a1/mono.m3u8
                             
                                                         
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 7 CristalAzul",
@@ -1505,6 +1491,6 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://mhdtvworld.co.in/red/tvvvx.php?id=2028&e=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://dxla1.gcdn.co/ES18/tracks-v1a1/mono.m3u8?barsatv                           
+                            "embed": "SOL M.*?sica">'. https://dxla1.gcdn.co/ES18/tracks-v1a1/mono.m3u8                          
                             
                             
