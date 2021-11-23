@@ -689,16 +689,23 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"noname": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS 1 PREMIUM ARA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS 1 PREMIUM ARA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://main2.gcdn.co/live1/beinsports8/tracks-v1a1/mono.m3u8"',
+                            "url": "http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS 2 PREMIUM ARA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS 2 PREMIUM ARA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://main2.gcdn.co/live1/beinsports2/tracks-v1a1/mono.m3u8"',
+                            "url": "http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS 3 PREMIUM ARA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                                                         
