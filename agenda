@@ -233,15 +233,24 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                                                                                                                                                                                                                                                                                                                                                                                                       
-"noname": "Canal Live 22(Aqui) [COLOR white]  CristalAzul",
+                            
+ "name": "Canal Live 22(Aqui) [COLOR white] 01:30h River Plate vs Racing CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://stream2.grandma.fit/fs2.m3u8"',
+                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+ "name": "Canal Live 23(Aqui) [COLOR white] 07:00h Asian Tour. Blue Canyon Championship - 2nd Day CristalAzul",
+                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
                             
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-"name": "CanalFavorito(Aqui) [COLOR white] ESTADIO TNTSPORT CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] ESTADIO TNTSPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://nedmedia.akamaized.net/hls/live/2034243/feed1/master_720.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -317,14 +326,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES43/tracks-v1a1/mono.m3u8                            
                             
-                            
-"noname": "CanalFavorito(Aqui) [COLOR white] M.LIGADECAMPEONES CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dxla1.gcdn.co/ES131/tracks-v1a1/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                                                       
+                                                                                                               
 "noname": "CanalFavorito(Aqui) [COLOR white] M.LALIGA 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://dxla1.gcdn.co/ES90/tracks-v1a1/mono.m3u8"',
@@ -472,11 +474,25 @@
                             "embed": "SOL M.*?sica">'.https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8                          
                             
                                                        
-"noname": "CanalFavorito(Aqui) [COLOR white] DAZN 2 USA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] DAZN 2 USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] DAZN 3 USA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://ppv.gcdn.co/DZ3/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] DAZN 4 USA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://ppv.gcdn.co/DZ4/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                             
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] FUBO SPORTS NETWORK CristalAzul",
@@ -1333,9 +1349,9 @@
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES155/tracks-v1a1/mono.m3u8
                             
                                                         
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://dxla1.gcdn.co/ES61/tracks-v1a1/mono.m3u8"',
+                            "url": "https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S59/tracks-v1a1/mono.m3u8
                             
