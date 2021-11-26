@@ -703,23 +703,23 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT 1 USA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT PREMIUM 1 ARA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://eiei.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8"',
+                            "url": "http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT 2 USA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT PREMIUM 2 ARA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://eiei.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8"',
+                            "url": "http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                                                                                                   
-"noname": "CanalFavorito(Aqui) [COLOR white] SUPER SPORT 2 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT PREMIUM 3 ARA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8"',
+                            "url": "http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                                               
@@ -768,9 +768,9 @@
                                                         
 "name": "CanalFavorito(Aqui) [COLOR white] BTSPORT ESPN CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsportespn/index.m3u8"',
+                            "url": "http://45.153.35.204:8000/play/a0a4/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsportespn/index.m3u8
                                                                                                                                                                                                                      
                             
 "name": "CanalFavorito(Aqui) [COLOR white] ELEVEN SPORTS 1 CristalAzul",
