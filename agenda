@@ -187,9 +187,16 @@
                             
 "name": "Canal Live 15(Aqui) [COLOR white] 21:00h Spain La Liga. Real Madrid vs Athletic Club CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://77.247.109.111/hls/T1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'. 
+                            
+                                                        
+"name": "Canal Live 15(Aqui) [COLOR white] 21:00h Spain La Liga. Real Madrid vs Athletic Club CristalAzul",
+                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://wowzaprdww0-lh.akamaihd.net/i/46b67598_1@804580/master.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                             
                             
                             
 "name": "Canal Live 16(Aqui) [COLOR white] 21:15h Leeds United vs Crystal Palace CristalAzul",
