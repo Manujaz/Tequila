@@ -40,7 +40,7 @@
 
 "noname": "Canal Live (Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -460,19 +460,12 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S60/tracks-v1a1/mono.m3u8
                                                                                                                                           
-                                                                                                                                                                                                                                                                                     
-"name": "CanalFavorito(Aqui) [COLOR white] DAZN 2 USA CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8                          
-                            
-                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                  
 "name": "CanalFavorito(Aqui) [COLOR white] DAZN 2 USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] DAZN 3 USA CristalAzul",
