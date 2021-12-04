@@ -87,7 +87,7 @@
                             "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S22/tracks-v1a1/mono.m3u8
                             
                             
-"name": "Canal Live 1(Aqui) [COLOR white] 14:00h Snooker UK Championship. Day 11 Session 1 CristalAzul",
+"name": "Canal Live 1(Aqui) [COLOR white] 14:00h Snooker UK Championship. Day 12 Session 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -105,7 +105,14 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://lon-haproxy.angelthump.com/hls/spf1general/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.
+                            
+                                                        
+ "name": "Canal Live 4(Aqui) [COLOR white] 20:00h Snooker UK Championship. Day 12 Session 1 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
                             
                             
 "noname": "Canal Live 4(Aqui) [COLOR white] 18:00h IHF Mundial Femenino. Francia vs Angola CristalAzul",
