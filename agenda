@@ -85,46 +85,49 @@
                             "url": "https://ent.gcdn.co/S27/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S22/tracks-v1a1/mono.m3u8
-                            
-                            
-"name": "Canal Live 1(Aqui) [COLOR white] 14:00h Snooker UK Championship. Day 12 Session 1 CristalAzul",
+                                                                                    
+                                                        
+"name": "Canal Live 1(Aqui) [COLOR white] 11:10h Torneo Vila de Parets Final Femenina CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
+                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 2(Aqui) [COLOR white] 12:05h Torneo Vila de Parets Final Femenina CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                         
-"name": "Canal Live 2(Aqui) [COLOR white] 18:00h Saudi Arabian F1 Gran Premio -> FP1 CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 12:05h Torneo Vila de Parets Final Femenina CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8"',
+                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live 3(Aqui) [COLOR white] 18:00h Saudi Arabian F1 Gran Premio -> FP1 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://lon-haproxy.angelthump.com/hls/spf1general/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                                                        
- "name": "Canal Live 4(Aqui) [COLOR white] 20:00h Snooker UK Championship. Day 12 Session 1 CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 13:45 Snooker Home Nations Series. Scottish Open Ronda 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "Canal Live 4(Aqui) [COLOR white] 18:00h IHF Mundial Femenino. Francia vs Angola CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 13:55h IHF Mundial Femenino. Francia vs Angola CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
+                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+                            
                             
                             
 "noname": "Canal Live 5(Aqui) [COLOR white] 20:00h Snooker UK Championship. Day 10 Session 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
