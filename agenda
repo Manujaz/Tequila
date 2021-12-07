@@ -451,13 +451,20 @@
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES136/tracks-v1a1/mono.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] M.LIGA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] M.LIGA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/beinlaliga/index.m3u8"',
+                            "url": "http://212.224.98.196:2200/NL/mlaligahd-esp/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://dxla1.gcdn.co/ES4/tracks-v1a1/mono.m3u8 
                             
                             
+"name": "CanalFavorito(Aqui) [COLOR white] M.LIGADECAMPEONES CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://212.224.98.196:2200/NL/mlcampeonhd-esp/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                                                        
 "noname": "CanalFavorito(Aqui) [COLOR white] DAZN 1 ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://dxla1.gcdn.co/ES41/tracks-v1a1/mono.m3u8"',
