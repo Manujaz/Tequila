@@ -441,16 +441,9 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S59/tracks-v1a1/mono.m3u8                            
                                                         
-                            
-"noname": "CanalFavorito(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S59/tracks-v1a1/mono.m3u8
-                            
-                            
+                                                                                    
 "name": "CanalFavorito(Aqui) [COLOR white] CANAL PLUS SPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8"',
@@ -493,23 +486,23 @@
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES42/tracks-v1a1/mono.m3u8                            
                            
                                                         
-"noname": "CanalFavorito(Aqui) [COLOR white] DAZN 3 ESP CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] DIGI SPORT 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dxla1.gcdn.co/ES46/tracks-v1a1/mono.m3u8"',
+                            "url": "http://nadxxy.com:8008/live/stancu_ilie/andrei2019/33797.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES46/tracks-v1a1/mono.m3u8
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] DIGI SPORT 2 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://nadxxy.com:8008/live/stancu_ilie/andrei2019/33799.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES48/tracks-v1a1/mono.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] DAZN 4 ESP CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] DIGI SPORT 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dxla1.gcdn.co/ES48/tracks-v1a1/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"noname": "CanalFavorito(Aqui) [COLOR white] DAZN F1 ESP CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dxla1.gcdn.co/ES50/tracks-v1a1/mono.m3u8"',
+                            "url": "http://nadxxy.com:8008/live/stancu_ilie/andrei2019/33801.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES49/tracks-v1a1/mono.m3u8                           
                             
@@ -518,7 +511,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://dxla1.gcdn.co/ES96/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES50/tracks-v1a1/mono.m3u8                            
                             
                             
 "noname": "CanalFavorito(Aqui) [COLOR white] M.DEPORTES CristalAzul",
