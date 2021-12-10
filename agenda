@@ -38,9 +38,9 @@
                             "embed": "SOL M.*?sica">'.http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8
                          
 
-"noname": "Canal Live (Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
+"name": "Canal Live (Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8"',
+                            "url": "https://dai.google.com/linear/hls/pa/event/dxr7bQpBQSC9ECCIrBRBVg/stream/eba4610b-83ad-45fd-9416-a811501516dc:BRU/variant/e2ae2af7b4257ceef0da9a5254f3b33f/bandwidth/2850476.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
