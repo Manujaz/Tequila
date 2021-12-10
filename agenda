@@ -157,49 +157,70 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 12(Aqui) [COLOR white] 01:00h NBA. Dallas Mavericks vs Indiana Pacers CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 23:30 Basket Champions League of the Americas. Flamengo vs Boca Juniors CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.161.252.33/ESPN_INT/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 13(Aqui) [COLOR white] 01:00h NBA. Dallas Mavericks vs Indiana Pacers CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://84.22.33.214/ArenaSport3/mono.m3u8 
-                                                                                    
                             
-"name": "Canal Live 13(Aqui) [COLOR white] 01:30h NBA. Brooklyn Nets vs Atlanta Hawks CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
                             
-                                                        
-"name": "Canal Live 14(Aqui) [COLOR white] 02:00h WWE. Friday Night Smackdown CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                                                                                                                
-"name": "Canal Live 15(Aqui) [COLOR white] 01:00h NCAAF. James Madison vs Montana (FCS — Quarterfinals) CristalAzul",
+"name": "Canal Live 14(Aqui) [COLOR white] 01:00h NCAAF. James Madison vs Montana (FCS — Quarterfinals) CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/btsportespn/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                                                                                                                                                  
-"name": "Canal Live 16(Aqui) [COLOR white] 01:00h 1st Test - Day 4 Australia vs England CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 01:00h 1st Test - Day 4 Australia vs England CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
+                            "embed": "SOL M.*?sica">'.                            
+                                                                                    
                             
-                            
-"noname": "Canal Live 17(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 16(Aqui) [COLOR white] 01:30h NBA. Brooklyn Nets vs Atlanta Hawks CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 17(Aqui) [COLOR white] 01:30h NBA. Brooklyn Nets vs Atlanta Hawks CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://stream2.grandma.fit/fs2.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "Canal Live 18(Aqui) [COLOR white] 01:30h NBA. Toronto Raptors vs New York Knicks CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                                                        
+"name": "Canal Live 19(Aqui) [COLOR white] 02:00h WWE. Friday Night Smackdown CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                                                                                                                                                                                                   
+"name": "Canal Live 20(Aqui) [COLOR white] 04:00h NBA. Phoenix Suns vs Boston Celtic CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://stream2.grandma.fit/fs2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
 
                                                                                                                
-"noname": "Canal Live 17(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 21(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.41.244.69/goltv/tracks-v2a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -313,26 +334,26 @@
                             
 "noname": "Canal Live 33(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 34(Aqui) [COLOR white] 04:00h NBA. Golden State Warriors vs Portland Trail Blazers CristalAzul",
+"noname": "Canal Live 34(Aqui) [COLOR white]  CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://stream2.grandma.fit/fs2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
                                                                                                                                                                                                                                                                                                                  
-"noname": "Canal Live 35(Aqui) [COLOR white] 04:00h NBA. Golden State Warriors vs Portland Trail Blazers CristalAzul",
+"noname": "Canal Live 35(Aqui) [COLOR white]  CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                               
-"noname": "Canal Live 36(Aqui) [COLOR white] 04:30h NBA. Boston Celtics vs LA Clippers CristalAzul",
+"noname": "Canal Live 36(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -458,21 +479,21 @@
                             "embed": "SOL M.*?sica">'. 
                             
                                                         
-"name": "CanalFavorito(Aqui) [COLOR white] M.LIGADECAMPEONES 1 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] M.LIGADECAMPEONES 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.224.98.196:2200/NL/mlcampeon1hd-esp/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                                                      
                             
                                                                                                                 
-"name": "CanalFavorito(Aqui) [COLOR white] M.LIGADECAMPEONES 2 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] M.LIGADECAMPEONES 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.224.98.196:2200/NL/mlcampeon2hd-esp/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES44/tracks-v1a1/mono.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] M.VAMOS CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] M.VAMOS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.224.98.196:2200/NL/vamoshd-esp/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
