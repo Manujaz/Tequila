@@ -355,7 +355,7 @@
                             
 "noname": "CanalFavorito(Aqui) [COLOR white] DAZN 3 USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://ppv.gcdn.co/DZ3/tracks-v1a1/mono.m3u8"',
+                            "url": "https://ppv.gcdn.co/DZ3/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -402,7 +402,7 @@
                             "embed": "SOL M.*?sica">'. https://stream1.1616.ro:1945/look/livestream/playlist.m3u8
                             
                                                                                                                                                                                                                                
-"name": "CanalFavorito(Aqui) [COLOR white] LOOKSPORT 3 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] LOOKSPORT 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w1667559245.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -593,7 +593,7 @@
                             
 "noname": "CanalFavorito (Aqui) [COLOR white] ESPN 2 USA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://ent.gcdn.co/S2/tracks-v1a1/mono.m3u8"',
+                            "url": "https://ent.gcdn.co/S2/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
