@@ -196,45 +196,59 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ3/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
+                            "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 18(Aqui) [COLOR white] 21:15h Penafiel vs Sporting CP CristalAzul",
+"name": "Canal Live 18(Aqui) [COLOR white] 21:00h Euro Cup. Joventut Badalona vs Boulogne Metropolitans CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8"',
+                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 19(Aqui) [COLOR white] 21:50h Euro Cup. Joventut Badalona vs Boulogne Metropolitans CristalAzul",
+"name": "Canal Live 19(Aqui) [COLOR white] 21:00h Premier League. Manchester City vs Leeds Utd CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8"',
+                            "url": "https://ppv.gcdn.co/DZ3/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 20(Aqui) [COLOR white] 21:00h Premier League. Manchester City vs Leeds Utd CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 20(Aqui) [COLOR white] 01:30h NBA. Golden State Warriors vs New York Knicks CristalAzul",
+"name": "Canal Live 21(Aqui) [COLOR white] 21:15h Penafiel vs Sporting CP CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                                                                                                              
+                            
+"name": "Canal Live 21(Aqui) [COLOR white] 01:30h NBA. Golden State Warriors vs New York Knicks CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                                                     
-"name": "Canal Live 21(Aqui) [COLOR white] 02:00h NBA. Detroit Pistons vs Chicago Bulls CristalAzul",
+"name": "Canal Live 22(Aqui) [COLOR white] 02:00h NBA. Detroit Pistons vs Chicago Bulls CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://pc-la7delarioja-hls.flumotion.com/promecal/live3_480p/chunks.m3u8
                             
                             
-"name": "Canal Live 22(Aqui) [COLOR white] 02:00h WWE NXT CristalAzul",
+"name": "Canal Live 23(Aqui) [COLOR white] 02:00h WWE NXT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"noname": "Canal Live 23(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 24(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
