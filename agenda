@@ -80,35 +80,35 @@
                             "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S22/tracks-v1a1/mono.m3u8
                             
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-"name": "Canal Live 1(Aqui) [COLOR white] 15:00h Europa League. Sorteo de Play-offs CristalAzul",
+"noname": "Canal Live 1(Aqui) [COLOR white] 12:00h UEFA Champions League Draw - Round of 16 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.41.244.69/goltv/tracks-v2a1a2/mono.m3u8"',
+                            "url": "https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
                             
                             
-"name": "Canal Live 2(Aqui) [COLOR white] 18:00h Estrela vs Vizela CristalAzul",
+"noname": "Canal Live 2(Aqui) [COLOR white] 13:00h UECL Draw. Knockout Round Play-Offs CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 3(Aqui) [COLOR white] 18:00h IHF Mundial Femenino. Suecia vs Rumanía CristalAzul",
+"noname": "Canal Live 3(Aqui) [COLOR white] 18:00h Handball Champions League. Besiktas vs Hereda San Pablo Burgos CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
+                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
                             
                             
-"name": "Canal Live 4(Aqui) [COLOR white] 20:00h Champion of Champions. World Grand Prix Day 1 CristalAzul",
+"noname": "Canal Live 4(Aqui) [COLOR white] 19:00h Academico Viseu x Benfica II CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
+                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.41.244.69/goltv/tracks-v2a1a2/mono.m3u8                            
                             
                             
-"name": "Canal Live 5(Aqui) [COLOR white] 20:30h IHF Mundial Femenino. Rusia vs Francia CristalAzul",
+"noname": "Canal Live 5(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
