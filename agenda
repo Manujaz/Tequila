@@ -173,7 +173,7 @@
                                                                                                                                                                                                                                                                                                                                              
 "name": "Canal Live 14(Aqui) [COLOR white] 21:00h Manchester City vs Leeds United CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8"',
+                            "url": "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/beinlaliga/index.m3u8
                             
@@ -182,12 +182,12 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8 
                                                        
                                                         
 "name": "Canal Live 16(Aqui) [COLOR white] 21:00h England Premier League. Manchester City vs Leeds United CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8"',
+                            "url": "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://84.22.33.214/ArenaSport3/mono.m3u8 
                             
@@ -201,7 +201,7 @@
                             
 "name": "Canal Live 18(Aqui) [COLOR white] 21:00h Euro Cup. Joventut Badalona vs Boulogne Metropolitans CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8"',
+                            "url": "https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -336,14 +336,21 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.224.98.196:2200/NL/mlcampeonhd-esp/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8 
                             
                                                         
 "noname": "CanalFavorito(Aqui) [COLOR white] M.LIGADECAMPEONES 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.224.98.196:2200/NL/mlcampeon1hd-esp/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                                                      
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] KOK UFC CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                 
 "noname": "CanalFavorito(Aqui) [COLOR white] M.LIGADECAMPEONES 2 CristalAzul",
@@ -367,27 +374,13 @@
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES46/tracks-v1a1/mono.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] SPORT 2 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] FOX SPORT 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://nadxxy.com:8008/live/stancu_ilie/andrei2019/33799.m3u8"',
+                            "url": "https://sport.livedoomovie.com/02_foxsport_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES48/tracks-v1a1/mono.m3u8
                             
-                            
-"noname": "CanalFavorito(Aqui) [COLOR white] DIGI SPORT 3 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://nadxxy.com:8008/live/stancu_ilie/andrei2019/33801.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES49/tracks-v1a1/mono.m3u8                           
-                            
-                                                                                                                                                                                                                                                                                                                   
-"noname": "CanalFavorito(Aqui) [COLOR white] PRO X SPORT CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://nadxxy.com:8008/live/stancu_ilie/andrei2019/33818.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES50/tracks-v1a1/mono.m3u8                            
-                            
-                            
+                                                                                                                
 "noname": "CanalFavorito(Aqui) [COLOR white] TELEKON 1 SPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://nadxxy.com:8008/live/stancu_ilie/andrei2019/33806.m3u8"',
