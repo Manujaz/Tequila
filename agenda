@@ -126,16 +126,23 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.19:00h Euroliga. Crvena Zvezda MTS Belgrade vs Barça Basket
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 8(Aqui) [COLOR white] 21:00h Copa del Rey. Deportivo vs Osasuna CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://ppv.gcdn.co/DZ2/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                                                         
 "name": "Canal Live 9(Aqui) [COLOR white] 01:00h NHL. Carolina vs Detroit CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'. 21:00h Copa del Rey. Deportivo vs Osasuna
                             
-                            
+                                                                                                             
 "name": "Canal Live 10(Aqui) [COLOR white] 01:00h NBA. Detroit Pistons vs Indiana Pacers CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8"',
@@ -376,7 +383,7 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 "name": "CanalFavorito(Aqui) [COLOR white] DAZN 1 USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8"',
+                            "url": "https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S60/tracks-v1a1/mono.m3u8
                                                                                                                                           
