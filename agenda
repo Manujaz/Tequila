@@ -99,8 +99,15 @@
                             "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
-                                                                                    
                             
+                            
+"name": "Canal Live 2(Aqui) [COLOR white] 11:00h Rally Extreme E. Dorset (Reino Unido) CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://ztnr.rtve.es/ztnr/4623022.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                                                                                                                                            
 "name": "Canal Live 3(Aqui) [COLOR white] 12:00h Penafiel vs Estrela CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8"',
