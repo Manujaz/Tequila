@@ -409,13 +409,34 @@
                             "embed": "SOL M.*?sica">'.https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] DAZN 4 USA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SPORT TV 1 PORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://ppv.gcdn.co/DZ4/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
+                            "url": ""https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                             
+                            "embed": "SOL M.*?sica">'.
                             
                             
+ "name": "CanalFavorito(Aqui) [COLOR white] SPORT TV 3 PORT CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] SPORT TV 4 PORT CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                                                        
+"name": "CanalFavorito(Aqui) [COLOR white] SPORT TV 5 PORT CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                                                                                   
 "name": "CanalFavorito(Aqui) [COLOR white] SKY SPORTS 24 ITA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8"',
@@ -563,9 +584,9 @@
                             "embed": "SOL M.*?sica">'.
                                                                                                               
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] SUPER SPORT 3 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT  CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
+                            "url": "https://cdn1.sourcelive2.xyz:2096/hls/b1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
