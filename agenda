@@ -110,7 +110,7 @@
                                                                                                                                                                                                                                
 "name": "Canal Live 5(Aqui) [COLOR white] 19:00h La Liga. Villarreal vs Alavés CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/chunks.m3u8"',
+                            "url": "http://185.191.126.169:80/play/6Z9kH7XHKrHOAIipci2gbLjIAO8VkM0lrfP-ywzf3z-z52hkZlzTg_Ifb6fPHoyO/.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://185.41.244.69/barcelonatv/tracks-v2a1/mono.m3u8
                             
@@ -152,21 +152,21 @@
                             
 "name": "Canal Live 11(Aqui) [COLOR white] 21:30h La Liga. Sevilla FC vs FC Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/chunks.m3u8"',
+                            "url": "http://185.191.126.169:80/play/6Z9kH7XHKrHOAIipci2gbLjIAO8VkM0lrfP-ywzf3z-z52hkZlzTg_Ifb6fPHoyO/.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                                             
-"noname": "Canal Live 12(Aqui) [COLOR white] 21:30h La Liga. Sevilla FC vs FC Barcelona CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 21:30h La Liga. Sevilla FC vs FC Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://185.53.89.183/hls/ssla.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 13(Aqui) [COLOR white] 21:30h La Liga. Sevilla FC vs FC Barcelona CristalAzul",
+"name": "Canal Live 13(Aqui) [COLOR white] 21:30h La Liga. Sevilla FC vs FC Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8"',
+                            "url": "http://45.148.26.176/hls/M2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                             
