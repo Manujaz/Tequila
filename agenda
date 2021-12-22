@@ -98,7 +98,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/playlist.m3u8
+                            "embed": "SOL M.*?sica">'.
                                                                                                                
                                                                                                                                                                                                                                                    
 "name": "Canal Live 4(Aqui) [COLOR white] 17:30h Eurocup. Lokomotiv Kuban vs BC Partizan Beograd CristalAzul",
@@ -106,141 +106,169 @@
                             "url": "https://ppv.gcdn.co/DZ3/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+                            
+                            
+"name": "Canal Live 5(Aqui) [COLOR white] 17:30h Madonna di Campiglio.(1st round) World Cup CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                                                                                                                
                                                                                                                                                                                                                                
-"name": "Canal Live 5(Aqui) [COLOR white] 18:30h Euroliga. Anadolu Efes Istanbul vs Crvena Zvezda MTS Belgrade CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 18:30h Euroliga. Anadolu Efes Istanbul vs Crvena Zvezda MTS Belgrade CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ2/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://185.41.244.69/barcelonatv/tracks-v2a1/mono.m3u8
                             
                             
-"name": "Canal Live 6(Aqui) [COLOR white] 18:30h Serie A Italiana. Inter Milan vs Torino CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 18:30h Serie A Italiana. Inter Milan vs Torino CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://45.161.252.33/ESPN_INT/tracks-v1a1/mono.m3u8
                             
                             
-"name": "Canal Live 7(Aqui) [COLOR white] 19:00h La Liga. Granada CF vs At. Madrid CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 19:00h La Liga. Granada CF vs At. Madrid CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.191.126.169/play/6Z9kH7XHKrHOAIipci2gbLjIAO8VkM0lrfP-ywzf3z-z52hkZlzTg_Ifb6fPHoyO/.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://45.161.252.33/ESPN_INT/tracks-v1a1/mono.m3u8 
                             
                                                         
-"name": "Canal Live 8(Aqui) [COLOR white] 19:00h La Liga. Granada CF vs At. Madrid CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 19:00h La Liga. Granada CF vs At. Madrid CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/beinlaliga/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"name": "Canal Live 9(Aqui) [COLOR white] 20:45 England League Cup. Brentford vs Chelsea CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 20:45 England League Cup. Brentford vs Chelsea CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.161.252.33/ESPN_INT/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                                                                                                                
                             
                                                                                                                                                                                                                              
-"name": "Canal Live 10(Aqui) [COLOR white] 20:45h EFL Carabao Cup. Tottenham vs West Ham CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 20:45h EFL Carabao Cup. Tottenham vs West Ham CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ4/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                      
                                                                                                                                             
-"name": "Canal Live 11(Aqui) [COLOR white] 20:45h EFL Carabao Cup. Liverpool vs Leicester City CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 20:45h EFL Carabao Cup. Liverpool vs Leicester City CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                                                                                                                                               
-"name": "Canal Live 12(Aqui) [COLOR white] 20:45h Serie A Italiana. Empoli vs AC Milan CristalAzul",
+"name": "Canal Live 13(Aqui) [COLOR white] 20:45h Serie A Italiana. Empoli vs AC Milan CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 13(Aqui) [COLOR white] 21:00h LNFS. Viña Albali Valdepeñas vs Jaén FS CristalAzul",
+"name": "Canal Live 14(Aqui) [COLOR white] 21:00h LNFS. Viña Albali Valdepeñas vs Jaén FS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://klive.kaltura.com/s/env/cluster-1-b.live.nvp1/live/hls/p/2288691/e/0_xs45iy5i/tl/main/st/0/t/DznN37GHRy-bwqducFv4Xw/index-s32.m3u8?__hdnea__=st=1640165552~exp=1640251952~acl=/s/env/cluster-1-b.live.nvp1/live/hls/p/2288691/e/0_xs45iy5i/tl/main/st/0/t/DznN37GHRy-bwqducFv4Xw/index-s32.m3u8*~hmac=91993aa19e7c0db41fdcb94ca033b0c32595539e9e9d43353009aec00d2a5c6f"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                             
                                                                                    
-"name": "Canal Live 14(Aqui) [COLOR white] 21:00h Euroliga. Barça Basket vs Unics Kazan CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 21:00h Euroliga. Barça Basket vs Unics Kazan CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 15(Aqui) [COLOR white] 21:00h France Ligue 1 Lorient vs PSG CristalAzul",
+"name": "Canal Live 16(Aqui) [COLOR white] 21:00h France Ligue 1 Lorient vs PSG CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"name": "Canal Live 16(Aqui) [COLOR white] 21:30h La Liga. Athletic Club vs Real Madrid CristalAzul",
+"name": "Canal Live 17(Aqui) [COLOR white] 21:30h La Liga. Athletic Club vs Real Madrid CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.191.126.169/play/6Z9kH7XHKrHOAIipci2gbLjIAO8VkM0lrfP-ywzf3z-z52hkZlzTg_Ifb6fPHoyO/.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                                                     
-"name": "Canal Live 17(Aqui) [COLOR white] 21:30h La Liga. Athletic Club vs Real Madrid CristalAzul",
+"name": "Canal Live 18(Aqui) [COLOR white] 21:30h La Liga. Athletic Club vs Real Madrid CristalAzul",
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bal.varcdn1.ru/lb/setanta2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://84.22.33.214/ArenaSport3/mono.m3u8                            
                             
                             
-"name": "Canal Live 18(Aqui) [COLOR white] 21:30h La Liga. Athletic Club vs Real Madrid CristalAzul",
+"name": "Canal Live 19(Aqui) [COLOR white] 21:30h La Liga. Athletic Club vs Real Madrid CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.191.126.169/play/6Z9kH7XHKrHOAIipci2gbLjIAO8VkM0lrfP-ywzf3z-z52hkZlzTg_Ifb6fPHoyO/.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 20(Aqui) [COLOR white] 21:30h Madonna di Campiglio. (2nd round), World Cup CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 21(Aqui) [COLOR white] 23:30h NCAA. Stanford vs Wyoming CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://stream2.grandma.fit/fs2.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://pc-la7delarioja-hls.flumotion.com/promecal/live3_480p/chunks.m3u8                            
                                                                                                               
                             
-"noname": "Canal Live 19(Aqui) [COLOR white] 01:30h NBA. Cleveland Cavaliers vs Boston Celtics CristalAzul",
+"name": "Canal Live 22(Aqui) [COLOR white] 01:30h NBA. Cleveland Cavaliers vs Boston Celtics CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                                                                                                                                                                                                                                                                                                                                             
-"noname": "Canal Live 18(Aqui) [COLOR white]  CristalAzul",
+                                                                                                                                                                                                                                                                                                                                                                                                     
+"name": "Canal Live 23(Aqui) [COLOR white] 02:00h NCAA FBS. Army vs Missouri CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"noname": "Canal Live 19(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsportespn/index.m3u8"',
+                            "url": "http://stream2.grandma.fit/fs2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                               
                             
-"noname": "Canal Live 20(Aqui) [COLOR white] CristalAzul",
+"name": "Canal Live 24(Aqui) [COLOR white] 02:00h NCAA FBS. Army vs Missouri CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8"',
+                            "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.00:00 NCAA : California vs Pacific
+                            
+                            
+"name": "Canal Live 24(Aqui) [COLOR white] CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                                                                                    
-"noname": "Canal Live 21(Aqui) [COLOR white] CristalAzul",
+                            
+"name": "Canal Live 24(Aqui) [COLOR white] 02:00h NCAA FBS. Army vs Missouri CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8"',
+                            "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://pc-la7delarioja-hls.flumotion.com/promecal/live3_480p/chunks.m3u8
-                                                        
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 24(Aqui) [COLOR white] 02:00h NCAA FBS. Army vs Missouri CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 "name": "CanalFavorito(Aqui) [COLOR white] TRUE PREMIER FOOTBALL CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8"',
