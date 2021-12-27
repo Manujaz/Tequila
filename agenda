@@ -248,14 +248,14 @@
                             "embed": "SOL M.*?sica">'.http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w919389891_b746000_sleng.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BEINSPORTS 2 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BEINSPORTS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://sport.livedoomovie.com/02_epl2_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                                                
                                                                                                                                                                                                     
-"name": "CanalFavorito(Aqui) [COLOR white] BELLATORMMA TV CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BELLATORMMA TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -266,7 +266,14 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.191.126.169:80/play/6Z9kH7XHKrHOAIipci2gbLjIAO8VkM0lrfP-ywzf3z-z52hkZlzTg_Ifb6fPHoyO/.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/playlist.m3u8                            
+                            "embed": "SOL M.*?sica">'.http://54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/playlist.m3u8
+                            
+                                                        
+"name": "CanalFavorito(Aqui) [COLOR white] M.LIGA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://93.152.174.144:4000/play/beinlaliga/79840803.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                                                                                     
 "name": "CanalFavorito(Aqui) [COLOR white] KOK UFC CristalAzul",
@@ -287,7 +294,14 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.48.63:8081/ESP%7CVAMOS/ESP%7CVAMOS/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES42/tracks-v1a1/mono.m3u8                            
+                            "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES42/tracks-v1a1/mono.m3u8
+                            
+                                                        
+"name": "CanalFavorito(Aqui) [COLOR white] M.VAMOS CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://54.39.48.63:8081/ESP%7CVAMOS/ESP%7CVAMOS/chunks.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
                            
                                                         
 "name": "CanalFavorito(Aqui) [COLOR white] WIN SPORT LAT CristalAzul",
