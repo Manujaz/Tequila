@@ -80,7 +80,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                                                         
-"name": "Canal Live 2(Aqui) [COLOR white] 11:00h Bormio | Men's Super-G CristalAzul",
+"name": "Canal Live 2(Aqui) [COLOR white] 11:00h Bormio. Men's Super-G CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -119,59 +119,66 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.41.244.69/goltv/tracks-v2a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://45.161.252.33/ESPN_INT/tracks-v1a1/mono.m3u8 
+                            "embed": "SOL M.*?sica">'. http://45.161.252.33/ESPN_INT/tracks-v1a1/mono.m3u8
                             
                             
-"name": "Canal Live 8(Aqui) [COLOR white] 18:00h Paços de Ferreira vs Santa Clara CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 17:30h Oberstdorf HS137 Ski Jumping Individual competiton CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 9(Aqui) [COLOR white] 18:00h Paços de Ferreira vs Santa Clara CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                             
                             
-"name": "Canal Live 9(Aqui) [COLOR white] 20:00h Arouca vs Sporting Braga CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 20:00h Arouca vs Sporting Braga CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 10(Aqui) [COLOR white] 20:30h Everton vs Newcastle United CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 20:30h Everton vs Newcastle United CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV4_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 11(Aqui) [COLOR white] 21:15h Manchester United vs Burnley CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 21:15h Manchester United vs Burnley CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                             
                                                                                                                                              
-"name": "Canal Live 12(Aqui) [COLOR white] 22:00h Porto vs Benfica CristalAzul",
+"name": "Canal Live 13(Aqui) [COLOR white] 22:00h Porto vs Benfica CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/playlist.m3u8 
                             
                             
-"name": "Canal Live 13(Aqui) [COLOR white] 01:00h NBA. Philadelphia 76ers vs Brooklyn Nets CristalAzul",
+"name": "Canal Live 14(Aqui) [COLOR white] 01:00h NBA. Philadelphia 76ers vs Brooklyn Nets CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 14(Aqui) [COLOR white] 00:00h NBA. Milwaukee Bucks vs Orlando Magic CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 00:00h NBA. Milwaukee Bucks vs Orlando Magic CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
                             
                             
-"name": "Canal Live 11(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 16(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
