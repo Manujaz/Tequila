@@ -346,9 +346,9 @@
                             "embed": "SOL M.*?sica">'.http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w919389891_b746000_sleng.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BEINSPORTS 2 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] FOX SPORTS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://50.7.34.155:2200/BR/Fox_Sports_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://sport.livedoomovie.com/02_epl2_720p/chunklist.m3u8
                                                                                                                
@@ -384,6 +384,13 @@
 "name": "CanalFavorito(Aqui) [COLOR white] KOK UFC CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] ESPN BRA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
