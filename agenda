@@ -229,7 +229,7 @@
                                                                                     
 "noname": "Canal Live 19(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://per@185.132.177.33:86/Canal+_sport_HD/tracks-v1a1/mono.m3u8?token=test"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -583,6 +583,20 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
+"name": "CanalFavorito(Aqui) [COLOR white] RMC SPORT 1 FR CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://56.bangiroua.xyz.global.prod.fastly.net/live/137000/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] RMC SPORT 2 FR CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://56.bangiroua.xyz.global.prod.fastly.net/live/138/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                                                                                   
 "name": "CanalFavorito(Aqui) [COLOR white] BEINSPORTS 1 FR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://h14.amaniyouhra.xyz/live/14066007/index.m3u8"',
@@ -652,14 +666,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
-                                                                                                                                                                                                    
-"noname": "CanalFavorito(Aqui) [COLOR white] M.LIGA CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://185.191.126.169:80/play/6Z9kH7XHKrHOAIipci2gbLjIAO8VkM0lrfP-ywzf3z-z52hkZlzTg_Ifb6fPHoyO/.m3u8
-                            
-                                                        
+                                                                                                                                                                                                                                                                                        
 "noname": "CanalFavorito(Aqui) [COLOR white] M.LIGA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/beinlaliga/79840803.m3u8"',
