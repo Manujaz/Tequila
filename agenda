@@ -122,70 +122,77 @@
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
                             
                             
-"name": "Canal Live 5(Aqui) [COLOR white] 21:00h LaLiga SmartBank. Alcorcón vs Málaga CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 21:00h La Liga. Osasuna vs Athletic Club CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://185.41.244.69/goltv/tracks-v2a1a2/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 6(Aqui) [COLOR white] 21:00h LaLiga SmartBank. Alcorcón vs Málaga CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live 6(Aqui) [COLOR white] 21:00h LaLiga SmartBank. Alcorcón vs Málaga CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 21:00h LaLiga SmartBank. Alcorcón vs Málaga CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"name": "Canal Live 7(Aqui) [COLOR white] 21:15h Tondela vs Moreirense CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 21:15h Tondela vs Moreirense CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 8(Aqui) [COLOR white] 21:15h La Liga. Cádiz CF vs Sevilla FC CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 21:15h La Liga. Cádiz CF vs Sevilla FC CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"name": "Canal Live 9(Aqui) [COLOR white] 23:30h ATP Cup CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 23:30h ATP Cup CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                     
-"name": "Canal Live 10(Aqui) [COLOR white] 22:00h Rally Dakar. Etapa 2 CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 22:00h Rally Dakar. Etapa 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                       
                             
-"name": "Canal Live 11(Aqui) [COLOR white] 01:00h NHL. New York Rangers vs Edmonton CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 01:00h NHL. New York Rangers vs Edmonton CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 12(Aqui) [COLOR white] 02:00h WWE. Monday Night Raw CristalAzul",
+"name": "Canal Live 13(Aqui) [COLOR white] 02:00h WWE. Monday Night Raw CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV4_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"name": "Canal Live 13(Aqui) [COLOR white] 02:30h NBA. Denver Nuggets vs Dallas Mavericks CristalAzul",
+"name": "Canal Live 14(Aqui) [COLOR white] 02:30h NBA. Denver Nuggets vs Dallas Mavericks CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                             
                             
-"name": "Canal Live 14(Aqui) [COLOR white] 04:00h NBA. Miami Heat vs Golden State Warriors CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 04:00h NBA. Miami Heat vs Golden State Warriors CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
