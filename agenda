@@ -597,9 +597,9 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                                                                                                                                                                                         
-"noname": "CanalFavorito(Aqui) [COLOR white] M.LIGA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] M.LIGA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/beinlaliga/79840803.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/beinlaliga/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
