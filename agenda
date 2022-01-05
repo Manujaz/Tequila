@@ -59,7 +59,7 @@
                             "embed": "SOL M.*?sica">'.http://stream2.grandma.fit/fs2.m3u8
                             
 
-"name": "Canal NHL (Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
+"noname": "Canal NHL (Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://stream2.grandma.fit/fs2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -68,42 +68,42 @@
                             
 "noname": "Canal Motor (Aqui) [COLOR white] Rallye Dakar 2022 - Etapa 1A. Jeddah - Hail CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtve-mediavod.secure.footprint.net/resources/TE_GLESP/mp4/2/7/1641076419472.mp4?nvb=20220104162105&nva=20220104222105&token=0a3634782fd7750901677"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
 "noname": "Canal Motor (Aqui) [COLOR white] Rallye Dakar 2022 - Etapa 1B Hail - Hail CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtve-mediavod.secure.footprint.net/resources/TE_GLESP/mp4/4/6/1641162666064.mp4?nvb=20220104163405&nva=20220104223405&token=04def1ffd95a612602de7"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
 "noname": "Canal Motor (Aqui) [COLOR white] Extra Dakar 2022 - Extra Etapa 1B CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtve-mediavod.secure.footprint.net/resources/TE_GLESP/mp4/8/7/1641171316878.mp4?nvb=20220104162911&nva=20220104222911&token=07a78b8e5ee437196ad56"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
 "noname": "Canal Motor (Aqui) [COLOR white] Rally Dakar 2022 - Etapa 2 Hail - Al Artawiya CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtve-mediavod.secure.footprint.net/resources/TE_GLESP/mp4/4/1/1641251063014.mp4?nvb=20220104163258&nva=20220104223258&token=0da77d80bd418ad6b9a0d"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
 "noname": "Canal Motor (Aqui) [COLOR white] Extra Dakar 2022 - Extra Etapa 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtve-mediavod.secure.footprint.net/resources/TE_GLESP/mp4/0/8/1641254826480.mp4?nvb=20220104163432&nva=20220104223432&token=055bb02247c4491316d25"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
 "noname": "Canal Motor (Aqui) [COLOR white] Flash Dakar 2022 - Flash Etapa 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtve-mediavod.secure.footprint.net/resources/TE_GLESP/mp4/5/7/1641314670375.mp4?nvb=20220104163403&nva=20220104223403&token=0c2c5eaff3e4c4149d06a"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                           
@@ -133,150 +133,192 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://rtvelote5vodstream2021.akamaized.net/resources/TE_NGVA/mp4/0/4/1637425503740.mp4/1637425503740-audio=192834-video=2689000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3&idasset=6219618"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. Rallye Dakar 2022 - Etapa 1A: Jeddah - Hail                            
+                            "embed": "SOL M.*?sica">'.                           
                                                                                                              
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"name": "Canal Live 1(Aqui) [COLOR white] 16:00h Copa del Rey. Leganés vs Real Sociedad CristalAzul",
+ 
+"name": "Canal Live 1(Aqui) [COLOR white] 15:30h World Cup 2021/2022-Zagreb. Slalom Special M 1st run. from Croatia CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+ 
+ 
+"name": "Canal Live 2(Aqui) [COLOR white] 16:00h Copa del Rey. Leganés vs Real Sociedad CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ3/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.                             
                             
                             
-"name": "Canal Live 2(Aqui) [COLOR white] 16:00h Copa del Rey. Leganés vs Real Sociedad CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 16:00h Copa del Rey. Leganés vs Real Sociedad CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 3(Aqui) [COLOR white] 16:00h Copa del Rey. Eibar vs Mallorca CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 16:00h Copa del Rey. Eibar vs Mallorca CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"name": "Canal Live 4(Aqui) [COLOR white] 16:00h Copa del Rey. Eibar vs Mallorca CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 16:00h Copa del Rey. Eibar vs Mallorca CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
                             
                             
-"name": "Canal Live 5(Aqui) [COLOR white] 18:00h Copa del Rey. Cartagena vs Valencia CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 17:00 Bischofshofen HS Qualifications 142 Four Trampolines CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 7(Aqui) [COLOR white] 18:00h Copa del Rey. Cartagena vs Valencia CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ2/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                      
-"name": "Canal Live 6(Aqui) [COLOR white] 18:00h Copa del Rey. Cartagena vs Valencia CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 18:00h Copa del Rey. Cartagena vs Valencia CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 7(Aqui) [COLOR white] 19:30h Copa del Rey. Linares Deportivo vs Barcelona CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 18:45h World Cup 2021/2022-Zagreb. Slalom Special M 2nd run. from Croatia CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 10(Aqui) [COLOR white] 19:30h Copa del Rey. Linares Deportivo vs Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live 8(Aqui) [COLOR white] 19:30h Copa del Rey. Linares Deportivo vs Barcelona CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 19:30h Copa del Rey. Linares Deportivo vs Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 12(Aqui) [COLOR white] 19:50h Freestyle skiing. Le Relais. Women and Men CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://154.62.74.12:1935/live/smil:eurosport2hdnntv/chunklist_w1161496600_b3128000_sling.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
-                                                        
-"name": "Canal Live 9(Aqui) [COLOR white] 20:00h Copa del Rey. Real Valladolid vs Real Betis CristalAzul",
+                                                                                                                                          
+"name": "Canal Live 13(Aqui) [COLOR white] 20:00h Copa del Rey. Real Valladolid vs Real Betis CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ2/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 10(Aqui) [COLOR white] 20:00h Copa del Rey. Real Valladolid vs Real Betis CristalAzul",
+"name": "Canal Live 14(Aqui) [COLOR white] 20:00h Copa del Rey. Real Valladolid vs Real Betis CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',               
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 11(Aqui) [COLOR white] 20:00h Copa del Rey. Mirandés vs Rayo Vallecano CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 20:00h Copa del Rey. Mirandés vs Rayo Vallecano CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ4/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',               
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 12(Aqui) [COLOR white] 20:00h Copa del Rey. At. Baleares vs Celta CristalAzul",
+"name": "Canal Live 16(Aqui) [COLOR white] 20:00h Copa del Rey. At. Baleares vs Celta CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ3/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',               
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 13(Aqui) [COLOR white] 20:45h Chelsea vs Tottenham Hotspur CristalAzul",
+"name": "Canal Live 17(Aqui) [COLOR white] 20:45h Chelsea vs Tottenham Hotspur CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 14(Aqui) [COLOR white] 21:00h Rally Dakar. Etapa 4 CristalAzul",
+"name": "Canal Live 18(Aqui) [COLOR white] 21:00h Rally Dakar. Etapa 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"name": "Canal Live 15(Aqui) [COLOR white] 21:30h Copa del Rey. Alcoyano vs Real Madrid CristalAzul",
+"name": "Canal Live 19(Aqui) [COLOR white] 21:30h Copa del Rey. Alcoyano vs Real Madrid CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://lb.verioncloudtv.com/ES_telecinco_HD/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                                                                                                                 
                                                                                     
-"name": "Canal Live 16(Aqui) [COLOR white] 21:30h Copa del Rey. Alcoyano vs Real Madrid CristalAzul",
+"name": "Canal Live 20(Aqui) [COLOR white] 21:30h Copa del Rey. Alcoyano vs Real Madrid CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 17(Aqui) [COLOR white] 22:00h Rally Dakar. Etapa 4 CristalAzul",
+"name": "Canal Live 21(Aqui) [COLOR white] 22:00h Rally Dakar. Etapa 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                       
                             
-"name": "Canal Live 18(Aqui) [COLOR white] 01:00h ATP Cup CristalAzul",
+"name": "Canal Live 22(Aqui) [COLOR white] 01:00h ATP Cup CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 19(Aqui) [COLOR white] 01:00h NHL. Montreal vs Toronto CristalAzul",
+"name": "Canal Live 23(Aqui) [COLOR white] 01:00h NHL. Montreal vs Toronto CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV4_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 24(Aqui) [COLOR white] 01:30h NBA. Dallas Mavericks vs Golden State Warriors CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+ "name": "Canal Live 25(Aqui) [COLOR white] 04:00h NBA. Utah Jazz vs Denver Nuggets CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
                             
                                                       
-"name": "Canal Live 20(Aqui) [COLOR white] 04:00h NBA. Utah Jazz vs Denver Nuggets CristalAzul",
+"name": "Canal Live 26(Aqui) [COLOR white] 04:00h NBA. Utah Jazz vs Denver Nuggets CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                                                                                   
                             
                             
-"name": "Canal Live 21(Aqui) [COLOR white] 04:00h NBA. Miami Heat vs Portland Trail BlazersCristalAzul",
+"name": "Canal Live 27(Aqui) [COLOR white] 04:00h NBA. Miami Heat vs Portland Trail Blazers CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV4_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
