@@ -444,21 +444,21 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 18(Aqui) [COLOR white] 20:00h Spain Copa del Rey. Almería vs Elche CristalAzul",
+"name": "Canal Live 18(Aqui) [COLOR white] 20:00h Copa del Rey. Almería vs Elche CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://ppv.gcdn.co/DZ2/tracks-v1a1/mono.m3u8"',
+                            "url": "http://46.249.32.53:81/fastocloud/hls/2/61d38d4c04bf53199bfc9e6c/134/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 19(Aqui) [COLOR white] 20:00h Spain Copa del Rey. Mancha Real vs Athletic Club CristalAzul",
+"name": "Canal Live 19(Aqui) [COLOR white] 20:00h Copa del Rey. Mancha Real vs Athletic Club CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8"',
+                            "url": "http://46.249.32.53:81/fastocloud/hls/2/61d38d4b04bf53199bfc9e4e/74/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                         
-"name": "Canal Live 20(Aqui) [COLOR white] 20:00h Spain Copa del Rey. Mancha Real vs Athletic Club CristalAzul",
+"name": "Canal Live 20(Aqui) [COLOR white] 20:00h Copa del Rey. Mancha Real vs Athletic Club CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV4_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -481,96 +481,103 @@
                                                                                                                 
 "name": "Canal Live 23(Aqui) [COLOR white] 20:45h Serie A Italiana. Juventus vs Napoli CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://54.39.48.63:8081/ESP%7CVAMOS/ESP%7CVAMOS/chunks.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 24(Aqui) [COLOR white] 20:45h Serie A Italiana. Juventus vs Napoli CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-                                                        
+                            "embed": "SOL M.*?sica">'.                            
                             
-"name": "Canal Live 24(Aqui) [COLOR white] 20:45h Euro League Basketball. Real Madrid vs Unics Kazan CristalAzul",
+                                                                                    
+"name": "Canal Live 25(Aqui) [COLOR white] 20:45h Euro League Basketball. Real Madrid vs Unics Kazan CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV5_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 25(Aqui) [COLOR white] 21:10h São Paulo Soccer Cup Jr. Xv De Jaú vs Mixto-Mt CristalAzul",
+"name": "Canal Live 26(Aqui) [COLOR white] 21:10h São Paulo Soccer Cup Jr. Xv De Jaú vs Mixto-Mt CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.21:30 Spain Copa del Rey : Rayo Majadahonda vs Atlético Madrid
                             
                             
-"name": "Canal Live 26(Aqui) [COLOR white] 21:30h Copa del Rey. Rayo Majadahonda vs Atlético Madrid CristalAzul",
+"name": "Canal Live 27(Aqui) [COLOR white] 21:30h Copa del Rey. Rayo Majadahonda vs Atlético Madrid CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://heltr01.verioncloudtv.com/ES_cuatro_HD/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                                                         
-"name": "Canal Live 27(Aqui) [COLOR white] 21:30h Copa del Rey. Rayo Majadahonda vs Atlético Madrid CristalAzul",
+"name": "Canal Live 28(Aqui) [COLOR white] 21:30h Copa del Rey. Rayo Majadahonda vs Atlético Madrid CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                         
-"name": "Canal Live 28(Aqui) [COLOR white] 01:00h NCAA. Illinois vs Maryland CristalAzul",
+"name": "Canal Live 29(Aqui) [COLOR white] 01:00h NCAA. Illinois vs Maryland CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 29(Aqui) [COLOR white] 01:00h NHL. Boston Bruins vs Minnesota Wild CristalAzul",
+"name": "Canal Live 30(Aqui) [COLOR white] 01:00h NHL. Boston Bruins vs Minnesota Wild CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 30(Aqui) [COLOR white] 01:30h NBA. New York Knicks vs Boston Celtics CristalAzul",
+"name": "Canal Live 31(Aqui) [COLOR white] 01:30h NBA. New York Knicks vs Boston Celtics CristalAzul",
                             "image": "hhttps://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn1-7p.teleuptv.net/88c3358a-4f67-4c37-a36b-aaada997d447/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8                            
                             
                                                         
-"name": "Canal Live 31(Aqui) [COLOR white] 02:00h NBA. Golden State Warriors vs New Orleans Pelicans CristalAzul",
+"name": "Canal Live 32(Aqui) [COLOR white] 02:00h NBA. Golden State Warriors vs New Orleans Pelicans CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live 32(Aqui) [COLOR white] 01:30h São Paulo Soccer Cup Jr. Rondônia-Ro vs Santos CristalAzul",
+"name": "Canal Live 33(Aqui) [COLOR white] 01:30h São Paulo Soccer Cup Jr. Rondônia-Ro vs Santos CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-"name": "Canal Live 33(Aqui) [COLOR white] 03:30h NCAA. Utah Utes vs Washington CristalAzul",
+"name": "Canal Live 34(Aqui) [COLOR white] 03:30h NCAA. Utah Utes vs Washington CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://edgesports-stirr.amagi.tv/playlist1080p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 34(Aqui) [COLOR white] 04:00h NBA. Phoenix Suns vs Los Angeles Clippers CristalAzul",
+"name": "Canal Live 35(Aqui) [COLOR white] 04:00h NBA. Phoenix Suns vs Los Angeles Clippers CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                         
                                                                                                                                                                        
-"name": "Canal Live 35(Aqui) [COLOR white] 04:00h NBA. Phoenix Suns vs Los Angeles Clippers CristalAzul",
+"name": "Canal Live 36(Aqui) [COLOR white] 04:00h NBA. Phoenix Suns vs Los Angeles Clippers CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                                                     
-"name": "Canal Live 36(Aqui) [COLOR white] 06:00h ATP Cup CristalAzul",
+"name": "Canal Live 37(Aqui) [COLOR white] 06:00h ATP Cup CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
