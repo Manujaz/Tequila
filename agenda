@@ -239,27 +239,27 @@
                             "url": "http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                                                                                   
+                                                                                                                                                                                                   
                             
-"name": "Canal Live 10(Aqui) [COLOR white] 21:00h Rally Dakar. Etapa 10 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                                                                                    
-                            
-"name": "Canal Live 11(Aqui) [COLOR white] 21:45h Taça de Portugal. Vizela vs Porto CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 21:45h Taça de Portugal. Vizela vs Porto CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 12(Aqui) [COLOR white] 22:00h Rally Dakar. Etapa 10 CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 22:00h Rally Dakar. Etapa 10 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+ "name": "Canal Live 12(Aqui) [COLOR white] 23:30h Rally Dakar. Etapa 10 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.                           
                                                                                     
                             
 "name": "Canal Live 13(Aqui) [COLOR white] 01:00h NBA. Charlotte Hornets vs Philadelphia 76ers CristalAzul",
@@ -658,7 +658,42 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ppv.gcdn.co/DZ3/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ=="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] SK2 SPORT CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://103.194.169.171:8282/Sport_Klub_2_FHD_SRB/HRV/SLO_VIP/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                                                                                    
+"name": "CanalFavorito(Aqui) [COLOR white] SK3 SPORT CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://103.194.169.171:8282/Sport_Klub_3_FHD_SRB/HRV/SLO_VIP/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT 1 PREMIUM CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT 2 PREMIUM CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT 3 PREMIUM CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                                                                                                     
 "name": "CanalFavorito(Aqui) [COLOR white] TRACE SPORT STARS CristalAzul",
