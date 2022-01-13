@@ -294,17 +294,24 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2200/BR/ESPN2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 18(Aqui) [COLOR white] 01:15h England League Cup. Liverpool vs Arsenal CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                                                         
                            
-"name": "Canal Live 18(Aqui) [COLOR white] 01:15h England League Cup. Liverpool vs Arsenal CristalAzul",
+"name": "Canal Live 19(Aqui) [COLOR white] 01:15h England League Cup. Liverpool vs Arsenal CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                     
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-"name": "Canal Live 19(Aqui) [COLOR white] 01:30h NBA. Milwaukee Bucks vs Golden State Warriors CristalAzul",
+"name": "Canal Live 20(Aqui) [COLOR white] 01:30h NBA. Milwaukee Bucks vs Golden State Warriors CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -895,14 +902,14 @@
                             "embed": "SOL M.*?sica">'.http://185.53.89.183/hls/bt2.m3u8
                             
                                                                                                                                                                                                                                                                                                                                      
-"name": "CanalFavorito(Aqui) [COLOR white] BTSPORT 1 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BTSPORT 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport1/index.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BTSPORT 2 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BTSPORT 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
