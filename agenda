@@ -587,7 +587,7 @@
                             "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S59/tracks-v1a1/mono.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] M.LIGA CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] M.LIGA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -636,14 +636,14 @@
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES44/tracks-v1a1/mono.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] DAZN F1 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] DAZN F1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] M.VAMOS CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] M.VAMOS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.48.63:8081/ESP%7CVAMOS/ESP%7CVAMOS/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
