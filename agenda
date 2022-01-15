@@ -598,12 +598,12 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"noname": "CanalFavorito(Aqui) [COLOR white] ESPN EXTRA BR CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] GOLTV PERU CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://177.23.210.22:8060/espnextra/tracks-a2/mono.m3u8"',
+                            "url": " http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/210.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
-                            
+                            "embed": "SOL M.*?sica">'. http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/210.m3u8                          
+                           
                                                                                                                 
 "name": "CanalFavorito(Aqui) [COLOR white] ESPN SUR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -1526,12 +1526,12 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://stream2.grandma.fit/fs2.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S59/tracks-v1a1/mono.m3u8
+                            "embed": "SOL M.*?sica">'.http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/210.m3u8
                             
                                                         
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/210.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://dxla1.gcdn.co/ES4/tracks-v1a1/mono.m3u8
                             
