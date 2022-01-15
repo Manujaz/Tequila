@@ -217,10 +217,10 @@
                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.41.244.69/barcelonatv/tracks-v2a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'. http://154.62.74.29:1935/live/barza/chunklist_w1914664603.m3u8                           
                             
                                                                                                                                                                                                                                                                                                                                                                                                                           
-"name": "Canal Live 8(Aqui) [COLOR white] 12:15h Alpine Ski Wengen. Men's descent CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 12:15h Alpine Ski Wengen. Men.s descent CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport2hdnntv/chunklist_w1161496600_b3128000_sling.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1536,7 +1536,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                                                                                     
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
