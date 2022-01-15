@@ -626,16 +626,16 @@
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES44/tracks-v1a1/mono.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] DAZN F1 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] DAZN F1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'. http://185.152.66.55/98783/tracks-v1a1/mono.m3u8                           
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] M.VAMOS CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SKY SPORTS F1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://54.39.48.63:8081/ESP%7CVAMOS/ESP%7CVAMOS/chunks.m3u8"',
+                            "url": "http://185.152.66.55/98783/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES42/tracks-v1a1/mono.m3u8
                                                                                                                                           
