@@ -52,9 +52,9 @@
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"noname": "Canal Tenis (Aqui) [COLOR white] CANAL TENIS 5 CristalAzul",
+"name": "Canal Tenis (Aqui) [COLOR white] CANAL TENIS 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://154.62.74.12:1935/live/smil:eurosport2hdnntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -175,7 +175,7 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://cdn.motorsport.tv/2021/July/11/stockcar_brazil_2021_scb_cascavel_race_pt_2021.mp4/1920_1080_30_3600.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. Rally Islas Canarias" Campeonato de Europa
+                            "embed": "SOL M.*?sica">'. 
                             
                                                         
 "name": "Canal Motor (Aqui) [COLOR white] Rally Islas Canarias Campeonato de Europa CristalAzul",
