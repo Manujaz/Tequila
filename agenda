@@ -84,7 +84,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://208.79.153.123/teleup-espn-new1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/chunks.m3u8 
+                            "embed": "SOL M.*?sica">'. 
                             
                             
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 4 CristalAzul",
@@ -103,11 +103,18 @@
                                                         
 "name": "Canal NFL(Aqui) [COLOR white] CANAL NFL 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8"',
+                            "url": "http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/chunks.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
+                            
+
+"noname": "Canal NFL(Aqui) [COLOR white] CANAL NFL 2 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                            
+
 "name": "Canal MOTOR(Aqui) [COLOR white] Chili Bowl Nationals. Carrera de Campeones 2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://damb2tknfsomm.cloudfront.net/uploaded/wpLaboedJXLBbeg0GPD4EB7Z7QDaMjq7/playlist.m3u8"',
