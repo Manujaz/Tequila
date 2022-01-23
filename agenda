@@ -40,7 +40,7 @@
                             
 "name": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/89.chunklist_w27818905378.m3u8"',
+                            "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -255,9 +255,9 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 14(Aqui) [COLOR white] 14:00h Alpine Ski. World Cup 2021/2022-Kitzbuhel Downhill Men CristalAzul",
+"name": "Canal Live 14(Aqui) [COLOR white] 14:00h Alpine Ski. World Cup 2021.2022-Kitzbuhel Downhill Men CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://154.62.74.12:1935/live/smil:eurosport2hdnntv/chunklist_w1161496600_b3128000_sling.m3u8"',
+                            "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                             
@@ -278,7 +278,7 @@
                             
 "name": "Canal Live 17(Aqui) [COLOR white] 14:00h Snooker Shoot Out. Day 4 Session 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://154.62.74.12:1935/live/smil:eurosport2hdnntv/chunklist_w1161496600_b3128000_sling.m3u8"',
+                            "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -418,7 +418,7 @@
                             
 "name": "Canal Live 37(Aqui) [COLOR white] 19:45 Snooker Shoot Out. Day 4 Session 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://154.62.74.12:1935/live/smil:eurosport2hdnntv/chunklist_w1161496600_b3128000_sling.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                                                                                                                                                                                                                                                           
@@ -1094,14 +1094,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                            
-"name": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 2 ESP CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://154.62.74.12:1935/live/smil:eurosport2hdnntv/chunklist_w1161496600_b3128000_sling.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                                                                                                                                                                                                                                                                                                                                                                      
-                            
+                                                                                                                                                                                                                                                                                                                                                                                                                            
 "name": "CanalFavorito (Aqui) [COLOR white] PLAY UD SPORT ESP CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/high/index.m3u8"',
@@ -1209,7 +1202,7 @@
 
 "name": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 1 ESP CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
+                            "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES60/tracks-v1a1/mono.m3u8?euro1
 
