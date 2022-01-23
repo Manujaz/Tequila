@@ -292,7 +292,7 @@
                             
 "name": "Canal Live 20(Aqui) [COLOR white] 15:00h Premier League. Crystal Palace vs Liverpool CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
+                            "url": "http://melancolicos10.ddns.net:8080/hls/stream.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                                                                                                         
@@ -301,7 +301,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
                             
                             
 "name": "Canal Live 22(Aqui) [COLOR white] 15:00h Italy Serie A. Napoli vs Salernitana CristalAzul",
@@ -334,7 +334,7 @@
                             
 "name": "Canal Live 26(Aqui) [COLOR white] 16:15h La Liga. Real Madrid vs Elche CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://50.7.34.155:2200/BR/Fox_Sports_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://ca.stream2watch.sx/watch/tudn-live-stream
                             
@@ -446,61 +446,68 @@
                             
 "name": "Canal Live 42(Aqui) [COLOR white] 20:45h Francia Ligue 1. PSG vs Stade de Reims CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
+                            "url": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 43(Aqui) [COLOR white] 21:00h La Liga. Deportivo Alavés vs Barcelona CristalAzul",
+"name": "Canal Live 43(Aqui) [COLOR white] 20:45h Francia Ligue 1. PSG vs Stade de Reims CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 44(Aqui) [COLOR white] 21:00h La Liga. Deportivo Alavés vs Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/beinlaliga/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
                             
                             
-"name": "Canal Live 44(Aqui) [COLOR white] 21:00h La Liga. Deportivo Alavés vs Barcelona CristalAzul",
+"name": "Canal Live 45(Aqui) [COLOR white] 21:00h La Liga. Deportivo Alavés vs Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://melancolicos10.ddns.net:8080/hls/stream.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 45(Aqui) [COLOR white] 21:00h La Liga. Deportivo Alavés vs Barcelona CristalAzul",
+"name": "Canal Live 46(Aqui) [COLOR white] 21:00h La Liga. Deportivo Alavés vs Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 46(Aqui) [COLOR white] 21:30h NBA. Washington Wizards vs Boston Celtics CristalAzul",
+"name": "Canal Live 47(Aqui) [COLOR white] 21:30h NBA. Washington Wizards vs Boston Celtics CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 47(Aqui) [COLOR white] 23:10h Super Smash Women. Wellington Blaze W vs Northern Brave W CristalAzul",
+"name": "Canal Live 48(Aqui) [COLOR white] 23:10h Super Smash Women. Wellington Blaze W vs Northern Brave W CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                         
-"name": "Canal Live 48(Aqui) [COLOR white] 00:00h NBA. Miami Heat vs Los Angeles Lakers CristalAzul",
+"name": "Canal Live 49(Aqui) [COLOR white] 00:00h NBA. Miami Heat vs Los Angeles Lakers CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 49(Aqui) [COLOR white] 00:00 NHL. Columbus Blue Jackets vs Ottawa Senators CristalAzul",
+"name": "Canal Live 50(Aqui) [COLOR white] 00:00h NHL. Columbus Blue Jackets vs Ottawa Senators CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                                                                                                                                                 
-"name": "Canal Live 50(Aqui) [COLOR white] 01:00h Winter X Games Aspen 2022. Day 3 Session 2 CristalAzul",
+"name": "Canal Live 51(Aqui) [COLOR white] 01:00h Winter X Games Aspen 2022. Day 3 Session 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
