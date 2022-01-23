@@ -108,12 +108,12 @@
                             "embed": "SOL M.*?sica">'.
                             
 
-"noname": "Canal NFL(Aqui) [COLOR white] CANAL NFL 2 CristalAzul",
+"name": "Canal NFL(Aqui) [COLOR white] CANAL NFL 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/skysports3/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
+                            "embed": "SOL M.*?sica">'. https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
+                           
 
 "name": "Canal MOTOR(Aqui) [COLOR white] Chili Bowl Nationals. Carrera de Campeones 2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -738,9 +738,9 @@
                             "embed": "SOL M.*?sica">'.http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8                           
                             
                                                         
-"noname": "CanalFavorito(Aqui) [COLOR white] GOLTV PERU CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SKY SPORTS GOLF CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/210.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/skysports4/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                          
                            
@@ -766,7 +766,7 @@
                             "embed": "SOL M.*?sica">'.http://alv.encohd.co:39591/live/xJx29E/Pl200nccS/384.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
                                                                                                                                           
                                                         
-"noname": "CanalFavorito(Aqui) [COLOR white] WIN SPORT LAT CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/1703.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
