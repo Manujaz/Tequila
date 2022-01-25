@@ -930,6 +930,13 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.48.63:8081/LATINO%7CBEINSPORTSNCH/LATINO%7CBEINSPORTSNCH/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT XTRA Ñ CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
@@ -1294,15 +1301,8 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                                               
-"name": "CanalFavorito (Aqui) [COLOR white] MMA-TV CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://alchimie-mmatv-samsung.amagi.tv/playlist1080_p.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                                                                     
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                            "embed": "SOL M.*?sica">'.                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
                             
 "name": "CanalFavorito (Aqui) [COLOR white] SETANTA SPORTS CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
@@ -1421,18 +1421,11 @@
                             "url": "http://st1.astra-uk.ru:81/4c0638123e05b9370674f3a7645374ef/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
-                                                                                                                
-                            
-"name": "CanalFavorito (Aqui) [COLOR white] BAND SPORTS CristalAzul",
+                                                                                                                                                                                                                                                                                                                                                                   
+
+"name": "Canal 1(Aqui) [COLOR white] BAND SPORTS CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://50.7.34.155:2200/BR/Band_Sports_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                             
-                                                                                                                                                                                           
-
-"name": "Canal 1(Aqui) [COLOR white] SKY SPORTS F1 CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -1556,9 +1549,9 @@
                             "embed": "SOL M.*?sica">'.
  
  
-"name": "Canal 19(Aqui) [COLOR white] BEINSPORTS-XTRA Ñ CristalAzul",
+"name": "Canal 19(Aqui) [COLOR white] MMA-TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true"',
+                            "url": "https://alchimie-mmatv-samsung.amagi.tv/playlist1080_p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
  
