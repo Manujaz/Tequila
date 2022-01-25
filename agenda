@@ -814,9 +814,16 @@
                             "embed": "SOL M.*?sica">'.https://ent.gcdn.co/S59/tracks-v1a1/mono.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] M.LIGA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] FS1 SPORT USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://5gfksa.ltd:2052/live/55667788/88776655/83311.m3u8"',
+                            "url": "http://54.39.49.162:8081/FS1/USA%7CFS1/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] FS2 SPORT USA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://54.39.49.162:8081/FS2/USA%7CFS2/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                     
@@ -877,14 +884,14 @@
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES46/tracks-v1a1/mono.m3u8
 
 
-"noname": "CanalFavorito(Aqui) [COLOR white] DAZN F1 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] DAZN F1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://185.152.66.55/98783/tracks-v1a1/mono.m3u8                           
                                                                                                                                                                                                   
                                                                                     
-"name": "CanalFavorito(Aqui) [COLOR white] SPORTTV CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SPORT TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://sport.livedoomovie.com/02_foxsport_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
