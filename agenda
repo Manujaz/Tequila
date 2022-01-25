@@ -126,7 +126,14 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.49.162:8081/MLBNETWORK/SPORTS/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'                           
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "Canal MLB(Aqui) [COLOR white] CANAL NHL 1 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://54.39.49.162:8081/NHL/SPORTS/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                            
 
 "name": "Canal MOTOR(Aqui) [COLOR white] Chili Bowl Nationals. Carrera de Campeones 2022 CristalAzul",
@@ -615,6 +622,13 @@
 "noname": "Canal Live 13(Aqui) [COLOR white] 03:00h Snowpiercer. Season 3 Episode 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn1-7p.teleuptv.net/88c3358a-4f67-4c37-a36b-aaada997d447/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                                                        
+"name": "CanalFavorito(Aqui) [COLOR white] TENNIS CHANNEL CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://54.39.49.162:8081/USA%7CTENNISCHANNEL/SPORTS/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -1546,7 +1560,14 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal 13(Aqui) [COLOR white] NBA TV 2 CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
  
  
 "name": "Canal 14(Aqui) [COLOR white] HARDKNOCKS-TVHD CristalAzul",
@@ -1758,33 +1779,54 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                                                                                                                                             
-
-"name": "Canal 44(Aqui) [COLOR white] TSN5 SPORTS CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
  
- 
-"name": "Canal 45(Aqui) [COLOR white] ESPN 4 ENG CristalAzul",
+"name": "Canal 44(Aqui) [COLOR white] ESPN 4 ENG CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://content-aeui1.uplynk.com/channel/06aa99590c444d7a9ff4c3113cb7606f/f.m3u8?pbs=5c34356cbb274d7a81641d0d4e26100b"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.            
  
  
-"name": "Canal 46(Aqui) [COLOR white] EDGER-SPORTSTV-HD CristalAzul",
+"name": "Canal 45(Aqui) [COLOR white] EDGER-SPORTSTV-HD CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://edgesports-stirr.amagi.tv/playlist1080p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
+                            
+"name": "Canal 46(Aqui) [COLOR white] PAC 12 NETWORKS WASHINGTON CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://54.39.49.162:8081/USA%7CPAC12WASHINGTON/USA%7CPAC12WASHINGTON/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "Canal 46(Aqui) [COLOR white] PAC 12 NETWORKS OREGON CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://54.39.49.162:8081/USA%7CPAC12OREGON/USA%7CPAC12OREGON/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal 46(Aqui) [COLOR white] PAC 12 NETWORKS ARIZONA CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://54.39.49.162:8081/USA%7CPAC12ARIZONA/USA%7CPAC12ARIZONA/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                                                        
 
 "name": "Canal 47(Aqui) [COLOR white] PAC 12 NETWORKS CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8"',
+                            "url": "http://54.39.49.162:8081/USA%7CPAC12NETWORK/USA%7CPAC12NETWORK/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
+                            
+                            
+ "name": "Canal 47(Aqui) [COLOR white] NBC OLYMPIC CHANNEL USA CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://66.70.176.103:8081/USA%7COLYMPICCHANNEL/USA%7COLYMPICCHANNEL/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
  
  
 "name": "Canal 48(Aqui) [COLOR white] SPORT3 CAT CristalAzul",
