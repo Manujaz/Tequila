@@ -1556,7 +1556,7 @@
                             "embed": "SOL M.*?sica">'.
  
  
-"name": "Canal 19(Aqui) [COLOR white] BEINSPORTS-XTRA N CristalAzul",
+"name": "Canal 19(Aqui) [COLOR white] BEINSPORTS-XTRA Ñ CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1834,6 +1834,13 @@
                             "url": "https://unbeaten-roku.amagi.tv/playlist1080p.m3u8",
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal 59(Aqui)[COLOR white] WORLD FREE SPORTS CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8",
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                                                                                     
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
