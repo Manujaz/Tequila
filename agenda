@@ -33,7 +33,7 @@
                                                                                   
 "name": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.161.252.33/ESPN_INT/tracks-v1a1/mono.m3u8"',
+                            "url": "http://145.239.142.113/BEIN-5-SD/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -49,7 +49,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://145.239.142.113/BEIN-7-SD/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'. http://145.239.142.113/BEIN-5-SD/playlist.m3u8
                             
                             
 "name": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 5 CristalAzul",
@@ -58,14 +58,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
-                            
-"name": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 6 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://145.239.142.113/BEIN-5-SD/playlist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                             
-                            
-                                                                                                                                                                       
+                                                                                                                                                                                                                                                           
 "name": "Canal NBA (Aqui) [COLOR white] CANAL NBA 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8"',
