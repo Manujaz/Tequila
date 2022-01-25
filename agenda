@@ -175,6 +175,13 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn-bein-es-hls-overon.nunchee.tv/master/710cc0ac471746b9b6691a0d8064db924580fecc/bein-es-hls-overon/index.m3u8?secure=1&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4tYmVpbi1lcy1obHMtb3Zlcm9uLm51bmNoZWUudHYvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY0MzE0MDIwN319fV19&Key-Pair-Id=K3NCDY0BEWL60L&Signature=Rop5gfVc2uFOeoAIkucu8mv0O2D65g1lU4oKmlE9xlaxf~2HLRS5hP67fwBL4tN1NNr4f0Uzvjw1Kx3rvNxsELKGtY73uu8~3Ii1azzUaPEhgSRuz7vBgVmntDYtvM9epndyVfaojwZyLBqt66uaIZ~SLZYUGZtQfzYoU22FEr95yAVoh2Xyzs3OQLXzKgqPPwtj5-ojKejuy7eKCE-PWqZdAvu1XuzhGN-R0Kjy0giA7vSbKxE~UiTBhaad5f5nDdHnSevg0bHhlOb-X6lva4XxcBGs5P~9X9MIk36Jjvtw50BpKeaBZeYPZrWARjbH0SSh~Cn~5yGxmHmh1z22iQ__"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "Canal Live 3(Aqui) [COLOR white] 17:00h Copa Africana de Naciones. Senegal VS Cabo Verde CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://54.39.48.63:8081/LATINO%7CBEINSPORTSNCH/LATINO%7CBEINSPORTSNCH/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                    
                                                         
@@ -841,14 +848,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8                           
                             
-                                                        
-"noname": "CanalFavorito(Aqui) [COLOR white] SKY SPORTS GOLF CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/skysports4/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                          
-                           
-                                                                                                                
+                                                                                                                                                                                                                            
 "name": "CanalFavorito(Aqui) [COLOR white] SKY SPORTS F1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.132.132.192:8080/SKYSPF1/tracks-v1a1/mono.m3u8"',
@@ -923,7 +923,14 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://103.194.169.171:8282/Sport_Klub_3_FHD_SRB/HRV/SLO_VIP/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://54.39.48.63:8081/LATINO%7CBEINSPORTSNCH/LATINO%7CBEINSPORTSNCH/playlist.m3u8
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT Ñ CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://54.39.48.63:8081/LATINO%7CBEINSPORTSNCH/LATINO%7CBEINSPORTSNCH/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT 1 PREMIUM CristalAzul",
