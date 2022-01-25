@@ -815,6 +815,13 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
+"name": "CanalFavorito(Aqui) [COLOR white] ESPN NETWORK SPORTS CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://54.39.49.162:8081/USA%7CESPNSECNETWORK/SPORTS/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
 "name": "CanalFavorito(Aqui) [COLOR white] ESPN BR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8"',
