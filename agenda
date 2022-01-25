@@ -248,6 +248,13 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
+"name": "Canal Live 14(Aqui) [COLOR white] 01:00h Brazil Campeonato Paulista A1. Caldense vs América Mineiro CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://99.27.51.147:8080/ESPN2/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
 "name": "Canal Live 15(Aqui) [COLOR white] 01:30h NBA. Brooklyn Nets vs Los Angeles Lakers CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn1-7p.teleuptv.net/88c3358a-4f67-4c37-a36b-aaada997d447/tracks-v1a1/mono.m3u8"',
@@ -1137,21 +1144,21 @@
                             "embed": "SOL M.*?sica">'.
                                                                                                                                                                                                                      
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] SPORTS TV BRA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SPORTS TV BRA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                                                         
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] SPORTS TV 2 BRA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SPORTS TV 2 BRA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] SPORTS TV 3 BRA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SPORTS TV 3 BRA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1363,7 +1370,7 @@
                                                                                                                                                                                                
 "name": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 2 POR CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.chunklist_w27818905378.m3u8"',
+                            "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://lon-haproxy.angelthump.com/hls/spf1general/index.m3u8
                             
@@ -1372,7 +1379,7 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://st1.astra-uk.ru:81/27d3f771f722037356f28ab60e1eb7db/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.chunklist_w27818905378.m3u8
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 2 RUS CristalAzul",
