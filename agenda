@@ -176,9 +176,16 @@
                             "url": "https://rtvelivestreamv3.akamaized.net:443/tdp/tdp_main_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                                                        
-                                                        
+                            
+                            
 "name": "Canal Live 3(Aqui) [COLOR white] 17:30h Eurocopa. Croacia vs Rusia CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://cdn-bein-es-hls-overon.nunchee.tv/master/710cc0ac471746b9b6691a0d8064db924580fecc/bein-es-hls-overon/index.m3u8?secure=1&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4tYmVpbi1lcy1obHMtb3Zlcm9uLm51bmNoZWUudHYvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY0MzE0MDIwN319fV19&Key-Pair-Id=K3NCDY0BEWL60L&Signature=Rop5gfVc2uFOeoAIkucu8mv0O2D65g1lU4oKmlE9xlaxf~2HLRS5hP67fwBL4tN1NNr4f0Uzvjw1Kx3rvNxsELKGtY73uu8~3Ii1azzUaPEhgSRuz7vBgVmntDYtvM9epndyVfaojwZyLBqt66uaIZ~SLZYUGZtQfzYoU22FEr95yAVoh2Xyzs3OQLXzKgqPPwtj5-ojKejuy7eKCE-PWqZdAvu1XuzhGN-R0Kjy0giA7vSbKxE~UiTBhaad5f5nDdHnSevg0bHhlOb-X6lva4XxcBGs5P~9X9MIk36Jjvtw50BpKeaBZeYPZrWARjbH0SSh~Cn~5yGxmHmh1z22iQ__"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                                                                                   
+                                                        
+"name": "Canal Live 3(Aqui) [COLOR white] 17:00H Copa Africana de Naciones. Senegal VS Cabo Verde CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net:443/tdp/tdp_main_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
