@@ -119,14 +119,21 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.49.162:8081/USA%7CESPNSECNETWORK/SPORTS/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'                            
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal MLB(Aqui) [COLOR white] CANAL MLB 1 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://54.39.49.162:8081/MLBNETWORK/SPORTS/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'                           
                            
 
 "name": "Canal MOTOR(Aqui) [COLOR white] Chili Bowl Nationals. Carrera de Campeones 2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://damb2tknfsomm.cloudfront.net/uploaded/wpLaboedJXLBbeg0GPD4EB7Z7QDaMjq7/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://54.39.49.162:8081/MLBNETWORK/SPORTS/playlist.m3u8
                             
                                                                                                                                                                                                                                                                                                                                                                                                 
 "noname": "Canal Pekín22(Aqui) [COLOR white] Juegos Olímpicos de Pekín 2022 CristalAzul",
@@ -619,9 +626,9 @@
                             "embed": "SOL M.*?sica">'.
                                                                                     
                                                         
-"noname": "Canal Live 16(Aqui) [COLOR white]  CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] COMBAT X CHN CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://terminal2022.ddns.net:8080/hls/stream.m3u8"',
+                            "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -729,6 +736,13 @@
                             "url": "http://93.152.174.144:4000/play/bein2fr/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] MLB NETWORK CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://54.39.49.162:8081/MLBNETWORK/SPORTS/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                      
                             
                                                         
 "noname": "CanalFavorito(Aqui) [COLOR white] ELEVEN 1 POR CristalAzul",
@@ -857,9 +871,9 @@
                             "embed": "SOL M.*?sica">'.http://alv.encohd.co:39591/live/xJx29E/Pl200nccS/384.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==                            
                             
 
-"noname": "CanalFavorito(Aqui) [COLOR white]  CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] GOLTV LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/1703.m3u8"',
+                            "url": "http://54.39.49.162:8081/USA%7CGOLTV/USA%7CGOLTV/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES46/tracks-v1a1/mono.m3u8
 
@@ -871,7 +885,7 @@
                             "embed": "SOL M.*?sica">'. http://185.152.66.55/98783/tracks-v1a1/mono.m3u8                           
                                                                                                                                                                                                   
                                                                                     
-"noname": "CanalFavorito(Aqui) [COLOR white] SPORTTV CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SPORTTV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://sport.livedoomovie.com/02_foxsport_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1123,14 +1137,14 @@
                             "embed": "SOL M.*?sica">'.http://185.53.89.183/hls/bt2.m3u8
                             
                                                                                                                                                                                                                                                                                                                                      
-"noname": "CanalFavorito(Aqui) [COLOR white] BTSPORT 1 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BTSPORT 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport1/index.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] BTSPORT 2 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BTSPORT 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1832,7 +1846,7 @@
                                                         
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&PlaylistM3UCL"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
