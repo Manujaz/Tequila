@@ -47,7 +47,7 @@
                             
 "name": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://54.39.49.162:8081/USA%7CESPN2/SPORTS/playlist.m3u8"',
+                            "url": "http://145.239.142.113/BEIN-5-SD/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://145.239.142.113/BEIN-5-SD/playlist.m3u8
                             
@@ -197,21 +197,7 @@
                             "url": "http://54.39.48.63:8081/LATINO%7CBEINSPORTSNCH/LATINO%7CBEINSPORTSNCH/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                            
-                            
-"name": "Canal Live 5(Aqui) [COLOR white] 17:00h Triple Impact Fist fights. Live broadcast from Moscow. CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                             
-                            
-                            
-"name": "Canal Live 6(Aqui) [COLOR white] 17:30h Eurocup. Lokomotiv Kuban vs Lietkabelis Panevezys CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
+                                                                                                                                                                      
                             
 "name": "Canal Live 7(Aqui) [COLOR white] 17:30h UEFA Futsal Championship. Bosnia & Herzegovina vs Georgia CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -724,7 +710,7 @@
                             "embed": "SOL M.*?sica">'.http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/2559.m3u8                           
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 3 ENG CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 3 ARA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://145.239.142.113/BEIN-3-SD/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -776,7 +762,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/bein2fr/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mono.m3u8
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] MLB NETWORK CristalAzul",
