@@ -173,14 +173,14 @@
                             
 "name": "Canal Live 1(Aqui) [COLOR white] 12:30h Snooker European Series. German Masters 2021/22 Live CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
+                            "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
 "name": "Canal Live 2(Aqui) [COLOR white] 15:00h Snooker German Masters. Day 1 Session 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
+                            "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -236,7 +236,7 @@
                             
 "name": "Canal Live 10(Aqui) [COLOR white] 19:55h Snooker German Masters. first shift CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
+                            "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                             
@@ -446,7 +446,7 @@
                             
 "noname": "Canal Live 37(Aqui) [COLOR white] 19:45h Snooker Shoot Out. Day 4 Session 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
+                            "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                                                                                                                                                                                                                                                           
