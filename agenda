@@ -187,145 +187,159 @@
                             
 "name": "Canal Live 3(Aqui) [COLOR white] 11:30h 1ª Andaluza Infantil.Real Betis Academy vs Puente Genil CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://betistv-live.flumotion.com/E5wLgTdEKqC6GDYXOWhOxA/1643459766/betistv/live_all/betistv/live_source/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 4(Aqui) [COLOR white] 12:00h Primera Iberdrola. FC Barcelona Femenino vs Real Betis Féminas CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 11:30h Alpine Ski Garmisch Partenkirchen. Downhill Women CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 5(Aqui) [COLOR white] 12:00h Primera Iberdrola. FC Barcelona Femenino vs Real Betis Féminas CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.41.244.69/barcelonatv/tracks-v2a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 5(Aqui) [COLOR white] 13:00h División Honor Infantil. Real Madrid Academy vs Atlético Madrileño CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 13:00h División Honor Infantil. Real Madrid Academy vs Atlético Madrileño CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.41.244.69/realmadridtvhd/tracks-v3a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 6(Aqui) [COLOR white] 13:30h División Honor Cadete vs Real Betis Academy CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 13:30h División Honor Cadete vs Real Betis Academy CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://betistv-live.flumotion.com/E5wLgTdEKqC6GDYXOWhOxA/1643459766/betistv/live_all/betistv/live_source/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 8(Aqui) [COLOR white] 14:00h Snooker German Masters. Day 4 Session 1 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                             
                             
                                                                                                                  
-"name": "Canal Live 7(Aqui) [COLOR white] 14:30h Eurocopa. Eslovaquia vs Croacia CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 14:30h Eurocopa. Eslovaquia vs Croacia CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                           
                                                         
-"name": "Canal Live 8(Aqui) [COLOR white] 16:00h LaLiga SmartBank. Amorebieta vs Girona CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 16:00h LaLiga SmartBank. Amorebieta vs Girona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/beinlaliga/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                                                                                                       
                             
-"name": "Canal Live 9(Aqui) [COLOR white] 16:30h División Honor Juvenil. Real Betis Academy vs Jóvenes Promesas FC CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 16:30h División Honor Juvenil. Real Betis Academy vs Jóvenes Promesas FC CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://betistv-live.flumotion.com/E5wLgTdEKqC6GDYXOWhOxA/1643459766/betistv/live_all/betistv/live_source/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 10(Aqui) [COLOR white] 17:00h Euroliga Femenina. Spar Girona vs Dynamo Kursk CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 17:00h Euroliga Femenina. Spar Girona vs Dynamo Kursk CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 11(Aqui) [COLOR white] 17:00h Primera Iberdrola. Real Madrid Femenino vs Sevilla FC Femenino CristalAzul",
+"name": "Canal Live 13(Aqui) [COLOR white] 17:00h Primera Iberdrola. Real Madrid Femenino vs Sevilla FC Femenino CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.41.244.69/realmadridtvhd/tracks-v3a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://54.39.48.63:8081/LATINO%7CBEINSPORTSNCH/LATINO%7CBEINSPORTSNCH/playlist.m3u8
                             
                             
-"name": "Canal Live 12(Aqui) [COLOR white] 17:00h Tercera RFEF. AD Cartaya vs Gerena CristalAzul",
+"name": "Canal Live 13(Aqui) [COLOR white] 17:00h Tercera RFEF. AD Cartaya vs Gerena CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/chunklist_w1678073795.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live 13(Aqui) [COLOR white] 17:30h Eurocopa. Georgia vs España CristalAzul",
+"name": "Canal Live 14(Aqui) [COLOR white] 17:30h Eurocopa. Georgia vs España CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8
                                                        
                                                                                     
-"name": "Canal Live 14(Aqui) [COLOR white] 18:00h FIA Fórmula E. Ad Diriyah Arabia Saudí CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 18:00h FIA Fórmula E. Ad Diriyah Arabia Saudí CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://belfast.dyndns.tv:5808/BEINHD11/tracks-v1a1/mono.m3u8                            
                                                                                                                                                                                                                                                                                                                                                                                                         
                                                         
-"name": "Canal Live 15(Aqui) [COLOR white] 18:00h FIA Fórmula E. Ad Diriyah Arabia Saudí CristalAzul",
+"name": "Canal Live 16(Aqui) [COLOR white] 18:00h FIA Fórmula E. Ad Diriyah Arabia Saudí CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                                                
                                                                                                                                                                                                                                                            
-"name": "Canal Live 16(Aqui) [COLOR white] 19:00h Primera RFEF Barcelona B. RM Castilla vs Footters CristalAzul",
+"name": "Canal Live 17(Aqui) [COLOR white] 19:00h Primera RFEF Barcelona B. RM Castilla vs Footters CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                                                
                             
-"name": "Canal Live 17(Aqui) [COLOR white] 19:30h Liga Femenina Endesa. Movistar Estudiantes vs IDK Euskotren CristalAzul",
+"name": "Canal Live 18(Aqui) [COLOR white] 19:30h Liga Femenina Endesa. Movistar Estudiantes vs IDK Euskotren CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.20:00 German Masters - Day 4 Session 2
+                            
+                            
+"name": "Canal Live 19(Aqui) [COLOR white] 20:00h Snooker German Masters. Day 4 Session 2 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                                                                                    
                             
-                            
-"name": "Canal Live 18(Aqui) [COLOR white] 20:20h Millrose Games vs World Athletics Indoor Tour CristalAzul",
+"name": "Canal Live 20(Aqui) [COLOR white] 20:20h Millrose Games vs World Athletics Indoor Tour CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                             
                             
-"name": "Canal Live 19(Aqui) [COLOR white] 21:00h LaLiga SmartBank. Real Oviedo vs UD Almería CristalAzul",
+"name": "Canal Live 21(Aqui) [COLOR white] 21:00h LaLiga SmartBank. Real Oviedo vs UD Almería CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 20(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 22(Aqui) [COLOR white] 21:25h Cyclo-cross. Fayetteville | Women CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://belfast.dyndns.tv:5808/BEINHD11/tracks-v1a1/mono.m3u8"',
+                            "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "Canal Live 21(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                                                                                                                                                                                                                                 
-                                                                                   
-                            
-"noname": "Canal Live 22(Aqui) [COLOR white] 01:00h Athletes Unlimited Basketball. Purple vs. Orange CristalAzul",
+"name": "Canal Live 23(Aqui) [COLOR white] 22:30h Horse Racing. 2022 Pegasus World Cup CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                                                        
-"noname": "Canal Live 23(Aqui) [COLOR white] 01:00h NCAA. Dayton vs Rhode Island CristalAzul",
+                            "embed": "SOL M.*?sica">'.                                                                                                                                                                                                                                                                                        
+                                                                                   
+                                                                                                                
+"noname": "Canal Live 23(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://99.27.51.147:8080/ESPN2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
