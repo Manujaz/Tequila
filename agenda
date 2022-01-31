@@ -28,7 +28,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://99.27.51.147:8080/ESPN2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.  http://54.39.49.162:8081/USA%7CESPN2/SPORTS/playlist.m3u8                          
+                            "embed": "SOL M.*?sica">'.  http://54.39.49.162:8081/USA%7CESPN2/SPORTS/playlist.m3u8                                                
                             
                                                                                   
 "name": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
@@ -276,21 +276,28 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 16(Aqui) [COLOR white] 01:30h NBA. Boston Celtics vs Miami Heat CristalAzul",
+"name": "Canal Live 16(Aqui) [COLOR white] 01:00h NCAA. Notre Dame vs Duke CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://208.79.153.123/teleup-espn-new1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 17(Aqui) [COLOR white] 01:30h NBA. Boston Celtics vs Miami Heat CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://54.39.48.63:8081/LATINO%7CBEINSPORTSNCH/LATINO%7CBEINSPORTSNCH/playlist.m3u8                            
                             
                             
-"name": "Canal Live 17(Aqui) [COLOR white] 03:00h NCAA. Oklahoma vs TCU CristalAzul",
+"name": "Canal Live 18(Aqui) [COLOR white] 03:00h NCAA. Oklahoma vs TCU CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                        
                             
-"noname": "Canal Live 18(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 19(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1428,6 +1435,13 @@
                             "url": "https://bal.varcdn1.ru/lb/setanta2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://208.79.153.123/teleup-espn-new1/tracks-v1a1/mono.m3u8 
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN USA CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://208.79.153.123/teleup-espn-new1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                              
                                                         
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 USA CristalAzul",
