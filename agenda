@@ -26,7 +26,7 @@
                             
 "name": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://99.27.51.147:8080/ESPN2/tracks-v1a1/mono.m3u8"',
+                            "url": "http://145.239.142.113/BEIN-5-SD/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.  http://54.39.49.162:8081/USA%7CESPN2/SPORTS/playlist.m3u8                                                
                             
@@ -35,7 +35,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://145.239.142.113/BEIN-5-SD/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://99.27.51.147:8080/ESPN2/tracks-v1a1/mono.m3u8
                             
                             
 "name": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
@@ -45,14 +45,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 4 CristalAzul",
+"noname": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://145.239.142.113/BEIN-5-SD/playlist.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://145.239.142.113/BEIN-5-SD/playlist.m3u8
                             
                             
-"name": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 5 CristalAzul",
+"noname": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://145.239.142.113/BEIN-6-SD/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -68,26 +68,26 @@
                             
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://54.39.49.162:8081/USA%7CESPN2/SPORTS/playlist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://whistle-1-us.sinclair.wurl.tv/3000.m3u8
-                            
-                            
-"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://208.79.153.123/teleup-espn-new1/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://54.39.49.162:8081/USA%7CESPN2/SPORTS/playlist.m3u8
+                            
+                            
+"noname": "Canal NBA(Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 4 CristalAzul",
+"noname": "Canal NBA(Aqui) [COLOR white] CANAL NBA 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.49.162:8081/USA%7CESPN/SPORTS/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
+"noname": "Canal NBA(Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.49.162:8081/NBA%7CNUGGETS/NBA%7CNUGGETS/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -108,28 +108,28 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal NFL(Aqui) [COLOR white] CANAL NFL 3 CristalAzul",
+"noname": "Canal NFL(Aqui) [COLOR white] CANAL NFL 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.49.162:8081/USA%7CESPNSECNETWORK/SPORTS/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal NFL(Aqui) [COLOR white] CANAL NFL 4 CristalAzul",
+"noname": "Canal NFL(Aqui) [COLOR white] CANAL NFL 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.49.162:8081/ELEVENSPORTS/SPORTS/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal MLB(Aqui) [COLOR white] CANAL MLB 1 CristalAzul",
+"noname": "Canal MLB(Aqui) [COLOR white] CANAL MLB 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.49.162:8081/MLBNETWORK/SPORTS/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal MLB(Aqui) [COLOR white] CANAL NHL 1 CristalAzul",
+"noname": "Canal MLB(Aqui) [COLOR white] CANAL NHL 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.49.162:8081/NHL/SPORTS/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
