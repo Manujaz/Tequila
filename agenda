@@ -150,16 +150,16 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "Canal 3 Beijing22(Aqui) [COLOR white] 4 de Febrero. Juegos Olímpicos de Pekín 2022 CristalAzul",
+"name": "Canal 3 Beijing22(Aqui) [COLOR white] 4 de Febrero. Juegos Olímpicos de Pekín 2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal 4 Beijing22(Aqui) [COLOR white] 4 de Febrero. Juegos Olímpicos de Pekín 2022 CristalAzul",
+"name": "Canal 4 Beijing22(Aqui) [COLOR white] 4 de Febrero. Juegos Olímpicos de Pekín 2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -180,7 +180,7 @@
                             
 "name": "Canal Live 3(Aqui) [COLOR white] 20:00h Copa del Rey 1/4 de Final. Real Sociedad vs Real Betis CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://juguemosalawii.ddns.net:8080/hls/privado.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                     
