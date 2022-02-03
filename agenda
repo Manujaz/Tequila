@@ -145,21 +145,21 @@
                             
 "name": "Canal 2 Beijing22(Aqui) [COLOR white] 4 de Febrero. Juegos Olímpicos de Pekín 2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://ott-dai-oc.akamaized.net/OC1/OC1.m3u8?hdnea=st=1643891716~exp=1643892016~acl=*~id=1b9566b4-5508-4604-bee0-4f6a9d3d6b34~hmac=a51a63306d413af3806471ae84f3007e9a8a0795f3228269503b9e2439c2a65c&originpath=/linear/hls/pa/event/uL3iZD6rQoC4Bg8fWkD56g/stream/721af146-4597-4830-bd7c-73d8e23f4885:BRU/master.m3u8"',
+                            "url": "http://66.70.176.103:8081/USA%7COLYMPICCHANNEL/USA%7COLYMPICCHANNEL/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal 3 Beijing22(Aqui) [COLOR white] 4 de Febrero. Juegos Olímpicos de Pekín 2022 CristalAzul",
+"noname": "Canal 3 Beijing22(Aqui) [COLOR white] 4 de Febrero. Juegos Olímpicos de Pekín 2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://ott-dai-oc.akamaized.net/OC2/OC2.m3u8?hdnea=st=1643891833~exp=1643892133~acl=*~id=94f0fc92-d42b-4729-b128-81116ff05415~hmac=b2615625ae0c7087ebf6c9a940c603f42c4e90cb0012967dc0ce16b14a1b3686&originpath=/linear/hls/pa/event/aVDTeWJuT4eLELOBYxMtYg/stream/2cf1bf15-0f07-4cdf-bfc5-5cdbd3c76ab2:BRU/master.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal 4 Beijing22(Aqui) [COLOR white] 4 de Febrero. Juegos Olímpicos de Pekín 2022 CristalAzul",
+"noname": "Canal 4 Beijing22(Aqui) [COLOR white] 4 de Febrero. Juegos Olímpicos de Pekín 2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://ott-dai-oc.akamaized.net/OC3/OC3.m3u8?hdnea=st=1643891900~exp=1643892200~acl=*~id=07b62499-8bdb-46e5-a66e-74e0512bb060~hmac=dbe6c8bb92a3965bad3d140e9721f7fb6e16cd030efdca808ee52b4bca09e8d2&originpath=/linear/hls/pa/event/1bBUUAGUSuyokri25VPfpg/stream/4a6e543e-8de2-4fc0-b9ae-c4c4d4cbad72:BRU/master.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
