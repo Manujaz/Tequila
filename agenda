@@ -332,35 +332,42 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 25(Aqui) [COLOR white] 03:00h NBA. Utah Jazz vs Brooklyn Nets CristalAzul",
+"name": "Canal Live 25(Aqui) [COLOR white] 02:00h Liga de Expansión MX. Leones Negros UdeG vs Mineros de Zacatecas CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://boxter.live:8081/DEP/TDN1199/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 26(Aqui) [COLOR white] 03:00h NBA. Utah Jazz vs Brooklyn Nets CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/bein1fr/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 26(Aqui) [COLOR white] 03:00h College Hockey St. Cloud State vs Denver CristalAzul",
+"name": "Canal Live 27(Aqui) [COLOR white] 03:00h College Hockey St. Cloud State vs Denver CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                             
                             
-"name": "Canal Live 27(Aqui) [COLOR white] 04:00h NCAA. Toledo vs Ball State CristalAzul",
+"name": "Canal Live 28(Aqui) [COLOR white] 04:00h NCAA. Toledo vs Ball State CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://23.237.98.194:8081/ssl/espn_plus_sur63564/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                                            
-"name": "Canal Live 28(Aqui) [COLOR white] 04:00h NBA. Dallas Mavericks vs Philadelphia 76ers CristalAzul",
+"name": "Canal Live 29(Aqui) [COLOR white] 04:00h NBA. Dallas Mavericks vs Philadelphia 76ers CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://belfast.dyndns.tv:5808/BEINHD11/tracks-v1a1/mono.m3u8                            
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
                                                                                                                                                                                                                                                            
-"noname": "Canal Live 29(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 30(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/605oPXx3/chunklist_w1373449295.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -982,14 +989,14 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] ESPN NETWORK SPORTS CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] ESPN NETWORK SPORTS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.49.162:8081/USA%7CESPNSECNETWORK/SPORTS/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] ESPN BR CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] ESPN BR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
