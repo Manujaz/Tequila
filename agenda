@@ -647,7 +647,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] DAZN 1 ESP CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] DAZN 1 ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://melancolicos10.club:8080/hls/channel1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -703,14 +703,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] TIGO SPORTS LAT CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] TIGO SPORTS LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://boxter.live:8081/DEP/tigo_bol_1/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                               
-"name": "CanalFavorito(Aqui) [COLOR white] FOX SPORTS PREMIUM LAT CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] FOX SPORTS PREMIUM LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://boxter.live:8081/DEP/fox_sp_premium/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -724,21 +724,21 @@
                             "embed": "SOL M.*?sica">'.http://boxter.live:8081/ssl/dtv+9/playlist.m3u8
                             
                             
- "name": "CanalFavorito(Aqui) [COLOR white] TUDN MEX CristalAzul",
+ "noname": "CanalFavorito(Aqui) [COLOR white] TUDN MEX CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
                             "url": "http://boxter.live:8081/DEP/TDN1199/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] AFIZIONADOS SPORT LAT CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] AFIZIONADOS SPORT LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
                             "url": "http://boxter.live:8081/DEP/AFIZIONADOS521365156/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                    
-"name": "CanalFavorito(Aqui) [COLOR white] WIN SPORT+ CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] WIN SPORT+ CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
                             "url": "http://boxter.live:8081/DEP/WIN+3/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
