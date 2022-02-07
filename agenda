@@ -710,7 +710,7 @@
                             "embed": "SOL M.*?sica">'.                           
                             
                                                         
-"name": "CanalFavorito(Aqui) [COLOR white] WWE NETWORK CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] WWE NETWORK CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://boxter.live:8081/DEP/WWE565631/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -787,7 +787,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 1 ENG CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 1 ENG CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
                             "url": "http://belfast.dyndns.tv:5808/BEINHD11/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -801,7 +801,7 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 1 UK CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 1 UK CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -815,21 +815,21 @@
                             "embed": "SOL M.*?sica">'.http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/2559.m3u8                           
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 3 ARA CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 3 ARA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://145.239.142.113/BEIN-3-SD/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/1703.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 6 ARA CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 6 ARA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://145.239.142.113/BEIN-6-SD/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://145.239.142.113/BEIN-5-SD/playlist.m3u8                            
                                                                                                                 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"name": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 7 ENG CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 7 ENG CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://145.239.142.113/BEIN-6-SD/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -870,7 +870,7 @@
                             "embed": "SOL M.*?sica">'.http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mono.m3u8
                             
                             
-"NOname": "CanalFavorito(Aqui) [COLOR white] MLB NETWORK CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] MLB NETWORK CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://54.39.49.162:8081/MLBNETWORK/SPORTS/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -916,7 +916,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w919389891_b746000_sleng.m3u8
+                            "embed": "SOL M.*?sica">'.
                                                                                                               
                             
 "name": "CanalFavorito(Aqui) [COLOR white] ESPN 4 BR CristalAzul",
@@ -947,7 +947,7 @@
                             "embed": "SOL M.*?sica">'. http://54.39.49.162:8081/FS2/USA%7CFS2/playlist.m3u8                           
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] CDN DEPORTES LAT CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] CDN DEPORTES LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://boxter.live:8081/DEP/CDN_DEPORTES54321/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
