@@ -38,9 +38,9 @@
                             "embed": "SOL M.*?sica">'.http://99.27.51.147:8080/ESPN2/tracks-v1a1/mono.m3u8
                             
                             
-"noname": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
+"name": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
+                            "url": "http://46.29.169.15:4001/play/a001/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
