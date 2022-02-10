@@ -178,9 +178,9 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 2(Aqui) [COLOR white] 15:00h Presentación del AMR22 de Aston Martin 2022 para Vettel y Lance Stroll CristalAzul",
+"name": "Canal Live 2(Aqui) [COLOR white] 15:00h Presentación Aston Martin AMR22 2022 para Vettel y Lance Stroll CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8"',
+                            "url": "http://185.132.132.192:8080/SKYSPF1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                                              
