@@ -255,9 +255,9 @@
                             "embed": "SOL M.*?sica">'.http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8
                             
                             
-"noname": "Canal Live 12(Aqui) [COLOR white] CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 21:00h La Liga. Espanyol vs Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
+                            "url": "http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nD4VvPwM3eNQq6qXgWCFHho/.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://91.126.141.13:1935/live/61/1800-def.m3u8?ZAnA_IPTV.m3u8
                             
