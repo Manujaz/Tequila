@@ -400,8 +400,7 @@
                             "url": "http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                                   
-                            
-                                                                                                                                                                                                   
+                                                                                                                                                                                                                              
                                                                                                                                                                                                                                                                                                                                                                                                        
 "noname": "Canal Live 28(Aqui) [COLOR white] 20:30h LaLiga SmartBank. Málaga vs UD Almeria CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -459,16 +458,30 @@
                             "embed": "SOL M.*?sica">'.
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
                                                                                                                                                                                                                                                                                 
-"noname": "Canal Live 47(Aqui) [COLOR white]  CristalAzul",
+"name": "CanalFavorito7(Aqui) [COLOR white] FOX SPORTS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8"',
+                            "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports1HD/SA_Live_WebVTT_FTA/FoxSports1HD.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.134.22.131:8080/live/Carlos123/Carlos123/38924.m3u8
                             
                             
-"noname": "Canal Live 48(Aqui) [COLOR white]  CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] FOX SPORTS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://alv.encohd.co:39591/live/7zX7Mk9/oJ87Hv/384.m3u8"',
+                            "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] FOX SPORTS 3 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] FOX SPORTS 3 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                     
