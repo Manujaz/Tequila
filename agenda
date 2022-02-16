@@ -194,7 +194,7 @@
                             
 "name": "Canal Live 6(Aqui) [COLOR white] 19:00h LaLiga. At. Madrid vs Levante CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://edge-live12-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-avc1_2499968=10001.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8                            
                             
@@ -257,61 +257,68 @@
                             
 "name": "Canal Live 12(Aqui) [COLOR white] 21:00h UEFA Champions League. Internazionale vs Liverpool CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8"',
+                            "url": "https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8                            
+                            "embed": "SOL M.*?sica">'. http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8 
                             
                             
 "name": "Canal Live 13(Aqui) [COLOR white] 21:00h UEFA Champions League. Salzburg vs Bayern München CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 14(Aqui) [COLOR white] 21:00h UEFA Champions League. Salzburg vs Bayern München CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nD4VvPwM3eNQq6qXgWCFHho/.m3u8
                                                                                                                                                                                                 
                             
-"name": "Canal Live 14(Aqui) [COLOR white] 23:15h Copa Libertadores. Bolívar vs Deportivo Lara CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 23:15h Copa Libertadores. Bolívar vs Deportivo Lara CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2200/BR/Fox_Sports_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/bein1fr/index.m3u8
                                 
                                 
-"name": "Canal Live 15(Aqui) [COLOR white] 23:15h Argentina Primera División. Aldosivi vs Boca Juniors CristalAzul",
+"name": "Canal Live 16(Aqui) [COLOR white] 23:15h Argentina Primera División. Aldosivi vs Boca Juniors CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2200/BR/ESPN_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8                            
                             
                             
-"name": "Canal Live 16(Aqui) [COLOR white] 02:00h NBA. Minnesota Timberwolves vs Toronto Raptors CristalAzul",
+"name": "Canal Live 17(Aqui) [COLOR white] 02:00h NBA. Minnesota Timberwolves vs Toronto Raptors CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
                             
                             
-"name": "Canal Live 17(Aqui) [COLOR white] 02:00h AEW Dynamite Live CristalAzul",
+"name": "Canal Live 18(Aqui) [COLOR white] 02:00h AEW Dynamite Live CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://91.126.141.13:1935/live/61/1800-def.m3u8?ZAnA_IPTV.m3u8                            
                                                                                                              
                                                                                                                                                                                                                                 
-"name": "Canal Live 18(Aqui) [COLOR white] 04:00h NBA. Los Angeles Lakers vs Utah Jaz CristalAzul",
+"name": "Canal Live 19(Aqui) [COLOR white] 04:00h NBA. Los Angeles Lakers vs Utah Jaz CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://melancolicos10.club:8080/hls/terminal2.m3u8
                             
                             
-"name": "Canal Live 19(Aqui) [COLOR white] 04:00h NBA. Los Angeles Lakers vs Utah Jaz CristalAzul",
+"name": "Canal Live 20(Aqui) [COLOR white] 04:00h NBA. Los Angeles Lakers vs Utah Jaz CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/bein1fr/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                                     
-"noname": "Canal Live 19(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 21(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -493,9 +500,9 @@
                             "embed": "SOL M.*?sica">'.
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
                                                                                                                                                                                                                                                                                 
-"noname": "CanalFavorito7(Aqui) [COLOR white] FOX SPORTS 1 CristalAzul",
+"name": "CanalFavorito7(Aqui) [COLOR white] RACECENTRAL TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports1HD/SA_Live_WebVTT_FTA/FoxSports1HD.m3u8"',
+                            "url": "https://bozztv.com/36bay2/gusa-d2dtv/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.134.22.131:8080/live/Carlos123/Carlos123/38924.m3u8
                             
@@ -584,9 +591,9 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                               
-"noname": "CanalFavorito(Aqui) [COLOR white] BETIS TV  CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] IMPACT TV  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://betistv-live.flumotion.com/_-ifVLsTnTwheq5g0u4_sQ/1644865370/betistv/live_all/betistv/live_source/chunks.m3u8"',
+                            "url": "https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                     
@@ -661,23 +668,23 @@
                             "embed": "SOL M.*?sica">'.http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/2559.m3u8                           
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 3 ARA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] LAX SPORTS NETWORK CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://145.239.142.113/BEIN-3-SD/playlist.m3u8"',
+                            "url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE_v5.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/1703.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 6 ARA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] TRACE SPORT STARS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://145.239.142.113/BEIN-6-SD/playlist.m3u8"',
+                            "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://145.239.142.113/BEIN-5-SD/playlist.m3u8                            
                                                                                                                 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"noname": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 7 ENG CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] WORLD OF FREESPORT TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://145.239.142.113/BEIN-6-SD/playlist.m3u8"',
+                            "url": "https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/203.m3u8                            
                             
