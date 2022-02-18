@@ -77,7 +77,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8 
                             
                             
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 4 CristalAzul",
@@ -90,6 +90,13 @@
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://smart-tv.livedoomovie.com:4431/02_nbahd_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 6 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
