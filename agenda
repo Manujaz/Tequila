@@ -178,35 +178,35 @@
                             "embed": "SOL M.*?sica">'.http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8?ZAnA_IPTV.m3u8
                             
                             
-"noname": "Canal Live 6(Aqui) [COLOR white] CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 20:30h Bundesliga. Mainz 05 vs Bayer Leverkusen CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.41.244.69/goltv/tracks-v2a1a2/mono.m3u8"',
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_1080.m3u8                             
+                            
+                            
+"name": "Canal Live 5(Aqui) [COLOR white] 20:45h Italy Serie A. Juventus vs TorinoCristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_1080.m3u8
+                                                                                                                                                                                                                                  
                             
-                                                                                                                                                                          
-"noname": "Canal Live 7(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 20:45h England Championship. AFC Bournemouth vs Nottingham Forest CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_1080.m3u8 
-                            
-                            
-"noname": "Canal Live 8(Aqui) [COLOR white] 17:00h Vuelta al Algarve. Etapa 3 Almodôvar › Faro (209,1 km) CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
+                            "url": "http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d2qwphv73v6lkm.cloudfront.net/stream/Mjg5NQ==/1080p.m3u8
                             
                             
-"noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 20:45h Liga LEB Oro Liga. TAU Castelló vs Oviedo Baloncesto CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.41.244.69/goltv/tracks-v2a1a2/mono.m3u8"',
+                            "url": "https://5ee0faac3bbae.streamlock.net/bhkphyecea/bhkphyecea/chunklist_w1771351491.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.41.244.69/goltv/tracks-v2a1a2/mono.m3u8
                             
                             
-"noname": "Canal Live 10(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 8(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
