@@ -101,30 +101,30 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"name": "Canal NFL(Aqui) [COLOR white] CANAL NFL 1 CristalAzul",
+"noname": "Canal NFL(Aqui) [COLOR white] CANAL NFL 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
 
-"name": "Canal NFL(Aqui) [COLOR white] CANAL NFL 2 CristalAzul",
+"noname": "Canal NFL(Aqui) [COLOR white] CANAL NFL 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd091-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51a9cf39-a534-4404-ab74-8b3b3d4266d2&userId=&serverSideAds=true"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal NFL(Aqui) [COLOR white] CANAL NFL 3 CristalAzul",
+"noname": "Canal NFL(Aqui) [COLOR white] CANAL NFL 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w966771306.m3u8"',
+                            "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal NFL(Aqui) [COLOR white] CANAL NFL 4 CristalAzul",
+"noname": "Canal NFL(Aqui) [COLOR white] CANAL NFL 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u"',
+                            "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -197,30 +197,37 @@
                             "url": "http://185.41.244.69/goltv/tracks-v2a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 6(Aqui) [COLOR white] 21:00h La Liga. Celta de Vigo vs Levante CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://185.41.244.69/goltv/tracks-v2a1a2/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
                                                                                                                                                                                                                                   
                             
-"name": "Canal Live 6(Aqui) [COLOR white] 21:00h LaLiga SmartBank. Amorebieta vs Leganés CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 21:00h LaLiga SmartBank. Amorebieta vs Leganés CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d2qwphv73v6lkm.cloudfront.net/stream/Mjg5NQ==/1080p.m3u8
                             
                             
-"name": "Canal Live 7(Aqui) [COLOR white] 23:15h Primera B Nacional. Ferro Carril Oeste vs Deportivo Maipú CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 23:15h Primera B Nacional. Ferro Carril Oeste vs Deportivo Maipú CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.41.244.69/goltv/tracks-v2a1a2/mono.m3u8
                             
                             
-"name": "Canal Live 8(Aqui) [COLOR white] 23:30h Gaucho Football Championship. Aimoré vs Youth CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 23:30h Gaucho Football Championship. Aimoré vs Youth CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8                           
                                                                                                                                              
                                                         
-"name": "Canal Live 9(Aqui) [COLOR white] 01:30h Superliga De Vôlei Femenino. Minas vs Pinheiros CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 01:30h Superliga De Vôlei Femenino. Minas vs Pinheiros CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -609,7 +616,14 @@
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
                             "url": "http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nD4VvPwM3eNQq6qXgWCFHho/.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT 1 ENG CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
+                            "url": "https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                                                                                                               
                                                                                    
 "name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT 2 ENG CristalAzul",
@@ -757,7 +771,7 @@
                             "embed": "SOL M.*?sica">'.                            
                                                         
 
-"name": "CanalFavorito(Aqui) [COLOR white] BEINSPORTS 1 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BEINSPORTS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
