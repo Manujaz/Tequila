@@ -45,9 +45,9 @@
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a001/index.m3u8
                             
                             
-"noname": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
+"name": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8"',
+                            "url": "https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -75,7 +75,7 @@
                             
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8"',
+                            "url": "https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8 
                             
@@ -89,7 +89,7 @@
                             
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://smart-tv.livedoomovie.com:4431/02_nbahd_720p/chunklist.m3u8"',
+                            "url": "http://93.157.62.180/KSport3/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
