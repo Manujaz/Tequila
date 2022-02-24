@@ -196,23 +196,23 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8                            
+                            "embed": "SOL M.*?sica">'.http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+                            
+                            
+"name": "Canal Live 6(Aqui) [COLOR white] 18:45h EHF Champions League. Barça BM vs Telekom Veszprem CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8?ZAnA_IPTV.m3u8                            
                                                                                     
                             
-"name": "Canal Live 6(Aqui) [COLOR white] 20:00h Snooker European Masters. Day 2 Session 2 CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 20:00h Snooker European Masters. Day 2 Session 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://melancolicos10.club:8080/hls/terminal2.m3u8                             
                                        
-                                                                                                                                                                                            
-"name": "Canal Live 7(Aqui) [COLOR white] 18:45h EHF Champions League. Barça BM vs Telekom Veszprem CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8?ZAnA_IPTV.m3u8
-                                                                                                              
-                            
+                                                                                                                                                                                                                                                                                                                                      
 "name": "Canal Live 8(Aqui) [COLOR white] 20:45h FIBA Copa. España vs Ucrania CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
@@ -222,7 +222,7 @@
                             
 "name": "Canal Live 9(Aqui) [COLOR white] 21:00h Europa League Play-offs. Napoli vs FC Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8                           
                                                                                                                                              
@@ -633,28 +633,28 @@
                             "embed": "SOL M.*?sica">'.                            
                                                                                                               
                                                                                    
-"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT 2 ENG CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT 2 ENG CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
                             "url": "https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://videodelivery.net/824bf88942380d4391ac4134ec3b83b2/manifest/video.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS PREMIUM 1 ARA CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS PREMIUM 1 ARA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS PREMIUM 2 ARA CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS PREMIUM 2 ARA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
                             "url": "http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS PREMIUM 3 ARA CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS PREMIUM 3 ARA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
                             "url": "http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1191,14 +1191,7 @@
                             "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://smart-tv.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-                            
-                            
-"noname": "CanalFavorito(Aqui) [COLOR white] SPORT TV 3 PORT CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
+                                                                                    
                             
 "noname": "CanalFavorito(Aqui) [COLOR white] SPORT TV 4 PORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -1478,42 +1471,7 @@
                             "url": "https://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                            
-                            
-"noname": "CanalFavorito (Aqui) [COLOR white] ARENASPORT 1 CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://catchup.iptv.iinet.rs/playlist.m3u8?id=147&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://103.194.169.171:8282/Arena_Sport_1_HR_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c                          
-                                                                                                                
-                            
-"noname": "CanalFavorito (Aqui) [COLOR white] ARENASPORT 2 CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://84.22.33.214/ArenaSport3/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://84.22.33.214/ArenaSport2/mono.m3u8
-                            
-                            
-"noname": "CanalFavorito (Aqui) [COLOR white] ARENASPORT 3 CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://catchup.iptv.iinet.rs/playlist.m3u8?id=185&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-                            
-                            
-"noname": "CanalFavorito (Aqui) [COLOR white] ARENASPORT 4 CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/179.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"noname": "CanalFavorito (Aqui) [COLOR white] ARENASPORT 5 CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://catchup.iptv.iinet.rs/playlist.m3u8?id=187&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
+                                                                                    
                             
 "name": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 1 ESP CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
