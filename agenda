@@ -68,7 +68,7 @@
                             
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://208.79.153.123/teleup-espn-new1/tracks-v1a1/mono.m3u8"',
+                            "url": "https://ddc8aa1e2jz1g.cloudfront.net/hls/espn/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://54.39.49.162:8081/USA%7CESPN2/SPORTS/playlist.m3u8
                             
@@ -500,6 +500,13 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
+"name": "CanalFavorito(Aqui) [COLOR white] M.LALIGA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://77.247.109.136:2847/live/alper/123456/43376.m3u8?RacsoRella&token=TEQLBUENFwlHAgxSD1UAC1VTVFMGCAENAFdXWgAPXl0DUlUAAFVQUVBEGBJKEURWBAw8WQYaAwwFAFZVFBRNSlIUPA1WRw8RVFYCCQtcFB9HFQpdBxoDCBoREQpcFAIbBFVVVQJHGREAHkBVSwtXXzoFBkYLW1waDF0UD1QaGlZZOQcBXwRbV0dcFgEbSRRaFhFBCgxNVVQaEQMKTERZTVJEWQpHCVkfRwVbRVcRREpHW0F1MRoVGlNLFQZWRVFWWURZRl9WQAtHShZZSjpEVhYVEVUDVVxKFAlDUxoaGlRWHjwHXQtbVgYSXV9XFhQJR1BBHEBVVlZfRw4RZ0ZRXRVcQVcBUQwLRxs="',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
+                            
+                            
 "name": "CanalFavorito(Aqui) [COLOR white] TVS TURBO TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8"',
@@ -640,9 +647,9 @@
                             "embed": "SOL M.*?sica">'.https://videodelivery.net/824bf88942380d4391ac4134ec3b83b2/manifest/video.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS PREMIUM 1 ARA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] CARS TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8"',
+                            "url": "https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -1200,9 +1207,9 @@
                             "embed": "SOL M.*?sica">'.https://smart-tv.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
                             
                                                                                                                                                                                                                                                                                                                                                                                                                              
-"noname": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS 1 ENG CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS XTRA Ñ ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8"',
+                            "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
@@ -1370,7 +1377,7 @@
                                                         
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN USA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://208.79.153.123/teleup-espn-new1/mono.m3u8"',
+                            "url": "https://ddc8aa1e2jz1g.cloudfront.net/hls/espn/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                              
