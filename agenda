@@ -171,37 +171,37 @@
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00g/index.m3u8
                             
                             
-"noname": "Canal Live 2(Aqui) [COLOR white] 17:45h Campeonato de España. Ourense. Sesión vespertina CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_1080.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-                            
-                            
-"noname": "Canal Live 3(Aqui) [COLOR white] 18:00h 1ª Autonómica Cadete Grupo 1. Real Madrid Academy vs Las Rozas CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.41.244.69/realmadridtvhd/tracks-v3a1a2/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8                            
-                            
-                            
-"noname": "Canal Live 4(Aqui) [COLOR white] 18:45h Italy Serie A. Milan vs Udinese CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://edge-live32-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-                            
-                            
-"noname": "Canal Live 5(Aqui) [COLOR white] 20:00h Snooker European Masters. Day 2 Session 2 CristalAzul",
+"name": "Canal Live 2(Aqui) [COLOR white] 19:45h Snooker BetVictor Welsh Open - ICC Wales, Newport CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://melancolicos10.club:8080/hls/terminal2.m3u8                            
                             
-                                                                                                               
-"noname": "Canal Live 6(Aqui) [COLOR white] 21:00h LaLiga SmartBank. UD Almería vs Fuenlabrada CristalAzul",
+                            
+"name": "Canal Live 3(Aqui) [COLOR white] 20:45h Italia Serie A. Atalanta vs Sampdoria CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+                            
+                            
+"name": "Canal Live 4(Aqui) [COLOR white] 21:00h LaLiga. Granada vs Cádiz CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.41.244.69/goltv/tracks-v2a1a2/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8                            
+                            
+                            
+"name": "Canal Live 5(Aqui) [COLOR white] 21:00h LaLiga. Granada vs Cádiz CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://edge-live32-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+                                                                                                               
+                                                                                                               
+"noname": "Canal Live 6(Aqui) [COLOR white]  CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
                                                                                                                                                                                                                                                            
