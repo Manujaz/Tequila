@@ -47,7 +47,7 @@
                             
 "name": "Canal Tenis(Aqui) [COLOR white] CANAL TENIS 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8"',
+                            "url": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -56,7 +56,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'. https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
                             
                                                                                                                                                                                                                                                            
 "name": "Canal NBA (Aqui) [COLOR white] CANAL NBA 1 CristalAzul",
