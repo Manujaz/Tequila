@@ -192,23 +192,23 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 5(Aqui) [COLOR white] 15:30H Welsh Open. Home Nation Series Quarter finals CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 15:30h Snooker. Welsh Open. Home Nation Series Quarter finals CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://piratilla.com/629837/hls/eurosport2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://melancolicos10.club:8080/hls/terminal2.m3u8 
                              
                                                         
-"name": "Canal Live 6(Aqui) [COLOR white] CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 19:45h Snooker. Welsh Open. Home Nation Series Quarter finals CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://piratilla.com/629837/hls/eurosport1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.41.244.69/telecincohd/index.m3u8
                             
                             
-"noname": "Canal Live 7(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 20:45h Italia Serie A. Internazionale vs Salernitana CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://50.7.34.155:2201/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                             
@@ -220,9 +220,9 @@
                             "embed": "SOL M.*?sica">'.http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
                             
                             
-"noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 9(Aqui) [COLOR white] 21:00 Francia Ligue 1. Lorient vs Olympique Lyonnais  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://bal.varcdn1.ru/lb/match/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -677,14 +677,14 @@
                                                                                    
 "name": "CanalFavorito(Aqui) [COLOR white] EUROSPORT 1 ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
-                            "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
+                            "url": "https://piratilla.com/629837/hls/eurosport1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://videodelivery.net/824bf88942380d4391ac4134ec3b83b2/manifest/video.m3u8
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] EUROSPORT 2 ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
-                            "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
+                            "url": "https://piratilla.com/629837/hls/eurosport2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -1830,7 +1830,7 @@
                             "embed": "SOL M.*?sica">'.                           
                                                                                                                                             
  
-"name": "Canal 44(Aqui) [COLOR white] ESPN 4 ENG CristalAzul",
+"noname": "Canal 44(Aqui) [COLOR white] ESPN 4 ENG CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://content-aeui1.uplynk.com/channel/06aa99590c444d7a9ff4c3113cb7606f/f.m3u8?pbs=5c34356cbb274d7a81641d0d4e26100b"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
