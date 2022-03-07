@@ -145,7 +145,7 @@
                                                                                                                                                                                                                                                                                                                                                                                                 
 "noname": "Canal 1 Beijing22(Aqui) [COLOR white] Juegos Olímpicos de Pekín 2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -164,28 +164,28 @@
                             "embed": "SOL M.*?sica">'.http://unarrozvalenciano.ddns.net:8030/hls/martatv2.m3u8
                             
                             
-"name": "Canal Live 1(Aqui) [COLOR white] Gran Premio de Qatar 2022 de MotoGP CristalAzul",
+"noname": "Canal Live 1(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://unarrozvalenciano.ddns.net:8030/hls/copaturbo2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal Live 2(Aqui) [COLOR white] Gran Premio de Qatar 2022 de MotoGP CristalAzul",
+"noname": "Canal Live 2(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://edge-live32-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge-live32-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8                            
                                                         
                             
-"name": "Canal Live 3(Aqui) [COLOR white] Gran Premio de Qatar 2022 de MotoGP CristalAzul",
+"noname": "Canal Live 3(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://dornatoken.secure.footprint.net/token=nva=1646588238~dirs=2~ip=173.245.211.10~data=02OseSAqJ2NVi0eY0DmcbqOlQwH%252BRp0gkuK35jAuo%252FR%252BTyA0iihLfBoYYSQxLvII~token=06189150333d2b769eca1/hls/ipfmix/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                                                             
-"noname": "Canal Live 4(Aqui) [COLOR white] Gran Premio de Qatar 2022 de MotoGP CristalAzul",
+"noname": "Canal Live 4(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://pullhls3948069e.live.126.net/live/m0t0/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
