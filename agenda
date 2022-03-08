@@ -172,7 +172,7 @@
                             
 "name": "Canal Live 3(Aqui) [COLOR white] 16:00h Tirreno-Adriático Etapa 2. Camaiore › Sovicille 219km CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
+                            "url": "http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge-live32-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
                             
@@ -574,6 +574,13 @@
                             "url": "https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://betistv-live.flumotion.com/oKS0o5i6lArHZP415wNmew/1646680976/betistv/live_all/betistv/live_source/chunks.m3u8
+
+
+"name": "CanalFavorito(Aqui) [COLOR white] UNBEATEN TV CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://unbeaten-roku.amagi.tv/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
 
 
 "name": "CanalFavorito(Aqui) [COLOR white] ESPN EXTRA CristalAzul",
