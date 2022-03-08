@@ -137,12 +137,12 @@
                             
 "name": "Canal NFL(Aqui) [COLOR white] CANAL NFL 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://120sports-accdn-1-us.samsung.wurl.tv/3000.m3u8"',
+                            "url": "https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://120sports-accdn-1-us.samsung.wurl.tv/3000.m3u8                            
                             
                                                                                     
-"name": "Canal MLB(Aqui) [COLOR white] CANAL NHL 1 CristalAzul",
+"name": "Canal NHL(Aqui) [COLOR white] CANAL NHL 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cablecast.nwct.org/live-9/live/WIFI-1596k-540p/WIFI-1596k-540p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -574,7 +574,14 @@
                             "url": "https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://betistv-live.flumotion.com/oKS0o5i6lArHZP415wNmew/1646680976/betistv/live_all/betistv/live_source/chunks.m3u8
-                            
+
+
+"name": "CanalFavorito(Aqui) [COLOR white] ESPN EXTRA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
 
 "name": "CanalFavorito(Aqui) [COLOR white] WHIETLE TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -739,14 +746,14 @@
                                                                                    
 "name": "CanalFavorito(Aqui) [COLOR white] EUROSPORT 1 ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
-                            "url": "https://piratilla.com/629837/hls/eurosport1.m3u8"',
+                            "url": "http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://videodelivery.net/824bf88942380d4391ac4134ec3b83b2/manifest/video.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] EUROSPORT 2 ESP CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] EUROSPORT 2 ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
-                            "url": "https://piratilla.com/629837/hls/eurosport2.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -993,7 +1000,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'. http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8                           
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] ESPN 2 ARG CristalAzul",
@@ -1014,7 +1021,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "noname": "CanalFavorito(Aqui) [COLOR white] TNT USA CristalAzul",
@@ -1392,7 +1399,14 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8                          
+                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] BTSPORT 3 CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
                                                     
                                                                                                                                            
 "name": "CanalFavorito(Aqui) [COLOR white] HARLEY-DAVISON-TV CristalAzul",
