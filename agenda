@@ -520,7 +520,7 @@
                             "embed": "SOL M.*?sica">'.https://bal.varcdn1.ru/lb/match/index.m3u8                            
                                                                                                                                                                                                                                                                                                                                                                             
                             
-"noname": "Canal Live 29(Aqui) [COLOR white] 21:00h La Liga. At. Madrid vs Getafe CristalAzul",
+"noname": "Canal Live 29(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -536,47 +536,54 @@
                             
 "noname": "Canal Live 31(Aqui) [COLOR white] 21:00h Francia Ligue 1. O. Lyonnais vs Nice CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://208.79.153.123/teleup-espn2-new1/tracks-v1a1/mono.m3u8
                             
                             
-"noname": "Canal Live 32(Aqui) [COLOR white] 22:00h GOLF Waste Management Phoenix Open CristalAzul",
+"noname": "Canal Live 32(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                             
                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-"noname": "Canal Live 33(Aqui) [COLOR white] 22:30h FIA Fórmula E. Ciudad de México CarreraCristalAzul",
+"noname": "Canal Live 33(Aqui) [COLOR white]  CarreraCristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 34(Aqui) [COLOR white] 22:30h FIA Fórmula E. Ciudad de México CarreraCristalAzul",
+"noname": "Canal Live 34(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
                                                                                                                                             
-"noname": "Canal Live 35(Aqui) [COLOR white] 23:15h Argentina Primera Nacional. Club Atletico Temperley vs San Martín de Tucumán CristalAzul",
+"noname": "Canal Live 35(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://betistv-live.flumotion.com/oKS0o5i6lArHZP415wNmew/1646680976/betistv/live_all/betistv/live_source/chunks.m3u8
                             
-                            
-"name": "CanalFavorito(Aqui) [COLOR white] BETIS TV CristalAzul",
+
+"name": "CanalFavorito(Aqui) [COLOR white] FS1 SPORT USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://betistv-live.flumotion.com/oKS0o5i6lArHZP415wNmew/1646680976/betistv/live_all/betistv/live_source/chunks.m3u8"',
+                            "url": "http://134.19.182.131:8080/pdga77f3b6e943f7c0b_2.m3u8?m=rPcqjCCXgGJbWVPxpG-Tew&c=e5d1bb6c17debce5&p=3135362e3231392e3136362e35&e=1646294626"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.
+                            
+
+"name": "CanalFavorito(Aqui) [COLOR white] FS2 SPORT USA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://stream2.grandma.fit/fs2.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. http://134.19.182.131:8080/pdga77f3b6e943f7c0b_2.m3u8?m=rPcqjCCXgGJbWVPxpG-Tew&c=e5d1bb6c17debce5&p=3135362e3231392e3136362e35&e=1646294626                           
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] M.LALIGA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] M.LIGA DE CAMPEONES CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://martatv.ddns.net:8030/hls/martatv.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
