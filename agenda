@@ -185,38 +185,52 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.29:1935/live/gol/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://rtvelivestreamv3.akamaized.net:443/tdp/tdp_main_1080.m3u8                           
+                            "embed": "SOL M.*?sica">'. https://rtvelivestreamv3.akamaized.net:443/tdp/tdp_main_1080.m3u8
                             
                             
-"name": "Canal Live 5(Aqui) [COLOR white] 18:00h Snooker Turkish Masters First round 3 CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 18:45h Europa League. Sevilla FC vs West Ham CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://190.61.102.67:2000/play/a08j/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 6(Aqui) [COLOR white] 18:45h Europa League. Sevilla FC vs West Ham CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 7(Aqui) [COLOR white] 18:45h Europa League. Sevilla FC vs West Ham CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 8(Aqui) [COLOR white] 18:00h Snooker Turkish Masters First round 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://eurosport-live-prod.akamai.prod-live.h264.io/primary/2/c6442c168e174812a2c88abe29ccbb8e/hdntl=exp=1646807400~acl=/primary/2/c6442c168e174812a2c88abe29ccbb8e/*~data=hdntl~hmac=45fa4555d4e5635ddf27db9d2c9ad170878658639bffdee360d1db438c06159a/start/1646750448/index_25.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8                            
                                                                                                                                                                                                                                 
                                                                                                                                             
-"name": "Canal Live 6(Aqui) [COLOR white] 18:45h EHF Champions League. Barça BM vs Flensburg-Handewitt CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 18:45h EHF Champions League. Barça BM vs Flensburg-Handewitt CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00g/index.m3u8
-                            
-                            
-"name": "Canal Live 7(Aqui) [COLOR white] 18:45h Europa Conference League. Vitesse vs AS Roma CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-                                                                                                                                                                                                                                  
+                                                                                                                                                                           
                             
-"name": "Canal Live 8(Aqui) [COLOR white] 20:30h Premier League. Southampton vs Newcastle CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 20:30h Premier League. Southampton vs Newcastle CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8 
                             
                             
-"name": "Canal Live 9(Aqui) [COLOR white] 20:30h Premier League. Wolves vs Watford CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 20:30h Premier League. Wolves vs Watford CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -232,35 +246,35 @@
                             
 "name": "Canal Live 11(Aqui) [COLOR white] 21:00h Europa League. FC Barcelona vs Galatasaray CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://martatv.ddns.net:8030/hls/dazn.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge-live15-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8 
                             
                             
 "name": "Canal Live 12(Aqui) [COLOR white] 21:00h Europa League. FC Barcelona vs Galatasaray CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://190.61.102.67:2000/play/a08j/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://190.61.102.67:2000/play/a08j/index.m3u8
                             
                             
 "name": "Canal Live 13(Aqui) [COLOR white] 21:00h Europa League. FC Barcelona vs Galatasaray CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8                            
                             
                             
 "name": "Canal Live 14(Aqui) [COLOR white] 21:00h Europa League. FC Barcelona vs Galatasaray CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://50.7.34.155:2201/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8                           
                                                         
                                                         
 "name": "Canal Live 15(Aqui) [COLOR white] 21:00h Europa League. FC Barcelona vs Galatasaray CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://edge-live32-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
                             
