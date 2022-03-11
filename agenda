@@ -218,14 +218,14 @@
                             
 "name": "Canal Live 9(Aqui) [COLOR white] 21:00h La Liga. At. Madrid vs Cádiz CF CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://martatv.ddns.net:8030/hls/martinas.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge-live15-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
                             
                             
 "name": "Canal Live 10(Aqui) [COLOR white] 21:00h La Liga. At. Madrid vs Cádiz CF CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://martatv.ddns.net:8030/hls/dazn.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://ultratotal.ddns.net/xls/champiota/index.m3u8                            
                             
@@ -251,9 +251,9 @@
                             "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8                           
                                                         
                                                         
-"noname": "Canal Live 14(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 14(Aqui) [COLOR white]  21:00h LaLiga SmartBank. Real Zaragoza vs Fuenlabrada CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://edge-live32-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8"',
+                            "url": "http://154.62.74.29:1935/live/gol/chunklist_w305718432.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
                             
@@ -276,7 +276,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00g/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://edge-live32-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
                                                                                                                
                             
 "noname": "Canal Live 19(Aqui) [COLOR white]  CristalAzul",
