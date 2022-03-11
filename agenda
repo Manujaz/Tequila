@@ -193,85 +193,92 @@
                             "url": "https://klive.kaltura.com/s/env/cluster-1-b.live.nvp1/live/hls/p/2288691/e/0_xs45iy5i/tl/main/st/0/t/DznN37GHRy-bwqducFv4Xw/index-s32.m3u8?__hdnea__=st=1647006306~exp=1647092706~acl=/s/env/cluster-1-b.live.nvp1/live/hls/p/2288691/e/0_xs45iy5i/tl/main/st/0/t/DznN37GHRy-bwqducFv4Xw/index-s32.m3u8*~hmac=4408fd52caa37d05d228c6a290f93c78429cbe4e5b4cc2e681e69c2ed00efb4e"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+                            
+                            
+"name": "Canal Live 6(Aqui) [COLOR white] 20:00h Boxeo BTSport Fight Night. Chris Bourke vs Marc Leac CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8                            
                                                                                                                                                                            
                             
-"name": "Canal Live 6(Aqui) [COLOR white] 20:45h Liga LEB Oro. TAU Castelló vs Melilla Sport Capital CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 20:45h Liga LEB Oro. TAU Castelló vs Melilla Sport Capital CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://5ee0faac3bbae.streamlock.net/bhkphyecea/bhkphyecea/chunklist_w1488954668.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8 
                             
                             
-"name": "Canal Live 7(Aqui) [COLOR white] 20:45h Liga LEB Oro. TAU Castelló vs Melilla Sport Capital CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 20:45h Liga LEB Oro. TAU Castelló vs Melilla Sport Capital CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://50.7.34.155:2201/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
                             
 
-"name": "Canal Live 8(Aqui) [COLOR white] 21:00h LNFS. Barça FS vs Industrias Santa Coloma CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 21:00 France Ligue 1 Lille vs Saint-Etienne CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://edge-live15-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+
+"name": "Canal Live 10(Aqui) [COLOR white] 21:00h LNFS. Barça FS vs Industrias Santa Coloma CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://209.188.7.240:8080/hss/tracks-v1a1/mono.m3u8
                             
                             
-"name": "Canal Live 9(Aqui) [COLOR white] 21:00h La Liga. At. Madrid vs Cádiz CF CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 21:00h La Liga. At. Madrid vs Cádiz CF CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://50.7.34.155:2201/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge-live15-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
                             
                             
-"name": "Canal Live 10(Aqui) [COLOR white] 21:00h La Liga. At. Madrid vs Cádiz CF CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 21:00h La Liga. At. Madrid vs Cádiz CF CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://martatv.ddns.net/hls/feten.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://ultratotal.ddns.net/xls/champiota/index.m3u8                            
                             
                             
-"name": "Canal Live 11(Aqui) [COLOR white] 21:00h La Liga. At. Madrid vs Cádiz CF CristalAzul",
+"name": "Canal Live 13(Aqui) [COLOR white] 21:00h La Liga. At. Madrid vs Cádiz CF CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://martatv.ddns.net/hls/feten.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://190.61.102.67:2000/play/a08j/index.m3u8
                             
                             
-"name": "Canal Live 12(Aqui) [COLOR white] 21:00h La Liga. At. Madrid vs Cádiz CF CristalAzul",
+"name": "Canal Live 14(Aqui) [COLOR white] 21:00h La Liga. At. Madrid vs Cádiz CF CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://martatv.ddns.net/hls/feten.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8                            
                             
                             
-"name": "Canal Live 13(Aqui) [COLOR white] 21:00h LaLiga SmartBank. Real Zaragoza vs Fuenlabrada CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 21:00h LaLiga SmartBank. Real Zaragoza vs Fuenlabrada CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.29:1935/live/gol/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8                           
                                                         
                                                         
-"name": "Canal Live 14(Aqui) [COLOR white]  21:00h LaLiga SmartBank. Real Zaragoza vs Fuenlabrada CristalAzul",
+"name": "Canal Live 16(Aqui) [COLOR white] 21:00h LaLiga SmartBank. Real Zaragoza vs Fuenlabrada CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.29:1935/live/gol/chunklist_w305718432.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
                             
                             
-"noname": "Canal Live 15(Aqui) [COLOR white] CristalAzul",
+"name": "Canal Live 17(Aqui) [COLOR white] 23:15h Argentina Primera División Arsenal vs Vélez Sarsfield CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"',
+                            "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge-live15-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8                            
                             
-                                                        
-"noname": "Canal Live 17(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
-                            
-                            
+                                                                                                                
 "noname": "Canal Live 18(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00g/index.m3u8"',
