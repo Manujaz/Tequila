@@ -244,42 +244,56 @@
                             "embed": "SOL M.*?sica">'.http://209.188.7.240:8080/hss/tracks-v1a1/mono.m3u8
                             
                             
-"name": "Canal Live 13(Aqui) [COLOR white] 12:45Rugby Europe Championships. España vs Portugal CristalAzul",
+"name": "Canal Live 13(Aqui) [COLOR white] 12:30h Italy Serie A. Fiorentina vs Bologna CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8                            
+                                                                                                                
+                            
+"name": "Canal Live 14(Aqui) [COLOR white] 12:45h Rugby Europe Championships. España vs Portugal CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net:443/tdp/tdp_main_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge-live15-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
                             
                             
-"name": "Canal Live 12(Aqui) [COLOR white] 13:00h LNFS. Fútbol Emotion Zaragoza vs Real Betis FS CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 13:00h LNFS. Fútbol Emotion Zaragoza vs Real Betis FS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.29:1935/live/gol/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://ultratotal.ddns.net/xls/champiota/index.m3u8                            
                             
                             
-"noname": "Canal Live 13(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 16(Aqui) [COLOR white] 13:00h Primera Iberdrola. UDG Tenerife vs Sevilla FC Femenino CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://martatv.ddns.net/hls/feten.m3u8"',
+                            "url": "https://rtvc-live1-rm.flumotion.com/rtvc-rm/live1-rm_med/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://190.61.102.67:2000/play/a08j/index.m3u8
                             
                             
-"noname": "Canal Live 14(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 17(Aqui) [COLOR white] 13:00h Francia Ligue 1. PSG vs Girondins Bordeaux CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://martatv.ddns.net/hls/feten.m3u8"',
+                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8                            
+                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
                             
                             
-"noname": "Canal Live 15(Aqui) [COLOR white] 21:00h LaLiga SmartBank. Real Zaragoza vs Fuenlabrada CristalAzul",
+"name": "Canal Live 18(Aqui) [COLOR white] 14:00h LaLiga. Rayo Vallecano vs Sevilla FC CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://154.62.74.29:1935/live/gol/playlist.m3u8"',
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8                            
+                            
+                            
+"noname": "Canal Live 19(Aqui) [COLOR white]  CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8                           
                                                         
                                                         
-"noname": "Canal Live 16(Aqui) [COLOR white] 21:00h LaLiga SmartBank. Real Zaragoza vs Fuenlabrada CristalAzul",
+"noname": "Canal Live 16(Aqui) [COLOR white] 12:30 Italy Serie A. Fiorentina vs Bologna CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.29:1935/live/gol/chunklist_w305718432.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -325,7 +339,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport3/index.m3u8
+                            "embed": "SOL M.*?sica">'.http://154.62.74.29:1935/live/gol/playlist.m3u8
                             
                             
 "noname": "Canal Live 23(Aqui) [COLOR white] 22:50h Campeonato de España Peso Superpluma. Rodríguez vs Jiménez CristalAzul",
