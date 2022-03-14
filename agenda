@@ -342,7 +342,7 @@
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00g/index.m3u8
                             
                             
-"name": "Canal Live 27(Aqui) [COLOR white] 16:15h LaLiga. Real Betis vs Athletic Club CristalAzul",
+"noname": "Canal Live 27(Aqui) [COLOR white] 16:15h LaLiga. Real Betis vs Athletic Club CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -370,7 +370,7 @@
                             "embed": "SOL M.*?sica">'.http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
                             
                             
-"name": "Canal Live 31(Aqui) [COLOR white] 17:30h Premier League. Arsenal vs Leicester City CristalAzul",
+"noname": "Canal Live 31(Aqui) [COLOR white] 17:30h Premier League. Arsenal vs Leicester City CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2201/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -384,7 +384,7 @@
                             "embed": "SOL M.*?sica">'.https://edge-live32-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
                                                         
-no"name": "Canal Live 33(Aqui) [COLOR white] 19:00h Liga MX. Toluca vs Pachuca CristalAzul",
+"noname": "Canal Live 33(Aqui) [COLOR white] 19:00h Liga MX. Toluca vs Pachuca CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://190.61.102.67:2000/play/a08j/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -426,7 +426,7 @@ no"name": "Canal Live 33(Aqui) [COLOR white] 19:00h Liga MX. Toluca vs Pachuca C
                             "embed": "SOL M.*?sica">'.http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8                            
                             
                             
-"name": "Canal Live 39(Aqui) [COLOR white] 21:00h Argentina Primera División. Lanús vs Colón CristalAzul",
+"noname": "Canal Live 39(Aqui) [COLOR white] 21:00h Argentina Primera División. Lanús vs Colón CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
