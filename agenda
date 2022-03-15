@@ -223,23 +223,23 @@
                             "embed": "SOL M.*?sica">'.https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
                             
                             
-"name": "Canal Live 10(Aqui) [COLOR white] 01:30 Copa Libertadores : Barcelona vs América Mineiro CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 23:30h NCAA March Madness CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8                            
+                            
+                            
+"name": "Canal Live 11(Aqui) [COLOR white] 01:30h Copa Libertadores. Barcelona vs América Mineiro CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8                            
                                                                                                                                                                            
-                            
-"noname": "Canal Live 9(Aqui) [COLOR white] CristalAzul",
+                                                                                    
+"name": "Canal Live 12(Aqui) [COLOR white] 01:00 NBA. New Orleans Pelicans vs Phoenix Suns CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://edge-live32-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-                            
-                            
-"noname": "Canal Live 10(Aqui) [COLOR white] 01:00h WWE Monday Night Raw CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
+                            "url": "http://46.29.169.15:4001/play/a002/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://209.188.7.240:8080/hss/tracks-v1a1/mono.m3u8                            
                             
@@ -489,7 +489,7 @@
                             "embed": "SOL M.*?sica">'.http://juguemosalawii.ddns.net:8080/hls/privado.m3u8                            
                             
                             
-"noname": "Canal Live 22(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 22(Aqui) [COLOR white] CBS SPORTS NETWORK CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
