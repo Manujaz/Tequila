@@ -97,9 +97,9 @@
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"noname": "Canal NBA(Aqui) [COLOR white] CANAL NBA 6 CristalAzul",
+"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 6 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8"',
+                            "url": "https://d17f1mg1q6g54e.cloudfront.net/hls/heat/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
@@ -206,94 +206,108 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/beinlaliga/index.m3u8                            
+                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+                            
+                            
+"name": "Canal Live 8(Aqui) [COLOR white] 20:00h Basket Champions League Playoffs. Filou Oostende vs Unicaja Málaga CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://16live00.akamaized.net/BTSPORTS2/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                                                    
                                                         
-"name": "Canal Live 8(Aqui) [COLOR white] 20:00h Basket Champions League Playoffs. Filou Oostende vs Unicaja Málaga CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 20:00h Basket Champions League Playoffs. Filou Oostende vs Unicaja Málaga CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8 
                             
                                                                                     
-"name": "Canal Live 9(Aqui) [COLOR white] 20:30h Premier League. Brighton vs Tottenham CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 20:30h Premier League. Brighton vs Tottenham CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8                          
                             
                             
-"name": "Canal Live 10(Aqui) [COLOR white] 20:45h Copa de la Reina. Real Sociedad vs Barcelona CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 20:45h Copa de la Reina. Real Sociedad vs Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net:443/tdp/tdp_main_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge-live32-hr.cvattv.com.ar/live/c6eds/ESPN_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
                             
+                            
+"name": "Canal Live 12(Aqui) [COLOR white] 21:00h UEFA Champions League. Lille vs Chelsea CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://16live00.akamaized.net/BTSPORTS2/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
                                                                                                                
-"name": "Canal Live 11(Aqui) [COLOR white] 21:00h UEFA Champions League. Lille vs Chelsea CristalAzul",
+"name": "Canal Live 13(Aqui) [COLOR white] 21:00h UEFA Champions League. Lille vs Chelsea CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8                            
                                                              
                                                              
-"name": "Canal Live 12(Aqui) [COLOR white] 21:00h UEFA Champions League. Lille vs Chelsea CristalAzul",
+"name": "Canal Live 14(Aqui) [COLOR white] 21:00h UEFA Champions League. Lille vs Chelsea CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8                                                             
                                                              
                                                                                                                                             
-"name": "Canal Live 13(Aqui) [COLOR white] 21:00h UEFA Champions League. Lille vs Chelsea CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 21:00h UEFA Champions League. Lille vs Chelsea CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
                             
                             
-"name": "Canal Live 14(Aqui) [COLOR white] 21:00h UEFA Champions League. Juventus vs Villarreal CristalAzul",
+"name": "Canal Live 16(Aqui) [COLOR white] 21:00h UEFA Champions League. Juventus vs Villarreal CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8                            
                                                                                                                                                                                                                                                               
                                                                                     
-"name": "Canal Live 15(Aqui) [COLOR white] 21:00h UEFA Champions League. Juventus vs Villarreal CristalAzul",
+"name": "Canal Live 17(Aqui) [COLOR white] 21:00h UEFA Champions League. Juventus vs Villarreal CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://209.188.7.240:8080/hss/tracks-v1a1/mono.m3u8                            
                                                                                                                                                                                                                                                                                         
                                                                                                                                                                                                     
-"name": "Canal Live 16(Aqui) [COLOR white] 21:00h UEFA Champions League. Juventus vs Villarreal CristalAzul",
+"name": "Canal Live 18(Aqui) [COLOR white] 21:00h UEFA Champions League. Juventus vs Villarreal CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge-live15-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
                             
                             
-"name": "Canal Live 17(Aqui) [COLOR white] 23:15h Copa Libertadores. Estudiantes vs Everton CristalAzul",
+"name": "Canal Live 19(Aqui) [COLOR white] 23:15h Copa Libertadores. Estudiantes vs Everton CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8 
                             
                             
-"name": "Canal Live 18(Aqui) [COLOR white] 00:00h Copa Argentina. Talleres Córdoba vs Club Atlético Güemes CristalAzul",
+"name": "Canal Live 20(Aqui) [COLOR white] 00:00h Copa Argentina. Talleres Córdoba vs Club Atlético Güemes CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8                           
                             
                                                         
-"name": "Canal Live 19(Aqui) [COLOR white] 01:30h Copa Libertadores. Olimpia vs Fluminense CristalAzul",
+"name": "Canal Live 21(Aqui) [COLOR white] 01:30h Copa Libertadores. Olimpia vs Fluminense CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://ultratotal.ddns.net/xls/champiota/index.m3u8                            
                             
                             
-"noname": "Canal Live 20(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 22(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvc-live1-rm.flumotion.com/rtvc-rm/live1-rm_med/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -2141,9 +2155,9 @@
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES155/tracks-v1a1/mono.m3u8http://172.96.172.111:2030/streams/70_.m3u8
                             
                                                         
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://46.29.169.15:4001/play/a002/index.m3u8"',
+                            "url": "http://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-79-67/dlive-dihupyoptj/1647209339/src/live.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.61.102.67:2000/play/a08j/index.m3u8?tudn
                             
