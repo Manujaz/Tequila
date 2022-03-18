@@ -176,14 +176,14 @@
                             "embed": "SOL M.*?sica">'.http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.chunklist_w27818905378.m3u8
                             
                             
-"name": "Canal MotoGP 1(Aqui) [COLOR white] Gran Premio Indonesia Practicas 1 CristalAzul",
+"name": "Canal MotoGP 1(Aqui) [COLOR white] 02:00h Gran Premio Indonesia Practicas 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://16live00.akamaized.net/BTSPORTS2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal MotoGP 2(Aqui) [COLOR white] Gran Premio Indonesia Practicas 1 CristalAzul",
+"name": "Canal MotoGP 2(Aqui) [COLOR white] 02:00h Gran Premio Indonesia Practicas 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://stream1.1616.ro:1945/look/livestream/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -243,10 +243,24 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net:443/tdp/tdp_main_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 3(Aqui) [COLOR white] 18:00h Super Lig. Rizespor vs Trabzonspor CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net:443/tdp/tdp_main_1080.m3u8
+                            
+                            
+"name": "Canal Live 4(Aqui) [COLOR white] 18:00h Serbia Super Liga. Bačka Topola vs Proleter Novi Sad CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://46.29.169.15:4001/play/a00g/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                                                                                                                 
                                                                                     
-"name": "Canal Live 3(Aqui) [COLOR white] 20:30h Bundesliga.Bochum vs Borussia M'gladbach CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 20:30h Bundesliga.Bochum vs Borussia M'gladbach CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -274,21 +288,21 @@
                             "embed": "SOL M.*?sica">'.https://16live00.akamaized.net/BTSPORTS3/index.m3u8
                             
                                                                                                                                                                                                                    
-"noname": "Canal Live 7(Aqui) [COLOR white] 19:05h Argentina Primera B Nacional. Sacachispas vs Independiente Rivadavia CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 00:30h Endurance. 1000 Miles Race of Sebring CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8"',
+                            "url": "http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/89.chunklist_w4667732286.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8                                                                                   
                             
                             
-"noname": "Canal Live 8(Aqui) [COLOR white] 21:00h Europa League 1. West Ham vs Sevilla FC CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 01:00h WWE Friday Night SmackDown Live CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://154.62.74.29:1935/live/gol/chunklist_w305718432.m3u8"',
+                            "url": "https://16live00.akamaized.net/BTSPORTS2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.http://154.62.74.29:1935/live/gol/chunklist_w305718432.m3u8 
                             
                             
-"noname": "Canal Live 9(Aqui) [COLOR white] 21:00h Europa League 1. West Ham vs Sevilla FC CristalAzul",
+"noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.29:1935/live/gol/chunklist_w305718432.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
