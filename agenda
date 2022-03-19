@@ -204,9 +204,9 @@
                             "embed": "SOL M.*?sica">'.http://185.132.132.192:8080/SKYSPF1/tracks-v1a1/mono.m3u8
                             
                                                         
-"noname": "Canal Formula 1(Aqui) [COLOR white] Formula 1 Bahrain Grand Prix CristalAzul",
+"name": "Canal Formula 1(Aqui) [COLOR white] Formula 1 Bahrain Grand Prix CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://22aa00fd2e48.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.657604377173.channel.9UsaRAhuRqrE.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
                             
