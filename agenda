@@ -118,16 +118,9 @@
                             "url": "https://d17f1mg1q6g54e.cloudfront.net/hls/heat/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
-                            
+                                                                                                                
                             
 "noname": "Canal NBA(Aqui) [COLOR white] CANAL NBA 7 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
-                            
-"noname": "Canal NBA(Aqui) [COLOR white] CANAL NBA 8 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3bh6k6cdgaj10.cloudfront.net/hls/nbatv/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -843,12 +836,12 @@
                             
 "name": "CanalFavorito(Aqui) [COLOR white] M.LALIGA 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://78.141.230.196:8080/hls/marta.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://78.141.230.196:8080/hls/futbolmaniacos.m3u8 
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] DAZN 1 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] DAZN 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://78.141.230.196:8080/hls/maniacos2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
