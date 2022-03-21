@@ -187,42 +187,49 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://16live00.akamaized.net/BTSPORTS2/index.m3u8
-                            
-                            
+                            "embed": "SOL M.*?sica">'.https://16live00.akamaized.net/BTSPORTS1/index.m3u8
+                           
+                                                        
 "name": "Canal Live 3(Aqui) [COLOR white] 20:30h Amistoso Femenino. España vs Brasil CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net:443/tdp/tdp_main_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://stream1.1616.ro:1945/look/livestream/playlist.m3u8                           
+                            "embed": "SOL M.*?sica">'. https://stream1.1616.ro:1945/look/livestream/playlist.m3u8 
+                            
+                            
+"name": "Canal Live 4(Aqui) [COLOR white] 20:30h Amistoso Femenino. España vs Brasil CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"name": "Canal Live 4(Aqui) [COLOR white] 21:00h LaLiga SmartBant. Tenerife vs UD Almería CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 21:00h LaLiga SmartBant. Tenerife vs UD Almería CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://31.24.159.221:8080/hls/gol.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/looksport3/livestream/chunklist.m3u8
                            
                             
-"name": "Canal Live 5(Aqui) [COLOR white] 21:00h LaLiga SmartBant. Tenerife vs UD Almería CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 21:00h LaLiga SmartBant. Tenerife vs UD Almería CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://70.34.212.187:8080/hls/fuerza.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.132.132.192:8080/SKYSPF1/tracks-v1a1/mono.m3u8
                             
                                                         
-"noname": "Canal Live 6(Aqui) [COLOR white] 23:30 Campeonato Brasileiro De Futbol Feminino Internacional vs São Paulo CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 23:30h Campeonato Brasileiro De Futbol Feminino Internacional vs São Paulo CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
                             
                             
-"noname": "Canal Live 7(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 7(Aqui) [COLOR white] 01:00h WWE Monday Night Raw CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d17f1mg1q6g54e.cloudfront.net:443/hls/espn2/chunks.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://d17f1mg1q6g54e.cloudfront.net:443/hls/espn2/chunks.m3u8
                             
                             
 "noname": "Canal Live 8(Aqui) [COLOR white]  CristalAzul",
