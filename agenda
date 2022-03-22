@@ -183,16 +183,16 @@
                             "embed": "SOL M.*?sica">'.https://16live00.akamaized.net/BTSPORTS1/index.m3u8
                            
                                                         
-"noname": "Canal Live 3(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 20:30h LNFS. Viña Albali Valdepeñas vs Palma Futsal CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestreamv3.akamaized.net:443/tdp/tdp_main_1080.m3u8"',
+                            "url": "http://31.24.159.221:8080/hls/gol.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://stream1.1616.ro:1945/look/livestream/playlist.m3u8 
                             
                             
-"noname": "Canal Live 4(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 20:30h Basket Champions League Playoffs. BAXI Manresa vs Tofas Bursa CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
+                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
