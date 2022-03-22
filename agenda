@@ -771,18 +771,18 @@
                             "embed": "SOL M.*?sica">'.https://betistv-live.flumotion.com/oKS0o5i6lArHZP415wNmew/1646680976/betistv/live_all/betistv/live_source/chunks.m3u8
 
 
-"noname": "CanalFavorito(Aqui) [COLOR white] TUDN MEX CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] LALIGA TV EU CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://190.61.102.67:2000/play/a08j/index.m3u8"',
+                            "url": "http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://190.61.102.67:2000/play/a08j/index.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] UNBEATEN TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://unbeaten-roku.amagi.tv/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'. http://190.61.102.67:2000/play/a08j/index.m3u8                           
 
 
 "name": "CanalFavorito(Aqui) [COLOR white] ESPN EXTRA CristalAzul",
