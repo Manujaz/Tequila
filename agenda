@@ -218,16 +218,16 @@
                             "embed": "SOL M.*?sica">'.http://185.132.132.192:8080/SKYSPF1/tracks-v1a1/mono.m3u8
                             
                                                         
-"noname": "Canal Live 8(Aqui) [COLOR white] CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 20:30h Liga Guerreras Iberdrola. BM Elche vs BM Bera Bera CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
                             
                             
-"noname": "Canal Live 9(Aqui) [COLOR white] CristalAzul",
+"noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d17f1mg1q6g54e.cloudfront.net:443/hls/espn2/chunks.m3u8
                             
@@ -236,7 +236,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://edge2.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
                             
                             
 "noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
