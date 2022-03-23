@@ -183,60 +183,60 @@
                             "embed": "SOL M.*?sica">'.http://31.24.159.231:8030/hls/telegram.m3u8                            
                             
                             
-"name": "Canal Live 2(Aqui) [COLOR white] 15:15h Vuelta a Cataluña. Etapa 2 CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 15:15h Vuelta a Cataluña. Etapa 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://16live00.akamaized.net/BTSPORTS1/index.m3u8
                            
                                                         
-"name": "Canal Live 3(Aqui) [COLOR white] 16:00h Segunda División. Barça B FS vs O Parrulo Ferrol CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 16:00h Segunda División. Barça B FS vs O Parrulo Ferrol CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://stream1.1616.ro:1945/look/livestream/playlist.m3u8 
                             
                             
-"noname": "Canal Live 4(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 19:00h LNFS. Fútbol Emotion Zaragoza vs Manzanares FS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
+                            "url": "https://klive.kaltura.com/s/env/cluster-1-b.live.nvp1/live/hls/p/2288691/e/0_xs45iy5i/tl/main/st/0/t/DznN37GHRy-bwqducFv4Xw/index-s32.m3u8?__hdnea__=st=1648040564~exp=1648126964~acl=/s/env/cluster-1-b.live.nvp1/live/hls/p/2288691/e/0_xs45iy5i/tl/main/st/0/t/DznN37GHRy-bwqducFv4Xw/index-s32.m3u8*~hmac=1ddfea08d7d1145f3fca78d2a819cc8c495316e7efaeb38bb38684d2fe5e0509"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://50.7.34.155:2200/BR/Band_Sports_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null                            
                             
                                                         
-"noname": "Canal Live 5(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 20:30h LNFS. Barça FS vs Xota FS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://31.24.159.221:8080/hls/gol.m3u8"',
+                            "url": "http://154.62.74.29:1935/live/gol/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/looksport3/livestream/chunklist.m3u8
                            
                             
-"noname": "Canal Live 6(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 20:30h LNFS. Barça FS vs Xota FS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://70.34.212.187:8080/hls/fuerza.m3u8"',
+                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.132.132.192:8080/SKYSPF1/tracks-v1a1/mono.m3u8
                             
                                                         
-"noname": "Canal Live 7(Aqui) [COLOR white] CristalAzul",
+"noname": "Canal Live 8(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
                             
                             
-"noname": "Canal Live 8(Aqui) [COLOR white] CristalAzul",
+"noname": "Canal Live 9(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d17f1mg1q6g54e.cloudfront.net:443/hls/espn2/chunks.m3u8
                             
                             
-"noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 10(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://edge2.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://31.24.159.221:8080/hls/gol.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
@@ -1860,7 +1860,7 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://154.62.74.29:1935/live/gol/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES68/tracks-v1a1/mono.m3u8?goltv
+                            "embed": "SOL M.*?sica">'.
 
 
 "name": "Canal 3(Aqui) [COLOR white] MATTV-SELET CristalAzul",
