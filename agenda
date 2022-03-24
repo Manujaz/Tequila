@@ -20,16 +20,26 @@
  =================================================
  
  
- 
- 
+
+
+
+
+
 "name": "Canal BARMINTON(Aqui) [COLOR white] CANAL BARMINTON 1 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://laligatech-live-usp.akamaized.net/live/wpt01-bkp/wpt01-bkp.isml/wpt01-bkp-audio_track_0_0_spa=96000-video_track=4000000.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+ 
+"name": "Canal BARMINTON(Aqui) [COLOR white] CANAL BARMINTON 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/afdd96e308534c3b8b91171a2f1f76d4/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1647527234~exp=9007200902268225~acl=/afdd96e308534c3b8b91171a2f1f76d4/*/profile_0/chunklist.m3u8*~hmac=97f2b3d40e629bb482ed20849c404ff9d33dc7966c02f309da1f32dce95e9e2c"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                         
-"name": "Canal BARMINTON(Aqui) [COLOR white] CANAL BARMINTON 2 CristalAzul",
+"name": "Canal BARMINTON(Aqui) [COLOR white] CANAL BARMINTON 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/afdd96e308534c3b8b91171a2f1f76d4/ap-northeast-1/6271486521001/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
