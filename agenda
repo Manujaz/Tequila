@@ -354,14 +354,14 @@
                             "embed": "SOL M.*?sica">'.https://16live00.akamaized.net/BTSPORTS3/index.m3u8
                             
                             
-"name": "Canal Live 25(Aqui) [COLOR white] 00:30h World Cup Qualifying. Brazil vs Chile CristalAzul",
+"name": "Canal Live 25(Aqui) [COLOR white] 23:30h NCAA Division II. Augusta vs Indiana Pa CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://70.34.223.164:8080/hls/robones.m3u8
                                                                                     
                             
-"name": "Canal Live 26(Aqui) [COLOR white] 00:30 World Cup Qualifying : Uruguay vs Peru CristalAzul",
+"noname": "Canal Live 26(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2201/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
