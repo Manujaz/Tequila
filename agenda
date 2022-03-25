@@ -92,14 +92,14 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://inews-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8 
                             
                                                                                                                                                                                                                                                            
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8"',
+                            "url": "http://stream2.grandma.fit/fs2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://stream2.grandma.fit/fs2.m3u8
+                            "embed": "SOL M.*?sica">'.http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
                             
                             
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
@@ -111,7 +111,7 @@
                             
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8"',
+                            "url": "http://stream2.grandma.fit/fs2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8 
                             
@@ -123,9 +123,9 @@
                             "embed": "SOL M.*?sica">'.http://202.44.228.201:1935/aslive/skynetsports5/mono.m3u8 
                             
                             
-"noname": "Canal NBA(Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
+"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://134.19.182.131:8080/pdga77f3b6e943f7c0b_2.m3u8?m=rPcqjCCXgGJbWVPxpG-Tew&c=e5d1bb6c17debce5&p=3135362e3231392e3136362e35&e=1646294626"',
+                            "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
@@ -354,14 +354,14 @@
                             "embed": "SOL M.*?sica">'.https://16live00.akamaized.net/BTSPORTS3/index.m3u8
                             
                             
-"noname": "Canal Live 8(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 25(Aqui) [COLOR white] 00:30h World Cup Qualifying. Brazil vs Chile CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://70.34.223.164:8080/hls/robones.m3u8
                                                                                     
                             
-"noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 26(Aqui) [COLOR white] 00:30 World Cup Qualifying : Uruguay vs Peru CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2201/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -855,7 +855,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://filmkita.online/absbshsjwjwjwjjwehheejdidijdjdndbdbdbdbdnddjjssjsjsjsjsjshshshsbsbssbdbbdhdhdhd/useehls.m3u8?id=useesport
+                            "embed": "SOL M.*?sica">'.
 
 
 "name": "CanalFavorito(Aqui) [COLOR white] WHIETLE TV CristalAzul",
@@ -1705,21 +1705,21 @@
                             "embed": "SOL M.*?sica">'.http://185.53.89.183/hls/bt2.m3u8
                             
                                                                                                                                                                                                                                                                                                                                      
-"name": "CanalFavorito(Aqui) [COLOR white] BTSPORT 1 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BTSPORT 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport1/index.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BTSPORT 2 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BTSPORT 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] BTSPORT 3 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BTSPORT 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1957,14 +1957,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal 7(Aqui) [COLOR white] EUROSPORT 1 ESP CristalAzul",
+"noname": "Canal 7(Aqui) [COLOR white] EUROSPORT 1 ESP CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                          
-"name": "Canal 8(Aqui) [COLOR white] EUROSPORT 1 ESP CristalAzul",
+"noname": "Canal 8(Aqui) [COLOR white] EUROSPORT 1 ESP CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1999,14 +1999,14 @@
                             "embed": "SOL M.*?sica">'. http://31.220.41.87:8081/live/nl-ziggoracing.stream/playlist.m3u8
  
  
-"name": "Canal 13(Aqui) [COLOR white] NBA TV CristalAzul",
+"noname": "Canal 13(Aqui) [COLOR white] NBA TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal 13(Aqui) [COLOR white] NBA TV 2 CristalAzul",
+"name": "Canal 13(Aqui) [COLOR white] NBA TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
