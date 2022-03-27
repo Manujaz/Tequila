@@ -184,7 +184,14 @@
                             "url": "https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8?start=2022-03-05T19:36:00+04:00&end=2022-03-05T21:03:00+04:00"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.chunklist_w27818905378.m3u8                            
-                                                                                    
+
+
+"name": "Canal Live (Aqui) [COLOR white] FIA Fórmula 1 G.P. Arabia Saudí CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://70.34.212.187:8080/hls/fuerza.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://aws.nowtv.vip/live/f1_abr/chunks.m3u8
+
                             
 "name": "Canal Live(Aqui) [COLOR white] FIA Fórmula 1 G.P. Arabia Saudí CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -200,9 +207,9 @@
                             "embed": "SOL M.*?sica">'.http://stream2.grandma.fit/espn2.m3u8                             
                             
                             
-"noname": "Canal Live(Aqui) [COLOR white] FIA Fórmula 1 G.P. Arabia Saudí CristalAzul",
+"name": "Canal Live(Aqui) [COLOR white] FIA Fórmula 1 G.P. Arabia Saudí CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://70.34.212.187:8080/hls/fuerza.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://aws.nowtv.vip/live/f1_abr/chunks.m3u8                            
                            
