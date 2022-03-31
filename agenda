@@ -831,7 +831,7 @@
                             "embed": "SOL M.*?sica">'.http://70.34.223.164:8080/hls/robones.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] M.DAZN F1 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] M.DAZN F1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://195.201.217.8/xls/formulax/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
