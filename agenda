@@ -75,9 +75,9 @@
                             "embed": "SOL M.*?sica">'.https://inews-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8                                                  
                             
                                                                                                                                           
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 5 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://212.102.60.80/Eurosport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a001/index.m3u8
                             
@@ -131,7 +131,7 @@
                             "embed": "SOL M.*?sica">'.http://stream2.grandma.fit/espn2.m3u8 
                             
                             
-"noname": "Canal NBA(Aqui) [COLOR white] CANAL NBA 6 CristalAzul",
+"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 6 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d17f1mg1q6g54e.cloudfront.net/hls/nbatv/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -835,12 +835,19 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://195.201.217.8/xls/formulax/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] EUROSPORT 2 POL CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://212.102.60.80/Eurosport2/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] M.LIGADECAMPEONES CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] EUROSPORT 2 FRA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://70.34.223.164:8080/hls/robones.m3u8"',
+                            "url": "http://212.102.60.80/Eurosport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://loga.ultratotal.ml/xls/ligota/index.m3u8 
                             
