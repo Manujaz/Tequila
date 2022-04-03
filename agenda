@@ -253,7 +253,7 @@
                                                                                                                                           
 "name": "Canal Live 7(Aqui) [COLOR white] 14:00h La Liga. Athletic Club vs Elche CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://atrapadores.ddns.net/hls/maniacos1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://50.7.34.155:2200/BR/Band_Sports_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null                            
                             
@@ -272,11 +272,18 @@
                             "embed": "SOL M.*?sica">'.https://d17f1mg1q6g54e.cloudfront.net:443/hls/espn2/chunks.m3u8
                             
                             
-"name": "Canal Live 10(Aqui) [COLOR white] 16:15h La Liga. Real Betis vs Osasuna CristalAzul",
+ "name": "Canal Live 10(Aqui) [COLOR white] 16:15h La Liga. Real Betis vs Osasuna CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://atrapadores.ddns.net/hls/maniacos1.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 11(Aqui) [COLOR white] 16:15h La Liga. Real Betis vs Osasuna CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://loga.ultratotal.ml/xls/ligota/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.http://atrapadores.ddns.net/hls/maniacos1.m3u8                            
                             
                             
 "name": "Canal Live 11(Aqui) [COLOR white] 16:15h Liga Sacyr ASOBAL. Frigoríficos Morrazo vs Bada Huesca CristalAzul",
@@ -379,7 +386,7 @@
                                                                                                                                                                                                      
 "name": "Canal Live 25(Aqui) [COLOR white] 21:00h La Liga. FC Barcelona vs Sevilla FC CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://loga.ultratotal.ml/xls/ligota/index.m3u8"',
+                            "url": "http://atrapadores.ddns.net/hls/maniacos1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://16live00.akamaized.net/BTSPORTS3/index.m3u8
                             
