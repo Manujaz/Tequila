@@ -194,9 +194,9 @@
                             "embed": "SOL M.*?sica">'.http://atrapador33.ddns.net/hls/maniacos2.m3u8
                             
                             
-"noname": "Canal Live(Aqui) [COLOR white] MotoGP Gran Premio Michelin de la República Argentina CristalAzul",
+"name": "Canal Live(Aqui) [COLOR white] MotoGP Gran Premio Michelin de la República Argentina CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://stream2.grandma.fit/espn2.m3u8?espn2 
                             
