@@ -398,7 +398,7 @@
                             "embed": "SOL M.*?sica">'. http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8                                                                                   
                             
                             
-"noname": "Canal Live 21(Aqui) [COLOR white] 20:45 h Francia Ligue 1. PSG vs Lorient CristalAzul",
+"noname": "Canal Live 21(Aqui) [COLOR white] 20:45h Francia Ligue 1. PSG vs Lorient CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -407,7 +407,7 @@
                                                                                                                                                                                                      
 "name": "Canal Live 21(Aqui) [COLOR white] 21:00h La Liga. FC Barcelona vs Sevilla FC CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://atrapadores.ddns.net/hls/maniacos1.m3u8"',
+                            "url": "https://hll.hnzzdf.com.cn/live/H134038.m3u8?txSecret=523fe28e8340b8febb0b474884ad0342&txTime=624A98E0&_s=stream"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://16live00.akamaized.net/BTSPORTS3/index.m3u8
                             
@@ -417,16 +417,23 @@
                             "url": "http://loga.ultratotal.ml/xls/ligota/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                            
+                                                        
                             
 "name": "Canal Live 23(Aqui) [COLOR white] 21:00h La Liga. FC Barcelona vs Sevilla FC CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://loga.ultratotal.ml/xls/ligota/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 24(Aqui) [COLOR white] 21:00h La Liga. FC Barcelona vs Sevilla FC CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://loga.ultratotal.ml/xls/ligota/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 24(Aqui) [COLOR white] 21:30h IIHF Mundial Femenino. España vs Letonia CristalAzul",
+"name": "Canal Live 25(Aqui) [COLOR white] 21:30h IIHF Mundial Femenino. España vs Letonia CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net:443/tdp/tdp_main_1080"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
