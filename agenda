@@ -178,15 +178,8 @@
                             "url": "https://cablecast.nwct.org/live-9/live/WIFI-1596k-540p/WIFI-1596k-540p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://bal.varcdn1.ru/lb/match/index.m3u8                           
-                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-                            
-"name": "Canal MOTOR(Aqui) [COLOR white] GT4 Round 1 Imola - Carrera CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://king.nowtv.vip/live/f1_abr/chunks.m3u8
-                            
-                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+                                                        
 "name": "Canal Live 1(Aqui) [COLOR white] 15:30h Vuelta al País Vasco. Etapa 1. Hondarribia › Hondarribia (7,5 km) CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
@@ -710,6 +703,13 @@
                             "url": "http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://alv.encohd.co:39591/live/7zX7Mk9/oJ87Hv/384.m3u8
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] GT WORLD RACER CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://king.nowtv.vip/live/f1_abr/chunks.m3u8                            
                             
                                                                                     
 "name": "CanalFavorito(Aqui) [COLOR white] BEINSPORT 1 ENG CristalAzul",
