@@ -698,9 +698,9 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "Canal Live 24(Aqui) [COLOR white]  CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] TOP GEAR TV  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8"',
+                            "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://alv.encohd.co:39591/live/7zX7Mk9/oJ87Hv/384.m3u8
                             
@@ -1122,7 +1122,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/bein1fr/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://b.banourahga.xyz/live/652177700/index.m3u8
+                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/bein1fr/index.m3u8 
                            
                             
 "name": "CanalFavorito(Aqui) [COLOR white] BEINSPORTS 2 FR CristalAzul",
@@ -1811,9 +1811,9 @@
                             "embed": "SOL M.*?sica">'.
                                                        
                                                         
-"noname": "CanalFavorito (Aqui) [COLOR white] ESPN USA CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN USA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://d3bh6k6cdgaj10.cloudfront.net/hls/espn/chunks.m3u8"',
+                            "url": "http://178.218.196.218:8000/play/a00k/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                              
