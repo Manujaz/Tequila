@@ -852,9 +852,9 @@
                             "embed": "SOL M.*?sica">'.http://78.141.230.196:8080/hls/futbolmaniacos.m3u8 
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] TSN 2 SPORT CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] ASTRO SUPERSPORT 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://king.nowtv.vip/live/tsn2/chunks.m3u8"',
+                            "url": "http://178.218.196.218:8000/play/a004/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://alv.encohd.co:39591/live/j0roNAC/n3XT33/384.chunklist_w_3466632678533378.m3u8?WIN
                             
@@ -2315,10 +2315,10 @@
                             "embed": "SOL M.*?sica">'. https://dxla1.gcdn.co/ES4/tracks-v1a1/mono.m3u8
                             
                                                         
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 5 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 5 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://202.44.228.201:1935/aslive/skynetsports2/mono.m3u8"',
-                            "referer": "http://93.152.174.144:4000/play/Bein5Ar/index.m3u8",
+                            "url": "http://200.6.227.230:8000/play/a04b/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES18/tracks-v1a1/mono.m3u8
                             http://93.152.174.144:4000/play/skysports3/index.m3u8
                             
