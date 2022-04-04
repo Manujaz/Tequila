@@ -691,14 +691,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                                                                                    
-"noname": "Canal Live 23(Aqui) [COLOR white]  CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] TUNING TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8"',
+                            "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] TOP GEAR TV  CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] TOP GEAR TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -816,17 +816,24 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
                             
-
-"noname": "CanalFavorito(Aqui) [COLOR white] FS2 SPORT USA CristalAzul",
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] ELEVEN SPORT 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://stream2.grandma.fit/fs2.m3u8"',
+                            "url": "http://185.205.201.44:8019/play/a04c/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://stream2.grandma.fit/fs2.m3u8                            
+                            
+
+"name": "CanalFavorito(Aqui) [COLOR white] ELEVEN SPORT 2 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://185.205.201.44:8019/play/a04d/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://134.19.182.131:8080/pdga77f3b6e943f7c0b_2.m3u8?m=rPcqjCCXgGJbWVPxpG-Tew&c=e5d1bb6c17debce5&p=3135362e3231392e3136362e35&e=1646294626                           
                             
 
-"noname": "CanalFavorito(Aqui) [COLOR white] M.DAZN F1 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] ELEVEN SPORT 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://alv.encohd.co:39591/live/j0roNAC/n3XT33/72.chunklist_w894316004512896005217.m3u8"',
+                            "url": "http://185.205.201.44:8019/play/a04e/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://70.34.223.164:8080/hls/robones.m3u8
                             
