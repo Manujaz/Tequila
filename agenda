@@ -98,7 +98,7 @@
                                                                                                                                                                                                                                                                                                                                                
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://king.nowtv.vip/live/espn/chunks.m3u8"',
+                            "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
                             
@@ -112,7 +112,7 @@
                             
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
+                            "url": "https://d17f1mg1q6g54e.cloudfront.net/hls/nbatv/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8 
                             
@@ -126,21 +126,21 @@
                             
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d17f1mg1q6g54e.cloudfront.net/hls/nbatv/playlist.m3u8"',
+                            "url": "http://178.218.196.218:8000/play/a00k/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://stream2.grandma.fit/espn2.m3u8 
                             
                             
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 6 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d17f1mg1q6g54e.cloudfront.net/hls/cavaliers/chunks.m3u8"',
+                            "url": "https://d17f1mg1q6g54e.cloudfront.net/hls/raptors/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                                                                                                                 
                             
-"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 7 CristalAzul",
+"noname": "Canal NBA(Aqui) [COLOR white] CANAL NBA 7 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d17f1mg1q6g54e.cloudfront.net/hls/raptors/chunks.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://134.19.182.131:8080/pdga77f3b6e943f7c0b_2.m3u8?m=rPcqjCCXgGJbWVPxpG-Tew&c=e5d1bb6c17debce5&p=3135362e3231392e3136362e35&e=1646294626                            
                             
@@ -154,7 +154,7 @@
 
 "noname": "Canal NBA(Aqui) [COLOR white] CANAL NBA 9 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://46.29.169.15:4001/play/a00g/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -313,9 +313,9 @@
                             "embed": "SOL M.*?sica">'.http://50.7.34.155:2200/BR/Band_Sports_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null                            
                             
 
-"noname": "Canal Live 20(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 20(Aqui) [COLOR white] 00:30h NBA. New York Knicks vs Brooklyn Nets CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://50.7.34.155:2201/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8 
                             
