@@ -145,9 +145,9 @@
                             "embed": "SOL M.*?sica">'.http://134.19.182.131:8080/pdga77f3b6e943f7c0b_2.m3u8?m=rPcqjCCXgGJbWVPxpG-Tew&c=e5d1bb6c17debce5&p=3135362e3231392e3136362e35&e=1646294626                            
                             
                                                         
-"noname": "Canal NBA(Aqui) [COLOR white] CANAL NBA 8 CristalAzul",
+"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 8 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://93.152.174.144:4000/play/btsportespn/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://king.nowtv.vip/live/tsn2/chunks.m3u8
                             
@@ -740,11 +740,18 @@
                             "embed": "SOL M.*?sica">'.http://juguemosalawii.ddns.net:8080/hls/privado.m3u8                            
                             
                             
-"noname": "Canal Live 22(Aqui) [COLOR white]  CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] DAZN MOTOGP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8"',
+                            "url": "http://luces.ultratotal.ml/xls/dazzzmoto/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://luces.ultratotal.ml/xls/dazzzmoto/index.m3u8
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] DAZN F1 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://loga.ultratotal.ml/xls/formulax/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. http://185.152.66.55/98783/tracks-v1a1/mono.m3u8                            
                             
                                                                                    
 "name": "CanalFavorito(Aqui) [COLOR white] TUNING TV CristalAzul",
@@ -1480,13 +1487,6 @@
                             "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
-
-
-"noname": "CanalFavorito(Aqui) [COLOR white] DAZN F1 ESP CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/chunks.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://185.152.66.55/98783/tracks-v1a1/mono.m3u8
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] D2D SPORT TV CristalAzul",
@@ -2366,42 +2366,42 @@
                                                         
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://190.61.102.67:2000/play/a08j/index.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/bein1ar/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.61.102.67:2000/play/a08j/index.m3u8?tudn
                             
                                                         
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://178.218.196.218:8000/play/a00m/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a001/index.m3u8 
                             
                             
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 4 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 4 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://178.218.196.218:8000/play/a009/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://dxla1.gcdn.co/ES4/tracks-v1a1/mono.m3u8
                             
                                                         
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 5 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 5 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://200.6.227.230:8000/play/a04b/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES18/tracks-v1a1/mono.m3u8
                             
                             
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 6 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 6 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://93.152.174.144:4000/play/bein1ar/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://dxla1.gcdn.co/ES84/tracks-v1a1/mono.m3u8
                             
                                                         
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 7 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 7 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://16live00.akamaized.net/BTSPORTS3/index.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://dxla1.gcdn.co/ES41/tracks-v1a1/mono.m3u8
                             
