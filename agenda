@@ -236,35 +236,35 @@
                             "embed": "SOL M.*?sica">'. http://190.14.162.252:8080/espn2/tracks-v2a1/mono.m3u8                           
 
                             
-"noname": "Canal Live 2(Aqui) [COLOR white] 16:00h Euroliga Femenina. Perfumerías Avenida vs Sopron Basket CristalAzul",
+"name": "Canal Live 2(Aqui) [COLOR white] 16:00h Euroliga Femenina. Perfumerías Avenida vs Sopron Basket CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://rtvelivestreamv3.akamaized.net:443/tdp/tdp_main_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                             
                             
-"noname": "Canal Live 3(Aqui) [COLOR white] 18:45h UEFA Europa League. RB Leipzig vs Atalanta CristalAzul",
+"noname": "Canal Live 3(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00g/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
                            
                                                         
-"noname": "Canal Live 4(Aqui) [COLOR white] 18:45h UEFA Europa Conference League. Feyenoord vs Slavia Praha CristalAzul",
+"noname": "Canal Live 4(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00h/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://comoosgustarobaree.bounceme.net:8080/hls/robarmal.m3u8
                             
                             
-"noname": "Canal Live 5(Aqui) [COLOR white] 18:45h UEFA Europa Conference League. Feyenoord vs Slavia Praha CristalAzul",
+"noname": "Canal Live 5(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://178.218.196.218:8000/play/a00g/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 6(Aqui) [COLOR white] 20:00h Amistoso Femenino. España vs Brasil CristalAzul",
+"noname": "Canal Live 6(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net:443/tdp/tdp_main_1080.m3u"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
