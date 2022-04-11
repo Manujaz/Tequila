@@ -833,9 +833,9 @@
                             "embed": "SOL M.*?sica">'.http://juguemosalawii.ddns.net:8080/hls/privado.m3u8                            
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] DAZN MOTOGP CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SKY SPORTS F1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://luces.ultratotal.ml/xls/dazzzmoto/index.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://luces.ultratotal.ml/xls/dazzzmoto/index.m3u8
                             
