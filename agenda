@@ -270,25 +270,25 @@
                             "embed": "SOL M.*?sica">'.http://comoosgustarobaree.bounceme.net:8080/hls/robarmal.m3u8
                             
                             
-"noname": "Canal Live 6(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 17:30h Campeonato de España Open Primavera. Sesión vespertina CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://178.218.196.218:8000/play/a00l/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754"',
+                            "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net:443/tdp/tdp_main_1080.m3u8
                             
                                                                                     
-"noname": "Canal Live 7(Aqui) [COLOR white] CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 18:45h Golden Cup. Liceo vs HC Braga CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30alivestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.205.201.44:8019/play/a04d/index.m3u8                           
                             
  
-"noname": "Canal Live 8(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 21:00h Golden Cup. Sporting CP HP vs Barça HP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.29.169.15:4001/play/a00h/index.m3u8"',
+                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00h/index.m3u8?arena2premium
                             
  
 "noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
@@ -298,7 +298,7 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                  
-"name": "Canal Live 10(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 10(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00g/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
