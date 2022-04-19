@@ -311,52 +311,59 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://213.13.23.132/shls/LIVE%24SPORTTV5_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Live 14(Aqui) [COLOR white] 21:00h Euro Basket. Barcelona vs Bayern CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://46.29.169.15:4001/play/a00e/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                         
                             
-"name": "Canal Live 14(Aqui) [COLOR white] 21:30h LaLiga. Villarreal vs Valencia CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 21:30h LaLiga. Villarreal vs Valencia CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00i/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a002/index.m3u8
                             
                             
-"name": "Canal Live 15(Aqui) [COLOR white] 23:30h WSL Circuito. RIP CURL Pro Bells Beach CristalAzul",
+"name": "Canal Live 16(Aqui) [COLOR white] 23:30h WSL Circuito. RIP CURL Pro Bells Beach CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://213.13.23.132/shls/LIVE%24SPORTTV6_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00g/index.m3u8
                             
                                                         
-"name": "Canal Live 16(Aqui) [COLOR white] 00:00h Estudiantes vs Tigre CristalAzul",
+"name": "Canal Live 17(Aqui) [COLOR white] 00:00h Estudiantes vs Tigre CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://213.13.23.132/shls/LIVE%24SPORTTV3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 17(Aqui) [COLOR white] 01:00h College Lacrosse. Loyola Md. vs Georgetown CristalAzul",
+"name": "Canal Live 18(Aqui) [COLOR white] 01:00h College Lacrosse. Loyola Md. vs Georgetown CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.205.201.44:8019/play/a04d/index.m3u8                            
                               
                                                             
-"name": "Canal Live 18(Aqui) [COLOR white] 01:00H NHL. Tampa Bay Lightning vs Detroit Red Wings CristalAzul",
+"name": "Canal Live 19(Aqui) [COLOR white] 01:00H NHL. Tampa Bay Lightning vs Detroit Red Wings CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00e/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 19(Aqui) [COLOR white] 01:30h NHL. New York Islanders vs Florida Panthers CristalAzul",
+"name": "Canal Live 20(Aqui) [COLOR white] 01:30h NHL. New York Islanders vs Florida Panthers CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.205.201.44:8019/play/a04c/index.m3u8
                             
                                                                                                                 
-"name": "Canal Live 20(Aqui) [COLOR white] 02:00h WWE NXT CristalAzul",
+"name": "Canal Live 21(Aqui) [COLOR white] 02:00h WWE NXT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://213.13.23.132/shls/LIVE%24SPORTTV3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
