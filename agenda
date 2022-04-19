@@ -2488,7 +2488,7 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://unbeaten-roku.amagi.tv/playlist1080p.m3u8",
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://178.218.196.218:8000/play/a004/index.m3u8
                             
                             
 "name": "Canal 57(Aqui)[COLOR white] WORLD FREE SPORTS CristalAzul",
@@ -2500,7 +2500,7 @@
                                                                                     
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://178.218.196.218:8000/play/a004/index.m3u8"',
+                            "url": "http://134.0.113.120:8000/play/eurosport1hd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES155/tracks-v1a1/mono.m3u8http://172.96.172.111:2030/streams/70_.m3u8
                             
@@ -2514,7 +2514,7 @@
                                                         
 "noname": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://134.0.113.120:8000/play/eurosport2hd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a001/index.m3u8 
                             
