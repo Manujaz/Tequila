@@ -197,19 +197,19 @@
                             
 "noname": "Canal Live F1(Aqui) [COLOR white] Formula 1 Heineken Australian Grand Prix CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.205.201.44:8019/play/a04c/index.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live F1(Aqui) [COLOR white] Formula 1 Heineken Australian Grand Prix CristalAzul",
+"noname": "Canal Live F1(Aqui) [COLOR white] Formula 1 Emilia Romagna Grand Prix CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://dis5fdyevdl5h.cloudfront.net/stream/MzcwNQ==/1080p.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00e/index.m3u8 
                             
                             
-"noname": "Canal Live F1(Aqui) [COLOR white] Formula 1 Heineken Australian Grand Prix CristalAzul",
+"name": "Canal Live F1(Aqui) [COLOR white] Formula 1 Emilia Romagna Grand Prix CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00e/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -218,7 +218,7 @@
                             
 "noname": "Canal Live F1(Aqui) [COLOR white] Formula 1 Heineken Australian Grand Prix CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d28c1d458041.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.303903229440.channel.Z9ccH1hKPObw.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS1jZW50cmFsLTE6MzAzOTAzMjI5NDQwOmNoYW5uZWwvWjljY0gxaEtQT2J3IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93d3cuc3BvcnRuZXdzLnRvIiwiaWF0IjoxNjQ5MzY2MjA3LCJleHAiOjE2NDk1MzkwMDd9.BuQNDbGV9M-DxkYwxirQg2fB5vjxjIOCudmYm-ZSuo6DHffyzYnDUSq7jrM69hZUAdacKCjUuOHuSeS1WmxMtCA8PolqhlegLqNtwHVppfTfjfXjhlmE3WzQRvMEcd0f"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://dis5fdyevdl5h.cloudfront.net/stream/MzcwNQ==/1080p.m3u8 
                             
@@ -909,9 +909,9 @@
                             "embed": "SOL M.*?sica">'.https://king.nowtv.vip/live/f1_abr/chunks.m3u8                            
                             
                                                                                                                                              
-"noname": "CanalFavorito(Aqui) [COLOR white] FASTBOX & FUN CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SPORT TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://iptv.prosto.tv:7000/ch282/video.m3u8"',                           
+                            "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8"',                           
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                                   
                             
