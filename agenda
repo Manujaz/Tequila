@@ -167,9 +167,9 @@
                             "embed": "SOL M.*?sica">'. https://bal.varcdn1.ru/lb/match/index.m3u8
                             
                             
-"name": "Canal MLB(Aqui) [COLOR white] CANAL MLB 2 CristalAzul",
+"name": "Canal NFL(Aqui) [COLOR white] CANAL NFL 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsportespn/index.m3u8"',
+                            "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://cablecast.nwct.org/live-9/live/WIFI-1596k-540p/WIFI-1596k-540p.m3u8
                             
@@ -930,9 +930,9 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] SUPERSPORT VARIETY 4 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] PAG 12 SPORT INSIDE CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://178.218.196.218:8000/play/a00g/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754"',
+                            "url": "https://pac12-sportstribal.amagi.tv/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://178.218.196.218:8000/play/a009/index.m3u8
                             
