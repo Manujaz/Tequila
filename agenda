@@ -195,7 +195,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live F1(Aqui) [COLOR white] Formula 1 Heineken Australian Grand Prix CristalAzul",
+"name": "Canal Live F1(Aqui) [COLOR white] Formula 1 Emilia Romagna Grand Prix 2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -209,7 +209,7 @@
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00e/index.m3u8 
                             
                             
-"name": "Canal Live F1(Aqui) [COLOR white] Formula 1 Emilia Romagna Grand Prix 2022 CristalAzul",
+"noname": "Canal Live F1(Aqui) [COLOR white] Formula 1 Emilia Romagna Grand Prix 2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00e/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -220,7 +220,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://dis5fdyevdl5h.cloudfront.net/stream/MzcwNQ==/1080p.m3u8 
+                            "embed": "SOL M.*?sica">'.  
                             
                             
 "name": "Canal Live 1(Aqui) [COLOR white] 11:10h Flecha Valona. Carrera Femenina. Huy › Mur de Huy 133,4 km CristalAzul",
@@ -909,23 +909,23 @@
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/bein1fr/index.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] SUPERSPORT VARIETY 1 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] MAVTV GLOBAL CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://178.218.196.218:8000/play/a00c/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754"',
+                            "url": "https://mavtv-mavtvglobal-1-gb.samsung.wurl.tv/3000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://178.218.196.218:8000/play/a00g/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] SUPERSPORT VARIETY 2 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] MAVTV PLUS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://178.218.196.218:8000/play/a00e/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754"',
+                            "url": "https://mavtv-mavtvglobal-1-au.samsung.wurl.tv/3000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://208.79.153.123/teleup-espn2-new1/tracks-v1a1/mono.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] SUPERSPORT VARIETY 3 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] MAVTV SELECT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://178.218.196.218:8000/play/a00f/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754"',
+                            "url": "https://mavtv-1-us.samsung.wurl.tv/3000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
