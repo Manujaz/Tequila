@@ -313,19 +313,19 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00e/index.m3u8                            
                                                         
-                            
-"name": "Canal Live 15(Aqui) [COLOR white] 21:30h LaLiga. Real Sociedad vs Barcelona CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a002/index.m3u8
-                            
-                            
-"name": "Canal Live 16(Aqui) [COLOR white] 21:30h Brazil Serie B. Gremio vs Guarani CristalAzul",
+                                                                                    
+"name": "Canal Live 15(Aqui) [COLOR white] 21:30h Brazil Serie B. Gremio vs Guarani CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://189.16.194.19:8010/21/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00g/index.m3u8
+                            
+                            
+"name": "Canal Live 16(Aqui) [COLOR white] 01:00h NHL. Pittsburgh Penguins vs Boston Bruin CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://46.29.169.15:4001/play/a00e/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://elcegao.ddnsking.com:8080/hls/ci2.m3u8                            
                             
                                                         
 "name": "Canal Live 17(Aqui) [COLOR white] 02:30h Copa do Brasil. Atlético Goianiense vs Cuiabá CristalAzul",
@@ -334,14 +334,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                            
-"noname": "Canal Live 18(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://elcegao.ddnsking.com:8080/hls/ci2.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
-                            
+                                                                                                                
 "noname": "Canal Live 19(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
