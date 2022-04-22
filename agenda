@@ -2358,9 +2358,9 @@
                             "embed": "SOL M.*?sica">'.http://190.61.102.67:2000/play/a08j/index.m3u8                            
                             
                                                                                     
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8"',
+                            "url": "http://127.0.0.1:6878/ace/m/f70dd13e059f7cd860d10f81a86f5930f9da92e6/0d323dfc9ec28a19ad285cc59845dfc8.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES155/tracks-v1a1/mono.m3u8http://172.96.172.111:2030/streams/70_.m3u8
                             
