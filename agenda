@@ -223,18 +223,18 @@
                             "embed": "SOL M.*?sica">'.http://178.218.196.218:8000/play/a00f/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
                             
                             
-"noname": "Canal Live 2(Aqui) [COLOR white] CristalAzul",
+"name": "Canal Live Nascar(Aqui) [COLOR white] 23:30h Nascar XFinity. Ag-Pro 300 Auto racing Xfinity Series Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.29.169.15:4001/play/a00g/index.m3u8"',
+                            "url": "https://vsd139.mycdn.me:443/hls/2288596879955.m3u8/sig/jIkGyS2VJ7c/expires/1650733097661/srcIp/212.142.206.248/clientType/0/srcAg/CHROME_ANDROID/mid/4495522274899/2288596879955_high/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.205.201.44:8019/play/a04d/index.m3u8 
                             
                             
-"noname": "Canal Live 3(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live NHRA(Aqui) [COLOR white] 01:00h NHRA. Drag Racing Spring Nationals Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.29.169.15:4001/play/a00h/index.m3u8"',
+                            "url": "https://vsd139.mycdn.me:443/hls/2288596879955.m3u8/sig/jIkGyS2VJ7c/expires/1650733097661/srcIp/212.142.206.248/clientType/0/srcAg/CHROME_ANDROID/mid/4495522274899/2288596879955_high/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00g/index.m3u8
                             
                                                                                                                 
 "noname": "Canal Live 4(Aqui) [COLOR white] CristalAzul",
@@ -1109,7 +1109,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8                           
+                            "embed": "SOL M.*?sica">'. http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8                           
                             
                             
 "noname": "CanalFavorito(Aqui) [COLOR white] SPORTS TV 3 POR CristalAzul",
