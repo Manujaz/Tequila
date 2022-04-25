@@ -881,9 +881,9 @@
                             "embed": "SOL M.*?sica">'.                                   
                             
                                                                                             
-"noname": "CanalFavorito(Aqui) [COLOR white] MANCHESTER UNITED TV CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] PREMIERE TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://178.218.196.218:8000/play/a00i/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754"',
+                            "url": "http://189.16.194.19:8010/21/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/bein1fr/index.m3u8
                             
@@ -930,7 +930,7 @@
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
                             
-"name": "CanalFavorito(Aqui) [COLOR white] SPORT TV UK CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SPORTTV UK CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
