@@ -846,9 +846,9 @@
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/ssportsf1/index.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] VIASAT SPORT CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] FOXSPORT FS1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://iptv.prosto.tv:7000/ch282/video.m3u8"',
+                            "url": "http://d.mtfxg.xyz:8081/usa/foxsports1/chunks.m3u8?nimblesessionid=3433642&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDE6NDE6MTggUE0maGFzaF92YWx1ZT1RZllYWGxLS213ZnRicWl1NDBTNDhBPT0mdmFsaWRtaW51dGVzPTI="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.152.66.55/98783/tracks-v1a1/mono.m3u8                            
                             
@@ -1021,7 +1021,7 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                              
-"name": "CanalFavorito(Aqui) [COLOR white] EUROSPORT 2 FRA CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] EUROSPORT 2 FRA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.102.60.80/Eurosport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
