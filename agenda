@@ -208,7 +208,7 @@
                             "embed": "SOL M.*?sica">'.  
                             
                             
-"name": "Canal MotoGP(Aqui) [COLOR white] Gran Premio Jerez MotoGP CristalAzul",
+"name": "Canal Live MotoGP(Aqui) [COLOR white] Gran Premio Jerez MotoGP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -222,9 +222,9 @@
                             "embed": "SOL M.*?sica">'.http://185.205.201.44:8019/play/a04d/index.m3u8
                             
                             
-"noname": "Canal Live 1(Aqui) [COLOR white] 18:05h Serbia Super Liga. Spartak Subotica vs Proleter Novi Sad CristalAzul",
+"name": "Canal Live MotoGP(Aqui) [COLOR white] Gran Premio Jerez MotoGP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://189.16.194.19:8010/17/tracks-v1a1/mono.m3u8"',
+                            "url": "https://dornatoken.secure.footprint.net/token=nva=1651243377~dirs=2~ip=0.0.0.0~data=R9TJXw6mblZSg93ybwHhbijXQpcrwOgqDAsbblx9V1VqjHM33m7bFb2hFMbwgXEn~token=0b3929dc1486263f16464/hls/ipfmix/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8                                                       
                             
@@ -233,7 +233,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://189.16.194.19:8010/17/tracks-v1a1/mono.m3u8
                             
                             
 "noname": "Canal Live 3(Aqui) [COLOR white] 20:00h Liga Femenina. AE Sedis Bàsquet vs Basket Zaragoza 2002 CristalAzul",
