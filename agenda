@@ -1041,7 +1041,7 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] EUROSPORT SERV CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] EUROSPORT 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://89.40.98.69:8523/play/a04w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1083,7 +1083,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] GOLTV LAT CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] GOLTV LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.238.21.106:6688/play/a00z/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1346,28 +1346,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c828b82-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f462faf4-6f7f-4789-94df-d5226e0c1909&userId=&serverSideAds=true"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                      
-                                                                                                                
-                            
-"name": "CanalFavorito(Aqui) [COLOR white] CANAL BARMINTON 1 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://laligatech-live-usp.akamaized.net/live/wpt01-bkp/wpt01-bkp.isml/wpt01-bkp-audio_track_0_0_spa=96000-video_track=4000000.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-
- 
-"name": "CanalFavorito(Aqui) [COLOR white] CANAL BARMINTON 2 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://bcovlive-a.akamaihd.net/afdd96e308534c3b8b91171a2f1f76d4/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1647527234~exp=9007200902268225~acl=/afdd96e308534c3b8b91171a2f1f76d4/*/profile_0/chunklist.m3u8*~hmac=97f2b3d40e629bb482ed20849c404ff9d33dc7966c02f309da1f32dce95e9e2c"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                                                        
-"name": "CanalFavorito(Aqui) [COLOR white] CANAL BARMINTON 3 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://bcovlive-a.akamaihd.net/afdd96e308534c3b8b91171a2f1f76d4/ap-northeast-1/6271486521001/playlist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+                            "embed": "SOL M.*?sica">'.                                                                                                                                                                  
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] BELLATOR TV CristalAzul",
