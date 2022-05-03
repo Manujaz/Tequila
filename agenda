@@ -1069,7 +1069,7 @@
                             "embed": "SOL M.*?sica">'.http://45.167.250.115:20023/play/a0i2/index.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] FOX SPORTS  LAT CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] ESPN 4 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.167.250.115:20023/play/a0i2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1111,7 +1111,7 @@
                             "embed": "SOL M.*?sica">'.http://185.134.22.131:8080/live/Carlos123/Carlos123/38924.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] ESPN LAT CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] ESPN LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://201.182.242.135:12001/play/a09j/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1132,9 +1132,9 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] SPORTS TV 3 POR CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SPOT TV  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://213.13.23.132/shls/LIVE%24SPORTTV3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"',
+                            "url": "http://201.182.242.135:12001/play/a0at/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
                             
