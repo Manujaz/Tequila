@@ -1013,7 +1013,7 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                              
-"name": "CanalFavorito(Aqui) [COLOR white] ESPN PLUS CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] ESPN EXTRA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.4.85.137:58001/play/a029/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1034,7 +1034,7 @@
                             "embed": "SOL M.*?sica">'.http://78.141.230.196:8080/hls/futbolmaniacos.m3u8 
                      
                                                                                                                
-"name": "CanalFavorito(Aqui) [COLOR white] STAR SPORTS SELECT 2 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] STAR SPORTS SELECT 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://42.201.253.14:4090/play/a097/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1174,9 +1174,9 @@
                             "embed": "SOL M.*?sica">'.https://ppv.gcdn.co/DZ3/tracks-v1a1/mono.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] DAZN 1 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] ESPN USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://212.18.115.177:8001/play/a01m/index.m3u8"',
+                            "url": "http://185.145.43.244:8000/play/a00k/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -1244,9 +1244,16 @@
                             "embed": "SOL M.*?sica">'.http://boxter.live:8081/ssl/dtv+9/playlist.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] DIRECTV SPORTS CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SUPER SPORTSGRANDS TAND CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
-                            "url": "http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nD4VvPwM3eNQq6qXgWCFHho/.m3u8"',
+                            "url": "http://185.145.43.244:8000/play/a008/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                                                        
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] SUPER SPORTS PSL CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
+                            "url": "http://185.145.43.244:8000/play/a009/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -1258,16 +1265,16 @@
                             "embed": "SOL M.*?sica">'.                            
                                                                                                               
                                                                                    
-"noname": "CanalFavorito(Aqui) [COLOR white] SPORT TV BRA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BEIN SPORTS 1 ENG CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
-                            "url": "http://190.15.32.30/110/tracks-v1a1/mono.m3u8"',
+                            "url": "http://185.145.43.244:8000/play/a00l/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/89.chunklist_w4667732286.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] SPORT TV2 BRA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] LALIGA ENG CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
-                            "url": "http://190.15.32.30/111/tracks-v1a1/mono.m3u8"',
+                            "url": "http://185.145.43.244:8000/play/a00d/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -1384,9 +1391,9 @@
                             "embed": "SOL M.*?sica">'.
                                                                                                               
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] ESPN BR CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] ESPN 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://50.7.34.155:2201/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
+                            "url": "http://181.78.23.45:58001/play/a0bw/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId=
                             
