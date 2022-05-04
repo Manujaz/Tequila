@@ -245,7 +245,7 @@
                             
 "name": "Canal Live 3(Aqui) [COLOR white] 21:00h Champions League Semifinales. Real Madrid vs Manchester City CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/PQeMXlIWl2hfzOdZGKjqt615FyStiCSSMDPRom5ZX0VyK5JI4fmZbZxw9fqFmArPtRTlYJe8kvUgUSOpQwytfA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_highlatency.m3u8?type=live"',
+                            "url": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/XJ3rW3z8QCmvfBtI4h-bo2JzRkO_-CokZVZLoDJ9WN_BEcrN5QTpBjR1smfVXuvAEtC6Yu6vH3mLuP0WeuQ4Eg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://190.61.102.67:31589/play/a08j/index.m3u8                           
                             
@@ -870,14 +870,35 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8"',                           
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                                   
+                            "embed": "SOL M.*?sica">'. http://189.16.194.19:8010/21/tracks-v1a1/mono.m3u8                                  
                             
                                                                                             
-"noname": "CanalFavorito(Aqui) [COLOR white] PREMIERE TV CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] BUNDESLIGA 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://189.16.194.19:8010/21/tracks-v1a1/mono.m3u8"',
+                            "url": "http://79.143.17.78:2085/play/bundesliga01/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/bein1fr/index.m3u8
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] BUNDESLIGA 2 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://79.143.17.78:2085/play/00bundes2/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] BUNDESLIGA 4 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://79.143.17.78:2085/play/bundeslgaag4/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] BUNDESLIGA 5 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://79.143.17.78:2085/play/bundesl5n/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] MAVTV GLOBAL CristalAzul",
@@ -1183,9 +1204,16 @@
                             
 "name": "CanalFavorito(Aqui) [COLOR white] DAZN 1 ALE CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8"',
+                            "url": "http://79.143.17.78:2085/play/a0cf/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://79.143.17.78:2085/play/a0a0/index.m3u8                            
+                            "embed": "SOL M.*?sica">'.http://79.143.17.78:2085/play/a0a0/index.m3u8
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] DAZN 2 ALE CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://79.143.17.78:2085/play/a0cf/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] DAZN 1 ENG CristalAzul",
