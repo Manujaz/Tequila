@@ -1129,12 +1129,12 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://190.5.113.58:1133/play/a06t/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.http://190.61.37.173:9010/play/a03m/index.m3u8                            
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] ESPN 3 LAT CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SPORT MOTOR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://190.61.37.173:9010/play/a03m/index.m3u8"',
+                            "url": "http://79.143.17.78:2085/play/a07dvSATMOTOR/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -1176,7 +1176,14 @@
                             
 "name": "CanalFavorito(Aqui) [COLOR white] ESPN USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.145.43.244:8000/play/a00k/index.m3u8"',
+                            "url": "http://79.143.17.78:2085/play/a0a0/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] DAZN 1 ALE CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
