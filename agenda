@@ -287,7 +287,7 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 "name": "Canal Live 9(Aqui) [COLOR white] 21:00h Champions League Semifinales. Real Madrid vs Manchester City CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://189.16.194.19:8010/19/tracks-v1a1/mono.m3u8"',
+                            "url": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/XJ3rW3z8QCmvfBtI4h-bo2JzRkO_-CokZVZLoDJ9WN_BEcrN5QTpBjR1smfVXuvAEtC6Yu6vH3mLuP0WeuQ4Eg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://ppv.gcdn.co/FOOT1/tracks-v1a1/mono.m3u8?btsport
                             
@@ -299,9 +299,9 @@
                             "embed": "SOL M.*?sica">'.http://189.16.194.19:8010/15/tracks-v1a1/mono.m3u8
                             
                             
-"noname": "Canal Live 11(Aqui) [COLOR white] 21:00h Champions League Semifinales. Real Madrid vs Manchester City CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 21:00h Champions League Semifinales. Real Madrid vs Manchester City CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://190.61.102.67:31589/play/a08j/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00e/index.m3u8
                             
@@ -320,16 +320,16 @@
                             "embed": "SOL M.*?sica">'. https://videoserver.tmcreativos.com:19360/bhkphyecea/bhkphyecea.m3u8                           
                                                                                     
                             
-"noname": "Canal Live 15(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 15(Aqui) [COLOR white] 21:00h Champions League Semifinales. Real Madrid vs Manchester City CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://189.16.194.19:8010/21/tracks-v1a1/mono.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
                                                         
-"noname": "Canal Live 16(Aqui) [COLOR white] 02:30h Brasil Serie B. Ituano vs Bahia CristalAzul",
+"noname": "Canal Live 16(Aqui) [COLOR white] 21:00h Champions League Semifinales. Real Madrid vs Manchester City CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://189.16.194.19:8010/21/tracks-v1a1/mono.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://189.16.194.19:8010/15/tracks-v1a1/mono.m3u8?sporttv bra
                             
