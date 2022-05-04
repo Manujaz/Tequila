@@ -259,7 +259,7 @@
                                                                                                                                                                                                    
 "name": "Canal Live 4(Aqui) [COLOR white] 21:00h Champions League Semifinales vs Real Madrid vs Manchester City CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.5.113.58:1133/play/a06t/index.m3u8
                             
@@ -873,7 +873,7 @@
                             "embed": "SOL M.*?sica">'.                                   
                             
                                                                                             
-"name": "CanalFavorito(Aqui) [COLOR white] PREMIERE TV CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] PREMIERE TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://189.16.194.19:8010/21/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
