@@ -1139,9 +1139,9 @@
                             "embed": "SOL M.*?sica">'.http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] SPORTS TV 1 POR CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SKY SPORTS LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://91.132.172.169:8000/play/a032/index.m3u8"',
+                            "url": "http://190.61.102.67:31589/play/a08m/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -1482,16 +1482,16 @@
                             "embed": "SOL M.*?sica">'.http://54.39.49.162:8081/BTN/SPORTS/playlist.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] ESPN 2 MEX CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] ARENA SPORT 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8"',
+                            "url": "http://185.56.251.38:4000/play/a08j/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                                
-"noname": "CanalFavorito(Aqui) [COLOR white] ESPN 2 ARG CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] VIASAT SPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://190.14.162.252:8080/espn2/index.m3u8"',
+                            "url": "http://185.44.75.202:38166/play/a021/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://50.7.34.155:2200/BR/ESPN_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull 
                             
