@@ -234,7 +234,7 @@
                             "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.14.162.252:8080/espn2/tracks-v2a1/mono.m3u8                            
-                                                        
+                                                                                                                     
                             
 "name": "Canal Live 2(Aqui) [COLOR white] 18:00h Italia Serie A Salernitana vs Venezia CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -243,7 +243,14 @@
                             "embed": "SOL M.*?sica">'.http://189.16.194.19:8010/17/tracks-v1a1/mono.m3u8
                             
                             
-"name": "Canal Live 3(Aqui) [COLOR white] 18:45h Arabian Gulf League. Al-Nasr Dubai CSC vs. Al-Wasl FC CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 18:30h Basket United League. CSKA Moscow vs. Lok. Kuban Krasno CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://46.29.169.15:4001/play/a00i/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 4(Aqui) [COLOR white] 18:45h Arabian Gulf League. Al-Nasr Dubai CSC vs. Al-Wasl FC CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1741,7 +1748,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] ARENA SPORT 1 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] ARENA SPORT 1 PREMIUM CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a002/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
