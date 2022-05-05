@@ -42,7 +42,7 @@
  
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://stream.x10.mx:80/n4ie/mp.php/https:/playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/g.m3u8"',
+                            "url": "http://46.29.169.15:4001/play/a00e/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8  
                              
@@ -1871,7 +1871,7 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://82.197.214.59:4000/play/a01v/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://82.197.214.59:4000/play/a01v/index.m3u8
                                                                                                               
                                                                                     
 "name": "CanalFavorito(Aqui) [COLOR white] COMBATE TV CristalAzul",
