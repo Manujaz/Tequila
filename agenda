@@ -866,7 +866,7 @@
                             "embed": "SOL M.*?sica">'. http://189.16.194.19:8010/21/tracks-v1a1/mono.m3u8                                  
                             
                                                                                             
-"name": "CanalFavorito(Aqui) [COLOR white] BUNDESLIGA 1 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] BUNDESLIGA 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://79.143.17.78:2085/play/bundesliga01/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
