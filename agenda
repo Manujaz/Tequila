@@ -1993,60 +1993,53 @@
                             "embed": "SOL M.*?sica">'.
                                                                                     
 
-"noname": "Canal 2(Aqui) [COLOR white] GOLTV ESP CristalAzul",
+"name": "Canal 2(Aqui) [COLOR white] KSA SPORTS 1 ARA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://154.62.74.29:1935/live/gol/playlist.m3u8"',
+                            "url": "http://45.92.69.134:8003/play/a015/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal 3(Aqui) [COLOR white] KSA SPORTS 2 ARA CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://45.92.69.134:8003/play/a01c/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
 
 
-"name": "Canal 3(Aqui) [COLOR white] MATTV-SELET CristalAzul",
+"name": "Canal 4(Aqui) [COLOR white] MATTV-SELET CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://mavtv-1-us.samsung.wurl.tv/3000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-
-
-"noname": "Canal 4(Aqui) [COLOR white] LOOKSPORTS TV CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal 4(Aqui) [COLOR white] TNT SPORT ARG CristalAzul",
+"name": "Canal 5(Aqui) [COLOR white] TNT SPORT ARG CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
  
 
-"name": "Canal 5(Aqui) [COLOR white] TNT SPORT 3 BRA CristalAzul",
+"name": "Canal 6(Aqui) [COLOR white] TNT SPORT 3 BRA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal 6(Aqui) [COLOR white] SPORT FRANCE CristalAzul",
+"name": "Canal 7(Aqui) [COLOR white] SPORT FRANCE CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://redirector-sportenfrance.ziostream.cloud/hls/sp1564435593_hig/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal 7(Aqui) [COLOR white] ATV SPORT PERU CristalAzul",
+"name": "Canal 8(Aqui) [COLOR white] ATV SPORT PERU CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
-                                                         
-"noname": "Canal 8(Aqui) [COLOR white] EUROSPORT 1 ESP CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.                                                                                                                 
                             
                             
 "name": "Canal 9(Aqui) [COLOR white] AWESOME SPORTS CristalAzul",
@@ -2385,7 +2378,7 @@
                             "embed": "SOL M.*?sica">'.http://190.61.102.67:2000/play/a08j/index.m3u8                            
                             
                                                                                     
-"name": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
+"noname": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
