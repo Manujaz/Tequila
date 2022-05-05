@@ -870,14 +870,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://79.143.17.78:2085/play/bundesliga01/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/bein1fr/index.m3u8
-                                                                                                                                         
-                            
-"name": "CanalFavorito(Aqui) [COLOR white] BUNDESLIGA 5 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://79.143.17.78:2085/play/bundesl5n/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/bein1fr/index.m3u8                                                                                                                                                                                                 
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] MAVTV GLOBAL CristalAzul",
@@ -2091,7 +2084,7 @@
                             "embed": "SOL M.*?sica">'. http://31.220.41.87:8081/live/nl-ziggoracing.stream/playlist.m3u8
                             
                                                          
-"name": "Canal 13(Aqui) [COLOR white] NBA TV CristalAzul",
+"noname": "Canal 13(Aqui) [COLOR white] NBA TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
