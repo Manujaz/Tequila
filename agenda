@@ -2189,9 +2189,9 @@
                             "embed": "SOL M.*?sica">'.https://mhdtvworld.co.in/red/xXtvoxx.php?id2028&e.m3u8
 
 
-"noname": "Canal 30(Aqui) [COLOR white] REALMADRID TV CristalAzul",
+"name": "Canal 30(Aqui) [COLOR white] REALMADRID TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://79.116.29.232:10100/play/ES_real_madrid_tv_HD/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -2401,7 +2401,7 @@
                                                         
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://45.169.148.18:8000/play/a13s/index.m3u8"',
+                            "url": "http://79.116.29.232:10100/play/ES_tdp_HD/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a001/index.m3u8 
                             
