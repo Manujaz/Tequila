@@ -98,14 +98,14 @@
                             
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8"',
+                            "url": "https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://54.39.49.162:8081/USA%7CESPN2/SPORTS/playlist.m3u8?espn
                           
                             
 "name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8"',
+                            "url": "https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d1k4ybyeycgihx.cloudfront.net/hls/nbatv/playlist.m3u8
                             
@@ -117,9 +117,9 @@
                             "embed": "SOL M.*?sica">'.https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8 
                             
                             
-"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
+"noname": "Canal NBA(Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://stream2.grandma.fit/espn2.m3u8 
                             
@@ -215,49 +215,49 @@
                             "embed": "SOL M.*?sica">'. http://cdn5-bongakamai.xyz/live/adaptive_bong-1/live/bong-1/chunks.m3u8
                             
                             
-"noname": "Canal UFC(Aqui) [COLOR white] UFC274 Prelims. Randy Brown vs Kalinn Williams CristalAzul",
+"name": "Canal UFC(Aqui) [COLOR white] UFC274 Randy Brown vs Kalinn Williams CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://cdn5-bongakamai.xyz/live/adaptive_bong-1/live/bong-1/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal UFC(Aqui) [COLOR white] UFC274 Prelims. Randy Brown vs Kalinn Williams CristalAzul",
+"noname": "Canal UFC(Aqui) [COLOR white] UFC274 Randy Brown vs Kalinn Williams CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                         
                             
-"name": "Canal UFC(Aqui) [COLOR white] UFC274 Prelims. Randy Brown vs Kalinn Williams CristalAzul",
+"name": "Canal UFC(Aqui) [COLOR white] UFC274 Randy Brown vs Kalinn Williams CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://cdn5-bongakamai.xyz/live/adaptive_bong-1/live/bong-1/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
                             
-"name": "Canal UFC(Aqui) [COLOR white] UFC274 Prelims. Randy Brown vs Kalinn Williams CristalAzul",
+"name": "Canal UFC(Aqui) [COLOR white] UFC274 Randy Brown vs Kalinn Williams CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal UFC(Aqui) [COLOR white] UFC274 Prelims. Randy Brown vs Kalinn Williams CristalAzul",
+"name": "Canal UFC(Aqui) [COLOR white] UFC274 Randy Brown vs Kalinn Williams CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.205.201.44:8019/play/a04d/index.m3u8
                             
                             
-"name": "Canal UFC(Aqui) [COLOR white] UFC274 Prelims. Randy Brown vs Kalinn Williams CristalAzul",
+"name": "Canal UFC(Aqui) [COLOR white] UFC274 Randy Brown vs Kalinn Williams CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                             
                             
-"name": "Canal UFC(Aqui) [COLOR white] UFC274 Prelims. Randy Brown vs Kalinn Williams CristalAzul",
+"name": "Canal UFC(Aqui) [COLOR white] UFC274 Randy Brown vs Kalinn Williams CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://81.177.139.240:8000/play/a00d/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -294,14 +294,14 @@
                             
 "noname": "Canal BOXEO(Aqui) [COLOR white] Dmitry Bivol vs Canelo Alvarez CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4620303/e/1_eheoiwg0/tl/main/st/0/t/jTWaxCJ25p96bpT7fg7JDg/index-s32.m3u8?__hdnea__=st=1651962618~exp=1652049018~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4620303/e/1_eheoiwg0/tl/main/st/0/t/jTWaxCJ25p96bpT7fg7JDg/index-s3*~hmac=d278552cc2ccf8ec637f7fc3f74e8cadee644b6640f5ee5cabb31b894465ab72"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8                           
                             
                             
 "noname": "Canal Live 1(Aqui) [COLOR white] 21:00h LaLiga. Real Betis vs FC Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rmue2hq1pclivnt.vcdn.com.vn/en7hf6r/index.m3u8?hdnts=exp=1651955282~acl=/en7hf6r*~hmac=2e6e81c58f7aab2a367b425e4149730a41f0816a5e739a7a07cf72141bb25b24"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.14.162.252:8080/espn2/tracks-v2a1/mono.m3u8                            
                                                                                                                      
