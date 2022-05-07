@@ -229,9 +229,9 @@
                             "embed": "SOL M.*?sica">'.http://185.205.201.44:8019/play/a04d/index.m3u8
                             
                             
-"noname": "Canal UFC(Aqui) [COLOR white] UFC274 Prelims. Randy Brown vs Kalinn Williams CristalAzul",
+"name": "Canal UFC(Aqui) [COLOR white] UFC274 Prelims. Randy Brown vs Kalinn Williams CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                             
