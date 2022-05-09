@@ -203,7 +203,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             
 "name": "Canal Live 3(Aqui) [COLOR white] 20:45h Italia Serie A. Fiorentina vs Roma CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.29.169.15:4001/play/a002/index.m3u8"',
+                            "url": "http://45.238.21.106:6688/play/a00i/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                             
@@ -212,9 +212,16 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-                                                                                                               
-                                                                                                                
+                            "embed": "SOL M.*?sica">'.
+                           
+
+"name": "Canal Live 4(Aqui) [COLOR white] 20:45h Italia Serie A. Fiorentina vs Roma CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://46.29.169.15:4001/play/a002/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
 "name": "Canal Live 5(Aqui) [COLOR white] 20:45h League One. Sheffield Wednesday vs Sunderland CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.145.43.244:8000/play/a00l/index.m3u8"',
@@ -243,21 +250,21 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                             
                             
-"noname": "Canal Live 8(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 00:00h Argentina Primera División. Colón vs Vélez Sarsfield CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://189.16.194.19:8010/19/tracks-v1a1/mono.m3u8"',
+                            "url": "http://45.238.21.106:6688/play/a00i/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                             
                                                                                     
-"noname": "Canal Live 9(Aqui) [COLOR white] 15:00h Italia Serie A. Venezia vs Bologna CristalAzul",
+"noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00h/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.145.43.244:8000/play/a00l/index.m3u8
                             
                             
-"noname": "Canal Live 10(Aqui) [COLOR white] 16:00h Czech League Playoff. Viktoria Plzen vs Sparta CristalAzul",
+"noname": "Canal Live 10(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00e/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -964,13 +971,6 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "CanalFavorito(Aqui) [COLOR white] ESPN LAT CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://138.117.84.82/co_espn/index.m3u8?fbclid=IwAR3dva6KPonj2fWEEZP_PFPaqyC3Nuh3MXBJux7AoQQgvdoPnR-SXtJfl-E"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-                            
-                            
 "name": "CanalFavorito(Aqui) [COLOR white] UNBEATEN TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://unbeaten-roku.amagi.tv/playlist.m3u8"',
@@ -1130,6 +1130,13 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "url": "http://45.238.21.106:6688/play/a00i/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] ESPN 2 SUR LAT CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.238.21.106:6688/play/a00i/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] TELEDEPORTE ESP CristalAzul",
