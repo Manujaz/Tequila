@@ -855,6 +855,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
 "name": "CanalFavorito(Aqui) [COLOR white] DAZN 2 ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://loga.ultratotal.ml/xls/dazzzmoto/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport3/index.m3u8
                             
                             
@@ -862,7 +863,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://181.198.239.34:58003/play/a00z/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://81.177.139.240:8000/play/a00b/index.m3u8
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] NBA TV CristalAzul",
@@ -1126,7 +1127,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             
 "noname": "CanalFavorito(Aqui) [COLOR white] FOX SPORTS 2 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.4.85.137:58001/play/a00y/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -1198,7 +1199,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://190.61.102.67:31589/play/a08m/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.                          
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] EUROSPORTS 1 CristalAzul",
@@ -1207,7 +1208,14 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://213.13.23.132/shls/LIVE%24SPORTTV6_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END                           
                                                                                     
+ 
+"name": "CanalFavorito(Aqui) [COLOR white] EUROSPORTS 2 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://81.177.139.240:8000/play/a00c/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
                             
+ 
 "name": "CanalFavorito(Aqui) [COLOR white] MATY SPORTS RUS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://81.177.139.240:8000/play/a00c/index.m3u8"',
@@ -1233,7 +1241,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://79.143.17.78:2085/play/a0cf/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://79.143.17.78:2085/play/a0a0/index.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "noname": "CanalFavorito(Aqui) [COLOR white] DAZN 2 ALE CristalAzul",
