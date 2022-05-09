@@ -264,14 +264,14 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "embed": "SOL M.*?sica">'.http://185.145.43.244:8000/play/a00l/index.m3u8
                             
                             
-"name": "Canal Live 12(Aqui) [COLOR white] 01:00h Colombia Primera B. Deportes Quindío vs Fortaleza CEIF CristalAzul",
+"noname": "Canal Live 12(Aqui) [COLOR white] 01:00h Colombia Primera B. Deportes Quindío vs Fortaleza CEIF CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://190.61.41.182:8000/play/a2lo/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
                             
-"name": "Canal Live 13(Aqui) [COLOR white] 03:05h Colombia Primera B. Boyacá Chicó vs Leones CristalAzul",
+"noname": "Canal Live 13(Aqui) [COLOR white] 03:05h Colombia Primera B. Boyacá Chicó vs Leones CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://190.61.41.182:8000/play/a2lo/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
