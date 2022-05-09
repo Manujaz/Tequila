@@ -1125,16 +1125,16 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] FOX SPORTS 2 LAT CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] ESPN SUR LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://45.238.21.106:6688/play/a00i/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] FOX SPORT 3 LAT CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] TELEDEPORTE ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.4.85.137:58001/play/a01f/index.m3u8"',
+                            "url": "http://79.116.29.232:10100/play/ES_tdp_HD/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'                              
                             
