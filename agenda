@@ -157,7 +157,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "url": "https://d17f1mg1q6g54e.cloudfront.net/hls/raptors/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-                                                                                                                                            
+                                                                                                                                             
                             
 "name": "Canal MLB(Aqui) [COLOR white] CANAL MLB 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -179,6 +179,12 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://cablecast.nwct.org/live-9/live/WIFI-1596k-540p/WIFI-1596k-540p.m3u8
                             
+"name": "[COLOR white] -------------------------------------"                            
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                                                        
                             
 "name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR USA 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
