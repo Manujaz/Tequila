@@ -233,22 +233,36 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                            
-"name": "Canal Live 6(Aqui) [COLOR white] 21:00h Premier League. Aston Villa vs Liverpool CristalAzul",
+
+"name": "Canal Live 6(Aqui) [COLOR white] 19:00h LaLiga. Valencia vs Real Betis CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4620303/e/1_lm46klrc/tl/main/st/0/t/AnatX6qTAfwu0gnHrJAtug/index-s32.m3u8?__hdnea__=st=1652206039~exp=1652292439~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4620303/e/1_lm46klrc/tl/main/st/0/t/AnatX6qTAfwu0gnHrJAtug/index-s32.m3u8*~hmac=7efab16845cdf4572505e7614ab34ab925a9445ba8ccf79dc70490a5aaf2af41"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"name": "Canal Live 7(Aqui) [COLOR white] 21:00h Premier League. Aston Villa vs Liverpool CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://loga.ultratotal.ml/xls/dazzzmoto/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
 
 
-"name": "Canal Live 6(Aqui) [COLOR white] 21:00h Premier League. Aston Villa vs Liverpool CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 21:00h Premier League. Aston Villa vs Liverpool CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.145.43.244:8000/play/a00l/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://79.116.29.232:10100/play/ES_gol_sd/index.m3u8
                             
                             
-"name": "Canal Live 7(Aqui) [COLOR white] 21:30h LaLiga. Barcelona vs Celta de Vigo CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 21:30h LaLiga. Barcelona vs Celta de Vigo CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4620303/e/1_lm46klrc/tl/main/st/0/t/AnatX6qTAfwu0gnHrJAtug/index-s32.m3u8?__hdnea__=st=1652206039~exp=1652292439~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4620303/e/1_lm46klrc/tl/main/st/0/t/AnatX6qTAfwu0gnHrJAtug/index-s32.m3u8*~hmac=7efab16845cdf4572505e7614ab34ab925a9445ba8ccf79dc70490a5aaf2af41"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 10(Aqui) [COLOR white] 21:30h LaLiga. Barcelona vs Celta de Vigo CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://79.143.17.78:2085/play/a04t/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
