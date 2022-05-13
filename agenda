@@ -195,9 +195,23 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             
 "name": "Canal live (Aqui) [COLOR white] Gran Premio MotoGP Francia CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://79.143.17.78:2085/play/a07dvSATMOTOR/index.m3u8"',
+                            "url": "https://00c4336cdf27.us-west-2.playback.live-video.net/api/video/v1/us-west-2.803981587289.channel.ImHWwpcRGrT0.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal live (Aqui) [COLOR white] Gran Premio MotoGP Francia CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://ipfmix.cdn6.mcr.dorna.com/42296cb252e980b4086c882bff9ac95cbbd73c3d84c9b4332a86fc6a5415eb69/1652453847/KW7Bvu5niDM8JDLDPsGLFHipkQG9yELqkPjRs%2Fl%2FMZr1i6304KYyol0GkhV6YtBn/hls/ipfmix/4.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal live (Aqui) [COLOR white] Gran Premio MotoGP Francia CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://79.143.17.78:2085/play/a07dvSATMOTOR/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                                                         
 "name": "[COLOR white] -------------------------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
