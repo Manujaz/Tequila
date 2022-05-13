@@ -216,7 +216,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             
 "name": "Canal live (Aqui) [COLOR white] Gran Premio MotoGP Francia CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://hls-pull-yashwa.speedws.com/live/moto/playlist.m3u8"',
+                            "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -878,9 +878,19 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "embed": "SOL M.*?sica">'.http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/70.m3u8
                             
                             
-"name": "[COLOR white] -------------------------------------"                            
+"noname": "[COLOR white] -------------------------------------"                            
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] ESPN ARG CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?fbclid=IwAR0nYQ8qp4rzNsZ_oTFqWXVZm9xZ-I0tyAJu3j-BkBa04jRNpIy6jd_lCX0"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                                                                                                                
-
 
 "name": "CanalFavorito(Aqui) [COLOR white] BT SPORT-ESPN USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
