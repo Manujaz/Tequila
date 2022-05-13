@@ -183,14 +183,35 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                                                        
+                            "embed": "SOL M.*?sica">'.
+                            
                             
 "name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR USA 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8?null=on"',
+                            "url": "https://mavtv-mavtvglobal-1-au.samsung.wurl.tv/3000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR USA 2 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://mavtv-1-us.samsung.wurl.tv/3000.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                                                        
+                            
+"name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR USA 3 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8?null=on"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                                                        
+                            
+"name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR USA 4 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8?null=on"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://mavtv-1-us.samsung.wurl.tv/3000.m3u8
                             
                             
 "name": "Canal live (Aqui) [COLOR white] Gran Premio MotoGP Francia CristalAzul",
@@ -1982,7 +2003,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                                                                                                   
-"name": "CanalFavorito(Aqui) [COLOR white] ZIGGO SPORT SELECT CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] ZIGGO SPORT SELECT CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://82.197.214.59:4000/play/a01v/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
