@@ -899,9 +899,9 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "embed": "SOL M.*?sica">'.
                             
 
-"name": "CanalFavorito(Aqui) [COLOR white] EUROSPORT 1 ESP CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] EUROSPORT 1 ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://piratilla.com/582076/hls/eurosport1.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://live.reystream.us:8080/live/Jeronimogodinez/8OLmlk46nU/52007.m3u8
 
