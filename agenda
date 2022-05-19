@@ -353,12 +353,12 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "embed": "SOL M.*?sica">'. http://190.61.102.67:31589/play/a08j/index.m3u8                           
                                                                                                                                                                                                                                                                                                                                                                            
                             
-"noname": "Canal Live 18(Aqui) [COLOR white] 21:30h La Liga. Elche vs Atlético Madrid CristalAzul",
+"noname": "Canal Live 18(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a002/index.m3u8 
-                                                                                                              
+                            "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a002/index.m3u8
+                                                                                                                                                                                                
                                                         
 "noname": "Canal Live 19(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -2420,7 +2420,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                                                         
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://127.0.0.1:6878/ace/m/5cadb0e3cd9bd99d1383bf397bcf3c156aa69b05/4e5a8bb23d8d27c065d79571a1691dd3.m3u8"',
+                            "url": "https://tvnov-com-cuatro-1.herokuapp.com/play.php/https://edge4-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_eng=20002.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.61.102.67:2000/play/a08j/index.m3u8?tudn
                             
