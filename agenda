@@ -933,19 +933,25 @@
                             "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8 
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] ESPN MEX CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] ESPN ARG CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://186.3.216.69:7799/play/a027/index.m3u8"',
+                            "url": "http://190.187.216.150:8000/play/a019/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8                            
-                            http://181.129.241.18:58001/play/a04m/index.m3u8
-                            
+                                                        
                             
 "name": "CanalFavorito(Aqui) [COLOR white] ESPN 2 MEX CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://181.129.241.18:58001/play/a04m/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] ESPN 2 ARG CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://190.60.37.69:8015/play/a01e/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] ESPN 4 LAT CristalAzul",
