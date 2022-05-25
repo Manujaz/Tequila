@@ -281,13 +281,10 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                                                                                    
-                            
-                            
-                            
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"noname": "Canal Live 4(Aqui) [COLOR white]  CristalAzul",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+"name": "Canal Live 4(Aqui) [COLOR white] 12:20h Giro de Italia. Etapa 17 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8"',
+                            "url": "https://vsd99.mycdn.me/hls/2347454892576.m3u8/sig/IUxvlYwkQUI/expires/1653560691690/srcIp/90.162.44.199/clientType/0/srcAg/CHROME_ANDROID/mid/3634004041248/2347454892576_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -1175,7 +1172,7 @@
                             "embed": "SOL M.*?sica">'.http://79.143.17.78:2085/play/a04t/index.m3u8
                                                                                                                 
                             
-"name": "CanalFavorito(Aqui) [COLOR white] EUROSPORT 2 CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] EUROSPORT 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://89.40.98.69:8523/play/a04w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
