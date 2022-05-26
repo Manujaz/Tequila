@@ -1070,7 +1070,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://212.230.117.159:10100/play/ES_real_madrid_tv_HD/index.m3u8
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] BARÇA TV CristalAzul",
@@ -1164,9 +1164,9 @@
                             "embed": "SOL M.*?sica">'.http://portal.ott.pink/watch/99/video.m3u8?geo=auto&token=0E10915D23130589165347E83FEEBB95 
             
             
-"noname": "CanalFavorito(Aqui) [COLOR white] MEGA ESP CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] MEGA ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://79.116.29.232:10100/play/ES_mega_sd/index.m3u8"',
+                            "url": "http://212.230.117.159:10100/play/ES_mega_sd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
