@@ -359,7 +359,7 @@
                             "embed": "SOL M.*?sica">'.http://189.16.194.19:8010/17/tracks-v1a1/mono.m3u8
                                                                                                                 
                             
-"noname": "Canal Live 15(Aqui) [COLOR white]CristalAzul",
+"noname": "Canal Live 15(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1066,11 +1066,18 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "CanalFavorito(Aqui) [COLOR white] BEIN SPORT 1 CALIN CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] REAL MADRID TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://79.143.17.78:2085/play/a001/index.m3u8"',
+                            "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] BARÇA TV CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://streamamg-fcbar01.akamaized.net/hls/live/2040129/0_xa4d8syh/1080p/hdntl=exp=1653657180~acl=%2f*~data=hdntl~hmac=ca0a276f690e0fe0570e1622d9f691e069923574a4c2ab60d609534fe79cac24/prog_index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
 
 
 "name": "CanalFavorito(Aqui) [COLOR white] UNBEATEN TV CristalAzul",
