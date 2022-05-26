@@ -1087,9 +1087,9 @@
                             "embed": "SOL M.*?sica">'. http://190.61.102.67:2000/play/a08j/index.m3u8                           
 
 
-"noname": "CanalFavorito(Aqui) [COLOR white] ESPN BRA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] ZIGGO SPORT SELECT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://189.16.194.19:8010/19/tracks-v1a1/mono.m3u8"',
+                            "url": "http://82.197.214.59:4000/play/a01v/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 
