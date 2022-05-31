@@ -1220,9 +1220,9 @@
                             "embed": "SOL M.*?sica">'.http://212.230.117.159:10100/play/ES_real_madrid_tv_HD/index.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] BARÇA TV CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SUPER SPORT PREMIER LEAGUE CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://streamamg-fcbar01.akamaized.net/hls/live/2040129/0_xa4d8syh/1080p/hdntl=exp=1653657180~acl=%2f*~data=hdntl~hmac=ca0a276f690e0fe0570e1622d9f691e069923574a4c2ab60d609534fe79cac24/prog_index.m3u8"',
+                            "url": "https://cxs2.gcdn.co/DEP13/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
 
