@@ -982,7 +982,14 @@
                             "embed": "SOL M.*?sica">'.https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?fbclid=IwAR0nYQ8qp4rzNsZ_oTFqWXVZm9xZ-I0tyAJu3j-BkBa04jRNpIy6jd_lCX0
 
 
- "name": "CanalFavorito(Aqui) [COLOR white] M.LALIGA 1 CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] M.LALIGA 1 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://cxs2.gcdn.co/DEP4/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"name": "CanalFavorito(Aqui) [COLOR white] M.DEPORTES CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cxs2.gcdn.co/DEP47/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -2530,7 +2537,7 @@
                                                         
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://cxs2.gcdn.co/DEP13/tracks-v1a1/mono.m3u8"',
+                            "url": "https://cxs2.gcdn.co/DEP5/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.61.102.67:2000/play/a08j/index.m3u8?tudn
                             
