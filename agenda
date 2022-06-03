@@ -909,11 +909,32 @@
                             "embed": "SOL M.*?sica">'.https://cxs2.gcdn.co/DEP35/tracks-v1a1/mono.m3u8
                             
                             
-"name": "CanalFavorito(Aqui) [COLOR white] DAZN 1 ESP CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] DAZN F1 ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'. http://45.90.106.7:7780/play/NnHpC9@8Q93CW/index.m3u8 
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] RMC SPORT ACCESS 1 HD CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.90.106.7:7780/play/NnHpC9@8Q93CW/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+ "name": "CanalFavorito(Aqui) [COLOR white] RMC SPORT ACCESS 2 HD CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.90.106.7:7780/play/WvQm7K@39Y06P/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] MULTISPORT 1 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.90.106.7:7780/play/UrSb5173N2@PtQ3K/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] MEGA ESP CristalAzul",
