@@ -949,21 +949,7 @@
                             "url": "https://cxs2.gcdn.co/DEP21/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                            
-                            
-"name": "CanalFavorito(Aqui) [COLOR white] FOX SPORTS 2 HD CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.153.165.14:8081/play/a0kg/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
-                            
-                                                        
-"name": "CanalFavorito(Aqui) [COLOR white] FOX SPORTS 3 HD CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": " http://45.153.165.14:8081/play/a0lr/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://cxs2.gcdn.co/DEP20/tracks-v1a1/mono.m3u8                           
-                                                       
+                                                                                                                                          
                             
 "noname": "CanalFavorito(Aqui) [COLOR white] GOLTV PER CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -1007,9 +993,9 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "CanalFavorito(Aqui) [COLOR white] M.DEPORTES CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] M.DEPORTES CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cxs2.gcdn.co/DEP47/tracks-v1a1/mono.m3u8"',
+                            "url": "http://45.189.117.37:7879/play/a0h8/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
  
@@ -1784,7 +1770,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                                
-"name": "CanalFavorito(Aqui) [COLOR white] VIASAT SPORT CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] VIASAT SPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.44.75.202:38166/play/a021/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1844,14 +1830,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"name": "CanalFavorito(Aqui) [COLOR white] TYC SPORTS LAT CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+                            "embed": "SOL M.*?sica">'.                                                        
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] ABU DHABI SPORTS 1 CristalAzul",
@@ -2173,14 +2152,7 @@
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://stadium-ringofhonor-1-us.sinclair.wurl.tv/3000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://45.153.35.204:8000/play/a0a4/index.m3u8                            
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-                                                        
-"name": "CanalFavorito(Aqui) [COLOR white] SWISS SPORT TV CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://45.153.35.204:8000/play/a0a4/index.m3u8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
                                                                                                                                                                                                                                                                                                                                                                                                                          
                                                         
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 BRA CristalAzul",
@@ -2225,7 +2197,7 @@
                             "embed": "SOL M.*?sica">'.
                                                                                     
                             
-"name": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 1 ESP CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 1 ESP CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://piratilla.com/945023/hls/eurosport1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
