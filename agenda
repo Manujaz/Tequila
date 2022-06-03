@@ -958,9 +958,9 @@
                             "embed": "SOL M.*?sica">'.
                                                                                                                                           
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] GOLTV PER CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] SPORTYSTUFF CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cxs2.gcdn.co/DEP18/tracks-v1a1/mono.m3u8"',
+                            "url": "http://46.150.192.166:8000/play/a00w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -2555,7 +2555,7 @@
                                                         
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://46.47.0.51:10001/play/219/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a001/index.m3u8 
                             
