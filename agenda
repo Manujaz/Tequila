@@ -30,14 +30,14 @@
                             "embed": "SOL M.*?sica">'.http://212.230.117.159:10100/play/ES_dmax_sd/index.m3u8
                                                                                                                 
                             
-"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
+"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://217.74.16.155:8082/local/ar-s/bein-5-stop/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8
                             
                             
-"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
