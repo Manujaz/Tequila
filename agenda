@@ -256,7 +256,14 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.http://46.150.192.166:8000/play/81/index.m3u8 
+                            
+                            
+"name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 6 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://46.150.192.166:8000/play/81/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                                                         
 "name": "[COLOR white] --------------ISLE OF MAN TT 2022-----------------------"                            
@@ -1050,9 +1057,9 @@
                             "embed": "SOL M.*?sica">'.
  
  
-"noname": "CanalFavorito(Aqui) [COLOR white] PREMIERE SPORT BRA CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] AUTOMOTORSPORT CHANNEL CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://212.102.60.39:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?token=RED_PeRX4GPrs0NSYEW_Kf0_xQ%3D%3D%2C1654434859.4009414566"',
+                            "url": "http://46.150.192.166:8000/play/81/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
