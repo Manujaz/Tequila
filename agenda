@@ -1554,11 +1554,18 @@
                             "embed": "SOL M.*?sica">'.https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8
                             
                             
-"noname": "CanalFavorito(Aqui) [COLOR white] DAZN 3 ENG CristalAzul",
+"name": "CanalFavorito(Aqui) [COLOR white] DAZN 1 ALE CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://ppv.gcdn.co/DZ3/tracks-v1a1/mono.m3u8"',
+                            "url": "http://212.18.115.193:3549/play/a04u/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://ppv.gcdn.co/DZ2/tracks-v1a1/mono.m3u8                            
+                            "embed": "SOL M.*?sica">'.https://ppv.gcdn.co/DZ2/tracks-v1a1/mono.m3u8
+                            
+                            
+"name": "CanalFavorito(Aqui) [COLOR white] DAZN 2 ALE CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://212.18.115.193:3549/play/a04v/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "name": "CanalFavorito(Aqui) [COLOR white] EDGE SPORTS CristalAzul",
