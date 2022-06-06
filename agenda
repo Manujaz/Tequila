@@ -320,14 +320,14 @@
                             "embed": "SOL M.*?sica">'. https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/chunklist_b4128000_DVR.m3u8                           
                             
                             
-"noname": "Canal Live 7(Aqui) [COLOR white] 01:00h Brazil Serie PR. Guarani vs Operário PR CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 01:00h Brasil Serie PR. Guarani vs Operário PR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "h"',
+                            "url": "http://212.102.60.39:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8?token=RED_PeRX4GPrs0NSYEW_Kf0_xQ%3D%3D%2C1654434859.4009414566"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.ttps://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                             
                             
-"noname": "Canal Live 8(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -632,14 +632,14 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://obelix.nopiensomas.com/stream/abr/first_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/looksport3/livestream/chunklist.m3u8
+                            "embed": "SOL M.*?sica">'.
                                                                                    
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 "noname": "Canal Live 16(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://hll.hnzzdf.com.cn/live/H134038.m3u8?txSecret=523fe28e8340b8febb0b474884ad0342&txTime=624A98E0&_s=stream"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/89.chunklist_w4667732286.m3u8
+                            "embed": "SOL M.*?sica">'. 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
                             
 "noname": "Canal Live 17(Aqui) [COLOR white] 19:00h Segunda RFEF. Coruxo vs Móstoles URJC CristalAzul",
