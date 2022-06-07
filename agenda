@@ -25,9 +25,9 @@
 
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.150.192.166:8000/play/a00w/index.m3u8"',
+                            "url": "http://m3u8.eu5.org/e3fw/mp.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://212.230.117.159:10100/play/ES_dmax_sd/index.m3u8
+                            "embed": "SOL M.*?sica">'.http://46.150.192.166:8000/play/a00w/index.m3u8
                                                                                                                 
                             
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
@@ -1505,7 +1505,7 @@
                             "embed": "SOL M.*?sica">'.http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] SKY SPORTS LAT CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] SKY SPORTS USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://190.61.102.67:31589/play/a08m/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
