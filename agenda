@@ -35,11 +35,11 @@
                             "url": "http://217.74.16.155:8082/local/ar-s/bein-5-stop/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000_DVR.m3u8
-                            
+                            http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
                             
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8"',
+                            "url": "http://m3u8.eu5.org/e3fw/mp.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8  
                              
@@ -65,16 +65,16 @@
                             "embed": "SOL M.*?sica">'.http://178.218.196.218:8000/play/a008/index.m3u8 
                             
                             
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 7 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 7 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://m3u8.eu5.org/e3fw/mp.php/https://playoutengine.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-10a5b5ba9d29/g.m3u8"',
+                            "url": "http://m3u8.eu5.org/e3fw/mp.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://m3u8.eu5.org/e3fw/mp.php/https://playoutengine.sinclairstoryline.com/playout/febfc709-d9a5-4caa-ab73-1cce0e4bc6e9/g.m3u8                           
 
                                                         
 "noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 8 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dai.google.com/linear/hls/pa/event/Dlqr46ybTSGWGTfRWcxS0g/stream/7b006803-e7c8-4b58-bafe-35fe6ff8b984:BRU/variant/6b56a36a93bcf7a0b0c7d45931867da8/bandwidth/2633101.m3u8"',
+                            "url": "http://m3u8.eu5.org/e3fw/mp.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d2utc06h8oduhb.cloudfront.net/out/v1/49a7b355ef57498782e03f76f4975a79/index_4.m3u8
                             
