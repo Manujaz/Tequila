@@ -669,7 +669,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/chunklist_w1886570839.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://16live00.akamaized.net/BTSPORTS3/index.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "nomame": "Canal Live 22(Aqui) [COLOR white]  CristalAzul",
@@ -1236,9 +1236,16 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://melancolicos10.club:8080/hls/channel2.m3u8                             
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-                                                                                                                                            
+                            "embed": "SOL M.*?sica">'.http://melancolicos10.club:8080/hls/channel2.m3u8 
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] WIN SPORTS LAT CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://190.60.37.66:8015/play/a049/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 "name": "CanalFavorito (Aqui) [COLOR white] WIN SPORTS PLUS LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://190.61.41.182:8000/play/a2lo/index.m3u8"',
