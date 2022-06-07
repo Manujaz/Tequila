@@ -1372,7 +1372,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] SK4 SPORT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SK4 SPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00q/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1386,7 +1386,7 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] SPORT TV UK CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] SPORTTV UK CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1647742017~exp=9007200902483008~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=ba49523d8cd91a52cd1139a9ddd9e39ec9ad17948e861abcc99fe6196e4a3dc2"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1407,9 +1407,9 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 SUR LAT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ESPN 2 SUR LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.238.21.106:6688/play/a00i/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8                            
                             
