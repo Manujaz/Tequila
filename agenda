@@ -58,9 +58,9 @@
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a001/index.m3u8
                             http://82.197.214.59:4000/play/a01v/index.m3u8
                             
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 6 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 6 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://m3u8.eu5.org/e3fw/mp.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8"',
+                            "url": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://178.218.196.218:8000/play/a008/index.m3u8 
                             
