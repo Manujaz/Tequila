@@ -46,7 +46,7 @@
                             
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8"',
+                            "url": "http://46.150.192.166:8000/play/a00x/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://pako-tv.com:8888/live/6KMhAtG6bCeV/eBDzU7CGE648/389659.m3u8                                                  
                             
@@ -88,7 +88,7 @@
                             
 "noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 10 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://m3u8.eu5.org/e3fw/mp.php/https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/g.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -142,21 +142,21 @@
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00e/index.m3u8                            
                             
                                                         
-"noname": "Canal DIFERIDO(Aqui) [COLOR white] THE NORTH WEST 200 1 CristalAzul",
+"noname": "Canal DIFERIDO(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://drive.google.com/file/d/1E0Xg1UBb9L1St_k1WeyYG-L0jPo_dvO0/view"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://stream2.grandma.fit/espn2.m3u8
                             
                             
-"noname": "Canal DIFERIDO(Aqui) [COLOR white] THE NORTH WEST 200 2 CristalAzul",
+"noname": "Canal DIFERIDO(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://drive.google.com/file/d/1rnKz497vVwjLAGwbX5wp5h7EZExXAqCF/view"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                                                                          
-"noname": "Canal DIFERIDO(Aqui) [COLOR white] THE NORTH WEST 200 3 CristalAzul",
+"noname": "Canal DIFERIDO(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://drive.google.com/file/d/1w6eXGW6ee9LgVl8rJ8DI61PZ9Cr7U1dW/view"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
