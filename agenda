@@ -1058,11 +1058,25 @@
                             "embed": "SOL M.*?sica">'.https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?fbclid=IwAR0nYQ8qp4rzNsZ_oTFqWXVZm9xZ-I0tyAJu3j-BkBa04jRNpIy6jd_lCX0
 
 
-"noname": "CanalFavorito (Aqui) [COLOR white] M.LALIGA 1 CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] BEIN SPORTS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cxs2.gcdn.co/DEP4/tracks-v1a1/mono.m3u8"',
+                            "url": "http://45.90.106.7:7779/play/CqLt517M3@R6N/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] BEIN SPORTS 2 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.90.106.7:7779/play/HzCq482@P6G/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] BEIN SPORTS 3 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.90.106.7:7779/play/WtZ5279Kd3@Zj5D/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
 
 
 "name": "CanalFavorito (Aqui) [COLOR white] M.DEPORTES CristalAzul",
@@ -1093,16 +1107,23 @@
                             "embed": "SOL M.*?sica">'.https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
                             
                                                                                    
-"noname": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 1 USA CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] RMC SPORT 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://exs2.gcdn.co/S31/tracks-v1a1/mono.m3u8"',
+                            "url": "http://45.90.106.7:7779/play/GrQm9K@793JF0C/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 2 USA CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] RMC SPORT 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://exs2.gcdn.co/S32/tracks-v1a1/mono.m3u8"',
+                            "url": "http://45.90.106.7:7779/play/SWm7K@637bF/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] CANAL+ SPORT CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.90.106.7:7779/play/UdQSm942P@Zv6M/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://cxs2.gcdn.co/DEP28/tracks-v1a1/mono.m3u8                           
                                                         
@@ -2514,7 +2535,7 @@
                                                         
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://195.154.242.24:8001/play/a01g/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a001/index.m3u8 
                             
