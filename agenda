@@ -184,12 +184,19 @@
                             "embed": "SOL M.*?sica">'.https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8                            
                             
                                                         
-"name": "Canal 24H(Aqui) [COLOR white] 21:45h 24 Horas de Le Mans 2022 clasicicacion CristalAzul",
+"name": "Canal 24H(Aqui) [COLOR white] 19:45h 24 Horas de Le Mans 2022 Hyperpole CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.90.106.7:7780/play/TbR490Nc3@Pk6M/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://king.nowtv.vip/live/tsn2/chunks.m3u8                            
+                                  
+                                  
+"name": "Canal 24H(Aqui) [COLOR white] 19:45h 24 Horas de Le Mans 2022 Hyperpole CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.150.192.166:8000/play/a00w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://king.nowtv.vip/live/tsn2/chunks.m3u8                            
-                                                    
+                            "embed": "SOL M.*?sica">'.                                  
+                                  
                                                                                                                                              
 "noname": "[COLOR white] -------------------------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -964,7 +971,14 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] DAZN 1 ESP CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] DAZN F1 ESP CristalAzul",
@@ -1160,7 +1174,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://195.154.242.24:8001/play/a01g/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8                            
+                            "embed": "SOL M.*?sica">'.                            
                                                         
                             
 "name": "CanalFavorito (Aqui) [COLOR white] BEIN SPORT 2 ING CristalAzul",
@@ -1552,7 +1566,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://201.182.242.135:12001/play/a0at/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] SKY SPORTS USA CristalAzul",
