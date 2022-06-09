@@ -421,9 +421,9 @@
                             "embed": "SOL M.*?sica">'. https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/chunklist_b4128000_DVR.m3u8                           
                                                                                     
                             
-"noname": "Canal Live 10(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 10(Aqui) [COLOR white] 01:00h Argentina Primera División. Newell's Old Boys vs San Lorenzo CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.29.169.15:4001/play/a00h/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                                                                                                                                                                                                                                                                                                                                                                                                      
@@ -1212,14 +1212,14 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] TNT SPORTS LAT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] TNT SPORTS LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://201.234.194.58:6020/play/a0e0/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8?TYC
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] TNT SPORTS 2 LAT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] TNT SPORTS 2 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://201.234.194.58:6020/play/a0d9/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
