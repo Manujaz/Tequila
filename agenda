@@ -170,14 +170,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal 24H(Aqui) [COLOR white] 14:45h 24 Horas de Le Mans 2022 Libres CristalAzul",
+"name": "Canal 24H(Aqui) [COLOR white] 24 Horas de Le Mans 2022 Libres CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.150.192.166:8000/play/a00x/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal 24H(Aqui) [COLOR white] 14:45h 24 Horas de Le Mans 2022 Libres CristalAzul",
+"noname": "Canal 24H(Aqui) [COLOR white] 24 Horas de Le Mans 2022 Libres CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://dgbgs3f3e3nka.cloudfront.net/hls/eur24h.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -205,11 +205,11 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal MLB (Aqui) [COLOR white] CANAL PSL CristalAzul",
+"noname": "Canal INDI(Aqui) [COLOR white] 22:45h Indycar. Road America GP Libres CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://221.120.204.4:8080/LOCKLE-A-SPORTS/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.http://221.120.204.4:8080/LOCKLE-A-SPORTS/index.m3u8                            
                             
                             
 "noname": "Canal MLB (Aqui) [COLOR white] CANAL MLB CristalAzul",
@@ -393,21 +393,21 @@
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
                             
                             
-"name": "Canal Live 5(Aqui) [COLOR white] 20:45H UEFA Nations League. Austria vs France CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 20:45h UEFA Nations League. Austria vs France CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00g/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 6(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 20:45h UEFA Nations League. Denmark vs Croatia CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://46.29.169.15:4001/play/a00h/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                                                                                                                
                                                                                                                                                                                                                                                                                                                      
-"noname": "Canal Live 7(Aqui) [COLOR white] 20:45h UEFA Nations League. Switzerland vs España CristalAzul",
+"noname": "Canal Live 7(Aqui) [COLOR white] 22:45h Indycar. Road America GP Libres CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1128,7 +1128,7 @@
                             "embed": "SOL M.*?sica">'.
                                                                                     
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ELEVEN SPORT 1 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ELEVEN SPORT 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://103.170.123.169:8500/play/eleven1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
