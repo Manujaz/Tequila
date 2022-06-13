@@ -79,9 +79,9 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 9 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 9 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://212.18.115.193:3549/play/a04e/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
                             
@@ -805,7 +805,7 @@
                             "embed": "SOL M.*?sica">'.http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
                                                                                                               
                             
-"name": "CanalFavorito (Aqui) [COLOR white] SPORT1 + FHD CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] SPORT1 FHD CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.18.115.193:3549/play/a04t/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1187,16 +1187,9 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.238.21.106:6688/play/a00i/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
                             
-                            
-"noname": "CanalFavorito (Aqui) [COLOR white] ESPN 2 SUR LAT CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8                            
-                            
-                            
+                                                                                                                
 "name": "CanalFavorito (Aqui) [COLOR white] TELEDEPORTE ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr_1080.m3u8"',
