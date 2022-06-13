@@ -183,9 +183,9 @@
                             "embed": "SOL M.*?sica">'.http://46.150.192.166:8000/play/81/index.m3u8 
                             
                             
-"noname": "Canal MOTOR (Aqui) [COLOR white] CANAL MOTOR 7 CristalAzul",
+"name": "Canal MOTOR (Aqui) [COLOR white] CANAL MOTOR 7 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.150.192.166:8000/play/81/index.m3u8"',
+                            "url": "http://212.18.115.193:3549/play/a016/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                         
