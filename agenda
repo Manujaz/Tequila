@@ -805,11 +805,11 @@
                             "embed": "SOL M.*?sica">'.http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
                                                                                                               
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] DAZN F1 ESP CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SPORT1 + FHD CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8"',
+                            "url": "http://212.18.115.193:3549/play/a04t/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
                             
                             
 "noname": "CanalFavorito (Aqui) [COLOR white] DAZN F1 ESP CristalAzul",
@@ -871,6 +871,13 @@
 "noname": "CanalFavorito (Aqui) [COLOR white] AMAZON PRIME 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.90.106.7:7779/play/VzQmP843Uj9@SkB6P/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 1 ALE CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://185.205.201.104:8008/play/a027/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
