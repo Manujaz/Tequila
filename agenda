@@ -826,7 +826,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 LAT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ESPN 2 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.5.119.202:8000/play/a01b/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -847,7 +847,7 @@
                             "embed": "SOL M.*?sica">'.http://45.5.119.202:8000/play/a01r/index.m3u8 
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN 5 LAT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ESPN 5 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.5.119.202:8000/play/a01r/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
