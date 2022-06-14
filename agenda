@@ -901,17 +901,17 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.18.115.193:3549/play/a05i/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.http://212.18.115.193:3549/play/a04u/index.m3u8                            
                             
                                                                                                                                           
-"name": "CanalFavorito (Aqui) [COLOR white] DAZN 1 BAR CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] REDBULL USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://212.18.115.193:3549/play/a04u/index.m3u8"',
+                            "url": "https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
                             
                                                                                     
-"name": "CanalFavorito (Aqui) [COLOR white] DAZN 2 BAR CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] DAZN 2 BAR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.18.115.193:3549/play/a04v/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -939,9 +939,9 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 LAT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ESPN 2 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://pako-tv.com:8888/live/6KMhAtG6bCeV/eBDzU7CGE648/389659.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://cxs2.gcdn.co/DEP17/tracks-v1a1/mono.m3u8                            
                             
@@ -965,21 +965,7 @@
                             "url": "http://134.19.182.131:8080/pdge2959dc9b22b8b66_2.m3u8?m=0Yb5M_I-C2f1LaH1enPkSg&c=e2959dc9b22b8b66&p=3138352e3132382e36302e31&e=1654406943"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?fbclid=IwAR0nYQ8qp4rzNsZ_oTFqWXVZm9xZ-I0tyAJu3j-BkBa04jRNpIy6jd_lCX0
-
-                            
-"name": "CanalFavorito (Aqui) [COLOR white] M.DEPORTES CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.189.117.37:7879/play/a0h8/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
- 
- 
-"name": "CanalFavorito (Aqui) [COLOR white] AUTOMOTORSPORT CHANNEL CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.150.192.166:8000/play/81/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                                                                                    
+                                                                                                                  
                                                                                                                                                                       
 "name": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 3 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
