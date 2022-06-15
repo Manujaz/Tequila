@@ -209,35 +209,35 @@
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8                            
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
                             
-"noname": "Canal Live 3(Aqui) [COLOR white] 18:00h UEFA Nations League. Armenia vs Scotland CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 19:45h Vuelta a Extremadura. Etapa 1 Zafra › Zafra CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.29.169.15:4001/play/a00h/index.m3u8"',
+                            "url": "https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/chunklist_b1000000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_720.m3u8
                             
                             
-"noname": "Canal Live 4(Aqui) [COLOR white] 18:00h UEFA Nations League. Moldova vs Andorra  CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 20:45h LNFS Playoff Semifinales. Viña Albali Valdepeñas vs Barça FS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.29.169.15:4001/play/a00i/index.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/barcatv/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
                             
                             
-"noname": "Canal Live 5(Aqui) [COLOR white] 20:00h FIFA Copa Mundial Catar 2022. Costa Rica vs Nueva Zelanda CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 21:00h Liga Endesa. Barça Basket vs Real Madrid Baloncesto CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 6(Aqui) [COLOR white] 20:45h UEFA Nations League. Poland vs Belgium CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 21:30h Argentina Primera División. Banfield vs Central Córdoba SdE CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.169.148.19:8000/play/a1a6/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "Canal Live 7(Aqui) [COLOR white] 20:45h UEFA Nations League. England vs Hungary CristalAzul",
+"noname": "Canal Live 7(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00h/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -2346,21 +2346,21 @@
                                                         
 "noname": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a001/index.m3u8 
                             
                             
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.152.174.144:4000/play/skysports2/index.m3u8"',
+                            "url": "http://46.29.169.15:4001/play/a00e/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://dxla1.gcdn.co/ES4/tracks-v1a1/mono.m3u8
+                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/skysports2/index.m3u8 
                             
                                                         
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"',
+                            "url": "http://45.169.148.19:8000/play/a1a6/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES18/tracks-v1a1/mono.m3u8
                             
