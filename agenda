@@ -1238,7 +1238,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] SK4 SPORT CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] SK4 SPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00q/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1287,9 +1287,9 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] EUROSPORT HD CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ESPORTS TV TUK CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://42.201.253.14:4090/play/a07z/index.m3u8"',
+                            "url": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
