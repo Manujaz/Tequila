@@ -981,7 +981,7 @@
                                                         
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN 4 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://190.60.37.69:8015/play/a02n/index.m3u8"',
+                            "url": "http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://cxs2.gcdn.co/DEP8/tracks-v1a1/mono.m3u8                                                                                   
                                                                                                                
@@ -992,7 +992,14 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?fbclid=IwAR0nYQ8qp4rzNsZ_oTFqWXVZm9xZ-I0tyAJu3j-BkBa04jRNpIy6jd_lCX0
                                                                                                                   
-                                                                                                                                                                      
+
+"name": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 2 LAT CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
 "name": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 3 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.238.21.106:6688/play/a00t/index.m3u8"',
@@ -1196,16 +1203,23 @@
                             "embed": "SOL M.*?sica">'.http://45.4.85.137:58001/play/a01f/index.m3u8
                                                                                                                
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] ESPN BRA CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] STAR SPORTS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://189.16.194.19:8010/19/tracks-v1a1/mono.m3u8"',
+                            "url": "http://103.55.144.46/hls/stersports1hd.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
                             
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 1 RUS CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] STAR SPORTS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8"',
+                            "url": "http://103.55.144.46/hls/starsports2.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] UFC TV CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                    
