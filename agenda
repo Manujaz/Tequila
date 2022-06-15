@@ -1266,7 +1266,7 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] ESPN SUR LAT CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN SUR LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.238.21.106:6688/play/a00i/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1301,9 +1301,9 @@
                             "embed": "SOL M.*?sica">'.http://185.134.22.131:8080/live/Carlos123/Carlos123/38924.m3u8
                             
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] TUDN MEX CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] AUTO MOTOR CHANNEL CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cxs2.gcdn.co/DEP34/tracks-v1a1/mono.m3u8"',
+                            "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false?source:iptvmate.net"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://201.182.242.135:12001/play/a09d/index.m3u8                            
                             
@@ -1327,14 +1327,7 @@
                             "url": "http://185.235.187.11:8888/play/a07s/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
-                            
-                            
-"noname": "CanalFavorito (Aqui) [COLOR white] SPORT TV BRA CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
+                                                                                    
                             
 "name": "CanalFavorito (Aqui) [COLOR white] SKY SPORTS USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
