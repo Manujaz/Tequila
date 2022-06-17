@@ -1216,14 +1216,14 @@
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                
                             
-"name": "CanalFavorito (Aqui) [COLOR white] STAR SPORTS 1 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] STAR SPORTS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://103.55.144.46/hls/stersports1hd.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] STAR SPORTS 2 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] STAR SPORTS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://103.55.144.46/hls/starsports2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1756,9 +1756,9 @@
                             "embed": "SOL M.*?sica">'.
                             
                                                         
-"name": "CanalFavorito (Aqui) [COLOR white] SKY SPORT NEW CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SKY SPORT NEW CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                                                                               
