@@ -193,6 +193,13 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://sin1.contabostorage.com/a808f6dce2514fba8eeb68596724ddd1:cast/hls/1/stream.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal MOTOGP(Aqui) [COLOR white] MotoGP. Gran Premio Alemania Sachsenring CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://191.37.250.169:8801/live/FoxSportsHD/720p.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
@@ -970,6 +977,20 @@
                             "url": "http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 1 BRA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://191.37.250.169:8801/live/FoxSportsHD/720p.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 2 BRA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://191.37.250.169:8801/live/FoxSports2HD/720p.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
 
 
 "name": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 3 LAT CristalAzul",
