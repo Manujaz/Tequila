@@ -313,9 +313,9 @@
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8                                                                                                                                                                                                                     
                             
                             
-"noname": "Canal Live 4(Aqui) [COLOR white] 21:00h Brasil Brasileiro. Botafogo vs São Paulo CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 21:00h ACB. Real Madrid vs Barcelona CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.29.169.15:4001/play/a00h/index.m3u8"',
+                            "url": "http://46.29.169.15:4001/play/a00g/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
                             
@@ -662,14 +662,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://50.7.34.155:2201/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
                             
-                            
-"noname": "Canal Live 19(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00g/index.m3u8                            
-                            
-                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                     
 "noname": "Canal Live 20(Aqui) [COLOR white] 20:45h Serie A Italiana. Juventus vs Inter Milan CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1648460943~acl=%2f*~data=hdntl~hmac=662c5da7b82989653c75400eaefd3c17491a544eb418092603b2c4d4095dad33"',
@@ -753,14 +746,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://190.61.102.67:2000/play/a08j/index.m3u8
                             
-                            
-"noname": "Canal Live 17(Aqui) [COLOR white] CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
-                                           
-                                                        
+                                                                                                                               
 "noname": "Canal Live 20(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.34.155:2201/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
@@ -926,7 +912,14 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.18.115.193:3549/play/a05i/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://212.18.115.193:3549/play/a04u/index.m3u8                            
+                            "embed": "SOL M.*?sica">'.http://212.18.115.193:3549/play/a04u/index.m3u8
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                                           
 "name": "CanalFavorito (Aqui) [COLOR white] REDBULL USA CristalAzul",
