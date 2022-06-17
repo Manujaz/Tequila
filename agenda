@@ -1032,14 +1032,7 @@
                             "url": "http://201.234.194.58:6020/play/a0e8/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://cxs2.gcdn.co/DEP26/tracks-v1a1/mono.m3u8
-                                                                                                                                                                                                                              
-
-"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 3 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport3/index.m3u8
-                            
+                                                                                                                                                                                                                                                          
                             
 "name": "CanalFavorito (Aqui) [COLOR white] M.DEPORTES LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -1279,7 +1272,7 @@
                             "embed": "SOL M.*?sica">'.http://45.167.250.115:20023/play/a0i2/index.m3u8
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN 4 LAT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ESPN 4 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.167.250.115:20023/play/a0i2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1853,6 +1846,13 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport1/index.m3u8
                             
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 3 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport3/index.m3u8                            
+                            
                                                                                                                                                                                                                                                                                                               
 "name": "CanalFavorito (Aqui) [COLOR white] ROH RING OHF HONOR CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
@@ -1875,7 +1875,7 @@
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 2 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] BTSPORT 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1932,9 +1932,9 @@
                                                         
 "noname": "[COLOR white] -------------------------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8                            
                                                                                                                                                                                                                                                                                                                                                                    
 
 "noname": "Canal 1(Aqui) [COLOR white] PLAY UD SPORT ESP CristalAzul",
