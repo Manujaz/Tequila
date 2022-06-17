@@ -272,9 +272,9 @@
                             "embed": "SOL M.*?sica">'.https://tiz-cycling.cyou/static/streaming-playlists/hls/0b8090d6-544d-471e-a7a6-f9d18d5e77c7/master.m3u8
                             
                             
-"noname": "Canal Live 2(Aqui) [COLOR white] 13:45h Vuelta a Extremadura. Etapa 2 CristalAzul",
+"name": "Canal Live 2(Aqui) [COLOR white] 13:45h Vuelta a Extremadura. Etapa 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/chunklist_b1500000.m3u8"',
+                            "url": "https://cdnlive.shooowit.net/extv1live/smil:channel1.smil/chunklist_b4000000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_720.m3u8                            
                             
@@ -1151,7 +1151,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00e/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://134.19.182.131:8080/pdga77f3b6e943f7c0b_2.m3u8?m=rPcqjCCXgGJbWVPxpG-Tew&c=e5d1bb6c17debce5&p=3135362e3231392e3136362e35&e=1646294626                           
+                            "embed": "SOL M.*?sica">'.                            
                             
 
 "name": "CanalFavorito (Aqui) [COLOR white] SPORT TV 1 POR CristalAzul",
