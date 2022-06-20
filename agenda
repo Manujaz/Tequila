@@ -817,7 +817,7 @@
                             "embed": "SOL M.*?sica">'.http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
                             
 
-"name": "CanalFavorito (Aqui) [COLOR white] M.LALIGA CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] M.LA LIGA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://213.183.47.50:2085/play/a04s/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1202,11 +1202,11 @@
                             "embed": "SOL M.*?sica">'.http://70.34.223.164:8080/hls/robones.m3u8
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] TNT SPORT ARG CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] TNT SPORT ARG CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.169.148.19:8000/play/a12k/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://45.4.85.137:58001/play/a01f/index.m3u8
+                            "embed": "SOL M.*?sica">'.http://45.169.148.19:8000/play/a12k/index.m3u8
                             
                             
 "noname": "CanalFavorito (Aqui) [COLOR white] TNT SPORT ARG CristalAzul",
