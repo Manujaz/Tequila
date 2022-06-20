@@ -34,7 +34,7 @@
                             "url": "https://tennis.x10.mx/ig4w/mp.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.150.192.166:8000/play/a00w/index.m3u8
-                                                                                                               
+                                                                             
                             
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -817,13 +817,13 @@
                             "embed": "SOL M.*?sica">'.http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
                             
 
-"noname": "CanalFavorito (Aqui) [COLOR white] M.LA LIGA CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] M.LA LIGA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://213.183.47.50:2085/play/a04s/index.m3u8"',
+                            "url": " http://213.183.47.50:2085/play/a04t/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.169.148.19:8000/play/a1a6/index.m3u8?ESPN.ARG
-                            
-                            
+                           
+                            http://213.183.47.50:2085/play/a04s/index.m3u8
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN ARG CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.153.165.14:8081/play/a0lo/index.m3u8"',
