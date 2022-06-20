@@ -1202,9 +1202,9 @@
                             "embed": "SOL M.*?sica">'.http://70.34.223.164:8080/hls/robones.m3u8
                             
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] TNT SPORT ARG CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] TNT SPORT ARG CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://45.235.39.84:5555/play/a012/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.169.148.19:8000/play/a12k/index.m3u8
                             
@@ -2230,9 +2230,9 @@
                             "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES155/tracks-v1a1/mono.m3u8http://172.96.172.111:2030/streams/70_.m3u8
                             
                                                         
-"noname": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
+"name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://45.226.67.3:58001/play/a02q/index.m3u8"',
+                            "url": "http://45.235.39.84:5555/play/a012/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.61.102.67:2000/play/a08j/index.m3u8?tudn
                             
