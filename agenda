@@ -749,7 +749,7 @@
                                                                                                                                
 "noname": "Canal Live 20(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://50.7.34.155:2201/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
                             
@@ -758,7 +758,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://50.7.34.155:2201/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull                            
+                            "embed": "SOL M.*?sica">'.
                             
                                                                                                                 
 "noname": "Canal Live 22(Aqui) [COLOR white]  CristalAzul",
@@ -791,7 +791,7 @@
                             
 "noname": "Canal Live 26(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00g/index.m3u8
                                                                                     
@@ -825,13 +825,13 @@
                             "embed": "SOL M.*?sica">'. 
                             
   
-"name": "CanalFavorito (Aqui) [COLOR white] M.LA LIGA CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] M.DEPORTES CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://213.183.47.50:2085/play/a04t/index.m3u8"',
+                            "url": "http://181.65.181.189:8000/play/a039/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.169.148.19:8000/play/a1a6/index.m3u8?ESPN.ARG
-                           
-                            http://213.183.47.50:2085/play/a04s/index.m3u8
+                          
+                          
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN ARG CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.153.165.14:8081/play/a0lo/index.m3u8"',
