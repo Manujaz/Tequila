@@ -133,11 +133,12 @@
                             "embed": "SOL M.*?sica">'.https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
                             
                             
-"noname": "Canal NBA(Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
+"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://eleven-rebroadcast-samsung.plex.wurl.com/manifest/9fca5203ac32061ac6240ce94078ae55.m3u8"',
+                            "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://120sports-accdn-1-us.samsung.wurl.tv/3000.m3u8
+                            "embed": "SOL M.*?sica">'.https://eleven-rebroadcast-samsung.plex.wurl.com/manifest/9fca5203ac32061ac6240ce94078ae55.m3u8
+                            
                             
 "noname": "[COLOR white] ---------------FIN DE SEMANA DE MOTOR----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -1629,7 +1630,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ARENA SPORT 1 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ARENA SPORT 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00t/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1643,14 +1644,13 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                
-"name": "CanalFavorito (Aqui) [COLOR white] ARENA SPORT 3 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ARENA SPORT 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00v/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
-                            http://46.29.169.15:4001/play/a00w/index.m3u8
                             
-                            
+                         
 "name": "CanalFavorito (Aqui) [COLOR white] ARENA SPORT 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00w/index.m3u8"',
@@ -1718,7 +1718,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bozztv.com/36bay2/gusa-d2dtv/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+                            "embed": "SOL M.*?sica">'. 
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] TOPSPEED TV CristalAzul",
@@ -1732,21 +1732,21 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES48/tracks-v1a1/mono.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] BEINSPORT XTRA Ñ LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://dxla1.gcdn.co/ES48/tracks-v1a1/mono.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
                                                                                                                 
 "name": "CanalFavorito (Aqui) [COLOR white] MAROC SPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://dxla1.gcdn.co/ES91/tracks-v1a1/mono.m3u8                           
+                            "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
                             
 "name": "CanalFavorito (Aqui) [COLOR white] SPORTTV CristalAzul",
@@ -1770,9 +1770,9 @@
                             "embed": "SOL M.*?sica">'.
                             
                                                         
-"noname": "CanalFavorito (Aqui) [COLOR white] SKY SPORT NEW CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+"name": "CanalFavorito (Aqui) [COLOR white] TNT SPORT ARG CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                                                                               
@@ -1854,14 +1854,14 @@
                             "embed": "SOL M.*?sica">'.
 
                                                                                                                                                                                                                                                                                                                                      
-"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 2 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] BTSPORT 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport1/index.m3u8
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 3 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] BTSPORT 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1880,70 +1880,14 @@
                             "url": "https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
-                                                                                                                                                                                                                            
-                            
-"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 1 CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-                            
-                            
-"noname": "CanalFavorito (Aqui) [COLOR white] BTSPORT 2 CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
+      
                             
 "name": "CanalFavorito (Aqui) [COLOR white] TNT SPORTS 3 BRA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-                            
-"noname": "CanalFavorito (Aqui) [COLOR white] FOX SPORTS PREMIUM CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://168.197.196.98:8000/play/a02j/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                                                                                    
-                            
-"noname": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 1 ESP CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://piratilla.com/945023/hls/eurosport1.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                                                                                   
-                                                       
-"noname": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 1 POR CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/89.chunklist_w27818905378.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://154.62.74.12:1935/live/smil:eurosport2hdnntv.smil/playlist.m3u8
-                            
-                                                                                                                                                                                               
-"noname": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 2 POR CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://lon-haproxy.angelthump.com/hls/spf1general/index.m3u8
-                            
-                            
-"noname": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 1 RUS CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://st1.astra-uk.ru:81/27d3f771f722037356f28ab60e1eb7db/playlist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.chunklist_w27818905378.m3u8
-                            
-                            
-"noname": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 2 RUS CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://st1.astra-uk.ru:81/4c0638123e05b9370674f3a7645374ef/playlist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 "noname": "[COLOR white] -------------------------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
@@ -1957,35 +1901,14 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
                                                                                     
-
-"noname": "Canal 2(Aqui) [COLOR white] KSA SPORTS 1 ARA CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://45.92.69.134:8003/play/a015/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
                             
-                            
-"noname": "Canal 3(Aqui) [COLOR white] KSA SPORTS 2 ARA CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://45.92.69.134:8003/play/a01c/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-
-
 "noname": "Canal 4(Aqui) [COLOR white] MATTV-SELET CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://mavtv-1-us.samsung.wurl.tv/3000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                            
-"noname": "Canal 5(Aqui) [COLOR white] TNT SPORT ARG CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-
-
+                      
 "noname": "Canal 6(Aqui) [COLOR white] SPORT FRANCE CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://redirector-sportenfrance.ziostream.cloud/hls/sp1564435593_hig/index.m3u8"',
