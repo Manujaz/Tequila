@@ -815,9 +815,8 @@
                             "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
-                            http://93.152.174.144:4000/play/btsportespn/index.m3u8
                             
-                            
+                                                        
 "name": "CanalFavorito (Aqui) [COLOR white] BT SPORT-ESPN CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/btsportespn/index.m3u8"',
@@ -846,21 +845,21 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN EXTRA CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ESPN EXTRA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.5.119.202:8000/play/a032/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ESPN 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.153.165.14:8081/play/a0lq/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.169.148.19:8000/play/a12l/index.m3u8                            
                                                                                     
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN 3 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ESPN 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.153.165.14:8081/play/a0lp/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
