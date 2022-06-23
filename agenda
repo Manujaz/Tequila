@@ -98,42 +98,49 @@
                             "embed": "SOL M.*?sica">'.
                                                                                                                                                                         
                             
-"noname": "Canal NBA(Aqui) [COLOR white] CANAL NBA 1 CristalAzul",
+"name": "Canal NBA(Aqui) [COLOR white] NBA-DRAFT2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://202.150.161.254:4000/play/a004/index.m3u8"',
+                            "url": "http://38.127.211.18/live/c2eds/NBA/HLS/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                                                                                                                                                                                                                                                
-"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 1 CristalAzul",
+"name": "Canal NBA(Aqui) [COLOR white] NBA-DRAFT2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 2 CristalAzul",
+"name": "Canal NBA(Aqui) [COLOR white] NBA-DRAFT2022 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://120sports-accdn-1-us.samsung.wurl.tv/3000.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal NBA(Aqui) [COLOR white] NBA-DRAFT2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                           
                             
-"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 3 CristalAzul",
+"name": "Canal NBA(Aqui) [COLOR white] NBA-DRAFT2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://120sports-accdn-1-us.samsung.wurl.tv/3000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.  
+                            "embed": "SOL M.*?sica">'.http://38.127.211.18/live/c2eds/NBA/HLS/index.m3u8  
                            
                             
-"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 4 CristalAzul", 
+"name": "Canal NBA(Aqui) [COLOR white] NBA-DRAFT2022 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://134.19.182.131:8080/pdge2959dc9b22b8b66_2.m3u8?m=0Yb5M_I-C2f1LaH1enPkSg&c=e2959dc9b22b8b66&p=3138352e3132382e36302e31&e=1654406943"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
                             
                             
-"name": "Canal NBA(Aqui) [COLOR white] CANAL NBA 5 CristalAzul",
+"name": "Canal NBA(Aqui) [COLOR white] NBA-DRAFT2022 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId="',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
