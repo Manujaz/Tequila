@@ -50,16 +50,16 @@
                             "embed": "SOL M.*?sica">'.https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8  
                              
                             
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 5 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://pako-tv.com:8888/live/6KMhAtG6bCeV/eBDzU7CGE648/389659.m3u8                                                  
                             
                                                                                                                                           
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 6 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 6 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://tennis.x10.mx/ig4w/mp.php/https://playoutengine.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/g.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/bein1fr/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -860,14 +860,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "CanalFavorito (Aqui) [COLOR white]  CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] SKY SPORTS F1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.153.165.14:8081/play/a0lq/index.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.169.148.19:8000/play/a12l/index.m3u8                            
                                                                                     
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN 3 CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN 3 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
