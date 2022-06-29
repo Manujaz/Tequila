@@ -344,49 +344,63 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 4(Aqui) [COLOR white] 00:15h Cerro Porteño vs Palmeiras CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 00:15h Copa Libertadores. Cerro Porteño vs Palmeiras CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 5(Aqui) [COLOR white] 00:15h Talleres Córdoba vs Colón CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 00:15h Copa Libertadores. Talleres Córdoba vs Colón CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                             
+                            
+                            
+"name": "Canal Live 6(Aqui) [COLOR white] 00:15h Copa Libertadores. Talleres Córdoba vs Colón CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05p/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal Live 6(Aqui) [COLOR white] 01:30h Cincinnati vs New York City CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 01:30h Cincinnati vs New York City CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05r/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 7(Aqui) [COLOR white] 02:30h Deportes Tolima vs Flamengo CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 02:30h Copa Libertadores. Deportes Tolima vs Flamengo CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 8(Aqui) [COLOR white] 02:30h Vélez Sarsfield vs River Plate CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 02:30h Vélez Sarsfield vs River Plate CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"name": "Canal Live 10(Aqui) [COLOR white] 02:30h Vélez Sarsfield vs River Plate CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05p/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                
                                                                                                                                                                                                                                                                                                                      
-"noname": "Canal Live 9(Aqui) [COLOR white] 02:00h Live WWE NXT CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 03:00 Live Badminton. Malaysia Open quarter-finals CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                     
                             
-"noname": "Canal Live 10(Aqui) [COLOR white] 02:30h Argentina Primera División. Boca Juniors vs Tigre CristalAzul",
+"noname": "Canal Live 12(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
