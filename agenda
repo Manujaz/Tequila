@@ -43,7 +43,7 @@
                             "embed": "SOL M.*?sica">'.http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
                             
                             
-"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 4 CristalAzul",
+"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://201.220.134.44:8185/play/a06h/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -867,9 +867,9 @@
                             "embed": "SOL M.*?sica">'.http://45.169.148.19:8000/play/a12l/index.m3u8                            
                                                                                     
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] ESPN 3 CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.153.165.14:8081/play/a0lp/index.m3u8"',
+                            "url": "https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
