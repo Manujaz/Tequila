@@ -748,6 +748,13 @@
                             "embed": "SOL M.*?sica">'.http://190.61.41.182:8000/play/a2lo/index.m3u8
                             
                             
+"name": "CanalFavorito (Aqui) [COLOR white] SPORTS TV PLUS PORT CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.92.69.77:8000/play/a083/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
 "name": "CanalFavorito (Aqui) [COLOR white] SPORTS TV 2 PORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05o/index.m3u8"',
