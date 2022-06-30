@@ -1198,7 +1198,7 @@
                             "embed": "SOL M.*?sica">'. 
                             
                                                         
-"name": "CanalFavorito (Aqui) [COLOR white] REAL MADRID TV CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] REAL MADRID TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.230.117.159:10100/play/ES_real_madrid_tv_HD/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1212,7 +1212,7 @@
                             "embed": "SOL M.*?sica">'.                            
                             
 
-"name": "CanalFavorito (Aqui) [COLOR white] SPORT TV 1 POR CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SPORT TV 1 POR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1240,7 +1240,7 @@
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                                                                    
                                                                                                                                                                
-"name": "CanalFavorito (Aqui) [COLOR white] QSPORTS 1 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] QSPORTS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://91.132.172.169:8000/play/a01q/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
