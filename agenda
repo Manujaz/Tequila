@@ -143,7 +143,7 @@
                                                                                                                                                                                                                                                                                                                                                
 "name": "Canal NBA(Aqui) [COLOR white] Canal NBA 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
+                            "url": "http://38.127.211.18/live/c2eds/NBA/HLS/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -152,7 +152,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.  http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8                          
                             
                             
 "name": "Canal NBA(Aqui) [COLOR white] Canal NBA 4 CristalAzul",
