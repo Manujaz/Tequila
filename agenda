@@ -1258,7 +1258,14 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://45.167.250.115:20023/play/a0i2/index.m3u8                            
+                            "embed": "SOL M.*?sica">'.http://45.167.250.115:20023/play/a0i2/index.m3u8
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 USA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN SUR LAT CristalAzul",
