@@ -762,8 +762,22 @@
                             "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
+  
+  
+"name": "CanalFavorito (Aqui) [COLOR white] FOX SPORT FS1 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
                             
-                            
+ 
+"name": "CanalFavorito (Aqui) [COLOR white] FOX SPORT FS2 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://38.127.211.18/live/c2eds/FoxSports2/HLS/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+ 
+                           
 "name": "CanalFavorito (Aqui) [COLOR white] M.LALIGA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://213.183.47.50:2085/play/a04s/index.m3u8"',
