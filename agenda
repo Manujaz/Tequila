@@ -197,21 +197,35 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             
                             
-"noname": "Canal F.E(Aqui) [COLOR white] Formula E Marrakesh CristalAzul",
+"noname": "Canal DTM(Aqui) [COLOR white] DTM Gran Premio Norisring. Carrera CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.92.69.77:8000/play/a05r/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"noname": "Canal F.E(Aqui) [COLOR white] Formula E Gran Premio Marrakesh CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.14:15   
                             
                             
 "noname": "Canal Indy200(Aqui) [COLOR white] IndyCar 200 Mid-Ohio CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://45.92.69.77:8000/play/a05q/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.  
+                            "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Nascar(Aqui) [COLOR white] Nascar Xfinity Series Road America  Practice CristalAzul",
+"noname": "Canal MLMC(Aqui) [COLOR white] MLMC Ressistencia en Monza. Carrera CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.92.69.77:8000/play/a05q/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"noname": "Canal Nascar(Aqui) [COLOR white] Nascar Xfinity Series Road America. Practice CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
