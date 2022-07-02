@@ -197,7 +197,7 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             
                             
-"name": "Canal 1 DTM(Aqui) [COLOR white] DTM Gran Premio Norisring. Carrera CristalAzul",
+"name": "Canal DTM(Aqui) [COLOR white] DTM Gran Premio Norisring. Carrera CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -211,16 +211,16 @@
                             "embed": "SOL M.*?sica">'.14:15   
                             
                             
-"noname": "Canal Indy200(Aqui) [COLOR white] IndyCar-200 Gran Premio de Mid-Ohio CristalAzul",
+"name": "Canal Indy200(Aqui) [COLOR white] IndyCar-200 Gran Premio de Mid-Ohio CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05q/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal MLMC(Aqui) [COLOR white] MLMC Ressistencia en Monza. Carrera CristalAzul",
+"noname": "Canal MLMC(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05q/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -232,49 +232,49 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal 2 F1 (Aqui) [COLOR white] Fórmula 1 G.P Gran Bretaña (Silvertones) CristalAzul",
+"noname": "Canal F1 (Aqui) [COLOR white] Fórmula 1 G.P Gran Bretaña (Silvertones) CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/bscNROOuT8mkF85Z97P7znRSNV5M_i9OVyJEKmu_6FPnGsDkuuvqunbmiUHm7XcrGhoxC3mlUUHX5LWVJrNgNg/transcode/eu-central-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/tw_dynamic_highlatency.m3u8?type=live"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal 2 F1 (Aqui) [COLOR white] Fórmula 1 G.P Gran Bretaña (Silvertones) CristalAzul",
+"name": "Canal F1 (Aqui) [COLOR white] Fórmula 1 G.P Gran Bretaña (Silvertones) CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn.wecast.to:8443/hls/ShvtVMD1PyQQ/index.m3u8?st=bub1gskLYv0IBz8siMPSSw&e=1656760204"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal 3 F1 (Aqui) [COLOR white] Fórmula 1 G.P Gran Bretaña (Silvertones) CristalAzul",
+"name": "Canal F1 (Aqui) [COLOR white] Fórmula 1 G.P Gran Bretaña (Silvertones) CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://d1n0ioptz8c5p0.cloudfront.net/stream/NDYxNg==/1080p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://cdn.wecast.to:8443/hls/ShvtVMD1PyQQ/index.m3u8?st=F1YxnYuEPlpGvPwum0YH7g&e=1656682626                           
                            
                             
-"name": "Canal 4 F1 (Aqui) [COLOR white] Fórmula 1 G.P Gran Bretaña (Silvertones) CristalAzul",
+"name": "CanalF1 (Aqui) [COLOR white] Fórmula 1 G.P Gran Bretaña (Silvertones) CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05q/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05q/index.m3u8
                             
                                                        
-"name": "Canal 5 F1 (Aqui) [COLOR white] Fórmula 1 G.P Gran Bretaña (Silvertones) CristalAzul",
+"name": "Canal F1 (Aqui) [COLOR white] Fórmula 1 G.P Gran Bretaña (Silvertones) CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://www.mediaserver.express/live/wJ17IDGr/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://45.92.69.77:8000/play/a05q/index.m3u8?sporttv4                                                       
                                                         
                                                                                                          
-"name": "Canal 6 F1 (Aqui) [COLOR white] Fórmula 1 G.P Gran Bretaña (Silvertones) CristalAzul",
+"name": "Canal F1 (Aqui) [COLOR white] Fórmula 1 G.P Gran Bretaña (Silvertones) CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://f14d3661ad78.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.104791748145.channel.pX941ATtt9HS.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8?ESPN.ELDOMINGO
                             
                             
-"noname": "Canal 7 F1 (Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal F1 (Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://190.83.119.254:8000/play/a0xq/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
