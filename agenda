@@ -136,14 +136,14 @@
                             
 "name": "Canal 1 UFC(Aqui) [COLOR white] 02:00h UFC 276 Israel Adesanya vs Jared Cannonier CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05h/index.m3u8"',
+                            "url": "http://190.83.119.254:8000/play/a0xq/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
+                            "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             
                             
 "name": "Canal 2 UFC(Aqui) [COLOR white] 02:00h UFC 276 Israel Adesanya vs Jared Cannonier CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8"',
+                            "url": "https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
@@ -157,14 +157,14 @@
                             
 "name": "Canal 4 UFC(Aqui) [COLOR white] 02:00h UFC 276 Israel Adesanya vs Jared Cannonier CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
 "name": "Canal 5 UFC(Aqui) [COLOR white] 02:00h UFC 276 Israel Adesanya vs Jared Cannonier CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -272,6 +272,13 @@
                             "url": "http://pull.mawwm.com/live/nascar.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal Nascar(Aqui) [COLOR white] Nascar Xfinity Series Road America. Carrera CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "noname": "Canal F1 (Aqui) [COLOR white] Fórmula 1 G.P Gran Bretaña (Silvertones) CristalAzul",
