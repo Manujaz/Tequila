@@ -183,9 +183,9 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "Canal F.E(Aqui) [COLOR white] Formula E Gran Premio Marrakesh CristalAzul",
+"name": "Canal F.E(Aqui) [COLOR white] Formula E Gran Premio Marrakesh CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://www.mediaserver.express/live/DZzUpFOm/index.m3u8"',
+                            "url": "http://82.197.214.59:4000/play/a01v/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.14:15   
                             
