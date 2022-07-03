@@ -267,11 +267,26 @@
                             "embed": "SOL M.*?sica">'. 
                             
                                                                                                                                                                                                                                                                             
-"noname": "[COLOR white] -------------------EVENTOS EN DIRECTO------------------"                            
+"noname": "[COLOR white] -------------------PELEA UFC EN DIFERIDO------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://ustvgo.tv/acc-network/
+                            
+                            
+                            
+"name": "Canal UFC(Aqui) [COLOR white] UFC 276 Israel Adesanya vs Jared Cannonier CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                                                        
+"noname": "[COLOR white] -------------------------------------"                            
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://ustvgo.tv/acc-network/                           
                             
                                                                                                               
 "noname": "Canal MOTOR (Aqui) [COLOR white] CANAL MOTOR 1 CristalAzul",
@@ -337,7 +352,7 @@
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport2/index.m3u8
                             
                                                                                                                 
-"name": "Canal Live 2(Aqui) [COLOR white] 12:45h Tour de Italia Femenino. Etapa 3 CristalAzul",
+"name": "Canal Live 2(Aqui) [COLOR white] 12:45h Tour de Italia. Etapa 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -348,7 +363,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05p/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05o/index.m3u8 2
                             
                             
 "name": "Canal Live 4(Aqui) [COLOR white] 17:30h UEFA U19 European Championship Femenino. France U19 vs Spain U19 CristalAzul",
