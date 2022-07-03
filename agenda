@@ -69,7 +69,7 @@
                             "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a083/index.m3u8  1                          
-                                                                             
+                                                 http://45.92.69.77:8000/play/a05o/index.m3u8 2                            
                                                                                      
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 8 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -411,7 +411,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05o/index.m3u8 2                            
                             
                             
 "noname": "Canal Live 11(Aqui) [COLOR white] 21:30h FIH Copa Mundial Femenina Fase de grupos. España vs Canadá CristalAzul",
@@ -420,14 +420,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05r/index.m3u8 5
                             
-                            
-"noname": "Canal Live 12(Aqui) [COLOR white] 22:45h UFC PFL 6 Welterweights & Femenino. Kayla Harrison vs Julia Budd CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
-                                                      
-                                                 
+                                                                                                                                                            
 "noname": "Canal Live 13(Aqui) [COLOR white] 22:45h UFC PFL 6 Welterweights & Femenino. Kayla Harrison vs Julia Budd CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8"',
