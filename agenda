@@ -226,7 +226,7 @@
                             "embed": "SOL M.*?sica">'.https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
                             
                             
-"name": "Canal CUP(Aqui) [COLOR white] Porsche Supercup, Silverstone. Carrera CristalAzul",
+"noname": "Canal CUP(Aqui) [COLOR white] Porsche Supercup, Silverstone. Carrera CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://109.105.205.250:8081/live/EUROSPORT2/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -254,9 +254,9 @@
                             "embed": "SOL M.*?sica">'.http://82.197.214.59:4000/play/a01v/index.m3u8 SELECT
                             
                             
-"noname": "Canal Indy200(Aqui) [COLOR white] 18:50h IndyCar-200 Gran Premio de Mid-Ohio CristalAzul",
+"name": "Canal Indy200(Aqui) [COLOR white] 18:50h IndyCar-200 Gran Premio de Mid-Ohio CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://v1.fullhdmatch.com/2022/07/dazn-f1.html"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
