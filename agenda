@@ -161,49 +161,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             
-                            
-"name": "Canal WRC(Aqui) [COLOR white] 16:00h WRC Sweden CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05r/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
-                            
-"name": "Canal F.E(Aqui) [COLOR white] Formula E Gran Premio Marrakesh CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://82.197.214.59:4000/play/a01v/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.  
-                            
-                            
-"name": "Canal Indy200(Aqui) [COLOR white] 18:50h IndyCar-200 Gran Premio de Mid-Ohio CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05q/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://82.197.214.59:4000/play/a01v/index.m3u8 SELECT
-                            
-                            
-"noname": "Canal Indy200(Aqui) [COLOR white] 18:50h IndyCar-200 Gran Premio de Mid-Ohio CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
-                            
-"noname": "Canal Nascar(Aqui) [COLOR white] Nascar Xfinity Series Road America. Carrera CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://pull.mawwm.com/live/nascar.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"noname": "Canal Nascar(Aqui) [COLOR white] Nascar Xfinity Series Road America. Carrera CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
+                                                                                    
 "name": "Canal F1 (Aqui) [COLOR white] 10:00h Fórmula 1 G.P Gran Bretaña (Silvertones) CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8"',
@@ -257,9 +215,51 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://190.83.119.254:8000/play/a0xq/index.m3u8"',ESPN1LAT
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8                            
-                                                                                                              
-                                                                                                                                   
+                            "embed": "SOL M.*?sica">'.https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+                            
+                            
+"name": "Canal WRC(Aqui) [COLOR white] 16:00h WRC Sweden CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.92.69.77:8000/play/a05r/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal F.E(Aqui) [COLOR white] Formula E Gran Premio Marrakesh CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://82.197.214.59:4000/play/a01v/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.  
+                            
+                            
+"name": "Canal Indy200(Aqui) [COLOR white] 18:50h IndyCar-200 Gran Premio de Mid-Ohio CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.92.69.77:8000/play/a05q/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://82.197.214.59:4000/play/a01v/index.m3u8 SELECT
+                            
+                            
+"noname": "Canal Indy200(Aqui) [COLOR white] 18:50h IndyCar-200 Gran Premio de Mid-Ohio CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"noname": "Canal Nascar(Aqui) [COLOR white] Nascar Xfinity Series Road America. Carrera CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"noname": "Canal Nascar(Aqui) [COLOR white] Nascar Xfinity Series Road America. Carrera CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                                                                                                                                                                                                                                                                            
 "noname": "[COLOR white] -------------------EVENTOS EN DIRECTO------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
