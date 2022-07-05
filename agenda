@@ -377,7 +377,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://109.105.205.250:8081/live/EUROSPORT1/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
+                            "embed": "SOL M.*?sica">'. http://212.18.115.194:3531/play/a04i/index.m3u8?ziggogolf                          
                                                                                                            
                             
 "name": "Canal Live 2(Aqui) [COLOR white] 14:00h Golf DP World Tour. JP McManus Pro-Am CristalAzul",
@@ -1362,9 +1362,9 @@
                             
 "name": "CanalFavorito (Aqui) [COLOR white] ZIGGO SPORT GOLF NL CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://212.18.115.193:3549/play/a04u/index.m3u8"',
+                            "url": "http://212.18.115.194:3531/play/a04i/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://212.18.115.194:3531/play/a04i/index.m3u8
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] ZIGGO SPORT VOETBAL NL CristalAzul",
@@ -1686,21 +1686,21 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/bein1fr/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/bein1fr/index.m3u8 
+                            "embed": "SOL M.*?sica">'.
                            
                             
 "noname": "CanalFavorito (Aqui) [COLOR white] BEINSPORTS 2 FR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/bein2fr/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                         
 "noname": "CanalFavorito (Aqui) [COLOR white] BEINSPORTS 3 FR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/bein2fr/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mono.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] PGA TOUR CristalAzul",
