@@ -1077,7 +1077,15 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.18.115.191:3599/play/a016/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] RUGBY NETWORT TV CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "https://dai.google.com/linear/hls/pa/event/eo2yLuGFTCmTkJBnQ34E0w/stream/af4b792f-039e-412f-81b9-91a589a8c4bc:BRU/variant/f34ea4667b4792ee94118e269109bff8/bandwidth/3000000.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
+                            
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 2 CristalAzul",
@@ -2128,14 +2136,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://bal.varcdn1.ru/lb/m1/index.m3u8
                             
-                                                                                                                                                                       
-"name": "Canal 18(Aqui) [COLOR white] RUGBY NETWORT TV CristalAzul",
-                            "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://dai.google.com/linear/hls/pa/event/eo2yLuGFTCmTkJBnQ34E0w/stream/af4b792f-039e-412f-81b9-91a589a8c4bc:BRU/variant/f34ea4667b4792ee94118e269109bff8/bandwidth/3000000.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                                                                                                             
-
+                                                                                                                                                                                                                                                                                   
 "noname": "Canal 19(Aqui) [COLOR white] BEIN SPORTS XTRA Ñ CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30alivestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web"',
