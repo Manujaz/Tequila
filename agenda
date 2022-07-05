@@ -466,7 +466,7 @@
                             
 "name": "Canal Live 14(Aqui) [COLOR white] 00:15h Atlético Mineiro vs Emelec CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',
+                            "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',sporttv 1
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05r/index.m3u8 5
                             
@@ -477,17 +477,31 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
                             
+                            
+"name": "Canal Live 16(Aqui) [COLOR white] 02:00h WWE Noche de Pelea CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.92.69.77:8000/play/a05p/index.m3u8"', sporttv3
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                           
                          
-"name": "Canal Live 16(Aqui) [COLOR white] 02:30h Copa Libertadores. Boca Juniors vs Corinthians CristalAzul",
+"name": "Canal Live 17(Aqui) [COLOR white] 02:30h Copa Libertadores. Boca Juniors vs Corinthians CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://45.92.69.77:8000/play/a05q/index.m3u8 4                           
+                            "embed": "SOL M.*?sica">'. http://45.92.69.77:8000/play/a05q/index.m3u8 4
                             
                             
 "name": "Canal Live 17(Aqui) [COLOR white] 02:30h Copa Libertadores. Boca Juniors vs Corinthians CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 17(Aqui) [COLOR white] 02:30h Copa Libertadores. Boca Juniors vs Corinthians CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"', sporttv1
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                             
@@ -499,14 +513,14 @@
                             "embed": "SOL M.*?sica">'.http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8?fox usa
                             
                             
-"noname": "Canal Live 19(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 19(Aqui) [COLOR white] 02:30h Copa Libertadores. Libertad vs Athletico-PR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://168.228.194.32:4000/play/a076/index.m3u8"',
+                            "url": "http://45.92.69.77:8000/play/a05r/index.m3u8"', sporttv5
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                                                                                                                                                                       
                                                                                                                                                                                                                                                                                                                      
-"noname": "Canal Live 17(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 20(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05p/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
