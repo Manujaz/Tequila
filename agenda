@@ -452,7 +452,7 @@
                             
 "name": "Canal Live 12(Aqui) [COLOR white] 21:30h FIH Copa Mundial Femenina. Bélgica vs Australia CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://212.18.115.177:3531/play/a04h/index.m3u8"',
+                            "url": "http://212.18.115.177:3531/play/a04h/index.m3u8"', ziggovoli
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -1362,7 +1362,14 @@
                             
 "name": "CanalFavorito (Aqui) [COLOR white] ZIGGO SPORT GOLF NL CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://82.197.214.59:4000/play/a01v/index.m3u8"',
+                            "url": "http://212.18.115.193:3549/play/a04u/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] ZIGGO SPORT VOETBAL NL CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://212.18.115.177:3531/play/a04h/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
