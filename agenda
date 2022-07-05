@@ -1738,9 +1738,9 @@
                             "embed": "SOL M.*?sica">'.
                                                                                     
                                                                              
-"name": "CanalFavorito (Aqui) [COLOR white] KOK UFC CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] KOK UFC CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://54.39.49.162:8081/BTN/SPORTS/playlist.m3u8
                             
@@ -2110,14 +2110,14 @@
                             
 "noname": "Canal 17(Aqui) [COLOR white] STADIUM TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://bal.varcdn1.ru/lb/m1/index.m3u8
                             
                                                                                                                                                                        
-"noname": "Canal 18(Aqui) [COLOR white] KOK TV CristalAzul",
+"name": "Canal 18(Aqui) [COLOR white] RUGBY NETWORT TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"',
+                            "url": "https://dai.google.com/linear/hls/pa/event/eo2yLuGFTCmTkJBnQ34E0w/stream/af4b792f-039e-412f-81b9-91a589a8c4bc:BRU/variant/f34ea4667b4792ee94118e269109bff8/bandwidth/3000000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                                              
