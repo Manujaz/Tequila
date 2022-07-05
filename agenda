@@ -32,16 +32,16 @@
  
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://212.18.115.193:3531/play/a01j/index.m3u8"', ESPN1USA
+                            "url": "http://93.152.174.144:4000/play/bein1fr/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://168.228.194.32:4000/play/a076/index.m3u8
                             
-                            
+                          
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'. http://212.18.115.193:3531/play/a01j/index.m3u8?ESPN1USA
                             
                             
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
