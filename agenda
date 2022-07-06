@@ -146,7 +146,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.  http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8                          
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "name": "Canal NBA(Aqui) [COLOR white] Canal NBA 4 CristalAzul",
@@ -180,6 +180,13 @@
 "name": "Canal NBA(Aqui) [COLOR white] Canal NBA 8 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                                                        
+                            
+"name": "Canal NBA(Aqui) [COLOR white] Canal NBA 9 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -933,28 +940,28 @@
                             "embed": "SOL M.*?sica">'.http://190.61.41.182:8000/play/a2lo/index.m3u8                            
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] SPORT TV 2 PORT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SPORT TV 2 PORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05o/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.61.41.182:8000/play/a2lo/index.m3u8
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] SPORT TV 3 PORT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SPORT TV 3 PORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05p/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] SPORT TV 4 PORT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SPORT TV 4 PORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05q/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] SPORT TV 5 PORT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SPORT TV 5 PORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05r/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
