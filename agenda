@@ -25,9 +25,9 @@
 
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8"',
+                            "url": "http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
  
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
@@ -39,7 +39,7 @@
                           
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05o/index.m3u8"',
+                            "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://212.18.115.193:3531/play/a01j/index.m3u8?ESPN1USA
                             
@@ -86,9 +86,9 @@
                             "embed": "SOL M.*?sica">'.https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8                            
                             
                             
-"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 10 CristalAzul",
+"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 9 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a083/index.m3u8  1                          
                                                                              
@@ -380,140 +380,140 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xs/index.m3u8
                             
                             
-"name": "Canal Live 1(Aqui) [COLOR white] 12:45h Tour de Francia. Etapa 4 CristalAzul",
+"name": "Canal Live 1(Aqui) [COLOR white] 13:25h Tour de Francia. Etapa 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://109.105.205.250:8081/live/EUROSPORT1/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://212.18.115.194:3531/play/a04i/index.m3u8?ziggogolf                          
+                            "embed": "SOL M.*?sica">'. http://212.18.115.194:3531/play/a04i/index.m3u8?ziggogolf
+                            
+                            
+"name": "Canal Live 2(Aqui) [COLOR white] 16:30h World Cup Femenino Ireland W vs Germany W CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://212.18.115.177:3531/play/a04h/index.m3u8"', ZiggoVoli
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05p/index.m3u8 3                            
                                                                                                            
                             
-"name": "Canal Live 2(Aqui) [COLOR white] 14:00h Golf DP World Tour. JP McManus Pro-Am CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 17:30h Juegos Mediterráneos Final Masculina. Egipto vs España CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05p/index.m3u8"',
+                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05o/index.m3u8 2
                                                                                                              
                             
-"name": "Canal Live 3(Aqui) [COLOR white] 14:45h Tour de Francia. Etapa 4 CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 19:30h World Cup Femenino Netherlands W vs Chile W CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
+                            "url": "http://212.18.115.177:3531/play/a04h/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://212.18.115.177:3531/play/a04h/index.m3u8?ZiggoVoli
                             
                             
-"noname": "Canal Live 4(Aqui) [COLOR white] 16:30h World Cup Femenino. Ireland W vs Chile W CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 21:00h Eurocopa Femenina. Inglaterra vs Austria CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://212.18.115.177:3531/play/a04h/index.m3u8"', ZiggoVoli
+                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                         
                             
-"name": "Canal Live 5(Aqui) [COLOR white] 18:00h FIH Copa Mundial Femenina. Japón vs Sudáfrica CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 21:30h FIH Copa Mundial Femenina. Australia vs Sudáfrica CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                                                        
                             
-                            
-"noname": "Canal Live 6(Aqui) [COLOR white] 19:30h World Cup Femenina New Zealand W vs England W CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://212.18.115.177:3531/play/a04h/index.m3u8"', ZiggoVoli
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
-                                                                                    
-"name": "Canal Live 6(Aqui) [COLOR white] 19:30h FIBA Copa Mundial Fase de Clasificación. España vs Macedonia Norte CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-                            
-                            
-"name": "Canal Live 7(Aqui) [COLOR white] 19:30h FIBA Copa Mundial Fase de Clasificación. España vs Macedonia Norte CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 21:30h FIH Copa Mundial Femenina. Australia vs Sudáfrica CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.18.115.177:3531/play/a04h/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.  http://45.92.69.77:8000/play/a05w/index.m3u8 1  
+                            "embed": "SOL M.*?sica">'.                            
                             
-                                                                                                             
-"name": "Canal Live 8(Aqui) [COLOR white] 20:00h UEFA Champions League. Lech Poznań vs Qarabag CristalAzul",
+                                                                                                                                                                      
+"name": "Canal Live 8(Aqui) [COLOR white] 00:15h Copa Libertadores. Colón vs Talleres Córdoba CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.29.169.15:4001/play/a00g/index.m3u8"', arena p1
+                            "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05p/index.m3u8 3                            
+                            "embed": "SOL M.*?sica">'.
                             
+                            
+"name": "Canal Live 9(Aqui) [COLOR white] 02:30h Copa Libertadores. River Plate vs Vélez Sarsfield CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.  http://45.92.69.77:8000/play/a05w/index.m3u8 1  
+                                                                                                                                                                                                 
                                                                                                                                                                                                                                                          
-"name": "Canal Live 9(Aqui) [COLOR white] 21:30h FIH Copa Mundial Femenina. Bélgica vs Australia CristalAzul",
+"noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 12(Aqui) [COLOR white] 21:30h FIH Copa Mundial Femenina. Bélgica vs Australia CristalAzul",
+"noname": "Canal Live 12(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.18.115.177:3531/play/a04h/index.m3u8"', ziggovoli
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                               
-"name": "Canal Live 10(Aqui) [COLOR white] 00:15h Copa Libertadores. Atlético Mineiro vs Emelec CristalAzul",
+"noname": "Canal Live 10(Aqui) [COLOR white] 00:15h Copa Libertadores. Atlético Mineiro vs Emelec CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05o/index.m3u8 2                            
                             
                             
-"name": "Canal Live 11(Aqui) [COLOR white] 00:15h Atlético Mineiro vs Emelec CristalAzul",
+"noname": "Canal Live 11(Aqui) [COLOR white] 00:15h Atlético Mineiro vs Emelec CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',sporttv 1
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05r/index.m3u8 5
                             
                                                                                                                                                             
-"name": "Canal Live 12(Aqui) [COLOR white] 00:15h Copa Sudamericana. Unión Santa Fe vs Nacional CristalAzul",
+"noname": "Canal Live 12(Aqui) [COLOR white] 00:15h Copa Sudamericana. Unión Santa Fe vs Nacional CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://168.232.168.242:8089/play/a06f/index.m3u8"',espn1 lat
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
                             
                             
-"name": "Canal Live 13(Aqui) [COLOR white] 02:00h WWE Noche de Pelea CristalAzul",
+"noname": "Canal Live 13(Aqui) [COLOR white] 02:00h WWE Noche de Pelea CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05p/index.m3u8"', sporttv3
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                            
                          
-"name": "Canal Live 14(Aqui) [COLOR white] 02:30h Copa Libertadores. Boca Juniors vs Corinthians CristalAzul",
+"noname": "Canal Live 14(Aqui) [COLOR white] 02:30h Copa Libertadores. Boca Juniors vs Corinthians CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://45.92.69.77:8000/play/a05q/index.m3u8 4
                             
                             
-"name": "Canal Live 15(Aqui) [COLOR white] 02:30h Copa Libertadores. Boca Juniors vs Corinthians CristalAzul",
+"noname": "Canal Live 15(Aqui) [COLOR white] 02:30h Copa Libertadores. Boca Juniors vs Corinthians CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                               
                             
                             
-"name": "Canal Live 16(Aqui) [COLOR white] 02:30h Copa Libertadores. Boca Juniors vs Corinthians CristalAzul",
+"noname": "Canal Live 16(Aqui) [COLOR white] 02:30h Copa Libertadores. Boca Juniors vs Corinthians CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"', sporttv1
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                             
                             
-"name": "Canal Live 17(Aqui) [COLOR white] 02:30h Copa Sudamericana. Internacional vs Colo-Colo CristalAzul",
+"noname": "Canal Live 17(Aqui) [COLOR white] 02:30h Copa Sudamericana. Internacional vs Colo-Colo CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://168.232.168.242:8089/play/a06f/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8?fox usa
                             
                             
-"name": "Canal Live 18(Aqui) [COLOR white] 02:30h Copa Libertadores. Libertad vs Athletico-PR CristalAzul",
+"noname": "Canal Live 18(Aqui) [COLOR white] 02:30h Copa Libertadores. Libertad vs Athletico-PR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05r/index.m3u8"', sporttv5
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
