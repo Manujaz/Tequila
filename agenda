@@ -65,12 +65,12 @@
                             "embed": "SOL M.*?sica">'.http://168.228.194.32:4000/play/a076/index.m3u8
                             
                             
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 7 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 7 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8"',
+                            "url": "http://168.232.168.242:8089/play/a06h/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://168.232.168.242:8089/play/a06h/index.m3u8
-                                      http://190.83.119.254:8000/play/a0wk/index.m3u8       
+                            "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0wk/index.m3u8
+                                             
                                                         
 "noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 8 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
