@@ -142,14 +142,14 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8?ESPN.ELDOMINGO                            
                             
                             
-"name": "Canal NASCAR(Aqui) [COLOR white] 21:30h Nascar Truck. O'Reilly Auto Parts 150 Truck Series. Qualifying CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:30h Nascar Truck. O.Reilly Auto Parts 150 Truck Series. Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
                             
-"name": "Canal NASCAR(Aqui) [COLOR white] 22:00h ARCA Auto Racing Dawn 150 Auto racing CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 22:00h ARCA Auto Racing Dawn 150 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -214,9 +214,9 @@
                             
 "noname": "Canal Nascar(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://hls-pull-netmixtv.speedws.com/live/nascar/playlist.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://hls-pull-netmixtv.speedws.com/live/nascar/playlist.m3u8
                             
                             
 "noname": "Canal Nascar(Aqui) [COLOR white]  CristalAzul",
