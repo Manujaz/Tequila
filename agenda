@@ -128,9 +128,9 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             
                             
-"noname": "Canal 24H(Aqui) [COLOR white] 17:50h HANKOOK 24H Series Portimao. Qualifying CristalAzul", 
+"name": "Canal 24H(Aqui) [COLOR white] 17:50h HANKOOK 24H Series Portimao. Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                        
