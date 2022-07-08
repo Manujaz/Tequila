@@ -387,70 +387,70 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xs/index.m3u8
                             
                             
-"name": "Canal Live 1(Aqui) [COLOR white] 12:55h Tour de Francia. Etapa CristalAzul",
+"name": "Canal Live 1(Aqui) [COLOR white] 12:55h Tour de Francia. Etapa 7 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://109.105.205.250:8081/live/EUROSPORT1/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://212.18.115.194:3531/play/a04i/index.m3u8?ziggogolf
                             
                             
-"name": "Canal Live 1(Aqui) [COLOR white] 14:15h Tour de Francia. Etapa 6 CristalAzul",
+"name": "Canal Live 1(Aqui) [COLOR white] 14:15h Tour de Francia. Etapa 7 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://212.18.115.177:3531/play/a04h/index.m3u8 ZiggoVoli
                             
                             
-"noname": "Canal Live 2(Aqui) [COLOR white] 16:00h Extreme E Italia Competition CristalAzul",
+"noname": "Canal Live 2(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://212.18.115.177:3531/play/a04h/index.m3u8?ZiggoVoli                            
                                                                                                           
                             
-"noname": "Canal Live 3(Aqui) [COLOR white] 16:05h Tour de Francia. Etapa 6 CristalAzul",
+"name": "Canal Live 2(Aqui) [COLOR white] 16:05h Tour de Francia. Etapa 7 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05o/index.m3u8 2
                                                                                                                                                                     
                             
-"noname": "Canal Live 4(Aqui) [COLOR white] 18:00h FIBA Copa Mundial. Ucrania vs España CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 18:00h Eurocopa Femenina. España va Finlandia CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"', 
+                            "url": "https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr_720.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                         
                             
-"noname": "Canal Live 5(Aqui) [COLOR white] 18:00h FIH Copa Mundial Femenina. Argentina va Canadá CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 20:30h Copa del Rey Final. C. Alcaraz vs A. Davidovich CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://168.232.168.242:8089/play/a06f/index.m3u8
                             
                             
-"noname": "Canal Live 6(Aqui) [COLOR white] 21:00 UEFA Europa Conference League. Norway vs Northern Ireland CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 21:00h Eurocopa Femenina. Alemania vs Dinamarca CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://168.232.168.242:8089/play/a06f/index.m3u8"',
+                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.  http://45.92.69.77:8000/play/a05w/index.m3u8 1
                             
                             
-"noname": "Canal Live 7(Aqui) [COLOR white] 21:00 UEFA Europa Conference League. Norway vs Northern Ireland CristalAzul",
+"noname": "Canal Live 7(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal Live 8(Aqui) [COLOR white] 21:30h FIH Copa Mundial Femenina. Corea del Sur vs España CristalAzul",
+"noname": "Canal Live 8(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                                                                       
-"noname": "Canal Live 9(Aqui) [COLOR white] 21:30h FIH Copa Mundial Femenina. Corea del Sur vs España CristalAzul",
+"noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
