@@ -135,32 +135,39 @@
                             "embed": "SOL M.*?sica">'.                            
                                                        
                                                                                                                 
-"name": "Canal NASCAR(Aqui) [COLOR white] 09:50h NASCAR WHELEN. Vallelunga Qualifying CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 09:50h NASCAR WHELEN. Vallelunga Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 21:30h Nascar Truck. O.Reilly Auto Parts 150 Truck Series. Qualifying                         
                             
                             
-"name": "Canal KARTING(Aqui) [COLOR white] 10:25h FIA Karting Europe Racing. Júnior Francia-Corta CristalAzul", 
+"noname": "Canal KARTING(Aqui) [COLOR white] 10:25h FIA Karting Europe Racing. Júnior Francia-Corta CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8
                             
                             
-"name": "Canal CUP(Aqui) [COLOR white] 13:50h Porsche Supercup, Spielberg Qualifications CristalAzul", 
+"noname": "Canal CUP(Aqui) [COLOR white] 13:50h Porsche Supercup, Spielberg Qualifications CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05q/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8?ESPN.ELDOMINGO
-                            
-                            
+                                                                                                              
+                                                        
 "name": "Canal AMA(Aqui) [COLOR white] 21:30h AMA Motocross Southwick National Lucas Oil Pro CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://mavtv-1-us.samsung.wurl.tv/3000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal CUP(Aqui) [COLOR white] 23:00h Nascar Xfinity Series -> Atlanta Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://hls.mlive.la/live/nascar/index.m3u8?hls_upstream=128.1.77.230:18080&ssssessionid=2817f1b3f838c2e638a51892-16277"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. http://45.92.69.77:8000/play/a05q/index.m3u8                             
                             
                                                                                                                                                                       
 "name": "Canal F1(Aqui) [COLOR white] Fórmula 1 G.P de Austria (Spielberg) CristalAzul",
@@ -1640,7 +1647,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] CBS SPORTS NETWORK CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] CBS SPORTS NETWORK CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1836,7 +1843,7 @@
                             "embed": "SOL M.*?sica">'.
                                                                                     
                                                                                                                                      
-"name": "CanalFavorito (Aqui) [COLOR white] NFL NETWORK HD CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] NFL NETWORK HD CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.127.211.18/live/c2eds/NFLNetwork/HLS/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
