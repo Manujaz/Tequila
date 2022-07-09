@@ -478,51 +478,51 @@
                             "embed": "SOL M.*?sica">'.  http://45.92.69.77:8000/play/a05w/index.m3u8 1
                             
                                                                                     
-"noname": "Canal Live 11(Aqui) [COLOR white]  CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 23:00h Argentina Primera División. Banfield vs Unión Santa Fe CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8"',
+                            "url": "http://46.29.169.15:4001/play/a00h/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                                                                       
-"noname": "Canal Live 11(Aqui) [COLOR white] 23:00h Copa América Femenina. Bolivia vs Ecuador CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 23:00h Copa América Femenina. Uruguay vs Venezuela CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"noname": "Canal Live 12(Aqui) [COLOR white] 01:30h MLS. Philadelphia Union vs DC United CristalAzul",
+"name": "Canal Live 13(Aqui) [COLOR white] 01:00 MLS. Charlotte vs Nashville SC CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8"',
+                            "url": "http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                             
                             
-"noname": "Canal Live 13(Aqui) [COLOR white] 01:30h MLS. Philadelphia Union vs DC United CristalAzul",
+"name": "Canal Live 14(Aqui) [COLOR white] 02:00h Copa América Femenina. Brasil vs Argentina CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8"',
+                            "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05r/index.m3u8 5                            
                             
                                                         
-"noname": "Canal Live 14(Aqui) [COLOR white] 02:00h Copa América Femenina. Colombia vs Paraguay CristalAzul",
+"name": "Canal Live 15(Aqui) [COLOR white] 02:05h Liga MX. León vs Pumas UNAM CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"', 
+                            "url": "https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://212.18.115.177:3531/play/a04h/index.m3u8 ziggovoli                           
                             
                                                                                                               
-"noname": "Canal Live 15(Aqui) [COLOR white] 04:00h MLS. Los Angeles FC vs LA Galaxy CristalAzul",
+"name": "Canal Live 16(Aqui) [COLOR white] 04:05h Liga MX. Cruz Azul vs Pachuca CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8"',
+                            "url": "https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05o/index.m3u8 2                                                        
 
                                                                                                                                                             
-"noname": "Canal Live 16(Aqui) [COLOR white] 04:00h MLS. Los Angeles FC vs LA Galaxy CristalAzul",
+"name": "Canal Live 17(Aqui) [COLOR white] 04:05h Liga MX. Monterrey vs América CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.29.169.15:4001/play/a00g/index.m3u8"', arena1premium
+                            "url": "http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
                             
