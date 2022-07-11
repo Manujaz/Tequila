@@ -960,13 +960,27 @@
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8 http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
-  
+ 
+ 
+"name": "CanalFavorito (Aqui) [COLOR white] TUDN MEX CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://linear-347.frequency.stream/347/hls/master/playlist_1920x1080.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                                                        
+"name": "CanalFavorito (Aqui) [COLOR white] TUDN USA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://dcs-live-ue4.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-5&anvsid=m177635098-nf21b92c3d0c798fe9aada911988789ff&ts=1657515792&anvtrid=ef0415b464a3cf23f7b3e4ad2d0bc531"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
 
 "name": "CanalFavorito (Aqui) [COLOR white] MOTOR RACING CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/1ae47d63-275f-4dfd-ab85-f253432d85f3/0.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://dcs-live-ue4.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-5&anvsid=m177635098-nf21b92c3d0c798fe9aada911988789ff&ts=1657515792&anvtrid=ef0415b464a3cf23f7b3e4ad2d0bc531
 
 
 "name": "CanalFavorito (Aqui) [COLOR white] TIGO SPORT LAT CristalAzul",
