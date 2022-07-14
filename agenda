@@ -941,9 +941,9 @@
                             "embed": "SOL M.*?sica">'.https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist_1280x720.m3u8
                                                                                                                 
                                                         
-"name": "CanalFavorito (Aqui) [COLOR white] TUDN USA CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] TYC SPORTS LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dcs-live-ue4.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-5&anvsid=m177635101-nacd925e9c324e99d533c97d93d9829f6&ts=1657707657&anvtrid=ca09ed51a580e89fa786d667c3536521"',
+                            "url": "https://vsd130.mycdn.me/hls/2658762885814.m3u8/sig/_rWO7KZieR0/expires/1657886860778/srcIp/90.167.94.85/clientType/0/srcAg/CHROME_ANDROID/mid/4812954738358/2658762885814_high/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -1015,7 +1015,14 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://168.228.194.32:4000/play/a076/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://168.228.194.32:4000/play/a076/index.m3u8 
+                            "embed": "SOL M.*?sica">'.http://168.228.194.32:4000/play/a076/index.m3u8
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN ARG CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?fbclid=IwAR0nYQ8qp4rzNsZ_oTFqWXVZm9xZ-I0tyAJu3j-BkBa04jRNpIy6jd_lCX0"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                                                         
                             
 "name": "CanalFavorito (Aqui) [COLOR white] SPORT TV PLUS PORT CristalAzul",
