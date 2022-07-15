@@ -148,16 +148,16 @@
                             "embed": "SOL M.*?sica">'. 16:00h WRC Rally Estonia Super Special 12
                                                                                                                
                             
-"noname": "Canal NASCAR(Aqui) [COLOR white] 23:45h Nascar Xfinity Series •New Hampshire Practice + Qualifying CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 23:45h Nascar Xfinity Series •New Hampshire Practice + Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://hls.mlive.la/live/nascar/index.m3u8?hls_upstream=128.1.77.230:18080&ssssessionid=17615a5e4b528b0bc9a3b817-68"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8?ESPN.ELDOMINGO
-                                                                                                              
+                                                                                                                                                                                                 
                                                         
-"noname": "Canal IMSA(Aqui) [COLOR white] 23:35h IMSA Weathertech. Lime Rock Qualifying CristalAzul", 
+"name": "Canal IMSA(Aqui) [COLOR white] 23:35h IMSA Weathertech. Lime Rock Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://hls.mlive.la/live/imsa/index.m3u8?hls_upstream=128.1.77.226:18080&ssssessionid=faf4dc82ec8e93da1952b278-279?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://mavtv-1-us.samsung.wurl.tv/3000.m3u8
                             
