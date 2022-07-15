@@ -136,7 +136,7 @@
                                                                                                                 
 "name": "Canal INDI(Aqui) [COLOR white] 20:30h Indycar Toronto 2022. Libres 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://hls.mlive.la/live/indy/index.m3u8?hls_upstream=128.1.77.226:18080&ssssessionid=faf4dc82ec8e93da1952b278-124"',
+                            "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8                         
                             
@@ -148,7 +148,7 @@
                             "embed": "SOL M.*?sica">'. 16:00h WRC Rally Estonia Super Special 12
                                                                                                                
                             
-"noname": "Canal NASCAR(Aqui) [COLOR white] 23:05h Nascar Xfinity Series •New Hampshire Practice + Qualifying CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 23:45h Nascar Xfinity Series •New Hampshire Practice + Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -157,9 +157,9 @@
                                                         
 "noname": "Canal IMSA(Aqui) [COLOR white] 23:35h IMSA Weathertech. Lime Rock Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://mavtv-1-us.samsung.wurl.tv/3000.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://mavtv-1-us.samsung.wurl.tv/3000.m3u8
                             
                             
 "noname": "Canal NASCAR(Aqui) [COLOR white]  CristalAzul", 
