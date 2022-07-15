@@ -121,16 +121,16 @@
                             "embed": "SOL M.*?sica">'.https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
                             
                             
-"noname": "[COLOR white] ---------------FIN DE SEMANA DE MOTOR----------------------"                            
+"name": "[COLOR white] ---------------FIN DE SEMANA DE MOTOR----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             
                             
-"noname": "Canal 24H(Aqui) [COLOR white]  CristalAzul", 
+"name": "Canal SBK(Aqui) [COLOR white] 11:30h SBK Gran Bretaña 2022 •FP1 SBK CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://cloudflarestream.com/2dc36dafeebe40a38949030b8877c78c/manifest/video.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                        
@@ -160,7 +160,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://mavtv-1-us.samsung.wurl.tv/3000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.?Manujaz
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "noname": "Canal NASCAR(Aqui) [COLOR white]  CristalAzul", 
@@ -177,7 +177,7 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                                                                       
-"noname": "Canal F1(Aqui) [COLOR white] Fórmula 1 G.P de  CristalAzul",
+"noname": "Canal F1(Aqui) [COLOR white] Fórmula 1 G.P Francia (Paul Ricard) CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -185,14 +185,14 @@
                             
                             
                             
-"noname": "Canal F1(Aqui) [COLOR white] Fórmula 1 G.P de  CristalAzul",
+"noname": "Canal F1(Aqui) [COLOR white] Fórmula 1 G.P Francia (Paul Ricard) CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal F1(Aqui) [COLOR white] Fórmula 1 G.P de Austria (Spielberg) CristalAzul",
+"noname": "Canal F1(Aqui) [COLOR white] Fórmula 1 G.P Francia (Paul Ricard) CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -583,14 +583,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                                                                                                                                                                       
-                                                                                                                                                                                                                                                                                                                     
-"noname": "Canal Live 19(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05p/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                                                                                    
-                            
+                                                                                                                                                                                                                                                                                                                                                                              
 "noname": "Canal Live 17(Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
