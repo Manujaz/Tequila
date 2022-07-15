@@ -489,7 +489,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00e/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                                                      
+                            "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05w/index.m3u8 1                                                      
                                                       
                                                                                          
 "name": "Canal Live 12(Aqui) [COLOR white] 21:00h Eurocopa Femenina. Austria vs Noruega CristalAzul",
@@ -498,38 +498,24 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://46.29.169.15:4001/play/a00e/index.m3u8?sk1
                             
-                            
-"name": "Canal Live 13(Aqui) [COLOR white] 21:00h UEFA Euro Femenina. Northern Ireland vs England CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dcs-live-ue4.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-5&anvsid=m177635092-n880c03ac70d370b1d6c9beeb3a26c460&ts=1657870810&anvtrid=ca549855ff8c29868fcc46d227270d9a"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport3/index.m3u8                            
-                                   
-                            
-"name": "Canal Live 14(Aqui) [COLOR white] 22:00h Club Friendly. Benfica vs Nice CristalAzul",
+                                                                                                                     
+"name": "Canal Live 13(Aqui) [COLOR white] 22:00h Club Friendly. Benfica vs Nice CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00h/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://linear-347.frequency.stream/347/hls/master/playlist_1920x1080.m3u8?tudnmex
                                                                                                                                                                                                  
-                 
-"name": "Canal Live 15(Aqui) [COLOR white] 23:00h Copa América Femenina. Argentina vs Uruguay CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dcs-live-ue4.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-5&anvsid=m177635092-n880c03ac70d370b1d6c9beeb3a26c460&ts=1657870810&anvtrid=ca549855ff8c29868fcc46d227270d9a"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.  http://45.92.69.77:8000/play/a05w/index.m3u8 1
-                            
-                                                                                    
-"name": "Canal Live 16(Aqui) [COLOR white] 02:00h Copa América Femenina. Peru vs Venezuela CristalAzul",
+                                                                                                                                 
+"name": "Canal Live 14(Aqui) [COLOR white] 02:00h Copa América Femenina. Peru vs Venezuela CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://linear-347.frequency.stream/347/hls/master/playlist_1920x1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8
                             
                             
-"name": "Canal Live 17(Aqui) [COLOR white] 02:00h Liga MX. Puebla vs León CristalAzul",
+"noname": "Canal Live 15(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dcs-live-ue4.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-5&anvsid=m177635092-n880c03ac70d370b1d6c9beeb3a26c460&ts=1657870810&anvtrid=ca549855ff8c29868fcc46d227270d9a"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05r/index.m3u8 5                            
                                                                                                                                                                                                                             
