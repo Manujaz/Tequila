@@ -127,7 +127,7 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             
                             
- "name": "Canal D1NZ(Aqui) [COLOR white] 07:10h Valvoline D1NZ Live Racing .Ronda 5 Mt Smart CristalAzul", 
+ "noname": "Canal D1NZ(Aqui) [COLOR white] 07:10h Valvoline D1NZ Live Racing .Ronda 5 Mt Smart CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d13hpouywdrj8a.cloudfront.net/out/v1/08068c856b81496a8ac105c692de3401/push11aus_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -169,7 +169,7 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal SBK(Aqui) [COLOR white] 15:00h SBK Gran Bretaña 2022. Primera carrera SBK CristalAzul", 
+"noname": "Canal SBK(Aqui) [COLOR white] 15:00h SBK Gran Bretaña 2022. Primera carrera SBK CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
