@@ -190,11 +190,18 @@
                             "embed": "SOL M.*?sica">'.https://mavtv-1-us.samsung.wurl.tv/3000.m3u8
                             
                             
-"name": "Canal INDI(Aqui) [COLOR white] 17:00h Indycar Toronto 2022. Libres 1 CristalAzul", 
+"name": "Canal INDI(Aqui) [COLOR white] 16:00h Indycar Toronto 2022. Libres 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8
+                            
+                            
+"noname": "Canal INDI(Aqui) [COLOR white] 16:00h Indycar Toronto 2022. Libres 2 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                                                         
 "noname": "Canal MXPRO(Aqui) [COLOR white] 20:00h Pro Motocross Championship - Millville CristalAzul", 
