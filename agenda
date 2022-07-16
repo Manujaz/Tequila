@@ -141,28 +141,28 @@
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal SBK(Aqui) [COLOR white] 10:00h SBK Gran Bretaña 2022 •FP1 SBK CristalAzul", 
+"noname": "Canal SBK(Aqui) [COLOR white] 10:00h SBK Gran Bretaña 2022 •FP1 SBK CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://nos.wjv-1.neo.id/cast/hls/2/stream.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal SBK(Aqui) [COLOR white] 10:00h SBK Gran Bretaña 2022 •FP1 SBK CristalAzul", 
+"name": "Canal SBK(Aqui) [COLOR white] SBK Gran Bretaña 2022 •FP1 SBK CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652513771~exp=9007200907254762~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=a54be8ca9a9c9515a7018abf9226d7ff847d7ced92856f0a9feed5382cb00e0b"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://nos.wjv-1.neo.id/cast/hls/0/stream.m3u8
                             
                             
-"name": "Canal TRUCK(Aqui) [COLOR white] 11:35h FIA European Truck Nurburgring. Carrera 1 CristalAzul", 
+"noname": "Canal TRUCK(Aqui) [COLOR white] FIA European Truck Nurburgring. Carrera 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d31fuznfn5pr6z.cloudfront.net/out/v1/45867a313be843fabaf38097824f3a5f/push8eu_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal SBK(Aqui) [COLOR white] 13:30h Superbike Made in Italy e Emilia Romagna CristalAzul", 
+"noname": "Canal SBK(Aqui) [COLOR white] Superbike Made in Italy e Emilia Romagna CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05r/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -176,14 +176,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal WRC(Aqui) [COLOR white] 16:00h WRC Rally Estonia. Super Special 12 - Etapa 2 CristalAzul", 
+"noname": "Canal WRC(Aqui) [COLOR white] 16:00h WRC Rally Estonia. Super Special 12 - Etapa 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05q/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. WRC PARA MAÑANA                              
                             
                                                                                   
-"name": "Canal SBK(Aqui) [COLOR white] 16:15h SBK Gran Bretaña 2022. Primera carrera SSP CristalAzul", 
+"noname": "Canal SBK(Aqui) [COLOR white] 16:15h SBK Gran Bretaña 2022. Primera carrera SSP CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -232,11 +232,11 @@
                             "embed": "SOL M.*?sica">'http://212.18.115.177:3531/play/a04g/index.m3u8.
                              
  
-"name": "Canal IMSA(Aqui) [COLOR white] 23:00h IMSA Auto Racing Northeast Grand Prix Auto racing SportsCar Championship CristalAzul", 
+"noname": "Canal IMSA(Aqui) [COLOR white] 23:00h IMSA Auto Racing Northeast Grand Prix Auto racing SportsCar Championship CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://212.18.115.177:3531/play/a04g/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://212.18.115.177:3531/play/a04g/index.m3u8
                                                                                     
                                                                                                                                                                                                  
 "noname": "Canal NASCAR(Aqui) [COLOR white] 00:20h Nascar Xfinity Series •New Hampshire CristalAzul", 
@@ -315,14 +315,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                            
-"noname": "Canal CUP(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://hls-pull-netmixtv.speedws.com/live/nascar/playlist.m3u8
-                            
-                                                        
+                                                                                                               
 "noname": "[COLOR white] -----------------NOCHE DE PELEA----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
