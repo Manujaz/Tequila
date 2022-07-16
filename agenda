@@ -190,9 +190,9 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal IMSA(Aqui) [COLOR white] 17:00h IMSA Weathertech. Lime Rock Carrera CristalAzul", 
+"name": "Canal IMSA(Aqui) [COLOR white] 17:00h IMSA Weathertech. Lime Rock Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://hls-pull-wasafimedia.speedws.com/live/imsa/playlist.m3u8?wsSession=9536c5599ed189573950f32a-165798312534249&wsIPSercert=ef269efa627925c37fcd0161abf5c35f&wsMonitor=0"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://mavtv-1-us.samsung.wurl.tv/3000.m3u8
                             
