@@ -127,49 +127,7 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             
                             
-"name": "Canal SBK(Aqui) [COLOR white] 11:30h SBK Gran Bretaña 2022 •FP1 SBK CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652513771~exp=9007200907254762~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=a54be8ca9a9c9515a7018abf9226d7ff847d7ced92856f0a9feed5382cb00e0b"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://nos.wjv-1.neo.id/cast/hls/0/stream.m3u8                             
-                                                       
-                                                                                                                
-"name": "Canal INDI(Aqui) [COLOR white] 20:30h Indycar Toronto 2022. Libres 1 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8                         
-                            
-                            
-"noname": "Canal DRIFT(Aqui) [COLOR white] 20:50h Formula Drift. St. Louis Pro Qualifying CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1az6qm8em1hil.cloudfront.net/out/v1/cab3e527b7414718baa8ed5cd1f203d1/push13us_1.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 16:00h WRC Rally Estonia Super Special 12
-                                                                                                               
-                            
-"noname": "Canal NASCAR(Aqui) [COLOR white] 23:05h Nascar Xfinity Series •New Hampshire Practice + Qualifying CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://hls.mlive.la/live/nascar/index.m3u8?hls_upstream=128.1.77.230:18080&ssssessionid=17615a5e4b528b0bc9a3b817-68"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8?ESPN.ELDOMINGO
-                            
-                                                                                                                                                                                                 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 23:35h Nascar Xfinity Series •New Hampshire Practice + Qualifying CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://hls.mlive.la/live/nascar/index.m3u8?hls_upstream=128.1.77.230:18080&ssssessionid=17615a5e4b528b0bc9a3b817-75"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"noname": "Canal IMSA(Aqui) [COLOR white] 23:35h IMSA Weathertech. Lime Rock Qualifying CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://hls.mlive.la/live/imsa/index.m3u8?hls_upstream=128.1.77.226:18080&ssssessionid=faf4dc82ec8e93da1952b278-279"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://mavtv-1-us.samsung.wurl.tv/3000.m3u8
-                            
-                            
-"name": "Canal D1NZ(Aqui) [COLOR white] 07:10h Valvoline D1NZ Live Racing .Ronda 5 Mt Smart CristalAzul", 
+ "name": "Canal D1NZ(Aqui) [COLOR white] 07:10h Valvoline D1NZ Live Racing .Ronda 5 Mt Smart CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d13hpouywdrj8a.cloudfront.net/out/v1/08068c856b81496a8ac105c692de3401/push11aus_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -180,8 +138,64 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05q/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
+                            
+                                                        
+"name": "Canal SBK(Aqui) [COLOR white] 10:00h SBK Gran Bretaña 2022 •FP1 SBK CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652513771~exp=9007200907254762~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=a54be8ca9a9c9515a7018abf9226d7ff847d7ced92856f0a9feed5382cb00e0b"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. https://nos.wjv-1.neo.id/cast/hls/0/stream.m3u8
+                            
+                            
+"name": "Canal SBK(Aqui) [COLOR white] 15:00h SBK Gran Bretaña 2022. Primera carrera SBK CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
+                                                                                  
+"name": "Canal SBK(Aqui) [COLOR white] 16:15h SBK Gran Bretaña 2022. Primera carrera SSP CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8?Manujaz"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"noname": "Canal IMSA(Aqui) [COLOR white] 17:00h IMSA Weathertech. Lime Rock Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://mavtv-1-us.samsung.wurl.tv/3000.m3u8
+                            
+                            
+"name": "Canal INDI(Aqui) [COLOR white] 17:00h Indycar Toronto 2022. Libres 1 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8
+                            
+                            
+"noname": "Canal NASCAR(Aqui) [COLOR white] 00:00h Nascar Xfinity Series •New Hampshire CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://hls.mlive.la/live/nascar/index.m3u8?hls_upstream=128.1.77.230:18080&ssssessionid=17615a5e4b528b0bc9a3b817-68"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8?ESPN.ELDOMINGO                            
+                            
+                                                                                                                                                                                                 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 00:20h Nascar Xfinity Series •New Hampshire CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://hls.mlive.la/live/nascar/index.m3u8?hls_upstream=128.1.77.230:18080&ssssessionid=17615a5e4b528b0bc9a3b817-75"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+
+"noname": "Canal DRIFT(Aqui) [COLOR white] 20:50h Formula Drift. St. Louis Pro Qualifying CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d1az6qm8em1hil.cloudfront.net/out/v1/cab3e527b7414718baa8ed5cd1f203d1/push13us_1.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                                                                                                                                                                                                                                                        
                             
 "name": "Canal WRC(Aqui) [COLOR white] 16:00h WRC Rally Estonia. Super Special 12 - Etapa 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
