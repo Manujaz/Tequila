@@ -155,6 +155,13 @@
                             "embed": "SOL M.*?sica">'. https://nos.wjv-1.neo.id/cast/hls/0/stream.m3u8
                             
                             
+"name": "Canal TRUCK(Aqui) [COLOR white] 11:35h FIA European Truck Nurburgring. Carrera 1 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d31fuznfn5pr6z.cloudfront.net/out/v1/45867a313be843fabaf38097824f3a5f/push8eu_1.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
+                            
+                            
 "name": "Canal SBK(Aqui) [COLOR white] 15:00h SBK Gran Bretaña 2022. Primera carrera SBK CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr.m3u8"',
@@ -188,6 +195,13 @@
                             "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8
+                            
+                                                        
+"noname": "Canal MXPRO(Aqui) [COLOR white] 20:00h Pro Motocross Championship - Millville CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "noname": "Canal NASCAR(Aqui) [COLOR white] 00:00h Nascar Xfinity Series •New Hampshire CristalAzul", 
