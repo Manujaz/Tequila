@@ -264,19 +264,26 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652513771~exp=9007200907254762~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=a54be8ca9a9c9515a7018abf9226d7ff847d7ced92856f0a9feed5382cb00e0b"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://nos.wjv-1.neo.id/cast/hls/0/stream.m3u8                            
+                            "embed": "SOL M.*?sica">'. https://nos.wjv-1.neo.id/cast/hls/0/stream.m3u8
+                            
+                            
+"noname": "Canal INDI(Aqui) [COLOR white] 21:00h Indycar Toronto 2022 • Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"noname": "Canal F.E(Aqui) [COLOR white] 18:00h Formula E New York City ePrix - Race 2 CristalAzul", 
+"name": "Canal INDI(Aqui) [COLOR white] 21:00h Indycar Toronto 2022 • Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://109.105.205.250:8081/live/EUROSPORT2/chunks.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://hls.mlive.la/live/battery/index.m3u8?hls_upstream=128.1.77.227:18080&ssssessionid=98237ed04f7ab9e25f780fcb-46                            
                                                        
 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Xfinity Series • New Hampshire Race CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Xfinity Series • New Hampshire Race CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://hls.mlive.la/live/nascar/index.m3u8?hls_upstream=128.1.77.230:18080&ssssessionid=17615a5e4b528b0bc9a3b817-980"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
