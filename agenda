@@ -140,22 +140,29 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
-                            
-"noname": "Canal SBK(Aqui) [COLOR white] 10:00h SBK Gran Bretaña 2022 •FP1 SBK CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://nos.wjv-1.neo.id/cast/hls/2/stream.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"noname": "Canal SBK(Aqui) [COLOR white] SBK Gran Bretaña 2022 •FP1 SBK CristalAzul", 
+                                                                                 
+"name": "Canal SBK(Aqui) [COLOR white] 11:30h Superbike United Kingdom. Superpole Race CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652513771~exp=9007200907254762~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=a54be8ca9a9c9515a7018abf9226d7ff847d7ced92856f0a9feed5382cb00e0b"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://nos.wjv-1.neo.id/cast/hls/0/stream.m3u8
                             
                             
-"noname": "Canal TRUCK(Aqui) [COLOR white] FIA European Truck Nurburgring. Carrera 1 CristalAzul", 
+"name": "Canal SBK(Aqui) [COLOR white] 13:30h Superbike United Kingdom. Superpole Race CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.10:45 FIM JuniorGP Championship - Algarve - Moto2 - Race 1 
+                            
+                            
+"name": "Canal MOTO(Aqui) [COLOR white] 11:45h FIM JuniorGP Championship. Algarve Moto2 Race 1 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.92.69.77:8000/play/a05r/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'..                            
+                            
+                                                        
+"name": "Canal TRUCK(Aqui) [COLOR white] 08:50h FIA European Truck Nurburgring. Qualifying 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d31fuznfn5pr6z.cloudfront.net/out/v1/45867a313be843fabaf38097824f3a5f/push8eu_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
