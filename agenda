@@ -141,41 +141,34 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "embed": "SOL M.*?sica">'. http://45.92.69.77:8000/play/a05q/index.m3u8
                                                         
                             
-"name": "Canal WRC(Aqui) [COLOR white] 08:00h WRC. Estonian Rally Super Special 13 CristalAzul", 
+"noname": "Canal WRC(Aqui) [COLOR white] 08:00h WRC. Estonian Rally Super Special 13 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05q/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal TRUCK(Aqui) [COLOR white] 08:50h FIA European Truck Nurburgring. Qualifying 2 CristalAzul", 
+"noname": "Canal TRUCK(Aqui) [COLOR white] 08:50h FIA European Truck Nurburgring. Qualifying 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d31fuznfn5pr6z.cloudfront.net/out/v1/45867a313be843fabaf38097824f3a5f/push8eu_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal WSK(Aqui) [COLOR white] 10:20h WSK Euro Series. Warm-up - Prefinales + Finales CristalAzul", 
+"noname": "Canal WSK(Aqui) [COLOR white] 10:20h WSK Euro Series. Warm-up - Prefinales + Finales CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3t1an06exdpxa.cloudfront.net/out/v1/6fa0c4ea6c1b497f9949e98f3d24ddea/push4eu_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal SBK(Aqui) [COLOR white] 10:30h Superbike United Kingdom. Superpole Race CristalAzul", 
+"noname": "Canal SBK(Aqui) [COLOR white] 10:30h Superbike United Kingdom. Superpole Race CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://sin1.contabostorage.com/e99f730d90ed4c3b86ca4c972d026f37:cast/hls/2/stream.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
-                                                                                 
-"name": "Canal SBK(Aqui) [COLOR white] 10:30h Superbike United Kingdom. Superpole Race CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652513771~exp=9007200907254762~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=a54be8ca9a9c9515a7018abf9226d7ff847d7ced92856f0a9feed5382cb00e0b"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://nos.wjv-1.neo.id/cast/hls/0/stream.m3u8
-                            
-                                                                                                                
+                                                                                                                                                                                                                           
 "name": "Canal MOTO(Aqui) [COLOR white] 11:45h FIM JuniorGP Championship. Algarve Moto2 Race 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05r/index.m3u8"',
@@ -264,7 +257,14 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://109.105.205.250:8081/live/EUROSPORT2/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal F.E(Aqui) [COLOR white] 18:00h Formula E New York City ePrix - Race 2 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652513771~exp=9007200907254762~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=a54be8ca9a9c9515a7018abf9226d7ff847d7ced92856f0a9feed5382cb00e0b"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. https://nos.wjv-1.neo.id/cast/hls/0/stream.m3u8                            
                             
                                                         
 "noname": "Canal F.E(Aqui) [COLOR white] 18:00h Formula E New York City ePrix - Race 2 CristalAzul", 
@@ -272,19 +272,20 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "url": "http://109.105.205.250:8081/live/EUROSPORT2/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://hls.mlive.la/live/battery/index.m3u8?hls_upstream=128.1.77.227:18080&ssssessionid=98237ed04f7ab9e25f780fcb-46                            
+                                                       
                             
-"noname": "Canal MXPRO(Aqui) [COLOR white] 20:00h Pro Motocross Championship - Millville CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Xfinity Series •New Hampshire CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8?ESPN.ELDOMINGO
+                                                        
+                            
+"noname": "Canal NHRA(Aqui) [COLOR white] 22:00h Dodge Power Brokers NHRA Mile-High Nationals CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'http://212.18.115.177:3531/play/a04g/index.m3u8.
-                            
-                            
-"noname": "Canal NASCAR(Aqui) [COLOR white] 20:30h Nascar Xfinity Series •New Hampshire CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8?ESPN.ELDOMINGO                            
+                            "embed": "SOL M.*?sica">'http://212.18.115.177:3531/play/a04g/index.m3u8.                            
                              
  
 "noname": "Canal IMSA(Aqui) [COLOR white] 20:30h IMSA Auto Racing Northeast Grand Prix Auto racing SportsCar Championship CristalAzul", 
