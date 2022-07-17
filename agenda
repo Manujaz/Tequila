@@ -197,11 +197,18 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "embed": "SOL M.*?sica">'.?http://45.92.69.77:8000/play/a05q/index.m3u8sportv 4                           
                             
                                                                                                                                                                                                     
-"noname": "Canal MX2(Aqui) [COLOR white] 16:00h Motocross MX2. Czech Republic GP Race 2 CristalAzul", 
+"noname": "Canal MX2(Aqui) [COLOR white] 17:00h Motocross MX2. Czech Republic GP Race 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal CAR(Aqui) [COLOR white] Ferrari 16:40h Challenge North America Indianapolis Qualifying 2 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "name": "Canal F.E(Aqui) [COLOR white] 18:00h Formula E New York City ePrix - Race 1 CristalAzul", 
@@ -210,14 +217,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                                                         
-                            
-"noname": "Canal SBK(Aqui) [COLOR white] 15:00h SBK Gran Bretaña 2022. Primera carrera SBK CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
+                                                                                    
 "noname": "Canal WRC(Aqui) [COLOR white] 16:00h WRC Rally Estonia. Super Special 13 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05q/index.m3u8"',
@@ -237,6 +237,9 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "url": "https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+                            
                             
                             
 "noname": "Canal IMSA(Aqui) [COLOR white] 17:00h IMSA Weathertech. Lime Rock Carrera CristalAzul", 
