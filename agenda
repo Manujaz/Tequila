@@ -273,15 +273,22 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://hls.mlive.la/live/battery/index.m3u8?hls_upstream=128.1.77.227:18080&ssssessionid=98237ed04f7ab9e25f780fcb-46                            
                                                        
-                            
-"name": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Xfinity Series •New Hampshire CristalAzul", 
+
+"noname": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Xfinity Series • New Hampshire Race CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Xfinity Series • New Hampshire Race CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8?ESPN.ELDOMINGO
                                                         
                             
-"noname": "Canal NHRA(Aqui) [COLOR white] 22:00h Dodge Power Brokers NHRA Mile-High Nationals CristalAzul", 
+"noname": "Canal NHRA(Aqui) [COLOR white] 22:00h Dodge Power Brokers NHRA • Mile-High Nationals CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -294,14 +301,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://212.18.115.177:3531/play/a04g/index.m3u8
                                                                                     
-                                                                                                                                                                                                 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 00:20h Nascar Xfinity Series •New Hampshire CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://hls.mlive.la/live/nascar/index.m3u8?hls_upstream=128.1.77.230:18080&ssssessionid=17615a5e4b528b0bc9a3b817-75"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
-
+                                                                                                                                                                                                                                                        
 "noname": "Canal DRIFT(Aqui) [COLOR white] 20:50h Formula Drift. St. Louis Pro Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1az6qm8em1hil.cloudfront.net/out/v1/cab3e527b7414718baa8ed5cd1f203d1/push13us_1.m3u8"',
