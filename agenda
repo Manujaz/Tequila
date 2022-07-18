@@ -589,7 +589,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "embed": "SOL M.*?sica">'.http://82.114.87.149:8881/play/a0ao/index.m3u8?SK4                            
                                               https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8                                                                                                                                                                                                                                                               
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"name": "Canal Live 6(Aqui) [COLOR white] 02:00h Copa América Femenina. Peru vs Urugua CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 02:00h Copa América Femenina. Peru vs UruguaY CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"'
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1108,18 +1108,25 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
  
  
  
-"noname": "CanalFavorito (Aqui) [COLOR white] BT SPORT 1 CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ELEVEN SPORT 1 PORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8"',
+                            "url": "http://45.92.69.77:8000/play/a00d/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/btsport1/index.m3u8
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] ELEVEN SPORT 2 PORT CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://45.92.69.77:8000/play/a00h/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] BT SPORT 2 CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ELEVEN SPORT 3 PORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8"',
+                            "url": "http://45.92.69.77:8000/play/a00c/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.                            
                                                                                     
  
 "name": "CanalFavorito (Aqui) [COLOR white] TUDN MEX CristalAzul",
