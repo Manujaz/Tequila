@@ -593,29 +593,36 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05p/index.m3u8 3                             
+                            "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05p/index.m3u8 3
+                            
+                            
+"name": "Canal Live 7(Aqui) [COLOR white] ESP 02:00h Club Friendly. Inter Miami vs Barcelona CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://streamamg-fcbar01.akamaized.net/hls/live/2040130/0_fcq6zq7g/1080p/hdntl=exp=1658308812~acl=%2f*~data=hdntl~hmac=62edcc98f9197abc0fc4eb1e9eac00ea2aba6fd51423c4ae1ce1264778300164/prog_index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00i/index.m3u8 3                            
                                                                                  
-                                                                                                                                                                                           
-"name": "Canal Live 7(Aqui) [COLOR white] 02:00h Club Friendly. Inter Miami vs Barcelona CristalAzul",
+                                                                                                          
+"name": "Canal Live 8(Aqui) [COLOR white] CAT 02:00h Club Friendly. Inter Miami vs Barcelona CristalAzul",
+                            "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/bitrate_3.m3u8"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                                    
+                                    
+                                                                        
+"name": "Canal Live 9(Aqui) [COLOR white] LAT 02:00h Club Friendly. Inter Miami vs Barcelona CristalAzul",
                             "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://linear-347.frequency.stream/347/hls/master/playlist_1920x1080.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://82.114.87.149:8881/play/a0ao/index.m3u8?SK4                            
                                                                                                                                                                                                                                                                                                              
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"name": "Canal Live 8(Aqui) [COLOR white] 02:30h Argentina Primera División. Argentinos Juniors vs Boca Juniors CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 02:30h Argentina Primera División. Argentinos Juniors vs Boca Juniors CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00g/index.m3u8"'
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-                            
-                            
-"noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.29.169.15:4001/play/a00i/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00i/index.m3u8 3                             
-                                                                                                                
+                                                                                                                                                                                                     
 
 "noname": "Canal Live 8(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -1689,7 +1696,7 @@
                             "embed": "SOL M.*?sica">'.http://50.7.34.155:2200/BR/Band_Sports_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null                           
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] NBC GOLF CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] NBC GOLF CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://sprtlive56.akamaized.net/hls/live/620959/GolfChannel0374cc0d/clear-1/exp=1655252717~acl=%2fhls%2flive%2f620959*~data=hdntl~hmac=b9e3867c38b1f7a2405cac623074fdcf99576bd02efd719719b76cc0b5838872/VIDEO_0_6596000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
