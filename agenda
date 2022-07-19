@@ -24,16 +24,16 @@
 
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05r/index.m3u8"', 
+                            "url": "http://45.92.69.77:8000/play/a05p/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://168.228.194.32:4000/play/a076/index.m3u8
                                            
                                                                                       
-name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                                           
+                            "embed": "SOL M.*?sica">'. http://45.92.69.77:8000/play/a05r/index.m3u8 5                                           
                                            
                              
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
@@ -134,7 +134,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             
                             
-"noname": "Canal D1NZ(Aqui) [COLOR white] 07:10h Valvoline D1NZ Live Racing .Ronda 5 Mt Smart CristalAzul", 
+"noname": "Canal (Aqui) [COLOR white] 19:00h Swedish Elitserien League Speedway. Vastervik vs. Dackarna Malilla CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d13hpouywdrj8a.cloudfront.net/out/v1/08068c856b81496a8ac105c692de3401/push11aus_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -379,14 +379,14 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                                
-"name": "[COLOR white] -----------------NOCHE DE PELEA----------------------"                            
+"noname": "[COLOR white] -----------------NOCHE DE PELEA----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
                                                         
-"name": "Canal UFC(Aqui) [COLOR white] 23:30h - 00:00h UFC FIGHT NIGHT DOS ANJOS VS FIZIEV CristalAzul",
+"noname": "Canal UFC(Aqui) [COLOR white] 23:30h - 00:00h UFC FIGHT NIGHT DOS ANJOS VS FIZIEV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vsd129.mycdn.me/hls/2519222585971.m3u8/sig/r9Gb3DUCaQk/expires/1658250920487/srcIp/37.135.155.80/clientType/0/srcAg/CHROME_ANDROID/mid/3816141299315/2519222585971_high/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -554,53 +554,53 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8 
                             
                                                                                     
-"name": "Canal Live 1(Aqui) [COLOR white] 19:00h Amistoso. Borussia Dortmund vs Valencia CF CristalAzul",
+"name": "Canal Live 1(Aqui) [COLOR white] 12:15h Tour de Francia. Etapa 16 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vsd129.mycdn.me/hls/2519222585971.m3u8/sig/r9Gb3DUCaQk/expires/1658250920487/srcIp/37.135.155.80/clientType/0/srcAg/CHROME_ANDROID/mid/3816141299315/2519222585971_high/index.m3u8"',
+                            "url": "http://109.105.205.250:8081/live/EUROSPORT1/chunks.m3u8"',
                              "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://109.105.205.250:8081/live/EUROSPORT1/chunks.m3u8
+                            "embed": "SOL M.*?sica">'. https://photocall.tv/vc1f/hls/gol.m3u8 goltv
                             
                             
-"name": "Canal Live 2(Aqui) [COLOR white] 19:00h Amistoso. Borussia Dortmund vs Valencia CF CristalAzul",
+"name": "Canal Live 2(Aqui) [COLOR white] 13:40h Tour de Francia. Etapa 16 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://photocall.tv/vc1f/hls/gol.m3u8"',
+                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'. goltv https://vsd129.mycdn.me/hls/2519222585971.m3u8/sig/r9Gb3DUCaQk/expires/1658250920487/srcIp/37.135.155.80/clientType/0/srcAg/CHROME_ANDROID/mid/3816141299315/2519222585971_high/index.m3u8                           
                             
                                                         
-"name": "Canal Live 3(Aqui) [COLOR white] 19:00h Amistoso. Borussia Dortmund vs Valencia CF CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 16:05h Tour de Francia. Etapa 16 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',
+                            "url": "https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr_720.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://45.92.69.77:8000/play/a05w/index.m3u8 1                            
                             
                             
-"name": "Canal Live 4(Aqui) [COLOR white] 21:00h Eurocopa Femenina. Italia vs Bélgica CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 18:30h Club Friendly. Salzburg vs Ajax CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
+                            "url": " http://45.92.69.77:8000/play/a05w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://109.105.205.250:8081/live/EUROSPORT1/chunks.m3u8 
-                            
+                             
                                                         
-"name": "Canal Live 5(Aqui) [COLOR white] 22:00h AFCON Semi Final 2. Morocco vs Nigeria CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 21:00h Club Friendly. Sporting CP vs Roma CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
+                            "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05p/index.m3u8 3                             
                                                                                  
                                                                                                                                                                                            
-"name": "Canal Live 6(Aqui) [COLOR white] 23:00h Copa América Femenina. Venezuela vs Brasil CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"', 
+"name": "Canal Live 6(Aqui) [COLOR white] 02:00 Club Friendly. Inter Miami vs Barcelona CristalAzul",
+                            "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://linear-347.frequency.stream/347/hls/master/playlist_1920x1080.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://82.114.87.149:8881/play/a0ao/index.m3u8?SK4                            
-                                              https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                             
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"name": "Canal Live 7(Aqui) [COLOR white] 02:00h Copa América Femenina. Peru vs UruguaY CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 02:30h Argentina Primera División. Argentinos Juniors vs Boca Juniors CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05w/index.m3u8"'
+                            "url": "http://46.29.169.15:4001/play/a00g/index.m3u8"'
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8
+                            "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                             
                             
 "noname": "Canal Live 7(Aqui) [COLOR white]  CristalAzul",
@@ -610,7 +610,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00i/index.m3u8 3                             
                                                                                                                 
 
-"noname": "Canal Live 8(Aqui) [COLOR white] 17:00h Belgium Super Cup. Club Brugge vs Gent CristalAzul",
+"noname": "Canal Live 8(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05o/index.m3u8"', 2
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -2244,7 +2244,7 @@ name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
 
 "name": "CanalFavorito (Aqui) [COLOR white] ARENA SPORT 1 PREMIUM SERV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://46.29.169.15:4001/play/a00g/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://185.56.251.38:4000/play/a08j/index.m3u8
                             
