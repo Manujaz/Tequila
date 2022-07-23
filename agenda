@@ -260,7 +260,7 @@
                             "embed": "SOL M.*?sica">'.http://109.105.205.250:8081/live/EUROSPORT2/chunks.m3u8
                             
                
-"name": "Canal WS(Aqui) [COLOR white]  CristalAzul", 
+"noname": "Canal WS(Aqui) [COLOR white]  CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
