@@ -201,21 +201,22 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn4ta.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
- 
- "noname": "Canal ARCA(Aqui) [COLOR white] 03:30h Arca Series Pocono - Race CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://hls.mlive.la/live/nasc4r/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://45.92.69.77:8000/play/a05q/index.m3u8                           
+                            "embed": "SOL M.*?sica">'.http://82.197.214.59:4000/play/a01v/index.m3u8ZIGGO SPORT
                             
-                                                       
-"noname": "Canal (Aqui) [COLOR white]  CristalAzul", 
+                            
+"name": "Canal (Aqui) [COLOR white] 19:10h TC America Live Racing Watkins Glen - Carrera 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://82.197.214.59:4000/play/a01v/index.m3u8"', ZIGGO SPORT
+                            "url": "https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8?start=2022-07-23T17:05:00+00:00&end=2022-07-23T18:00:00+00:00"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. ENLACE OK 
-                                                        
+                            
+                            
+"noname": "Canal ARCA(Aqui) [COLOR white] 03:30h Arca Series Pocono - Race CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. http://45.92.69.77:8000/play/a05q/index.m3u8                           
+                                                                                                                                         
                           
 "noname": "Canal TRUCK(Aqui) [COLOR white] FIA European Truck CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
