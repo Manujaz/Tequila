@@ -166,7 +166,14 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05q/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal GT(Aqui) [COLOR white] GT World Challenge Asia Racing (Fuji) Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d2jdu41z1zx8tx.cloudfront.net/out/v1/91252e8356e041b09d8274827aa58280/push18ap_4.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. http://93.152.174.144:4000/play/ssportsf1/index.m3u8                           
                             
                             
 "noname": "Canal F1(Aqui) [COLOR white] Fórmula 1 G.P Francia (Paul Ricard) Previa + Carrera CristalAzul",
@@ -223,15 +230,8 @@
                             "url": "http://45.92.69.77:8000/play/a05r/index.m3u8"', 5
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://45.92.69.77:8000/play/a05q/index.m3u8                            
-                                                       
-                                                                                                                                                                                                                                                                                 
-"noname": "Canal GT(Aqui) [COLOR white] 07:35h GTWorld Challenge Asia Racing (Fuji) Carrera 1 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d2jdu41z1zx8tx.cloudfront.net/out/v1/91252e8356e041b09d8274827aa58280/push18ap_4.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-                            
-                            
+                                                                                                                                                                                                                                                                                                                                        
+                                                      
 "noname": "Canal WS(Aqui) [COLOR white] 14:50h WSeries. G.P Francia - Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://hls.mlive.la/live/ff1/index.m3u8"',
