@@ -456,23 +456,24 @@
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+                                                       
                             
                             
-"name": "Canal Live 1(Aqui) [COLOR white] 12:45h Tour de Francia. Etapa 20 CristalAzul",
+"noname": "Canal Live 1(Aqui) [COLOR white] 12:45h Tour de Francia. Etapa 20 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://109.105.205.250:8081/live/EUROSPORT1/chunks.m3u8"',
                              "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 2(Aqui) [COLOR white] 14:05h Tour de Francia. Etapa 20 CristalAzul",
+"noname": "Canal Live 2(Aqui) [COLOR white] 14:05h Tour de Francia. Etapa 20 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                          
                                
-"name": "Canal Live 3(Aqui) [COLOR white] 16:05h Tour de Francia. Etapa 20 CristalAzul",
+"name": "Canal Live 1(Aqui) [COLOR white] 05:00h Amistoso. FC Barcelona vs Real Madrid CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr_720.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
