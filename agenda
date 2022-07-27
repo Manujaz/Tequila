@@ -360,9 +360,9 @@
                             
 "name": "Canal NBA(Aqui) [COLOR white] Canal NBA 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8"',
+                            "url": "http://144.126.137.157/fs2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'. http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8                           
                             
                                                                                   
 "name": "Canal NBA(Aqui) [COLOR white] Canal NBA 4 CristalAzul",
@@ -1705,12 +1705,12 @@
                             
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN 1 USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8"',
+                            "url": "http://144.126.137.157/fs2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.167.250.115:20023/play/a0i2/index.m3u8
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 USA CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ESPN 2 USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
