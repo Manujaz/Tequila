@@ -1115,7 +1115,7 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "CanalFavorito (Aqui) [COLOR white] GOLTV ESP CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] GOLTV ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vsd129.mycdn.me/hls/2519222585971.m3u8/sig/vVYYpTmEsKI/expires/1658471948452/srcIp/37.135.155.80/clientType/0/srcAg/CHROME_ANDROID/mid/3816141299315/2519222585971_high/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1136,7 +1136,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] SKYSPORTS F1 CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] SKY SPORTS F1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1227,9 +1227,9 @@
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/ssportsf1/index.m3u8
                                                                                                                 
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] ARHAT SPORT TV CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] SPORT TV HOL CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658672239~exp=9007200913413230~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=af8ffbfe2b7ce7797a7c1246701109063d5fd7c910c505940ff9d97c92617e8e"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.169.148.19:8000/play/a12l/index.m3u8
                             
