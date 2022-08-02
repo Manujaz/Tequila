@@ -308,7 +308,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8                           
+                            "embed": "SOL M.*?sica">'.                            
                             
                                                                                   
 "name": "Canal NBA(Aqui) [COLOR white] Canal NBA 4 CristalAzul",
@@ -982,20 +982,19 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8 http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
  
- 
- 
+  
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://181.174.115.86:8000/play/a0kg/index.m3u8"',
+                            "url": "http://8.242.187.236:5008/play/a07/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://181.78.21.36:8000/play/a03o/index.m3u8
+                            "embed": "SOL M.*?sica">'. http://181.174.115.86:8000/play/a0kg/index.m3u8
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://181.174.115.86:8000/play/a0ki/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://181.78.21.36:8000/play/a03n/index.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN 3 LAT CristalAzul",
