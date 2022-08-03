@@ -455,47 +455,47 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05p/index.m3u8 3                           
+                            "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05p/index.m3u8 3
                             
                             
-"name": "Canal Live 8(Aqui) [COLOR white] 20:00h Amistoso. Villarreal vs Levante CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 19:00h Riga vs Gil Vicente CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. http://82.114.87.149:8881/play/a0am/index.m3u8 SK2                            
+                            
+                            
+"name": "Canal Live 9(Aqui) [COLOR white] 20:00h Amistoso. Villarreal vs Levante CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8
                             
                             
-"name": "Canal Live 9(Aqui) [COLOR white] 21:45h Campeonato del Mundo Sub-20. Cali 2022 Sesión vespertina CristalAzul",
+"name": "Canal Live 10(Aqui) [COLOR white] 21:45h Campeonato del Mundo Sub-20. Cali 2022 Sesión vespertina CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"'
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8                           
                                                                                                                                                                                                      
-
-"noname": "Canal Live 11(Aqui) [COLOR white]  CristalAzul",
+                           
+"name": "Canal Live 11(Aqui) [COLOR white] 00:15h	Sao Paulo vs Ceará CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr_720.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://82.114.87.149:8881/play/a0am/index.m3u8 SK2
-                            
-                            
-"noname": "Canal Live 12(Aqui) [COLOR white] CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
+                            "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00g/index.m3u8 are1
                             
                                                         
-"noname": "Canal Live 13(Aqui) [COLOR white] 21:00h UEFA Euro Femenino Final 2 Germany vs Austria CristalAzul",
+"name": "Canal Live 12(Aqui) [COLOR white] 02:30h Atlético Mineiro vs Palmeiras CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dcs-live-ue4.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-5&anvsid=m177635093-n6383dbc02f46d66b2f6beaa2bae7d961&ts=1658387598&anvtrid=21f1988abecee03b17033a0bc60fc8a4"',
+                            "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://168.232.168.242:8089/play/a06f/index.m3u8
                             
                             
-"noname": "Canal Live 14(Aqui) [COLOR white] 21:30h Rosario Central vs Newells Old Boys CristalAzul",
+"noname": "Canal Live 13(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05o/index.m3u8"', 
+                            "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                                         
