@@ -1208,14 +1208,14 @@
                             "embed": "SOL M.*?sica">'. http://45.90.106.7:7780/play/NnHpC9@8Q93CW/index.m3u8
                             
                                                         
-"name": "CanalFavorito (Aqui) [COLOR white] SKY SPORT 1 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SKY SPORT 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.18.115.193:3549/play/a04d/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://212.18.115.193:3549/play/a05i/index.m3u8                             
                                                                                                                                           
                                                         
-"name": "CanalFavorito (Aqui) [COLOR white] CBS SPORT CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] CBSSPORT USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.18.115.191:3599/play/a016/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1224,7 +1224,7 @@
                             
 "name": "CanalFavorito (Aqui) [COLOR white] RUGBY NETWORT TV CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://dai.google.com/linear/hls/pa/event/eo2yLuGFTCmTkJBnQ34E0w/stream/af4b792f-039e-412f-81b9-91a589a8c4bc:BRU/variant/f34ea4667b4792ee94118e269109bff8/bandwidth/3000000.m3u8"',
+                            "url": "https://dai.google.com/linear/hls/pa/event/eo2yLuGFTCmTkJBnQ34E0w/stream/40fcb8a5-d056-4384-afdb-d9b3ac948948:GRQ/variant/f34ea4667b4792ee94118e269109bff8/bandwidth/3000000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                                                         
