@@ -1205,9 +1205,9 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://212.18.115.194:3531/play/a04e/index.m3u8
+                            "embed": "SOL M.*?sica">'.https://v-ny.mybtv.net/live/643.m3u8 UNIVISION
                             
-                            
+                            https://dcs-live-ue4.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-3&anvsid=m177635097-n1293fdc0106e9fc85a59f942a70dfd44&ts=1659554650&anvtrid=ba89fd7d96d0092aad3ad1e56ce8a40b
 "name": "CanalFavorito (Aqui) [COLOR white] LIGA SPORT MX CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://dip0m6wuccbi7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/9683f754-00dd-4339-b6ea-78d064667206/0.m3u8"',
@@ -1215,7 +1215,7 @@
                             "embed": "SOL M.*?sica">'. http://45.90.106.7:7780/play/NnHpC9@8Q93CW/index.m3u8
                             
                                                         
-"noname": "CanalFavorito (Aqui) [COLOR white] SKY SPORT 1 CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] SWISS SPORT TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://212.18.115.193:3549/play/a04d/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
