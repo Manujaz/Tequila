@@ -445,42 +445,49 @@
                             "embed": "SOL M.*?sica">'.http://82.114.87.149:8881/play/a0ao/index.m3u8?SK4                            
                                                                                                                                                                                                                                                                                                              
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"name": "Canal Live 7(Aqui) [COLOR white] 21:00h Hajduk Split vs Vitória Guimarães CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 21:00h UEFA Europa Conference League Qualification. HNK Hajduk Split vs. Vitoria Guimarares CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05p/index.m3u8 3
                             
                             
-"name": "Canal Live 8(Aqui) [COLOR white] 00:15h Melgar vs Internacional CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 21:00h UEFA Europa Conference League. Dundee United vs AZ Alkmaar CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
+                            "url": "https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8"'
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://82.114.87.149:8881/play/a0am/index.m3u8 SK2                            
+                            "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                             
                             
-"name": "Canal Live 9(Aqui) [COLOR white] 02:30h Athletico-PR vs Estudiantes CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8
-                            
-                            
-"noname": "Canal Live 10(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""'
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8 
-                                                        
-                            
-"noname": "Canal Live 11(Aqui) [COLOR white] 00:15h Copa Sudamericana. Sao Paulo vs Ceará CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 00:15h Copa Sudamericana. Melgar vs Internacional CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
-                                                                                                                                                                                                     
+                            
+                            
+"name": "Canal Live 10(Aqui) [COLOR white] 00:15h Copa Sudamericana. Melgar vs Internacional CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. http://82.114.87.149:8881/play/a0am/index.m3u8 SK2 
+                            
+                            
+"name": "Canal Live 11(Aqui) [COLOR white] 02:30h Copa Libertadores. Athletico-PR vs Estudiantes CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                                                       
+                            
+"name": "Canal Live 12(Aqui) [COLOR white] 02:30h Copa Libertadores. Athletico-PR vs Estudiantes CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8
+                                                                                                                                                                                                   
                            
-"noname": "Canal Live 12(Aqui) [COLOR white] 00:15h Copa Sudamericana. Sao Paulo vs Ceará CristalAzul",
+"noname": "Canal Live 13(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
