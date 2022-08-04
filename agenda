@@ -445,30 +445,30 @@
                             "embed": "SOL M.*?sica">'.http://82.114.87.149:8881/play/a0ao/index.m3u8?SK4                            
                                                                                                                                                                                                                                                                                                              
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"noname": "Canal Live 7(Aqui) [COLOR white] 19:00h Amistoso. Lugo vs RM Castilla CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 21:00h Hajduk Split vs Vitória Guimarães CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05p/index.m3u8 3
                             
                             
-"noname": "Canal Live 8(Aqui) [COLOR white] 19:00h Riga vs Gil Vicente CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 00:15h Melgar vs Internacional CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://82.114.87.149:8881/play/a0am/index.m3u8 SK2                            
                             
                             
-"noname": "Canal Live 9(Aqui) [COLOR white] 20:00h Amistoso. Villarreal vs Levante CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 02:30h Athletico-PR x Estudiantes CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8
                             
                             
 "noname": "Canal Live 10(Aqui) [COLOR white] 21:45h Campeonato del Mundo Sub-20. Cali 2022 Sesión vespertina CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"'
+                            "url": ""'
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8 
                                                         
@@ -1197,7 +1197,7 @@
                             
 "name": "CanalFavorito (Aqui) [COLOR white] UNIVISION SPORT LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk"',
+                            "url": "https://v-ny.mybtv.net/live/643.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://v-ny.mybtv.net/live/643.m3u8 UNIVISION
                             
