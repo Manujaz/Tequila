@@ -134,19 +134,26 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d13hpouywdrj8a.cloudfront.net/out/v1/08068c856b81496a8ac105c692de3401/push11aus_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. ttps://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/push7eu_1.m3u8                            
+                            "embed": "SOL M.*?sica">'. ttps://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/push7eu_1.m3u8 
                             
                             
-"name": "Canal MOTOGP(Aqui) [COLOR white] 10:00h G.P. MotoGP Gran Bretaña (Silverstone) Qualifying CristalAzul", 
+"name": "Canal ADAC(Aqui) [COLOR white] GT Masters Nürburgring. Qualifying 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://mn-nl-glb.mncdn.com/dlive/transcode-89-110/manujaz/1659697063/src/live.m3u8"',
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"noname": "Canal MOTOGP(Aqui) [COLOR white] G.P. MotoGP Gran Bretaña (Silverstone) Qualifying CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/ssportsf1/index.m3u8 SKY F1
                             
                           
-"noname": "Canal MOTOGP(Aqui) [COLOR white] 10:00h G.P. MotoGP Gran Bretaña (Silverstone) Qualifying CristalAzul", 
+"name": "Canal MOTOGP(Aqui) [COLOR white] G.P. MotoGP Gran Bretaña (Silverstone) Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "http://hls-pull-netmixtv.speedws.com/live/motto/playlist.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://181.174.115.86:8000/play/a0kg/index.m3u8 espndeportes                           
               
@@ -165,7 +172,7 @@
                             "embed": "SOL M.*?sica">'. http://46.29.169.15:4001/play/a00e/index.m3u8 SK1
 
                                                                                                          
-"noname": "Canal NASCAR(Aqui) [COLOR white] CristalAzul", 
+"name": "Canal ADAC(Aqui) [COLOR white] GT Masters Nürburgring. Qualifying 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
