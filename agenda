@@ -179,9 +179,9 @@
                             "embed": "SOL M.*?sica">'.                             
                             
  
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:30h Nascar Xfinity Series. Michigan. Libres + Qualifying CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:30h Nascar Xfinity Series. Michigan. Libres + Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "http://hls-pull-netmixtv.speedws.com/live/nascca/playlist.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                  
