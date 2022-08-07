@@ -462,7 +462,7 @@
                             "embed": "SOL M.*?sica">'.http://212.18.115.193:3549/play/a016/index.m3u8                             
                             
                                                         
-"noname": "[COLOR white] ----------EVENTOS DEPORTIVOS EN DIRECTO--------------------"                            
+"name": "[COLOR white] ----------EVENTOS DEPORTIVOS EN DIRECTO--------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
