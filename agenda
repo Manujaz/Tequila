@@ -130,63 +130,63 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             
                             
-"name": "Canal TRAMS(Aqui) [COLOR white] 07:30h Australian Trans AM. Queensland. Carrera 1 CristalAzul", 
+"noname": "Canal TRAMS(Aqui) [COLOR white] 07:30h Australian Trans AM. Queensland. Carrera 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d13hpouywdrj8a.cloudfront.net/out/v1/08068c856b81496a8ac105c692de3401/push11aus_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. ttps://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/push7eu_1.m3u8 
                             
                             
-"name": "Canal ADAC(Aqui) [COLOR white] 09:00h GT Masters Nürburgring. Qualifying 1 CristalAzul", 
+"noname": "Canal ADAC(Aqui) [COLOR white] 09:00h GT Masters Nürburgring. Qualifying 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.ADAC GT 12:50h Masters Championship Nurburgring Carrera 1
                             
                             
-"name": "Canal CUP(Aqui) [COLOR white] 15:45h IMSA Porsche Carrera Cup. Road America Race 1 CristalAzul", 
+"noname": "Canal CUP(Aqui) [COLOR white] 15:45h IMSA Porsche Carrera Cup. Road America Race 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
                             
-"name": "Canal INSA(Aqui) [COLOR white] 15:45h IMSA Porsche Carrera Cup. Road America Race 1 CristalAzul", 
+"noname": "Canal INSA(Aqui) [COLOR white] 15:45h IMSA Porsche Carrera Cup. Road America Race 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal CAR(Aqui) [COLOR white] 16:45h Lamborghini Super Trofeo. Road America Race 1 CristalAzul", 
+"noname": "Canal CAR(Aqui) [COLOR white] 16:45h Lamborghini Super Trofeo. Road America Race 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://hls-pull-netmixtv.speedws.com/live/imsa/playlist.m3u8?Manujaz"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal CAR(Aqui) [COLOR white] 15:30h GP3R Racing Trois Rivière CristalAzul", 
+"noname": "Canal CAR(Aqui) [COLOR white] 15:30h GP3R Racing Trois Rivière CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://46.29.169.15:4001/play/a00e/index.m3u8 SK1
                           
  
-"name": "Canal NASCAR(Aqui) [COLOR white] 21:30h Nascar Xfinity Series. Michigan. Libres + Qualifying CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 21:30h Nascar Xfinity Series. Michigan. Libres + Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://hls-pull-netmixtv.speedws.com/live/nascca/playlist.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                  
                             
-"name": "Canal NASCAR(Aqui) [COLOR white] 21:30h Nascar Xfinity Series. Michigan. Libres + Qualifying CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 21:30h Nascar Xfinity Series. Michigan. Libres + Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal INDY(Aqui) [COLOR white] 22:40h Indycar. Nashville. Qualifying CristalAzul", 
+"noname": "Canal INDY(Aqui) [COLOR white] 22:40h Indycar. Nashville. Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://hls-pull-netmixtv.speedws.com/live/indy/playlist.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -202,7 +202,7 @@
                                                         
 "noname": "Canal MOTOGP(Aqui) [COLOR white] G.P. MotoGP Gran Bretaña (Silverstone) Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://usher.ttvnw.net/api/channel/hls/manujaz.m3u8?player_type=pulsar&player_backend=mediaplayer&playlist_include_framerate=true&allow_source=true&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22manujaz%22%2C%22channel_id%22%3A501005651%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22qrec91UTkhHPhSQ1tN38DU5DsebZgQqe%22%2C%22expires%22%3A1659787652%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2237.14.44.189%22%2C%22version%22%3A2%7D&sig=9201118b9871ec6a44e3dffe6c75f949d55a2104&cdm=fp&player_version=1.11.0"', 
+                            "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -221,7 +221,7 @@
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/ssportsf1/index.m3u8 SKY F1
                             
                           
-"noname": "Canal MOTOGP(Aqui) [COLOR white] G.P. MotoGP Gran Bretaña (Silverstone) Qualifying CristalAzul", 
+"name": "Canal MOTOGP(Aqui) [COLOR white] G.P. MotoGP Gran Bretaña (Silverstone) Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://hls-pull-netmixtv.speedws.com/live/motto/playlist.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -466,21 +466,21 @@
                             "embed": "SOL M.*?sica">'.http://212.18.115.193:3549/play/a016/index.m3u8                             
                             
                                                         
-"name": "[COLOR white] ----------EVENTOS DEPORTIVOS EN DIRECTO--------------------"                            
+"noname": "[COLOR white] ----------EVENTOS DEPORTIVOS EN DIRECTO--------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
                                                                                    
                             
-"name": "Canal Live 1(Aqui) [COLOR white] 15:00h Vuelta a Burgos. Etapa 5 CristalAzul",
+"noname": "Canal Live 1(Aqui) [COLOR white] 15:00h Vuelta a Burgos. Etapa 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
                              "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://109.105.205.250:8081/live/EUROSPORT1/chunks.m3u8
                             
                             
-"name": "Canal Live 2(Aqui) [COLOR white] 15:00h Vuelta a Burgos. Etapa 5 CristalAzul",
+"noname": "Canal Live 2(Aqui) [COLOR white] 15:00h Vuelta a Burgos. Etapa 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
