@@ -1181,7 +1181,7 @@
                             "embed": "SOL M.*?sica">'.http://213.183.47.50:2085/play/a04s/index.m3u8?laliga
                                                        
                                                                                                                 
-"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT ESPN CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] BTSPORT ESPN CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/btsportespn/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
