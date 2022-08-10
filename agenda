@@ -473,14 +473,14 @@
                             "embed": "SOL M.*?sica">'.http://109.105.205.250:8081/live/EUROSPORT1/chunks.m3u8
                             
                             
-"noname": "Canal Live 2(Aqui) [COLOR white] CristalAzul",
+"name": "Canal Live 2(Aqui) [COLOR white] 15:30h Tour de l'Eurométropole. UCI ProSeries CristalAzul",
                             "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://109.105.205.250:8081/live/EUROSPORT1/chunks.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8                            
                             
                                
-"noname": "Canal Live 3(Aqui) [COLOR white] 17:00h Tour de Escandinavia. Etapa 2 CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 17:00h Tour de Escandinavia. Etapa 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://109.105.205.250:8081/live/EUROSPORT1/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
