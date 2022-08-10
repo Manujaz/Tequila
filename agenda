@@ -508,9 +508,9 @@
                             "embed": "SOL M.*?sica">'. https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr_720.m3u8
                             
                             
-"noname": "Canal Live 7(Aqui) [COLOR white]21:00h Supercopa de Europa. Real Madrid vs Eintracht Frankfurt CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white]21:00h Supercopa de Europa. Real Madrid vs Eintracht Frankfurt CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""'
+                            "url": "http://204.199.119.14:1979/play/a04h/index.m3u8"'
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                             
@@ -529,7 +529,7 @@
                             "embed": "SOL M.*?sica">'.                             
                             
                            
-"name": "Canal Live 7(Aqui) [COLOR white] 21:00h Trofeo CLMenJuego. Azuqueca vs Marchamalo CristalAzul",
+"name": "Canal Live 8(Aqui) [COLOR white] 21:00h Trofeo CLMenJuego. Azuqueca vs Marchamalo CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://klive.kaltura.com/s/env/cluster-1-b.live.nvp1/live/hls/p/2288691/e/0_xs45iy5i/tl/main/st/0/t/DznN37GHRy-bwqducFv4Xw/index-s32.m3u8?__hdnea__=st=1660134990~exp=1660221390~acl=/s/env/cluster-1-b.live.nvp1/live/hls/p/2288691/e/0_xs45iy5i/tl/main/st/0/t/DznN37GHRy-bwqducFv4Xw/index-s32.m3u8*~hmac=49a08c1c990cf5629c68e20eea468aeb43534def50df738f7814facca8055c8e"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1082,9 +1082,9 @@
                             "embed": "SOL M.*?sica">'. 
   
 
-"noname": "CanalFavorito (Aqui) [COLOR white] ESPN DEPORTES LAT CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN DEPORTES LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://181.174.115.86:8000/play/a0kg/index.m3u8"',
+                            "url": "http://204.199.119.14:1979/play/a04h/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://181.174.115.86:8000/play/a0kg/index.m3u8
                             
