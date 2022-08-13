@@ -179,9 +179,9 @@
                             "embed": "SOL M.*?sica">'. http://181.174.115.86:8000/play/a0kg/index.m3u8 espndeportes                                                       
                             
                          
-"noname": "Canal INSA(Aqui) [COLOR white] 02:00h Nascar Truck Series Richmond. Carrera CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 02:00h Nascar Truck Series Richmond. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "http://play-global-tencent.zego.im/usanet.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
