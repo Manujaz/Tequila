@@ -158,28 +158,28 @@
                             "embed": "SOL M.*?sica">'.http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
                                                        
                                                                                                                                                                        
-"noname": "Canal MOTOGP(Aqui) [COLOR white]  CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 02:00h Nascar Truck Series Richmond. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658672239~exp=9007200913413230~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=af8ffbfe2b7ce7797a7c1246701109063d5fd7c910c505940ff9d97c92617e8e"', 
+                            "url": "http://admdn5ta.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                        
                             
-"noname": "Canal MOTOGP(Aqui) [COLOR white] 12:20h G.P. MotoGP Gran Bretaña (Silverstone) Qualifying CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 02:00h Nascar Truck Series Richmond. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://93.152.174.144:4000/play/ssportsf1/index.m3u8 SKY F1
                             
                           
-"noname": "Canal MOTOGP(Aqui) [COLOR white] 12:20h G.P. MotoGP Gran Bretaña (Silverstone) Qualifying CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 02:00h Nascar Truck Series Richmond. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://hls-pull-netmixtv.speedws.com/live/motto/playlist.m3u8"', 
+                            "url": "http://admdn5ta.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?Manujaz"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://181.174.115.86:8000/play/a0kg/index.m3u8 espndeportes                                                       
                             
                          
-"noname": "Canal INSA(Aqui) [COLOR white] 15:15h IMSA Porsche Carrera Cup. Road America Race 1 CristalAzul", 
+"noname": "Canal INSA(Aqui) [COLOR white] 02:00h Nascar Truck Series Richmond. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
