@@ -130,11 +130,18 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             
                             
-"name": "Canal WPR(Aqui) [COLOR white] 20:10h World Pro Racing WPR Malta National. Ronda 3 Circuito de Spa CristalAzul", 
+"name": "Canal RCCO(Aqui) [COLOR white] 10:05h RCCO World eX Live Racing World eX Summit CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d34rccqbd35nnr.cloudfront.net/out/v1/c21f2b475aab4fcdabbdf03772520cfb/push5eu_1.m3u8"', 
+                            "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"noname": "Canal GP3R(Aqui) [COLOR white] 15:00h GP3R GRAND PRIX Trois-Riviéres CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                                                  
                             
 "noname": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Truck Series Richmond Libres + Qualifying CristalAzul", 
