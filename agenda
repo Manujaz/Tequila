@@ -138,9 +138,16 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal CUP(Aqui) [COLOR white] Porsche Cup Brasil. Ronda 5 Termas del Rio Hondo -> Carrera CristalAzul", 
+"name": "Canal CUP(Aqui) [COLOR white] 14:10h Porsche Cup Brasil. Ronda 5 Termas del Rio Hondo. Qualifying + Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "https://d2vrten0tw5eja.cloudfront.net/out/v1/41430feaf20f4896974c4b3c8208d502/push15br_1.m3u8"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                                                        
+                            
+"name": "Canal CUP(Aqui) [COLOR white] 14:10h Porsche Cup Brasil. Ronda 5 Termas del Rio Hondo. Qualifying + Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d1ukoysrx157kf.cloudfront.net/out/v1/753102fe3b634fccac02dcce3438466c/push16br_5.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
