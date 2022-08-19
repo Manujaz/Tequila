@@ -131,7 +131,7 @@
                             
                             
                             
-"name": "Canal RACING(Aqui) [COLOR white] MOTOR RACING PRO CristalAzul", 
+"noname": "Canal RACING(Aqui) [COLOR white] MOTOR RACING PRO CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/1ae47d63-275f-4dfd-ab85-f253432d85f3/0.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -145,14 +145,14 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"noname": "Canal MOTOGP(Aqui) [COLOR white] 10:15h Gran Premio de Austria MotoGP 2022 Libres CristalAzul", 
+"name": "Canal MOTOGP(Aqui) [COLOR white] 10:15h Gran Premio de Austria MotoGP 2022 Libres CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1660762804~exp=9007200915503795~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=dc53e5ddff85286ff5b0afb8b89308c1f2d6bfe01aa8130d2da9dc8b9278f0a7"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                         
                             
-"noname": "Canal MOTOGP(Aqui) [COLOR white] 10:15h Gran Premio de Austria MotoGP 2022 Libres CristalAzul", 
+"name": "Canal MOTOGP(Aqui) [COLOR white] 10:15h Gran Premio de Austria MotoGP 2022 Libres CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
