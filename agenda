@@ -166,9 +166,9 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal ADAC(Aqui) [COLOR white] 08:40h 12:55h ADAC GT MASTERS Lausitzring. Qualifying 1+ Carrera 1 CristalAzul", 
+"name": "Canal ADAC(Aqui) [COLOR white] 08:40h 12:55h ADAC GT MASTERS Lausitzring. Qualifying 1 + Carrera 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -195,7 +195,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal INDI(Aqui) [COLOR white] 19:00h Indycar WWT Raceway. Libres 1 CristalAzul", 
+"noname": "Canal INDI(Aqui) [COLOR white] 19:00h Indycar WWT Raceway. Libres 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://edge.vediostream.com/abr/skf1/live/skf1_source/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
