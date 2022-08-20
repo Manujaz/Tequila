@@ -288,9 +288,9 @@
                             "embed": "SOL M.*?sica">'.http://hls-pull-netmixtv.speedws.com/live/imsa/playlist.m3u8?Manujaz
                             
                             
-"noname": "Canal NASCAR(Aqui) [COLOR white] Nascar Cup Series Watkins Glen. Carrera CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] Nascar Cup Series Watkins Glen. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://cdn1-sports.gxpeihuchuang.com/live/usanet/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://46.29.169.15:4001/play/a00e/index.m3u8 SK1
                             
