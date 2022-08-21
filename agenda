@@ -1058,6 +1058,13 @@
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8 http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
  
 
+"name": "CanalFavorito (Aqui) [COLOR white] DAZN LALIGA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://cloud.odysee.live/live/dfce564c1b32e1429d3a9d7a44508865f36d320b.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                        .
+
 "name": "CanalFavorito (Aqui) [COLOR white] TVMAX SPORT LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist.m3u8',
