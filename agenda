@@ -123,7 +123,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "[COLOR white] ---------------FIN DE SEMANA DE MOTOR----------------------"                            
+"noname": "[COLOR white] ---------------FIN DE SEMANA DE MOTOR----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -215,7 +215,7 @@
                             "embed": "SOL M.*?sica">'. 
 
 
-"name": "Canal GT4(Aqui) [COLOR white] 16:00h GT4 AMERICA RACING Road America. Carrera 1 CristalAzul", 
+"noname": "Canal GT4(Aqui) [COLOR white] 16:00h GT4 AMERICA RACING Road America. Carrera 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -236,21 +236,21 @@
                             "embed": "SOL M.*?sica">'. http://181.174.115.86:8000/play/a0kg/index.m3u8 espndeportes
                             
 
-"name": "Canal ARCA(Aqui) [COLOR white] 20:00h Arca Series Illinois State Fairgrounds. Carrera CristalAzul", 
+"noname": "Canal ARCA(Aqui) [COLOR white] 20:00h Arca Series Illinois State Fairgrounds. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://ws-qlove-play.uqulive.com/live/mavtv/playlist.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
 
-"name": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Cup Series. Watkins Glen. Qualifying CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Cup Series. Watkins Glen. Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://ws-qlove-play.uqulive.com/live/usanet/playlist.m3u8?Manujaz"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                          
-"name": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Cup Series. Watkins Glen. Qualifying CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Cup Series. Watkins Glen. Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn5ta.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1020,12 +1020,19 @@
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8 http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
  
 
-"name": "CanalFavorito (Aqui) [COLOR white] DAZN LALIGA CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN EXTRA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cloud.odysee.live/live/dfce564c1b32e1429d3a9d7a44508865f36d320b.m3u8"',
+                            "url": "https://wisp.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                        .
+                            
+                            
+"noname": "CanalFavorito (Aqui) [COLOR white]  CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://unbeaten-roku.amagi.tv/playlist1080p.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                        
 
 "name": "CanalFavorito (Aqui) [COLOR white] TVMAX SPORT LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
