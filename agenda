@@ -168,7 +168,7 @@
                          
 "noname": "Canal NASCAR(Aqui) [COLOR white] 01:30h Nascar Cup Series. Daytona. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "https://d15690s323oesy.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-EdgeVideo/3a8c4baf-a125-4009-8aeb-6a3ee2bce7bf/0.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                     
@@ -1055,9 +1055,9 @@
                             "embed": "SOL M.*?sica">'.                            
 
 
-"noname": "CanalFavorito (Aqui) [COLOR white] TIGO SPORT LAT CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] USA SPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://190.83.119.67:8000/play/a0sn/index.m3u8"',
+                            "url": "https://d15690s323oesy.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-EdgeVideo/3a8c4baf-a125-4009-8aeb-6a3ee2bce7bf/0.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.83.119.67:8000/play/a0sn/index.m3u8
                             
