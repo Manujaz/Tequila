@@ -26,7 +26,7 @@
 
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://admdn5ta.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
+                            "url": "http://streamer.enchart.one/42/408d8c70fb43ac65ebaafd666899100d7bd048b2/1292/stream.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://168.232.168.242:8089/play/a06f/index.m3u8 ESPN1LAT
                             
@@ -383,7 +383,7 @@
                             "embed": "SOL M.*?sica">'.                            
                             
 
-"name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 2 CristalAzul",
+"noname": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -439,51 +439,51 @@
                             "embed": "SOL M.*?sica">'.http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
                                                                                                                                             
                             
-"name": "Canal Live 1(Aqui) [COLOR white] 14:30h Vuelta a España. Etapa 4 CristalAzul",
+"name": "Canal Live 1(Aqui) [COLOR white] 14:30h Vuelta a España. Etapa 5 CristalAzul",
                             "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8                            
                             
                                
-"name": "Canal Live 2(Aqui) [COLOR white] 16:00h Vuelta a España. Etapa 4 CristalAzul",
+"name": "Canal Live 2(Aqui) [COLOR white] 16:00h Vuelta a España. Etapa 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr_720.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://46.29.169.15:4001/play/a00g/index.m3u8 arena premium 1
                             
                             
-"name": "Canal Live 3(Aqui) [COLOR white] 17:45h Amistoso Femenino Levante Las Planas vs PSG Femenino CristalAzul",
+"name": "Canal Live 3(Aqui) [COLOR white] 17:00h Tour de Alemania Prólogo CristalAzul",
                             "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/bitrate_3.m3u8"', 
+                            "url": "https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
                             
                             
-"name": "Canal Live 4(Aqui) [COLOR white] 18:30h Trofeo Ciudad de Granollers Femenino. BM Granollers vs BM Elche CristalAzul",
+"name": "Canal Live 4(Aqui) [COLOR white] 21:00h FIBA Copa Mundial Fase de Clasificación.España vs Islandia CristalAzul",
                             "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8"', 
+                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://82.114.87.149:8881/play/a0ao/index.m3u8?SK4
                                                         
                             
-"name": "Canal Live 5(Aqui) [COLOR white] 20:00h Trofeo Joan Gamper Femenino. FC Barcelona Femenino vs Montpellier Femenino CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 21:30h Amistoso FC Barcelona Manchester City CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/bitrate_3.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                             
                             
-                            
-"name": "Canal Live 6(Aqui) [COLOR white] 20:45h Trofeo Ciudad de Granollers. BM Granollers vs USAM Nimes Gard CristalAzul",
+"name": "Canal Live 6(Aqui) [COLOR white] 21:30h Amistoso FC Barcelona Manchester City CristalAzul",
                             "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8"', 
+                            "url": "http://94.158.219.85:8080/play/idn40d6ca4c/6305e13831da7be07bc9c880.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.y1Ubsu9jmzophdGjATa9tpy7Lwu89ZvlFBjw4Urdy8xwjeVmPLFWo6H0_H7WHjK-ks-W5x32XD_u5Ji0WbOs9A"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8                             
                             
                                                                                 
-"name": "Canal Live 7(Aqui) [COLOR white] 22:05 Mexico Liga Mx. Querétaro vs Club América  CristalAzul",
+"noname": "Canal Live 7(Aqui) [COLOR white]   CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dcs-live-ue4.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-5&anvsid=m177635097-nc525ab1c246b7c59045c571acaee5c12&ts=1661288159&anvtrid=72b3561b6e2386ed662c8edd351d28b9"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr_720.m3u8
                              
@@ -495,11 +495,11 @@
                             "embed": "SOL M.*?sica">'.http://45.92.69.77:8000/play/a05w/index.m3u8 1                             
                             
                             
-"noname": "Canal Live 9(Aqui) [COLOR white] 21:00h Supercopa de Europa. Real Madrid vs Eintracht Frankfurt CristalAzul",
+"noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": http://watchers.azureedge.net/stream/NDcwNQ==/1080p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/bitrate_3.m3u8 TV3                            
                             
                            
 "noname": "Canal Live 10(Aqui) [COLOR white]  CristalAzul",
@@ -1567,9 +1567,9 @@
                             "embed": "SOL M.*?sica">'.http://212.230.117.159:10100/play/ES_real_madrid_tv_HD/index.m3u8
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] BARÇA TV CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] BARÇA TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/barcatv/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
