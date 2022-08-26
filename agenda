@@ -1013,14 +1013,21 @@
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8 http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
  
 
+"name": "CanalFavorito (Aqui) [COLOR white] MOTORAMERICA TV CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-motoamerica-sportstribal/649d8f4c-3dfd-45e8-a99a-c0608d410bdc/3.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                                                        
 "name": "CanalFavorito (Aqui) [COLOR white] NHRA MOTORSPORT USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://stream.ads.ottera.tv/cl/82a784e1-5a44-4cc9-ae3d-6974213b9db7/1280x720_1500000_1_f.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.                            
+                            
 
-
-"noname": "CanalFavorito (Aqui) [COLOR white] MATCH TV RUS CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] MATCH TV RUS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.174.83.66/MatchTV/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
