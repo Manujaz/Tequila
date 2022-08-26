@@ -138,14 +138,14 @@
                             "embed": "SOL M.*?sica">'.ADAC GT MASTER Supercars Cship Sandown Highlights
                                                         
                             
-"name": "Canal ADAC(Aqui) [COLOR white] 13:00h ADAC GT MASTER Supercars Cship Sandown Highlights CristalAzul", 
+"noname": "Canal ADAC(Aqui) [COLOR white] 13:00h ADAC GT MASTER Supercars Cship Sandown Highlights CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",     
                             "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal ADAC(Aqui) [COLOR white] 13:00h ADAC GT MASTER Supercars Cship Sandown Highlights CristalAzul", 
+"noname": "Canal ADAC(Aqui) [COLOR white] 13:00h ADAC GT MASTER Supercars Cship Sandown Highlights CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",     
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -166,7 +166,7 @@
                             "embed": "SOL M.*?sica">'.
                             
 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:05h Nascar Xfinity Series Daytona. Qualifying CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:05h Nascar Xfinity Series Daytona. Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1013,11 +1013,18 @@
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8 http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
  
 
-"name": "CanalFavorito (Aqui) [COLOR white] MATCH TV RUS CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] NHRA MOTORSPORT USA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://stream.ads.ottera.tv/cl/82a784e1-5a44-4cc9-ae3d-6974213b9db7/1280x720_1500000_1_f.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"noname": "CanalFavorito (Aqui) [COLOR white] MATCH TV RUS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.174.83.66/MatchTV/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://stream.ads.ottera.tv/cl/82a784e1-5a44-4cc9-ae3d-6974213b9db7/1280x720_1500000_1_f.m3u8
 
 
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN EXTRA CristalAzul",
