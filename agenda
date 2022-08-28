@@ -135,8 +135,22 @@
                             "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/1ae47d63-275f-4dfd-ab85-f253432d85f3/0.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                                                                                    
+                            
+"noname": "Canal DTM(Aqui) [COLOR white] 10:15h DTM Nurburgring. Qualifying 2 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">' 
                             
                             
+"noname": "Canal IAME(Aqui) [COLOR white] 10:30h IAME Kart Euro Series Bélgica. Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.DTM Nurburgring Ronda 5 Qualifying 1🏁
+                            
+                                                                                                             
 "noname": "Canal IMSA(Aqui) [COLOR white] 22:40h IMSA Pilot Challenge Virginia. Carrera 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://pull.qn32.com/live/imsa/playlist.m3u8"',
@@ -184,14 +198,7 @@
                             "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.DTM Nurburgring Ronda 5 Qualifying 1🏁
-                            
-                            
-"noname": "Canal IAME(Aqui) [COLOR white] DTM Nurburgring Ronda 5 Qualifying 1 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'                               
-
+                                                                                       
 
 "noname": "Canal IAME(Aqui) [COLOR white] 09:50h IAME Kart Euro Series. Bélgica CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
