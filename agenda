@@ -1075,9 +1075,9 @@
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8 http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
 
  
-"noname": "CanalFavorito (Aqui) [COLOR white] GOL PLAY CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] GOL PLAY ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d2hmr5y60yah0e.cloudfront.net/GolT_24h/golt_24h/golt_24hhigh.m3u8"',
+                            "url": "https://photocall.tv/ks5g/hls/gol.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
  
