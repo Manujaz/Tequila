@@ -171,7 +171,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                                                                                                                  
-"name": "Canal INDY(Aqui) [COLOR white] 19:00h Indycar Portland. Libres 1 CristalAzul", 
+"noname": "Canal INDY(Aqui) [COLOR white] 19:00h Indycar Portland. Libres 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://159.89.184.97:8080/hls/ff1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
