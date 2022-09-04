@@ -147,34 +147,12 @@
                             
 
 
-"name": "Canal KARTING(Aqui) [COLOR white] 09:35h FIA Karting Europe Racing. KZ.KZ2.Academy Le Mans CristalAzul", 
+"noname": "Canal KARTING(Aqui) [COLOR white] 09:35h FIA Karting Europe Racing. KZ.KZ2.Academy Le Mans CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                            
-                             
-
-"name": "Canal GT(Aqui) [COLOR white] 09:55h GT World Challenge Europe Ronda 8 Hockenheim. Libres + Qualifying CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-
-"name": "Canal MOTOGP(Aqui) [COLOR white] 10:00h Gran Premio de San Marino 2022 en Misano Libres 3 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cloud.odysee.live/live/dfce564c1b32e1429d3a9d7a44508865f36d320b.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"name": "Canal MOTOGP(Aqui) [COLOR white] 10:00h Gran Premio de San Marino 2022 en Misano Libres 1-2 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
+                           
                             
 "name": "Canal MOTOGP(Aqui) [COLOR white] 10:00h Gran Premio de San Marino 2022 en Misano Libres 3 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -253,40 +231,28 @@
                             "embed": "SOL M.*?sica">'.
                             
 
-"noname": "Canal (Aqui) [COLOR white]  CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"noname": "Canal IMSA(Aqui) [COLOR white]  CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                           
-                            
-"noname": "Canal (Aqui) [COLOR white]  CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
+
                             DOMINGO 4 DE SEPTIEMBRE
                                                         
-"noname": "Canal MOTOGP(Aqui) [COLOR white] 10:20h Gran Premio de San Marino 2022 en Misano Carrera CristalAzul", 
+"name": "Canal MOTOGP(Aqui) [COLOR white] 09:00h Gran Premio de San Marino 2022 en Misano. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://cloud.odysee.live/live/dfce564c1b32e1429d3a9d7a44508865f36d320b.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal MOTOGP(Aqui) [COLOR white] 10:20h Gran Premio de San Marino 2022 en Misano Carrera CristalAzul", 
+"name": "Canal MOTOGP(Aqui) [COLOR white] 09:00h Gran Premio de San Marino 2022 en Misano. Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"noname": "Canal GT(Aqui) [COLOR white] 09:50h GT World Challenge Europe Ronda 8 Hockenheim. Qualifying/Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "noname": "Canal MOTOGP(Aqui) [COLOR white] 10:20h Gran Premio de San Marino 2022 en Misano Carrera CristalAzul", 
