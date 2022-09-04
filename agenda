@@ -145,14 +145,14 @@
                             
                             SABADO 2 DE SEPTIEMBRE
                             
-"name": "Canal MOTOGP(Aqui) [COLOR white] 10:00h Gran Premio de San Marino 2022 en Misano Libres 3 CristalAzul", 
+"noname": "Canal MOTOGP(Aqui) [COLOR white] 10:00h Gran Premio de San Marino 2022 en Misano Libres 3 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cloud.odysee.live/live/dfce564c1b32e1429d3a9d7a44508865f36d320b.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal KARTING(Aqui) [COLOR white] 10:25h WSK Super Cup. Ronda 1. La Conca CristalAzul", 
+"noname": "Canal KARTING(Aqui) [COLOR white] 10:25h WSK Super Cup. Ronda 1. La Conca CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d31fuznfn5pr6z.cloudfront.net/out/v1/45867a313be843fabaf38097824f3a5f/push8eu_1.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -166,28 +166,28 @@
                             "embed": "SOL M.*?sica">'.                             
                                                         
                             
-"name": "Canal F1(Aqui) [COLOR white] 12:00h Gran Premio Formula 1 los Países Bajos. Libres 3 CristalAzul", 
+"noname": "Canal F1(Aqui) [COLOR white] 12:00h Gran Premio Formula 1 los Países Bajos. Libres 3 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://mxpj.e37f89fd7e68c7.cdn.fdcservers.com/channel/4/chunks.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://yarans.azureedge.net/stream/NDkxNA==/1080p.m3u8
                             
                             
-"name": "Canal F1(Aqui) [COLOR white] 12:00h Gran Premio Formula 1 los Países Bajos. Libres 3 CristalAzul", 
+"noname": "Canal F1(Aqui) [COLOR white] 12:00h Gran Premio Formula 1 los Países Bajos. Libres 3 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://mxpj.e37f89fd7e68c7.cdn.fdcservers.com/channel/4/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal INDY(Aqui) [COLOR white] 18:30h Indycar Portland. Libres 2 CristalAzul", 
+"noname": "Canal INDY(Aqui) [COLOR white] 18:30h Indycar Portland. Libres 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://159.89.184.97:8080/hls/indy.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal NASCAR(Aqui) [COLOR white] 18:40h Nascar Cup Series Darlington. Qualifying CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 18:40h Nascar Cup Series Darlington. Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://mxpj.e37f89fd7e68c7.cdn.fdcservers.com/channel/139/chunks.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -208,14 +208,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                          
-"name": "Canal INDY(Aqui) [COLOR white] 21:15h Indycar Portland. Qualifying CristalAzul", 
+"noname": "Canal INDY(Aqui) [COLOR white] 21:15h Indycar Portland. Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://159.89.184.97:8080/hls/indy.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.SPORT TV https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652513771~exp=9007200907254762~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=a54be8ca9a9c9515a7018abf9226d7ff847d7ced92856f0a9feed5382cb00e0b
                           
                             
-"name": "Canal INDY(Aqui) [COLOR white] 01:20h Indycar Toronto. Libres 3 CristalAzul", 
+"noname": "Canal INDY(Aqui) [COLOR white] 01:20h Indycar Toronto. Libres 3 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://159.89.184.97:8080/hls/indy.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -253,7 +253,7 @@
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal MOTOGP(Aqui) [COLOR white] 10:20h Gran Premio de San Marino 2022 en Misano Carrera CristalAzul", 
+"noname": "Canal MOTOGP(Aqui) [COLOR white] 10:20h Gran Premio de San Marino 2022 en Misano Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -526,14 +526,14 @@
                             "embed": "SOL M.*?sica">'.http://82.114.87.149:8881/play/a0ao/index.m3u8?SK4                            
                                                                                                                                             
                             
-"name": "Canal Live 1(Aqui) [COLOR white] 14:30h Vuelta a España. Etapa 14 CristalAzul",
+"noname": "Canal Live 1(Aqui) [COLOR white] 14:30h Vuelta a España. Etapa 14 CristalAzul",
                             "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
                             
                               
-"name": "Canal Live 2(Aqui) [COLOR white] 16:05h Vuelta a España. Etapa 14 CristalAzul",
+"noname": "Canal Live 2(Aqui) [COLOR white] 16:05h Vuelta a España. Etapa 14 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr_720.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
