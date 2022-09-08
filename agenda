@@ -31,16 +31,16 @@
                             "embed": "SOL M.*?sica">'. http://168.232.168.242:8089/play/a06f/index.m3u8 ESPN1LAT
                             
 
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://109.105.205.250:8081/live/EUROSPORT2/chunks.m3u8"', 
+                            "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://168.228.194.32:4000/play/a076/index.m3u8
                             
                                                                                      
 "noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://streamer.enchart.one/42/408d8c70fb43ac65ebaafd666899100d7bd048b2/1292/stream.m3u8"', 
+                            "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://45.92.69.77:8000/play/a05r/index.m3u8 5                                           
                                            
