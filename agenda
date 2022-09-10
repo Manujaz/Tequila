@@ -115,54 +115,68 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal WSBK(Aqui) [COLOR white] 14:00h WSBK - Magny-Cours - Race 1 CristalAzul", 
+"noname": "Canal F4(Aqui) [COLOR white] 09:45h ITALIAN FORMULA 4 CHAMPIONSHIP LIVE RACING. Red Bull Ring Carrera 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://51.75.112.123:85/en-Eurosport2/tracks-v1a1/mono.m3u8?token=home"',
+                            "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal F1(Aqui) [COLOR white] 14:00h FIA Fórmula 1 G.P. Italia Monza. Libres CristalAzul", 
+"noname": "Canal F1(Aqui) [COLOR white] 10:00h FIA Fórmula 1 G.P. Italia Monza. CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://dns.k4livetv.com:8080/live/JOBERNAL/123456/279016.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                     
                              
-"name": "Canal F1(Aqui) [COLOR white] 14:00h FIA Fórmula 1 G.P. Italia Monza. Libres CristalAzul", 
+"name": "Canal F1(Aqui) [COLOR white] 10:00h FIA Fórmula 1 G.P. Italia Monza. Previa/Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://51.75.112.123:85/en-SkySportsF1/tracks-v1a1/mono.m3u8?token=home"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
                             
                             
-"name": "Canal F1(Aqui) [COLOR white] 14:00h FIA Fórmula 1 G.P. Italia Monza. Libres CristalAzul", 
+"name": "Canal F1(Aqui) [COLOR white] 10:00h FIA Fórmula 1 G.P. Italia Monza. Previa/Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://mxpj.e37f89fd7e68c7.cdn.fdcservers.com/channel/127/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                    
-"name": "Canal F1(Aqui) [COLOR white] 15:30h FIA Fórmula 1 G.P. Italia Monza. Libres CristalAzul", 
+"name": "Canal F1(Aqui) [COLOR white] 10:00h FIA Fórmula 1 G.P. Italia Monza. Previa/Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.curvaweb.com/embed.php?id=liveDaznF1"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal 24H(Aqui) [COLOR white] 15:50h 24H Series Circuito de Barcelona-Catalunya. Qualifying CristalAzul", 
+"name": "Canal TRUCK(Aqui) [COLOR white] 10:25h FIA European Truck Racing Championship - Zolder. Qualifying 1 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d31fuznfn5pr6z.cloudfront.net/out/v1/45867a313be843fabaf38097824f3a5f/push8eu_1.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
+                            
+                            
+"name": "Canal WSBK(Aqui) [COLOR white] 11:10h Superbike G.P. Francia (Magny-Cours) Superpole CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+ "name": "Canal WSBK(Aqui) [COLOR white] 11:10h Superbike G.P. Francia (Magny-Cours) Superpole CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://51.75.112.123:85/en-Eurosport2/tracks-v1a1/mono.m3u8?token=home"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                           
+                            
+                            
+"name": "Canal 24H(Aqui) [COLOR white] 12:30h 24H Series Circuito de Barcelona-Catalunya. Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg
                             "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://yarans.azureedge.net/stream/NDkxNA==/1080p.m3u8
-                            
-                            
-"noname": "Canal 24H(Aqui) [COLOR white] 20:40h 24H Series Circuito de Barcelona-Catalunya. Libres 1 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
+                              
                                                                                                                                                                                                  
 "name": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Truck Series - Kansas. Libres CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -213,14 +227,7 @@
                             "url": "http://51.75.112.123:85/en-Eurosport2/tracks-v1a1/mono.m3u8?token=home"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                            
-                            
-"noname": "Canal NASCAR(Aqui) [COLOR white]  CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
+                                                                                 
                          
 "noname": "Canal INDY(Aqui) [COLOR white]  CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -296,7 +303,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://mxpj.e37f89fd7e68c7.cdn.fdcservers.com/channel/3/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.10:40h NASCAR Whelen Euro Series. Autodrom Most. Qualifying
+                            "embed": "SOL M.*?sica">'.
                             
                                                         
 "noname": "Canal NASCAR(Aqui) [COLOR white] 10:40h NASCAR Whelen Euro Series. Autodrom Most. Qualifying CristalAzul", 
