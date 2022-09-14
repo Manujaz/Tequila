@@ -1114,16 +1114,16 @@
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8 http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
 
  
-"noname": "CanalFavorito (Aqui) [COLOR white] GOL PLAY ESP CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] MAVTV USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://photocall.tv/ks5g/hls/gol.m3u8"',
+                            "url": "http://51.161.84.66:8080/LB2022_MAV_TV/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
  
  
-"noname": "CanalFavorito (Aqui) [COLOR white] CHANNEL FIGHT MASTERCLASS CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://stream.ads.ottera.tv/cl/3e9ef002-3ffe-4a63-9e45-dbf8b053413b/1280x720_2300000_0_f.m3u8"',
+                            "url": "https://stream.ads.ottera.tv/cl/fb9a94bb-8f9a-41ab-af27-bc3345b3becd/1280x720_2300000_0_f.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -1151,7 +1151,7 @@
                                                         
 "name": "CanalFavorito (Aqui) [COLOR white] NHRA MOTORSPORT USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://stream.ads.ottera.tv/cl/c6ef7ba3-2b9f-4e31-b2ef-d6dbd2ebf0af/1280x720_2300000_0_f.m3u8"',
+                            "url": "https://stream.ads.ottera.tv/cl/fb9a94bb-8f9a-41ab-af27-bc3345b3becd/1280x720_2300000_0_f.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
