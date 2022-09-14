@@ -1184,13 +1184,6 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "CanalFavorito (Aqui) [COLOR white] SETANTA SPORT PLUS GIOR CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://188.93.94.140/setanta_sports_plus_georgia/playlist.m3u8?token=ジョルジ"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
 "noname": "CanalFavorito (Aqui) [COLOR white] SETANTA SPORT UKR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8"',
@@ -1226,7 +1219,7 @@
                             "embed": "SOL M.*?sica">'.https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
                             
  
-"name": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 1 LAT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 1 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://190.61.41.182:8000/play/a37v/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1251,7 +1244,14 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN EXTRA CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://179.1.64.210:8090/play/a011/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
   
 
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN DEPORTES LAT CristalAzul",
@@ -1268,19 +1268,25 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.67:8000/play/a0sf/index.m3u8
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ZIGGO SPORT EXTRA 1 CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN 3 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://212.18.115.193:3531/play/a04j/index.m3u8"',
+                            "url": "http://179.1.64.210:8090/play/a00u/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://181.78.21.36:8000/play/a041/index.m3u8
-                            https://linear-347.frequency.stream/347/hls/master/playlist_1920x1080.m3u8
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN 4 BRA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] ZIGGO SPORT EXTRA 1 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://212.18.115.193:3531/play/a04j/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://181.78.21.36:8000/play/a041/index.m3u8                            
                                                                                     
  
 "name": "CanalFavorito (Aqui) [COLOR white] ALL SPORTS CristalAzul",
