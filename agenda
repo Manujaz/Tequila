@@ -486,7 +486,7 @@
                             
 "name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://stream.ads.ottera.tv/cl/c6ef7ba3-2b9f-4e31-b2ef-d6dbd2ebf0af/1280x720_2300000_0_f.m3u8"',
+                            "url": "http://51.75.112.123:85/en-SkySportsF1/tracks-v1a1/mono.m3u8?token=home"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -1149,7 +1149,7 @@
                             "embed": "SOL M.*?sica">'.https://d1phlc8te2m7db.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RPM-SportsTribal/2fa7ffcb-0c7f-446e-aa0f-2e0550b2afc2/0.m3u8
                             
                                                         
-"name": "CanalFavorito (Aqui) [COLOR white] NHRA MOTORSPORT USA CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] NHRA MOTORSPORT USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://stream.ads.ottera.tv/cl/fb9a94bb-8f9a-41ab-af27-bc3345b3becd/1280x720_2300000_0_f.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1179,7 +1179,7 @@
 
 "name": "CanalFavorito (Aqui) [COLOR white] TVMAX SPORT LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist.m3u8',
+                            "url": "https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -1198,7 +1198,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] SETANTA SPORT 2 UKR CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SETANTA SPORT 2 UKR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://188.93.94.140/setanta_sports_plus_georgia/playlist.m3u8?token=ジョルジ"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1240,7 +1240,7 @@
                             "embed": "SOL M.*?sica">'.http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8?Daznf1
                             
                              
-"name": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 2 BRA CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 2 BRA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
