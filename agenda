@@ -134,25 +134,32 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
+"name": "Canal FD(Aqui) [COLOR white] 19:50h Formula Drift Round 7 Grantsville. Prospec Top 16 + Finales CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8?Manujaz"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                                                        
+"name": "Canal NASCAR(Aqui) [COLOR white] 23:00h Nascar Cup Series Bristol. Qualifying CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+
+
 "name": "Canal NASCAR(Aqui) [COLOR white] 01:35h Nascar Xfinity Series Bristol. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.   http://dns.k4livetv.com:8080/live/JOBERNAL/123456/279016.m3u8                         
-                                                                                    
-                             
-"noname": "Canal F1(Aqui) [COLOR white] 10:00h FIA Fórmula 1 G.P. Italia Monza. Previa/Qualifying CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://51.75.112.123:85/en-SkySportsF1/tracks-v1a1/mono.m3u8?token=home"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
-                            
-                            
+                                                                                                                
+ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8                                                        
 "noname": "Canal F1(Aqui) [COLOR white] 10:00h FIA Fórmula 1 G.P. Italia Monza. Previa/Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://51.75.112.123:85/en-SkySportsF1/tracks-v1a1/mono.m3u8?token=home
                             
                                    
 "noname": "Canal F1(Aqui) [COLOR white] 12:00h FIA Fórmula 1 G.P. Italia Monza. Previa/Qualifying CristalAzul", 
@@ -192,7 +199,7 @@
                                                                                                                                                                                                  
 "noname": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Truck Series - Kansas. Libres CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://mxpj.e37f89fd7e68c7.cdn.fdcservers.com/channel/13/chunks.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                                                  
