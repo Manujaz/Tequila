@@ -106,14 +106,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                                                                                        
-"name": "[COLOR white] ---------------FIN DE SEMANA DE MOTOR----------------------"                            
+"noname": "[COLOR white] ---------------FIN DE SEMANA DE MOTOR----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             
                                                         
-"name": "Canal RACING(Aqui) [COLOR white] MOTOR RACING PRO CristalAzul", 
+"noname": "Canal RACING(Aqui) [COLOR white] MOTOR RACING PRO CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/1ae47d63-275f-4dfd-ab85-f253432d85f3/0.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -127,28 +127,28 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal MOTOGP(Aqui) [COLOR white] 12:00h Gran Premio Animoca Brands de Aragón de MotoGP. Libres 1 2 CristalAzul", 
+"noname": "Canal MOTOGP(Aqui) [COLOR white] 12:00h Gran Premio Animoca Brands de Aragón de MotoGP. Libres 1 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652513771~exp=9007200907254762~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=a54be8ca9a9c9515a7018abf9226d7ff847d7ced92856f0a9feed5382cb00e0b"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal FD(Aqui) [COLOR white] 19:50h Formula Drift Round 7 Grantsville. Prospec Top 16 + Finales CristalAzul", 
+"noname": "Canal FD(Aqui) [COLOR white] 19:50h Formula Drift Round 7 Grantsville. Prospec Top 16 + Finales CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                                                         
-"name": "Canal NASCAR(Aqui) [COLOR white] 23:00h Nascar Cup Series Bristol. Qualifying CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 23:00h Nascar Cup Series Bristol. Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
 
 
-"name": "Canal NASCAR(Aqui) [COLOR white] 01:35h Nascar Xfinity Series Bristol. Carrera CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 01:35h Nascar Xfinity Series Bristol. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -183,7 +183,7 @@
                             "embed": "SOL M.*?sica">'.https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8
                             
                             
- "noname": "Canal WSBK(Aqui) [COLOR white] 11:10h Superbike G.P. Francia (Magny-Cours) Superpole CristalAzul", 
+"noname": "Canal WSBK(Aqui) [COLOR white] 11:10h Superbike G.P. Francia (Magny-Cours) Superpole CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://51.75.112.123:85/en-Eurosport2/tracks-v1a1/mono.m3u8?token=home"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
