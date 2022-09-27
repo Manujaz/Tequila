@@ -1044,9 +1044,9 @@
                             "embed": "SOL M.*?sica">'.https://stream.ads.ottera.tv/cl/82a784e1-5a44-4cc9-ae3d-6974213b9db7/1280x720_1500000_1_f.m3u8
 
 
-"noname": "CanalFavorito (Aqui) [COLOR white] ESPN PREMIUM CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] VIASAT MOTOR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://solunet.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8"',
+                            "url": "http://188.241.218.46:2085/play/a07dvSATMOTOR/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
