@@ -1065,16 +1065,23 @@
                             "embed": "SOL M.*?sica">'.
                             
                                                                                   
-"noname": "CanalFavorito (Aqui) [COLOR white] TYC SPORTS CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] SERVUS TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://lshstream.xyz/hls/allsportsicu22/index.m3u8"',
+                            "url": "http://188.241.218.46:2085/play/a06kServus/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] DIEMA SPORTS PORT CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] S SPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://lshstream.xyz/hls/allsportsicu27/index.m3u8"',
+                            "url": "http://188.241.218.46:2085/play/ssporfhd/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] S SPORT 2 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://188.241.218.46:2085/play/a017/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                            
@@ -1091,13 +1098,6 @@
                             "url": "https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.61.41.182:8000/play/a37v/index.m3u8
- 
- 
-"noname": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 2 LAT CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://190.108.87.149:8000/play/a04o/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] FOX SPORT 2 LAT CristalAzul",
@@ -1261,7 +1261,7 @@
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] BEIN SPORT ING CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] FREE SPORTS CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://185.209.15.245:8081/live/ch8/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1282,9 +1282,9 @@
                             "embed": "SOL M.*?sica">'.http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
                             
                                                                                     
-"noname": "CanalFavorito (Aqui) [COLOR white] CLARO SPORT LAT CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] TV2 PREMEUM 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://181.174.115.86:8000/play/a0kz/index.m3u8"',
+                            "url": "http://188.241.218.46:2085/play/a0dv/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://213.183.47.50:2085/play/a0cf/index.m3u8
                               
