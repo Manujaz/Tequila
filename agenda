@@ -1023,11 +1023,11 @@
                             "embed": "SOL M.*?sica">'.https://stream.ads.ottera.tv/cl/82a784e1-5a44-4cc9-ae3d-6974213b9db7/1280x720_1500000_1_f.m3u8
 
 
-"name": "CanalFavorito (Aqui) [COLOR white] VIASAT MOTOR CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] CANAL MOTOR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://188.241.218.46:2085/play/a07dvSATMOTOR/index.m3u8"',
+                            "url": "http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://188.241.218.46:2085/play/a07dvSATMOTOR/index.m3u8
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] BOXING TV CristalAzul",
