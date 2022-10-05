@@ -1142,14 +1142,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 1 CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ZIGGO SPORT RACING CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://51.75.112.123:85/en-Eurosport1/tracks-v1a1/mono.m3u8?token=home"',
+                            "url": "http://82.197.214.59:4002/play/a03b/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                 
                                                         
-"name": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 2 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://51.75.112.123:85/en-Eurosport2/tracks-v1a1/mono.m3u8?token=home"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
