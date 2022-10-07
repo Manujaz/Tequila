@@ -113,7 +113,7 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             
                             
-"name": "Canal F1(Aqui) [COLOR white] Gran Premio de Japón F1 2022. Circuito de Susuka Libres 2 CristalAzul", 
+"noname": "Canal F1(Aqui) [COLOR white] Gran Premio de Japón F1 2022. Circuito de Susuka Libres 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd62.mycdn.me/hls/2867247581758.m3u8/sig/krF6mI5whm8/expires/1665208697591/srcIp/84.78.249.63/clientType/13/srcAg/CHROME_ANDROID/mid/3844703071038/2867247581758_high/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -127,21 +127,21 @@
                             "embed": "SOL M.*?sica">'.http://51.75.112.123:85/en-Eurosport2/tracks-v1a1/mono.m3u8?token=home
                             
                             
-"noname": "Canal F1(Aqui) [COLOR white] F1 Singapur Grand Prix. Libres 2 CristalAzul", 
+"noname": "Canal BMWCUP(Aqui) [COLOR white] 14:15h BMW M2 CUP. Circuito de Hockenheimring. Carrera adicional CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://154.54.220.247:51323/play/a03d/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal F1(Aqui) [COLOR white] F1 Singapur Grand Prix. Libres 2 CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] Nascar Cup Series Charlotte. Practice CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://179.1.64.210:8090/play/a019/index.m3u8"',
+                            "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"noname": "Canal F1(Aqui) [COLOR white] F1 Singapur Grand Prix. Libres 2 CristalAzul", 
+"noname": "Canal F1(Aqui) [COLOR white]  F1 Singapur Grand Prix. Libres 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://51.75.112.123:85/en-SkySportsF1/tracks-v1a1/mono.m3u8?token=home"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
