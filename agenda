@@ -121,11 +121,11 @@
                             "embed": "SOL M.*?sica">'.http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                            
                                                         
 
-"noname": "Canal MOTOGP(Aqui) [COLOR white]  CristalAzul", 
+"name": "Canal IAME(Aqui) [COLOR white] IAME Euro Series Racing Le Mans Karting International Circuit CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"',
+                            "url": "https://d34rccqbd35nnr.cloudfront.net/out/v1/c21f2b475aab4fcdabbdf03772520cfb/push5eu_1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 
 "noname": "Canal F1(Aqui) [COLOR white] Gran Premio de Japón F1 2022. Circuito de Suzuka Qualifying CristalAzul", 
