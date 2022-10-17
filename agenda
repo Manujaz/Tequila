@@ -881,9 +881,16 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://38.143.137.221:8000/LA33/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">'.
                             
                             
+"name": "CanalFavorito (Aqui) [COLOR white] TUDN MEX CristalAzul",
+                            "image": "https://i.imgur.com/1uUlv8M.jpg",
+                            "url": "http://54.39.19.162:8081/live/dream1/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                             
+                            
+                                                        
 "name": "CanalFavorito (Aqui) [COLOR white] SKY SPORTS GOLF CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://w4.12all.tv:4000/play/skysports4/index.m3u8"',
@@ -1199,9 +1206,9 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                 
                                                         
-"noname": "CanalFavorito (Aqui) [COLOR white] EUROSPORT 2 CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] MATH RU CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://51.75.112.123:85/en-Eurosport2/tracks-v1a1/mono.m3u8"',
+                            "url": "http://46.174.83.66/MatchTV/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://212.102.60.80/Eurosport2/index.m3u8
                             
@@ -1549,9 +1556,9 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
                             "embed": "SOL M.*?sica">'. http://201.182.242.135:12001/play/a09r/index.m3u8
                             
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] SKY SPORT F1 CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] CBA SPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://51.75.112.123:85/en-SkySportsF1/tracks-v1a1/mono.m3u8?token=home"',
+                            "url": "http://65.21.196.155/azerbaijan/cbc_sport2/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.61.37.173:9010/play/a03m/index.m3u8                            
   
