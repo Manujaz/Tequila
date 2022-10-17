@@ -408,7 +408,7 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                               
-"name": "Canal Live 5(Aqui) [COLOR white] 20:45 Italia Serie A. Lecce vs Fiorentina CristalAzul",
+"name": "Canal Live 5(Aqui) [COLOR white] 20:45h Italia Serie A. Lecce vs Fiorentina CristalAzul",
                             "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://w4.12all.tv:4000/play/btsport2/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -419,24 +419,31 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
                             "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://w4.12all.tv:4000/play/beinlaliga/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
+                            "embed": "SOL M.*?sica">'. http://38.143.137.221:8000/LA81/index.m3u8
                             
                             
-"name": "Canal Live 7(Aqui) [COLOR white] 21:00h Portugal 1a Division Portimonense SC vs Leoes Porto Salvo CristalAzul",
+"name": "Canal Live 7(Aqui) [COLOR white] 21:00h LaLiga. Villarreal vs Osasuna CristalAzul",
+                            "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://38.143.137.221:8000/LA81/index.m3u8"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal Live 8(Aqui) [COLOR white] 21:00h Portugal 1a Division Portimonense SC vs Leoes Porto Salvo CristalAzul",
                             "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8                            
                             
                             
-"name": "Canal Live 8(Aqui) [COLOR white] 22:00h Copa Libertadores Femenina. Universidad de Chile vs Libertad Limpeño CristalAzul",
+"name": "Canal Live 9(Aqui) [COLOR white] 22:00h Copa Libertadores Femenina. Universidad de Chile vs Libertad Limpeño CristalAzul",
                             "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8
                            
                                 
-"noname": "Canal Live 9(Aqui) [COLOR white]  CristalAzul",
+"noname": "Canal Live 10(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://191.37.250.169:8801/live/FoxSportsHD/720p.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
