@@ -387,7 +387,7 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal Live 2(Aqui) [COLOR white] 18:30h Italy Serie A. Sampdoria vs Roma CristalAzul",
+"name": "Canal Live 2(Aqui) [COLOR white] 18:30h Italia Serie A. Sampdoria vs Roma CristalAzul",
                             "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://w4.12all.tv:4000/play/btsport2/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -441,22 +441,22 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
                             "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8
+                            
+                            
+"name": "Canal Live 10(Aqui) [COLOR white] 23:07h MLB. Houston Astros vs Seattle Mariners CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://w4.12all.tv:4000/play/btsport3/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                            
                                 
-"noname": "Canal Live 10(Aqui) [COLOR white] 06:00h ICC World Twenty20. West Indies vs Scotland CristalAzul",
+"name": "Canal Live 11(Aqui) [COLOR white] 01:37h MLB. Cleveland Guardians vs New York Yankees CristalAzul",
                             "image": "https://imahgizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "http://w4.12all.tv:4000/play/btsport2/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8                             
                             
-                                                                                
-"noname": "Canal Live 11(Aqui) [COLOR white]  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://191.37.250.169:8801/live/FoxSportsHD/720p.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://photocall.tv/ks5g/hls/gol.m3u8
-                             
-                            
+                                                                                                                                        
 "noname": "Canal Live 12(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://181.78.6.2:9080/play/a00l/index.m3u8"',
