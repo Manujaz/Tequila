@@ -115,9 +115,9 @@
                               https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8?Manujaz formulaqdritf
                               
                                                         
-"noname": "Canal SERIES(Aqui) [COLOR white] 14:15h/19:00h Stock Car Pro Series Racing. Goiânia II Carrera 1-2 CristalAzul", 
+"name": "Canal SERIES(Aqui) [COLOR white] 14:15h/19:00h Stock Car Pro Series Racing. Goiânia II Carrera 1-2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://d2vrten0tw5eja.cloudfront.net/out/v1/41430feaf20f4896974c4b3c8208d502/push15br_1.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -132,6 +132,13 @@
 "name": "Canal WRC(Aqui) [COLOR white] 16:00h WRC Rally Car - Rally de España El Montmell 2 Catalunya CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal NASCAR(Aqui) [COLOR white] 19:00h Nascar Truck Series - Homestead. Carreras CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
