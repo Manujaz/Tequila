@@ -145,7 +145,7 @@
                             
 "name": "Canal NASCAR(Aqui) [COLOR white] 19:00h Nascar Truck Series - Homestead. Carreras CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
+                            "url": "https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_2.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -249,7 +249,7 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal UFC(Aqui) [COLOR white] 18:00h UFC 280 Oliveira vs Makhachev CristalAzul",
+"name": "Canal UFC(Aqui) [COLOR white] 18:00h UFC 280 Oliveira vs Makhachev CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -261,6 +261,13 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b
                             "url": "http://109.105.205.250:8081/live/EUROSPORT2/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal UFC(Aqui) [COLOR white] 18:00h UFC 280 Oliveira vs Makhachev CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://mvk@is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
 
 
 "noname": "Canal WWE(Aqui) [COLOR white] 02.00h WWE NXT Campeonato Norteamericano CristalAzul",
