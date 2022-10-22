@@ -251,7 +251,7 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b
                             
 "name": "Canal UFC(Aqui) [COLOR white] 18:00h UFC 280 Oliveira vs Makhachev CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://qiniu.dlivecdn.com/dlive/transcode-93-225/dlive-qulwfmykys/1666451931/src/live.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
