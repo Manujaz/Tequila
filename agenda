@@ -106,7 +106,23 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                             
+                                  
                             
+"name": "Canal F1(Aqui) [COLOR white] 21.00h GP de Fórmula 1 Estados Unidos 2022 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://vkvsd4.mycdn.me/hls/3001384110618.m3u8/sig/1USZwztwQYo/expires/1666637161155/srcIp/37.14.131.26/clientType/13/srcAg/CHROME_ANDROID/mid/4092842355482/3001384110618_high/index.m3u8"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. https://d34rccqbd35nnr.cloudfront.net/out/v1/c21f2b475aab4fcdabbdf03772520cfb/push5eu_1.m3u8 KARTING OK                            
+                            
+                                                       
+"name": "Canal F1(Aqui) [COLOR white] 21.00h GP de Fórmula 1 Estados Unidos 2022 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://185.53.89.23:8081/live/f1/chunks.m3u8?Manujaz"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_2.m3u8                          
+                            https://qiniu.dlivecdn.com/dlive/transcode-92-211/dlive-qulwfmykys/1666489260/src/live.m3u8                            
+
+
 "name": "Canal NASCAR(Aqui) [COLOR white] 19:00h Nascar Truck Series - Homestead. Carreras CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_2.m3u8?Manujaz"',
@@ -119,29 +135,9 @@
                             "url": "https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_2.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                            
-                            
-"name": "Canal NASCAR(Aqui) [COLOR white] 19:00h Nascar Truck Series - Homestead. Carreras CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?Manujaz"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-                            
-                            
-"name": "Canal F1(Aqui) [COLOR white] 21.00h GP de Fórmula 1 Estados Unidos 2022 Carrera CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd35.mycdn.me/hls/3068102380170.m3u8/sig/mszWP7ar13s/expires/1666561046112/srcIp/37.14.131.26/clientType/13/srcAg/CHROME_ANDROID/mid/4084746431370/3068102380170_high/index.m3u8?Manujaz"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://d34rccqbd35nnr.cloudfront.net/out/v1/c21f2b475aab4fcdabbdf03772520cfb/push5eu_1.m3u8 KARTING OK                            
-                            https://vkvsd38.mycdn.me/hls/3068102380170.m3u8/sig/hGqQe9Ysef8/expires/1666561146651/srcIp/37.14.131.26/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/4084746431370/3068102380170_high/index.m3u8?Manujaz
-                                                       
-"name": "Canal F1(Aqui) [COLOR white] 21.00h GP de Fórmula 1 Estados Unidos 2022 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.53.89.23:8081/live/f1/chunks.m3u8?Manujaz"', 
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_2.m3u8                          
-                            https://qiniu.dlivecdn.com/dlive/transcode-92-211/dlive-qulwfmykys/1666489260/src/live.m3u8                            
-                                                      
+
+
+
 "name": "Canal MOTOGP(Aqui) [COLOR white] 03:00h MotoGP G.P. Malasia (Sepang) Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://qiniu.dlivecdn.com/dlive/transcode-89-110/dlive-qulwfmykys/1666510731/src/live.m3u8"',
