@@ -286,7 +286,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.92.69.77:8000/play/a05p/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://82.197.214.59:4000/play/a01v/index.m3u8                            
+                            "embed": "SOL M.*?sica">'.                            
                             
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 "name": "[COLOR white] ----------------NOCHE DE NBA---------------------"                            
@@ -296,14 +296,14 @@
                             "embed": "SOL M.*?sica">'.
                                                                                                                                                                         
                             
-"noname": "Canal NBA(Aqui) [COLOR white] Canal NBA 1 CristalAzul",
+"name": "Canal NBA(Aqui) [COLOR white] Canal NBA 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://almanau3435432.s3-accelerate.amazonaws.com/lakers.m3u8"',
+                            "url": "https://m.seast.io/eas/mnba1/naxi/caxi.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
                                                                                                                                                                                                                                                                                                                                                
-"name": "Canal NBA(Aqui) [COLOR white] Canal NBA 1 CristalAzul",
+"name": "Canal NBA(Aqui) [COLOR white] Canal NBA 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://51.161.84.67/LB2022_NBA_TV/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -312,14 +312,14 @@
                             
 "name": "Canal NBA(Aqui) [COLOR white] Canal NBA 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/chunks.m3u8"',
+                            "url": "https://w.seast.io/eas/wnbatv/naxi/caxi.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'. http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/chunks.m3u8
                             
                             
 "name": "Canal NBA(Aqui) [COLOR white] Canal NBA 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://51.161.84.67/LB2022_NBA_TV/index.m3u8"',
+                            "url": "http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                             
@@ -331,9 +331,9 @@
                             "embed": "SOL M.*?sica">'.  
                             
                                                                                                                 
-"noname": "Canal NBA(Aqui) [COLOR white] Canal NBA 6 CristalAzul",
+"name": "Canal NBA(Aqui) [COLOR white] Canal NBA 6 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://51.161.84.67/LB2022_NBA_TV/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
