@@ -105,21 +105,21 @@
                             https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                             
                            
-"name": "Canal MOTOGP(Aqui) [COLOR white] 17:00h Gran Premio Motul de MotoGP - Circuito Ricardo Tormo Valenciana CristalAzul", 
+"name": "Canal MOTOGP(Aqui) [COLOR white] 09:00h Gran Premio Motul de MotoGP - Circuito Ricardo Tormo Valencia CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd38.mycdn.me/hls/3066671860250.m3u8/sig/ZQ_r31Mc9xk/expires/1667576740231/srcIp/95.17.98.4/clientType/13/srcAg/CHROME_ANDROID/mid/4154309880602/3066671860250_high/index.m3u8"',
+                            "url": "https://vkvsd1.mycdn.me/hls/3068522859034.m3u8/sig/Xjg5R5rde6U/expires/1667634386361/srcIp/95.17.98.4/clientType/13/srcAg/CHROME_ANDROID/mid/4155738827546/3068522859034_high/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://51.75.112.123:85/en-SkySportsF1/tracks-v1a1/mono.m3u8?token=home
                             
                             
-"noname": "Canal FIA(Aqui) [COLOR white] 09:10h FIA Motorsport Games 2022 CristalAzul", 
+"name": "Canal MOTOGP(Aqui) [COLOR white] 09:00h Gran Premio Motul de MotoGP - Circuito Ricardo Tormo Valencia CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/push7eu_1.m3u8?start=2022-10-30T05:17:55+00:00&end=2022-10-30T07:41:00+00:00"',
+                            "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                            
-"noname": "Canal NASCAR(Aqui) [COLOR white] Nascar Whelen Euro Series Racing Automotodrom Grobnik. Carrera CristalAzul", 
+                           
+"noname": "Canal MOTOGP(Aqui) [COLOR white] 09:00h Gran Premio Motul de MotoGP - Circuito Ricardo Tormo Valencia CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8?start=2022-10-30T09:10:00+00:00"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -193,7 +193,7 @@
 
 "noname": "Canal TCR(Aqui) [COLOR white]  CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8?Manujaz"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652513771~exp=9007200907254762~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=a54be8ca9a9c9515a7018abf9226d7ff847d7ced92856f0a9feed5382cb00e0b                          
                              
@@ -228,7 +228,7 @@
                              
 "noname": "Canal (Aqui) [COLOR white] 09:00h Gran Premio de San Marino 2022 en Misano. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
