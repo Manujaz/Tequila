@@ -129,7 +129,7 @@
                             "embed": "SOL M.*?sica">'.http://51.75.112.123:85/en-SkySportsF1/tracks-v1a1/mono.m3u8?token=home
                             
                             
-"name": "Canal MOTOGP(Aqui) [COLOR white] 09:00h G.P Motul de MotoGP. Circuito Ricardo Tormo Valencia - Qualifying CristalAzul", 
+"noname": "Canal MOTOGP(Aqui) [COLOR white] 09:00h G.P Motul de MotoGP. Circuito Ricardo Tormo Valencia - Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
