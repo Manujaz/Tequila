@@ -25,7 +25,7 @@
 
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"', 
+                            "url": "https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr_1080.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://51.75.112.123:85/en-Eurosport2/tracks-v1a1/mono.m3u8?token=home
                                                                                                                 
@@ -93,7 +93,7 @@
                             "embed": "SOL M.*?sica">'.
  
  
-"noname": "[COLOR white] ---------------FIN DE SEMANA DE MOTOR----------------------"                            
+"name": "[COLOR white] ---------------FIN DE SEMANA DE MOTOR----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -101,44 +101,37 @@
                             https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                             
                             
-"noname": "Canal NASCAR(Aqui) [COLOR white] 23:00h Nascar Xfinity Series Phoenix. Circuito International Raceway Carrera CristalAzul", 
+"noname": "Canal WEC(Aqui) [COLOR white] 14:55h WEC 8 Horas de Bahrain. Qualifying🏁CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vivo.canaloncelive.tv/alivepkgr3/nasca_1080p/chunklist.m3u8?Manujaz"', 
+                            "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
-                                                                                    
-"noname": "Canal NASCAR(Aqui) [COLOR white] 23:00h Nascar Xfinity Series Phoenix. Circuito International Raceway Carrera CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
                             
-                            
-"noname": "Canal NASCAR(Aqui) [COLOR white] 3:00h Nascar Truck Series - Phoenix - Carrera CristalAzul", 
+"noname": "Canal F1(Aqui) [COLOR white] 20:00h Libres Fórmula 1 G.P. Circuito de Interlagos Brasil. Libres CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
+                            "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d34rccqbd35nnr.cloudfront.net/out/v1/c21f2b475aab4fcdabbdf03772520cfb/push5eu_1.m3u8 KARTING OK                           
                             
                            
-"noname": "Canal MOTOGP(Aqui) [COLOR white] 09:00h G.P Motul de MotoGP. Circuito Ricardo Tormo Valencia - Carrera CristalAzul", 
+"noname": "Canal F1(Aqui) [COLOR white] 20:00h Libres Fórmula 1 G.P. Circuito de Interlagos Brasil. Libres CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd27.mycdn.me/hls/3075363506714.m3u8/sig/jiDlzr2PWIc/expires/1667825985980/srcIp/95.17.98.4/clientType/13/srcAg/CHROME_ANDROID/mid/4160781495066/3075363506714_high/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://51.75.112.123:85/en-SkySportsF1/tracks-v1a1/mono.m3u8?token=home
                             
                             
-"noname": "Canal MOTOGP(Aqui) [COLOR white] 09:00h G.P Motul de MotoGP. Circuito Ricardo Tormo Valencia - Carrera CristalAzul", 
+"name": "Canal WORLDSBK(Aqui) [COLOR white] 02:55h/03:40h G.P. Indonesia (Mandalika) SuperMotard + Superbike. Libres CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                            
-"noname": "Canal MOTOGP(Aqui) [COLOR white] 09:00h G.P Motul de MotoGP. Circuito Ricardo Tormo Valencia - Qualifying CristalAzul", 
+"name": "Canal WORLDSBK(Aqui) [COLOR white] 02:55h/03:40h G.P. Indonesia (Mandalika) SuperMotard + Superbike Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                
