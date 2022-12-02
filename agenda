@@ -2038,7 +2038,7 @@
                             "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ba67&deviceDNT=0&deviceModel=0"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://eiei.livedoomovies.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
-                            
+                            https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ba67&deviceDNT=0&deviceModel=0
                                                                                                          
 "name": "CanalFavorito (Aqui) [COLOR white] LN SPORTS TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -2047,7 +2047,7 @@
                             "embed": "SOL M.*?sica">'.
                                                                                                                                                                                          
                                                        
-"name": "CanalFavorito (Aqui) [COLOR white] SK1 SPORTS CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SK1 SPORTS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://46.29.169.15:4001/play/a00e/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
