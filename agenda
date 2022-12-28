@@ -21,97 +21,84 @@
 
 
 
-"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
+"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8"', 
+                            "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://51.75.112.123:85/en-Eurosport2/tracks-v1a1/mono.m3u8?token=home
-                                                                                                                
+                               https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
+                                                                                 
 
-"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
                             
                                                         
-"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 4 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/variant_1080_manifest.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 5 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 5 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                         
 
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 6 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
 
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 7 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://168.228.194.32:4000/play/a076/index.m3u8
                             
                                                                                      
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 8 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/g.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://45.92.69.77:8000/play/a05r/index.m3u8 5                                           
                                            
                              
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 4 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 9 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/g.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://168.228.194.32:4000/play/a076/index.m3u8
                                                                                                               
-                          
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 5 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://46.29.169.15:4001/play/a00e/index.m3u8?sk1
-                                                                                    
-                            
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 6 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/g.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://45.92.69.77:8000/play/a05w/index.m3u8?sporttv1                           
-                                                                                                                                           
-                            
+                                                                                                                                                                                                                            
 "noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 7 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0wk/index.m3u8
-                                            https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
-                                                                                                                                                                             
-"nopname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 8 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                                                  
                             
-                                                                                                                                          
+                                                                                                                               
 "noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 9 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1647742017~exp=9007200902483008~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=ba49523d8cd91a52cd1139a9ddd9e39ec9ad17948e861abcc99fe6196e4a3dc2"',
@@ -119,7 +106,7 @@
                             "embed": "SOL M.*?sica">'.FIN DE SEMANA DE MOTOR
  
  
-"name": "[COLOR white] --------------EVENTOS DE MOTOR EN DIFERIDO----------------------"                            
+"noname": "[COLOR white] --------------EVENTOS DE MOTOR EN DIFERIDO----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -133,7 +120,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
-"name": "Canal FIM(Aqui) [COLOR white] FIM SuperEnduro World Championship. Gran Premio Porland CristalAzul", 
+"noname": "Canal FIM(Aqui) [COLOR white] FIM SuperEnduro World Championship. Gran Premio Porland CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn.motorsport.tv/2022/December/10/fim_superenduro_2023_superenduro_r1_2023.mp4/1920_1080_30_3600.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -168,49 +155,49 @@
                             "embed": "SOL M.*?sica">'.                            
                             
 
-"name": "Canal SBK(Aqui) [COLOR white] 2022 British Superbikes Season Review Part 1 CristalAzul", 
+"noname": "Canal SBK(Aqui) [COLOR white] 2022 British Superbikes Season Review Part 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn.motorsport.tv/2022/November/29/British%20Superbikes_2022_2022-bsb-review-p1.mp4/1920_1080_30_3600.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal SBK(Aqui) [COLOR white] 2022 British Superbikes Season Review Part 2 CristalAzul", 
+"noname": "Canal SBK(Aqui) [COLOR white] 2022 British Superbikes Season Review Part 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn.motorsport.tv/2022/November/29/British%20Superbikes_2022_2022-bsb-review-p2.mp4/1920_1080_30_3600.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
                             
                             
-"name": "Canal SBK(Aqui) [COLOR white] 2022 British Superbikes Season Review Part 3 CristalAzul", 
+"noname": "Canal SBK(Aqui) [COLOR white] 2022 British Superbikes Season Review Part 3 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn.motorsport.tv/2022/November/29/British%20Superbikes_2022_2022-bsb-review-p3.mp4/1920_1080_30_3600.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu_1.m3u8?start=2022-11-27T05:40:00+00:00                           
                             
                             
-"name": "Canal MST(Aqui) [COLOR white] Speedworks NZ Motorsport Hampton Downs CristalAzul", 
+"noname": "Canal MST(Aqui) [COLOR white] Speedworks NZ Motorsport Hampton Downs CristalAzul", 
                             "image": "https://imagize.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn.motorsport.tv/2021/January/24/speedworks_nz_2021_speedworks_hamptondowns_sunday_2021.mp4/1920_1080_30_3600.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://live.ch20-cdnwiz.com/ch20-abr/w3c/chunks.m3u8?Manujaz
                             
                             
-"name": "Canal MXGP(Aqui) [COLOR white] RedBull Straight Rhythm - Huntington Beach 2022 CristalAzul", 
+"noname": "Canal MXGP(Aqui) [COLOR white] RedBull Straight Rhythm - Huntington Beach 2022 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://player.odycdn.com/api/v4/streams/free/2022-Red-Bull-Straight-Rhythm---Huntington-Beach/c03de33290e30b3203626629cf6c29252fa7c803/bb6f5a"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d34rccqbd35nnr.cloudfront.net/out/v1/c21f2b475aab4fcdabbdf03772520cfb/push5eu_1.m3u8 KAR
                             
                             
-"name": "Canal MXGP(Aqui) [COLOR white] MXGP TV Supercross de Paris 2022 Dia 1 CristalAzul", 
+"noname": "Canal MXGP(Aqui) [COLOR white] MXGP TV Supercross de Paris 2022 Dia 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://player.odycdn.com/api/v4/streams/free/2022-MXGP-TV-Supercross-of-Paris----Day-1/0d99b1b32dbc68810dd307b4013698eb590c5d0c/978941"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.  By Manujaz😂👍🏁http://rtv-murcia-live.globalmest.com/stream/abr/ff1.m3u8?Manujaz
                             
                           
-"name": "Canal MXGP(Aqui) [COLOR white] MXGP TV Supercross de Paris 2022 Dia 2 CristalAzul", 
+"noname": "Canal MXGP(Aqui) [COLOR white] MXGP TV Supercross de Paris 2022 Dia 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://player.odycdn.com/api/v4/streams/tc/2022-MXGP-TV-Supercross-of-Paris----Day-2/5c39d700f3a75b6466376f65f43058d8d14bbca5/749884f5cc61445710d8f2be1a6a783ce46aa9ae40456ba3e5f8e6e861b7a6321773900eba840b7a71b59ab91013d2c5/v0.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -360,7 +347,7 @@
                             
 "name": "Canal NBA(Aqui) [COLOR white] Canal NBA 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://k41hedlund.s3.amazonaws.com/timberwolves_720p60.m3u8"',
+                            "url": "https://m.seast.io/eas/mnba1/naxi/caxi.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://m.seast.io/eas/mnba1/naxi/caxi.m3u8                           
                             
@@ -369,19 +356,19 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://82.114.87.149:8881/play/a0au/index.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
-                            "https://w.seast.io/eas/wnbatv/naxi/caxi.m3u8
+                           
 "name": "Canal NBA(Aqui) [COLOR white] Canal NBA 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://k41hedlund.s3.amazonaws.com/cavaliers.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/chunks.m3u8
-                            
-                            
-"name": "Canal NBA(Aqui) [COLOR white] Canal NBA 4 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://120sports-accdn-1-us.samsung.wurl.tv/3000.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+                            
+"noname": "Canal NBA(Aqui) [COLOR white] Canal NBA 4 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://51.161.84.67/LB2022_NBA_TV/index.m3u8                          
                             
@@ -477,21 +464,21 @@
                             "embed": "SOL M.*?sica">'.                            
                                                         
                             
-"name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 7 CristalAzul",
+"noname": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 7 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-sportstribal/ec033dbd-1590-430b-9d15-fdd19250ba56/0.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://mavtv-1-us.samsung.wurl.tv/3000.m3u8
                             
                                                                                     
-"name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 8 CristalAzul",
+"name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 7 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d33yv8yb2ds4q1.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/AutoAllstars-SportsTribal/d069c4c3-7266-4dca-ad24-df767074734f/3.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://edge1.prepro.cvattv.com.ar/live/live/DiscoveryTurbo/SA_Live_WebVTT_FTA/DiscoveryTurbo.m3u8
                                                                                                                                             
                      
-"name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 9 CristalAzul",
+"name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 8 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://amg00585-sportstribaltv-motoamerica-sportstribal-ad-uh.amagi.tv/playlist/amg00585-sportstribaltv-motoamerica-sportstribal/cb50351b6573629093c22162f2ae3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895bee68429f14ce06533357596cdb51d87818d7af3ae80d611b4226e1c1f664dc9a1517b1de1f3251cb1e632de21e49897e0632feec19038a74f55a0d01e7046b1963ddeb47ad6852db801ae82e7fdaef847e3c7e5d419c5b4ff1a70cf5aab70b458a71a4e34e4f882e44b2d65fc0864aed9dd40a9d4b8124a7159c90a382d904b8a5c037ea49e13c08562c7895bf6992db49b8df881b54f61a05692a7ac78eb6cc671fa71d2c3690fecfac2bf817de9b57e20a56ea5ada25f5318e78e40aa8ef5aa5a3afe056482da8c1290c4dcbc88fbed4141e9854d281c8872016f7f7106b09ca62d6362e3684c2c210f6827fe9b472d1ed3f456cc4ae17cbcfe0d2bee0de18cc759a97a4a719126d4553508407d5f008da2dce36b8bc7d4b305e54a28841d792cb57326343dcc134a4121faa95888bde0035cf6c2454e96ddc296806a7194348ca0cd4bf0e45aa0750d05f4cfa5c26ce41f3b638f0a9cfda013ebbccc230bf0591870bd1ff0cae21115616bce06c6d444f74dee92a203f6dcc57f7c3c5f3635373869fccfad31d35122d12206be187e171979dc573ed74ab382764675e14990ac56cd1143be04ca383b28f397cd607032ad6af6c5c786bb7cb90a3a5f3e467ba5cc0eecd060e1a78429c12262e5ff991995fc2007441780fbf1d297ce8385c7dfec5ccdcc8b037f1cb5b9575320e69cdf6134d440a5d300ca4a857fb06dac64f94ccdc7a9fb9990311ae2991551b8b83f04ed1d885cb6720b8a9632c6a808528ce453fde27c729838073cae77b2d366b706dcf8079fd70a0dba3e003c313a31e3c64a74290a5b48ce95950d8c6500c25444328406d25133387e58229537dbf8318b362d9d418967d510c0978e1db1a5888b14823a30a4139b390f4b49293155df537cb4af65f3c99683211de9f07bddaeba4aea64e7521f8978a02bd9e8fa0edf7eb075f2a4d11c1aa353170dc36e2fe648bcc4c4e2de8e197b2bf688c8345dafed40bd77ec5f8ac0fa79eef8f9115326b2a9b785c958072fea9184aab7ea10d4593475485861cd79d94086bfa54f4840b6bba7e7a588987f70bca39bde1383ea5f301fc60df53b382dc1266a107a6343371fec3886f79bcabd80893fae7962d36e52a1ff6445b6da372fbcdd8030ab1e44a5006bf486fe90610c4ef4197a48ab21fbc4584dbdaeab0601641c12b78aa0ab7abcfb06c328705b0c25ed57682cd4daeae00efbc91bdfea57052aef90819e51ca7258d639f89c1a863e46468a43ec54122be8988b788cdd7a7c3da295f1abd4d8f469d25cd88fac7354e2152ea22170668f014c80e497491c75ec5ee0d4f8eccf20ec6490515545a608149f0cc557b442588f474d2883935273f669ab66cdd24bd4b0f8b4064fd4b3f6078296601f3c7834ba46ab61196fb5607e980cdd205efbe30d399c6abfa7e01cc5629595bdbd0ab94c34a21f38488f85d09f38b1fd67a146821e088f1a71df358ec84f55619bd5ff0f54d6b78/23/1280x720_5000000/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
