@@ -1,6 +1,6 @@
 -º+"name": "[COLOR gold]*^Deportes Tequila^*  [COLOR aqua]Cristal Azul[/COLOR]",
                     "image": "https://i.imgur.com/2NFCoSa.jpg",
-                    "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
+                    "url": "https://www.youtube.com/watch?v=xfKrlmo8RLY"',
                     "referer": "https://verliga1.net/tv/nacionales/canal-cero.php",
                     "embed": "SOL M.*?sica">'.
  
@@ -10,7 +10,7 @@
                     "image": "https://i.imgur.com/gY5Kxse.jpg",
                     "url": "no_enlace"',
                     "referer": "https://verliga1.net/tv/nacionales/canal-cero.php",
-                    "embed": "SOL M.*?sica">'.
+                    "embed": "SOL M.*?sica">'.https://www.youtube.com/watch?v=4DPGjjCBcAg
  
  
      LO DE ARRIBA ES LA CABECERA, NO TOCAR
@@ -112,22 +112,37 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
-
-
-"noname": "Canal PROCAR(Aqui) [COLOR white] 18:45h Stock Car Pro Series Interlagos III. Carrera 1/2 CristalAzul", 
+                            
+                            
+"noname": "[COLOR white] --------------PARIS DAKAR 2023----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cdn.motorsport.tv/2022/December/10/stockcar_brazil_2022_scb_interlagos3_q_pt_2022.mp4/1920_1080_30_3600.m3u8?Manujaz"',
+                            "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+
+"noname": "Canal DAKAR23(Aqui) [COLOR white] PARIS DAKAR 2023 SEA CAMP > SEA CAMP - Prólogo CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"noname": "Canal DAKAR23(Aqui) [COLOR white] PARIS DAKAR 2023 SEA CAMP > SEA CAMP - Prólogo CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
 
-"noname": "Canal FIM(Aqui) [COLOR white] FIM SuperEnduro World Championship. Gran Premio Porland CristalAzul", 
+"noname": "Canal DAKAR23(Aqui) [COLOR white] PARIS DAKAR 2023 SEA CAMP > SEA CAMP - Etapa 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn.motorsport.tv/2022/December/10/fim_superenduro_2023_superenduro_r1_2023.mp4/1920_1080_30_3600.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://cdn.motorsport.tv/2022/December/10/fim_superenduro_2023_superenduro_r1_2023.mp4/1920_1080_30_3600.m3u8?Manujaz
 
 
-"noname": "Canal MOTOGP(Aqui) [COLOR white] Gran Premio MotoGP Ricardo Tormo Valencia 2022 CristalAzul", 
+"noname": "Canal MOTOGP(Aqui) [COLOR white]  CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6271486521001/a37e8dc4-56a2-42eb-85b9-9627d3fa6dcc/6s/master.m3u8?fastly_token=NjM5MTJhYWFfNjIxZDBkNjhiNDQxNDFjNDBkNjI5ZWIyZmM5Zjg1NmE0MTYyZThlYTc0OWE5NmQyOTA1ZTRiNjNkYWQwZmM2Mw%3D%3D"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -314,7 +329,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://weaksdbvsgdf.azureedge.net/live/BX1/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. https://mvk@is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8                           
+                            "embed": "SOL M.*?sica">'.                            
 
 
 "noname": "Canal WWE(Aqui) [COLOR white] 02.00h WWE NXT Campeonato Norteamericano CristalAzul",
