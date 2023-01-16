@@ -917,7 +917,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://king.nowtv.vip/live/tsn1/chunks.m3u8
+                            "embed": "SOL M.*?sica">'.
                                                                                     
                                                                                                                                                                                                   
 "noname": "Canal Live 18(Aqui) [COLOR white]  CristalAzul",
@@ -1375,14 +1375,14 @@
                             "embed": "SOL M.*?sica">'.http://213.183.47.50:2085/play/a04s/index.m3u8?laliga
                             
                                
-"name": "CanalFavorito (Aqui) [COLOR white] DAZN LALIGA CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] TSN 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/beinlaliga/index.m3u8"',
+                            "url": "https://judemiguel162.s3.amazonaws.com/bulls.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] MEGA ESP CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] MEGA ESP CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1403,7 +1403,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                              
-"name": "CanalFavorito (Aqui) [COLOR white] UNIVISION SPORT MEX CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] UNIVISION SPORT MEX CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://38.143.137.221:8000/LA14/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1424,7 +1424,7 @@
                             "embed": "SOL M.*?sica">'. UNIVISION https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk 
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] FREE SPORTS CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] FREE SPORTS CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "http://185.209.15.245:8081/live/ch8/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1445,7 +1445,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                         
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN 4 BRA CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ESPN 4 BRA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://191.37.250.169:8801/live/FoxSportsHD/720p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1496,7 +1496,7 @@
                             
 "name": "CanalFavorito (Aqui) [COLOR white] SPORT 3 CAT CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8"',
+                            "url": "https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                 
