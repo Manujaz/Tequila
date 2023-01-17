@@ -992,21 +992,21 @@
 
 "noname": "CanalFavorito (Aqui) [COLOR white] DAZN LALIGA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://w4.12all.tv:4000/play/beinlaliga/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
 "noname": "CanalFavorito (Aqui) [COLOR white] M.LALIGA CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://185.209.179.67:25461/live/bud-88037/6e44c54e5d/1618.m3u8?token=HRNfAEBQEwMVVQJVAVoNVwZVDFNXAQ0MVAcEBABVXFYDBwZSVV0CCwcVHUMQF0dQUlxmWVUaAwhQAg5JR0RLBxRuXgURAhMIBgcJVkFPF0FaXFwSCwgVGxZaUkdfEwlTUQgPQx8aVEFDUkMPAg9qUVZHUFNUGgNXE19aSUdeVj0CVFoAXVwTAxUHE01BCkZFEQtXRV1UFRsEWkIXBEVdQFwTAVcFChMVFVReFA0XR0wRCxt1YhoVGwNLQgALQlENCBMNQ14LRAEVGxMIEDxHUEBFS1VQVVxLRAkUVUcdGg8HSWgCXFZfXFRDWA4NEBcPEQIbHBNVVlcPR1kXOkFRBkQLFVIKDAAbSg=="',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
 "noname": "CanalFavorito (Aqui) [COLOR white] M.LIGACAMPEONES CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://185.209.179.67:25461/live/bud-88037/6e44c54e5d/79634.m3u8?token=HRNfAEBQEwMVUQBZUQJTVldUXQcGAFoNVVZUUwAICgBWAwJZVQABDVYVHUMQF0dQUlxmWVUaAw5fBQVRSRNNEQNDaAhXGgsbBgYBWVRBGRdHWFRVEwIJFURDXwFHCxpVXwgEQx8aVEFDUkMPAg9qUVZHUFNUGgNXE19aSUdeVj0CVFoAXVwTAxUHE01BCkZFEQtXRV1UFRsEWkIXBEVdQFwTBlUGDRMVFVReFA0XR0wRCxt1YhoVGwNLQgALQlENCBMNQ14LRAEVGxMIEDxHUEBFS1VQVVxLRAkUVUcdGg8HSWgCXFZfXFRDWA4NEBcPEQIbHBNVVlcPR1kXOkFRBkQLFVYCDwUbSg=="',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -1265,7 +1265,7 @@
 
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN DEPORTES ARG CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://179.1.64.210:8090/play/a019/index.m3u8"',
+                            "url": "http://179.56.9.218:9001/play/a00h/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://181.174.115.86:8000/play/a0kg/index.m3u8
                             
@@ -1277,23 +1277,23 @@
                             "embed": "SOL M.*?sica">'.http://82.197.214.59:4000/play/a02m/index.m3u8                            
                            
                             
-"noname": "CanalFavorito (Aqui) [COLOR white] ESPN 1 LAT CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://160.20.164.171:8001/play/a09c/index.m3u8"',
+                            "url": "http://179.56.9.218:9001/play/a00o/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 LAT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ESPN 2 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://179.1.64.210:8090/play/a02n/index.m3u8"',
+                            "url": "http://179.56.9.218:9001/play/a00u/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.83.119.67:8000/play/a0sf/index.m3u8
                             
                             
 "name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 ARG CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.143.137.221:8000/LA80/index.m3u8"',
+                            "url": "http://179.56.9.218:9001/play/a00u/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
@@ -2342,21 +2342,21 @@
                                                         
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://179.56.9.218:9001/play/a00u/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                            
                                                         
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://179.56.9.218:9001/play/a00h/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a001/index.m3u8 
                             
                             
 "name": "Canal (Aqui)[COLOR white] PRUEBAS 4 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://179.56.9.218:9001/play/a00o/index.m3u8"',
+                            "url": "http://179.56.9.218:9001/play/a01d/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
