@@ -1274,6 +1274,13 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://82.197.214.59:4000/play/a02m/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "CanalFavorito (Aqui) [COLOR white] ESPN PLUS CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d856dff4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/22e27f77-d243-40b2-9dd3-cb6efe6e61a0/5.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
@@ -1394,21 +1401,7 @@
                             "url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://213.183.47.50:2085/play/a04s/index.m3u8?laliga
-                            
-                               
-"name": "CanalFavorito (Aqui) [COLOR white] TSN 1 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://judemiguel162.s3.amazonaws.com/bulls.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
-                            
-"noname": "CanalFavorito (Aqui) [COLOR white] MEGA ESP CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                                                                                                                 
+                                                                                                                
                             
 "name": "CanalFavorito (Aqui) [COLOR white] SPORT TV HOL CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -1422,14 +1415,7 @@
                             "url": "https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                            
-                             
-"noname": "CanalFavorito (Aqui) [COLOR white] UNIVISION SPORT MEX CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.143.137.221:8000/LA14/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://v-ny.mybtv.net/live/643.m3u8 UNIVISION
-                            
+                              
                             
 "name": "CanalFavorito (Aqui) [COLOR white] LIGA SPORT MX CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
