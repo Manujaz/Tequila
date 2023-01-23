@@ -1004,9 +1004,9 @@
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8 http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
 
 
-"noname": "CanalFavorito (Aqui) [COLOR white] DAZN LALIGA CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] SPORT TV HD CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": ""',
+                            "url": "http://188.83.254.153:8888/play/a02b/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
