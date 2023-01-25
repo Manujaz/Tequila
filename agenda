@@ -4,7 +4,7 @@
                     "referer": "https://verliga1.net/tv/nacionales/canal-cero.php",
                     "embed": "SOL M.*?sica">'.
  
- 
+
  
 "name": "[COLOR red]Solo activo para evento[/COLOR]",
                     "image": "https://i.imgur.com/gY5Kxse.jpg",
@@ -92,7 +92,7 @@
                             "embed": "SOL M.*?sica">'.
  
  
-"noname": "[COLOR white] --------------FORMULA E EN DIRECTO----------------------"                            
+"noname": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -100,37 +100,30 @@
                             https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                             
                             
-"noname": "Canal WRC(Aqui) [COLOR white] 06:30h World Rally Championship - Monte-Carlo Dia 4 CristalAzul", 
+"noname": "Canal FE(Aqui) [COLOR white] 16:00h G.P Fórmula E Diriyah, Arabia Saudita. Carrera 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd88.mycdn.me/hls/3487834049050.m3u8/sig/00mK4Jk6M9o/expires/1674456974782/srcIp/95.17.170.240/urls/45.136.22.51/clientType/13/srcAg/CHROME_ANDROID/mid/4482756127514/3487834049050_high/index.m3u8"',
+                            "url": "https://piratilla2.xyz/749801/hls/eurosport1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1673636583~exp=9007200928377574~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=d7b69a27d91d04bd6e470af605d08bc81b29a493587366e511a70c751b0794a7                            
 
 
-"noname": "Canal VP(Aqui) [COLOR white] 20:00h VP Racing SportsCar Challenge - Daytona Carrera 1 CristalAzul", 
+"noname": "Canal FE(Aqui) [COLOR white] 16:00h G.P Fórmula E Diriyah, Arabia Saudita. Carrera 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://li459-36.members.linode.com:81/hls/imsa/src/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://cdn.motorsport.tv/2023/January/16/upload-video_2023_01_WRC23_MON_Ready_For_Rally_16x9_WRCPlus.mp4/1920_1080_30_3600.m3u8
-
-
-"noname": "Canal SBK(Aqui) [COLOR white] 2022 British Superbikes Season Review Part 2 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cdn.motorsport.tv/2022/November/29/British%20Superbikes_2022_2022-bsb-review-p2.mp4/1920_1080_30_3600.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
                             
                             
-"noname": "Canal SBK(Aqui) [COLOR white] 2022 British Superbikes Season Review Part 3 CristalAzul", 
+"noname": "Canal SBK(Aqui) [COLOR white] 23:40h Mazda MX-5 Cup Daytona, Carrera 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cdn.motorsport.tv/2022/November/29/British%20Superbikes_2022_2022-bsb-review-p3.mp4/1920_1080_30_3600.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu_1.m3u8?start=2022-11-27T05:40:00+00:00                           
                             
                             
-"noname": "Canal MST(Aqui) [COLOR white] Speedworks NZ Motorsport Hampton Downs CristalAzul", 
+"noname": "Canal IMSA(Aqui) [COLOR white] IMSA Pilot Challenge, Daytona Carrera CristalAzul", 
                             "image": "https://imagize.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cdn.motorsport.tv/2021/January/24/speedworks_nz_2021_speedworks_hamptondowns_sunday_2021.mp4/1920_1080_30_3600.m3u8"', 
+                            "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://live.ch20-cdnwiz.com/ch20-abr/w3c/chunks.m3u8?Manujaz
                             
