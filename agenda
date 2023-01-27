@@ -99,18 +99,25 @@
                             https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                             
                             
-"name": "Canal FE(Aqui) [COLOR white] 11:25h G.P Fórmula E Diriyah, Arabia Saudita. Libres 2 + Carrera CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://172.104.158.96/hls/battery.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
-                                                        
 "noname": "Canal FE(Aqui) [COLOR white] 11:25h G.P Fórmula E Diriyah, Arabia Saudita. Libres 2 + Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                                                        
+"name": "Canal FE(Aqui) [COLOR white] 11:25h G.P Fórmula E Diriyah, Arabia Saudita. Libres 2 + Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://172.104.158.96/hls/battery.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1673636583~exp=9007200928377574~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=d7b69a27d91d04bd6e470af605d08bc81b29a493587366e511a70c751b0794a7                            
+
+
+"noname": "Canal FE(Aqui) [COLOR white] 11:25h G.P Fórmula E Diriyah, Arabia Saudita. Libres 2 + Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
 
 
 "name": "Canal FE(Aqui) [COLOR white] 11:25h G.P Fórmula E Diriyah, Arabia Saudita.Libres 2 + Carrera CristalAzul", 
@@ -127,7 +134,7 @@
                             "embed": "SOL M.*?sica">'. https://d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu_1.m3u8?start=2022-11-27T05:40:00+00:00                           
                             
                             IMSA Pilot Challenge, Daytona Carrera
-"name": "Canal IMSA(Aqui) [COLOR white] 23:30h Mazda MX-5 Cup Daytona 1 CristalAzul", 
+"noname": "Canal IMSA(Aqui) [COLOR white] 23:30h Mazda MX-5 Cup Daytona 1 CristalAzul", 
                             "image": "https://imagize.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
