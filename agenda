@@ -99,17 +99,11 @@
                             https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                             
                             
-"noname": "Canal NASCAR(Aqui) [COLOR white] Nascar Cup Series - Clash At The Coliseum. Libres+Qualifying CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] Nascar Cup Series - Clash At The Coliseum. Libres + Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://hlsw.muchface.com/live/clash.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                            
-"name": "Canal RB19(Aqui) [COLOR white] En Diferido - PRESENTACIÓN RED BULL F1 2023, RB19 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/3nVR46X8xzWs6AWKYZfT_-XeAvoj_YRHXrX_fsN0pFxt-I7G1sY34d3FD8r9wBTXsgBWwhKTbtl00TDemshAFA/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/playlist_16771306895281607349.m3u8?type=replay"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
                             
                             
 "noname": "Canal RB19(Aqui) [COLOR white] 14:30h PRESENTACIÓN RED BULL F1 2023, RB19 CristalAzul", 
@@ -117,15 +111,22 @@
                             "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
-
-                           
-"noname": "Canal RB19(Aqui) [COLOR white] 14:30h PRESENTACIÓN RED BULL F1 2023, RB19 CristalAzul", 
+                                                       
+                                                       
+"noname": "Canal SP(Aqui) [COLOR white] 22:00h Super Sprint Motorsport Hampton Downs. Carreras - Ronda 4 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://www.redbull.com/es-es/live/f1-oracle-red-bull-racing-presentacion-coche-2023"',
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1673636583~exp=9007200928377574~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=d7b69a27d91d04bd6e470af605d08bc81b29a493587366e511a70c751b0794a7                            
+                           
+                            
+"noname": "Canal FR(Aqui) [COLOR white] 23:00h Castrol Toyota FR Oceania Championship Hampton Downs. Ronda 4  Qualifying CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu_1.m3u8?start=2022-11-27T05:40:00+00:00                           
                             
-                            
+                            IMSA Pilot Challenge, Daytona Carrera
 "noname": "Canal IMSA(Aqui) [COLOR white] 23:30h Mazda MX-5 Cup Daytona 1 CristalAzul", 
                             "image": "https://imagize.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8"', 
