@@ -91,7 +91,7 @@
                             "embed": "SOL M.*?sica">'.
  
  
-"name": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
+"noname": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -99,7 +99,7 @@
                             https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                             
                             
-"name": "Canal WRC23(Aqui) [COLOR white] 08:15h WRC23 Rallye de Suecia CristalAzul", 
+"noname": "Canal WRC23(Aqui) [COLOR white] 08:15h WRC23 Rallye de Suecia CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd45.mycdn.me/hls/3586705197594.m3u8/sig/U_bwrt9CGuQ/expires/1676184921488/srcIp/95.17.170.240/urls/45.136.20.59/clientType/13/srcAg/CHROME_ANDROID/mid/4542608976666/3586705197594_high/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -126,7 +126,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu_1.m3u8?start=2022-11-27T05:40:00+00:00                           
                             
-                            IMSA Pilot Challenge, Daytona Carrera
+                            
 "noname": "Canal IMSA(Aqui) [COLOR white] 23:30h Mazda MX-5 Cup Daytona 1 CristalAzul", 
                             "image": "https://imagize.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8"', 
@@ -198,14 +198,14 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal PORSCHE(Aqui) [COLOR white] 14:35h Porsche Carrera Cup Deutschland Hockenheimring. Carrera 1 CristalAzul", 
+"noname": "Canal PORSCHE(Aqui) [COLOR white] CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu.m3u8?start=2022-10-22T12:30:00+00:00"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal WRC(Aqui) [COLOR white] 16:00h WRC Rally Car - Rally de España El Montmell 2 Catalunya CristalAzul", 
+"noname": "Canal WRC(Aqui) [COLOR white] CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr_1080.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -219,7 +219,7 @@
                             "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
                                                       
                                 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 00:10h Nascar Xfinity Series Darlington - Carrera CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -233,23 +233,23 @@
                             "embed": "SOL M.*?sica">'.  
                             
                                                        
-"noname": "Canal MMA(Aqui) [COLOR white] BELLATOR MMA CristalAzul",
+"noname": "Canal UFC(Aqui) [COLOR white] UFC 284 Makhachev vs Volkanovski - Preliminales + Pelea CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://mvcdn.soft4game.com/o51/stream220/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjMgMTE6MDA6MDAgUE0maGFzaF92YWx1ZT1hMm4vV1FyRnk3Q0FzdmZJY0FWNHR3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD01"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos. php",
                             "embed": "SOL M.*?sica">'.https://livestreams.flote.app:5443/flote/streams/4782289b-b949-4107-9367-d1c5f1c3829b.m3u8
                             
                             
-"noname": "Canal BOXEO(Aqui) [COLOR white] BOXEO Albert Batyrgaziev vs Jezzrel Corrales CristalAzul",
+"noname": "Canal UFC(Aqui) [COLOR white] UFC 284 Makhachev vs Volkanovski - Preliminales + Pelea CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://mvcdn.soft4game.com/o51/stream02/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjMgOTowMDowMCBQTSZoYXNoX3ZhbHVlPTM2Q0dRd2hNSDBwcTYrcGpDL2xkT3c9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTU="',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
-https://s@ovocloud.site/live/abr_s-1/playlist.m3u8
 
-"noname": "Canal WWE(Aqui) [COLOR white] 02.00h WWE NXT Campeonato Norteamericano CristalAzul",
+
+"noname": "Canal UFC(Aqui) [COLOR white] UFC 284 Makhachev vs Volkanovski - Preliminales + Pelea CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://45.92.69.77:8000/play/a05p/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://hls-pull-netmixtv.speedws.com/live/indy/playlist.m3u8  
                             
