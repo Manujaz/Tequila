@@ -630,14 +630,7 @@
                             "url": "http://45.92.69.77:8000/play/a05r/index.m3u8"', sporttv5
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. h
-                                                                                                                                                                      
-                                                                                                                                                                                                                                                                                                                                                                              
-"noname": "Canal Live 17(Aqui) [COLOR white] CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://93.152.174.144:4000/play/sporttv1/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
+                          
                             
 "noname": "Canal Live 13(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -912,30 +905,30 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "CanalFavorito (Aqui) [COLOR white] SPORT TV HD CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 1 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://188.83.254.153:8888/play/a02b/index.m3u8"',
+                            "url": "http://195.154.179.234:1234/stream/btsport1/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] M.DEPORTES CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 2 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://186.101.207.117:9955/play/a081/index.m3u8"',
+                            "url": "http://195.154.179.234:1234/stream/btsport2/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] TNT SPORTS CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] BTSPORT 3 CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://186.101.207.117:9955/play/a08j/index.m3u8"',
+                            "url": "http://195.154.179.234:1234/stream/btsport3/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://38.143.137.221:8000/LA33/index.m3u8                           
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] TYC SPORT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] TYC SPORT CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
-                            "url": "http://186.101.207.117:9955/play/a086/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
