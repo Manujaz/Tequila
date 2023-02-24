@@ -113,9 +113,9 @@
                             "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1673636583~exp=9007200928377574~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=d7b69a27d91d04bd6e470af605d08bc81b29a493587366e511a70c751b0794a7                            
                            http://212.224.84.217:2200/NL/daznf1hd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
-"noname": "Canal TESTF1(Aqui) [COLOR white] TEST PRETEMPORADA F1 2023 CIRCUITO DE BARÉIN. DIA 2 CristalAzul", 
+"name": "Canal TESTF1(Aqui) [COLOR white] TEST PRETEMPORADA F1 2023 CIRCUITO DE BARÉIN. DIA 2 CristalAzul", 
                             "image": "https://imagize.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "http://live-tkr.cdnvideo.ru/tkr/ff1/tracks-v1a1/mono.m3u8?hls_proxy_host=5edf215ae950326c87f8788991c1ffc7"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://live.ch20-cdnwiz.com/ch20-abr/w3c/chunks.m3u8?Manujaz
                             https://player.odycdn.com/api/v4/streams/free/2022-Red-Bull-Straight-Rhythm---Huntington-Beach/c03de33290e30b3203626629cf6c29252fa7c803/bb6f5a
