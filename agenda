@@ -99,7 +99,7 @@
                             https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                             
                             
-"name": "Canal F1(Aqui) [COLOR white] G.P Fórmula 1 Baréin CristalAzul", 
+"noname": "Canal F1(Aqui) [COLOR white] G.P Fórmula 1 Baréin CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd19.mycdn.me/hls/3700580420122.m3u8/sig/0U_xj1EBn4U/expires/1677942778036/srcIp/95.17.170.240/urls/185.226.52.68/clientType/13/srcAg/CHROME_ANDROID/mid/4617488313114/3700580420122_high/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -120,9 +120,9 @@
                             "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1673636583~exp=9007200928377574~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=d7b69a27d91d04bd6e470af605d08bc81b29a493587366e511a70c751b0794a7                            
                            
 
-"noname": "Canal INDY(Aqui) [COLOR white] 21:05h Indycar - St Petersburg - Libres 1 CristalAzul", 
+"name": "Canal INDY(Aqui) [COLOR white] 21:05h Indycar - St Petersburg - Libres 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://2-fss-1.themediacdn.com/lv_broadcastviewer2/indie/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr_1080.m3u8
                             
@@ -134,9 +134,9 @@
                             "embed": "SOL M.*?sica">'.  
                            
                             
-"noname": "Canal NASCAR(Aqui) [COLOR white] 22:45h Nascar Truck Xfinity Series - Las Vegas CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 22:45h Nascar Truck Xfinity Series - Las Vegas CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "http://2-fss-1.themediacdn.com/lv_broadcastviewer2/nasca/chunklist.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                 
