@@ -118,28 +118,28 @@
                             "url": "https://argusport.live:90/DAZN-F1/video.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://212.224.84.217:2200/NL/daznf1hd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
-                          
-
-"noname": "Canal INDY(Aqui) [COLOR white] 16:00h Indycar St Petersburg - Libres 2 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://2-fss-1.themediacdn.com/lv_broadcastviewer2/indie/chunklist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr_1080.m3u8
                             
 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 19:35h Nascar Truck Xfinity Series - Las Vegas. Libres CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 19:35h Nascar Truck Xfinity Series - Las Vegas. Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "https://vkvsd44.mycdn.me/hls/3708276247066.m3u8/sig/5SAFeOBc030/expires/1678035413575/srcIp/95.17.170.240/urls/185.226.53.57/clientType/13/srcAg/CHROME_ANDROID/mid/4623139875610/3708276247066_high/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.  
                            
                             
 "noname": "Canal NASCAR(Aqui) [COLOR white] 19:35h Nascar Truck Xfinity Series - Las Vegas Libres CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://2-fss-1.themediacdn.com/lv_broadcastviewer2/nasca/chunklist.m3u8?Manujaz"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-                                
+                            
+                                                                                    
+"noname": "Canal INDY(Aqui) [COLOR white] 20:15h Indycar St Petersburg - Qualifying CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://2-fss-1.themediacdn.com/lv_broadcastviewer2/indie/chunklist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr_1080.m3u8
+                            
                             
 "noname": "Canal GT(Aqui) [COLOR white] 00:10h GT America Challenge Racing Circuito St. Petersburg. Carrera 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
