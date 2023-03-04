@@ -120,28 +120,28 @@
                             "embed": "SOL M.*?sica">'.http://212.224.84.217:2200/NL/daznf1hd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
                             
                           
-"name": "Canal F1(Aqui) [COLOR white] 10:10h G.P Fórmula 1 Baréin 2023 Clasificacion CristalAzul", 
+"noname": "Canal F1(Aqui) [COLOR white] 10:10h G.P Fórmula 1 Baréin 2023 Clasificacion CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cdnul194.cloudrsst.com/hls/ff1/playlist.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1673636583~exp=9007200928377574~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=d7b69a27d91d04bd6e470af605d08bc81b29a493587366e511a70c751b0794a7                            
                            
 
-"noname": "Canal INDY(Aqui) [COLOR white] 21:05h Indycar - St Petersburg - Libres 1 CristalAzul", 
+"noname": "Canal INDY(Aqui) [COLOR white] 16:00h Indycar St Petersburg - Libres 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://2-fss-1.themediacdn.com/lv_broadcastviewer2/indie/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr_1080.m3u8
                             
 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 22:45h Nascar Truck Xfinity Series - Las Vegas. Libres CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 19:35h Nascar Truck Xfinity Series - Las Vegas. Libres CristalAzul", 
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd85.mycdn.me/hls/3703719987738.m3u8/sig/3Bf_ofcu_jI/expires/1677965614692/srcIp/95.17.170.240/urls/45.136.22.65/clientType/13/srcAg/CHROME_ANDROID/mid/4619989166874/3703719987738_high/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.  
                            
                             
-"noname": "Canal NASCAR(Aqui) [COLOR white] 22:45h Nascar Truck Xfinity Series - Las Vegas CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 19:35h Nascar Truck Xfinity Series - Las Vegas Libres CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://2-fss-1.themediacdn.com/lv_broadcastviewer2/nasca/chunklist.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
