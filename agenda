@@ -98,19 +98,27 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
 
+
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Cup Series - Las Vegas Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://vkvsd52.mycdn.me/hls/3716608887322.m3u8/sig/oxph6BjJ6ag/expires/1678117579474/srcIp/185.124.31.251/urls/45.136.20.35/clientType/13/srcAg/CHROME_ANDROID/mid/4629960403738/3716608887322_high/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Cup Series - Las Vegas Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+
 "name": "Canal INDY(Aqui) [COLOR white] 18:15h Indycar St Petersburg - Carrera CristalAzul", 
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd93.mycdn.me/hls/3712259852826.m3u8/sig/q7xTH1YY4ek/expires/1678085137391/srcIp/95.17.170.240/urls/185.226.53.63/clientType/13/srcAg/CHROME_ANDROID/mid/4626421197594/3712259852826_high/index.m3u8"', 
+                            "url": "https://vkvsd52.mycdn.me/hls/3716608887322.m3u8/sig/oxph6BjJ6ag/expires/1678117579474/srcIp/185.124.31.251/urls/45.136.20.35/clientType/13/srcAg/CHROME_ANDROID/mid/4629960403738/3716608887322_high/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                            
-"name": "Canal F1(Aqui) [COLOR white] G.P Fórmula 1 Baréin 2023 Carrera CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd93.mycdn.me/hls/3712259852826.m3u8/sig/q7xTH1YY4ek/expires/1678085137391/srcIp/95.17.170.240/urls/185.226.53.63/clientType/13/srcAg/CHROME_ANDROID/mid/4626421197594/3712259852826_high/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                           
-
 
 "name": "Canal F1(Aqui) [COLOR white] G.P Fórmula 1 Baréin 2023 Carrera CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -139,14 +147,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.  
                            
-                            
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Cup Series - Las Vegas Carrera CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-                            
-                                                                                    
+                                                                                   
 "noname": "Canal INDY(Aqui) [COLOR white] 20:15h Indycar St Petersburg - Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://2-fss-1.themediacdn.com/lv_broadcastviewer2/indie/chunklist.m3u8"',
