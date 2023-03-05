@@ -113,7 +113,7 @@
                             "embed": "SOL M.*?sica">'.https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 
-"name": "Canal INDY(Aqui) [COLOR white] 18:15h Indycar St Petersburg - Carrera CristalAzul", 
+"noname": "Canal INDY(Aqui) [COLOR white] 18:15h Indycar St Petersburg - Carrera CristalAzul", 
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd52.mycdn.me/hls/3716608887322.m3u8/sig/oxph6BjJ6ag/expires/1678117579474/srcIp/185.124.31.251/urls/45.136.20.35/clientType/13/srcAg/CHROME_ANDROID/mid/4629960403738/3716608887322_high/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -140,13 +140,6 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Cup Series - Las Vegas Carrera CristalAzul", 
-                            "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.  
-                           
                                                                                    
 "noname": "Canal INDY(Aqui) [COLOR white] 20:15h Indycar St Petersburg - Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
