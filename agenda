@@ -113,7 +113,14 @@
                             "embed": "SOL M.*?sica">'.http://212.224.84.217:2200/NL/daznf1hd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
 
-"noname": "Canal KART(Aqui) [COLOR white] 09:45h IAME Euro Series Racing. Zuera Ronda 1 CristalAzul", 
+"name": "Canal WSK(Aqui) [COLOR white] 10:15h WSK Super Master Series. Sarno Ronda 3 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+
+"name": "Canal IAME(Aqui) [COLOR white] 10:15h IAME Euro Series Racing. Zuera Ronda 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu_1.m3u8?start=2023-03-04T08:45:00+00:00"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -148,7 +155,7 @@
                             "embed": "SOL M.*?sica">'.http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8                                                                                   
                             
 
-"name": "Canal CUP(Aqui) [COLOR white] 22:50h Mazda MX-5 Cup At Petersburg. Carrera 2 CristalAzul", 
+"noname": "Canal CUP(Aqui) [COLOR white] 22:50h Mazda MX-5 Cup At Petersburg. Carrera 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://play-tencent.yrys365.com/live/imsa.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -162,7 +169,7 @@
                             "embed": "SOL M.*?sica">'.http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8 
                         
                             
-"name": "Canal CUP(Aqui) [COLOR white] 12:10h Porsche Cup Brasil. Ronda 1 Interlagos. Carrera CristalAzul", 
+"noname": "Canal CUP(Aqui) [COLOR white] 12:10h Porsche Cup Brasil. Ronda 1 Interlagos. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2vrten0tw5eja.cloudfront.net/out/v1/41430feaf20f4896974c4b3c8208d502/push15br_2.m3u8?start=2023-03-04T11:00:00+00:00"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
