@@ -106,7 +106,7 @@
                             "embed": "SOL M.*?sica">'. http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 18:00h Nascar Xfinity Series - Phoenix Arizona.Libres + Qualifying CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 18:00h Nascar Xfinity Series - Phoenix Arizona.Libres + Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://3.p2plink.xyz:8088/hls/nascar.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
