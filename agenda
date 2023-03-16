@@ -105,9 +105,9 @@
                             "embed": "SOL M.*?sica">'.http://streaming10.huberwebmedia.at/LiveApp/streams/nascar_720p.m3u8
                                                                                    
                             
-"noname": "Canal WEC(Aqui) [COLOR white] WEC - 12h of Sebring - Qualifying CristalAzul", 
+"name": "Canal WEC(Aqui) [COLOR white] WEC - 12h of Sebring - Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
                             
