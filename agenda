@@ -98,16 +98,16 @@
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                            
-"name": "Canal MOTOGP(Aqui) [COLOR white] 9:55h MOTOGP de Portugal-Portimao. Libres CristalAzul", 
+"noname": "Canal MOTOGP(Aqui) [COLOR white] 9:55h MOTOGP de Portugal-Portimao. Libres CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd90.mycdn.me/hls/3887494007322.m3u8/sig/KLe9nO9cQc4/expires/1679741950787/srcIp/37.14.131.253/urls/45.136.21.56/clientType/13/srcAg/CHROME_ANDROID/mid/4771921931034/3887494007322_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://streaming10.huberwebmedia.at/LiveApp/streams/nascar_720p.m3u8
                                                                                    
                             
-"noname": "Canal WEC(Aqui) [COLOR white] WEC - 12h of Sebring - Qualifying CristalAzul", 
+"name": "Canal FE(Aqui) [COLOR white] 20:25h Formula E San Paulo Libres 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8"',
+                            "url": "https://livestream.elmarmasport.com/live/battery_720p2628kbs/index.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
                             
