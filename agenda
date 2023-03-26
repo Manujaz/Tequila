@@ -91,7 +91,7 @@
                             "embed": "SOL M.*?sica">'.
  
  
-"name": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
+"noname": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -106,18 +106,18 @@
                             "embed": "SOL M.*?sica">'.http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                            
                             
                            
-"name": "Canal MOTOGP(Aqui) [COLOR white] 9:45h MOTOGP de Portugal-Portimao. Carrera CristalAzul", 
+"noname": "Canal MOTOGP(Aqui) [COLOR white] 9:45h MOTOGP de Portugal-Portimao. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd91.mycdn.me/hls/3907261434394.m3u8/sig/YzFooj0GIC4/expires/1679923770388/srcIp/37.14.131.253/urls/45.136.21.62/clientType/13/srcAg/CHROME_ANDROID/mid/4788413803290/3907261434394_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://streaming10.huberwebmedia.at/LiveApp/streams/nascar_720p.m3u8
                             
                             
-"name": "Canal MOTOGP(Aqui) [COLOR white] 9:45h MOTOGP de Portugal-Portimao. Clasificacion CristalAzul", 
+"noname": "Canal MOTOGP(Aqui) [COLOR white] 9:45h MOTOGP de Portugal-Portimao. Clasificacion CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://212-71-251-45.ip.linodeusercontent.com:8080/hls/moto/chunks.m3u8?nimblesessionid=83"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
+                            "embed": "SOL M.*?sica">'. http://212-71-251-45.ip.linodeusercontent.com:8080/hls/moto/chunks.m3u8?nimblesessionid=83                          
                                                                                    
                             
 "noname": "Canal FE(Aqui) [COLOR white] 11:25h Formula E San Paulo Libres 1 CristalAzul", 
