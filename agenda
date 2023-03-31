@@ -120,9 +120,9 @@
                             "embed": "SOL M.*?sica">'. http://212-71-251-45.ip.linodeusercontent.com:8080/hls/moto/chunks.m3u8?nimblesessionid=83                          
                                                                                    
                             
-"noname": "Canal FE(Aqui) [COLOR white] 11:25h Formula E San Paulo Libres 1 CristalAzul", 
+"name": "Canal MOTOGP(Aqui) [COLOR white] 14:00/20:00h Gran Premio Michelin de la República Argentina CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://li1499-79.members.linode.com/live/battery/index.m3u8"',
+                            "url": "http://live.una.io/app/moto/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
          
