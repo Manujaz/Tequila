@@ -91,7 +91,7 @@
                             "embed": "SOL M.*?sica">'.
  
  
-"noname": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
+"name": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -99,14 +99,14 @@
                             https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                             
                             
-"noname": "Canal NASCAR(Aqui) [COLOR white] 16:20h NASCAR Xfinity Racing Series. Pit Boss 250 Qualifying CristalAzul", 
+"noname": "Canal F1(Aqui) [COLOR white] 3:00h Gran Premio de Australia de Fórmula 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://li1499-79.members.linode.com/live/nasca/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                            
                             
                            
-"noname": "Canal MOTOGP(Aqui) [COLOR white] 9:45h MOTOGP de Portugal-Portimao. Carrera CristalAzul", 
+"name": "Canal F1(Aqui) [COLOR white] 3:00h Gran Premio de Australia de Fórmula 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd91.mycdn.me/hls/3907261434394.m3u8/sig/YzFooj0GIC4/expires/1679923770388/srcIp/37.14.131.253/urls/45.136.21.62/clientType/13/srcAg/CHROME_ANDROID/mid/4788413803290/3907261434394_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
