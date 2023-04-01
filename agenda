@@ -113,14 +113,14 @@
                             "embed": "SOL M.*?sica">'.http://streaming10.huberwebmedia.at/LiveApp/streams/nascar_720p.m3u8
                             
                             
-"name": "Canal MOTOGP(Aqui) [COLOR white] 18:15/20:00h Gran Premio Michelin de la República Argentina CristalAzul", 
+"name": "Canal MOTOGP(Aqui) [COLOR white] 19:15/20:00h Gran Premio Michelin de la República Argentina CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd77.mycdn.me/hls/3965780232730.m3u8/sig/QodyWucIYYk/expires/1680435519745/srcIp/37.14.131.253/urls/45.136.20.63/clientType/13/srcAg/CHROME_ANDROID/mid/4839018212122/3965780232730_fullhd/index.m3u8"',
+                            "url": "https://vkvsd66.mycdn.me/hls/3968275974682.m3u8/sig/8x-wHQxDSLI/expires/1680455334745/srcIp/37.14.131.253/urls/45.136.20.57/clientType/13/srcAg/CHROME_ANDROID/mid/4840937302810/3968275974682_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://212-71-251-45.ip.linodeusercontent.com:8080/hls/moto/chunks.m3u8?nimblesessionid=83                          
                                                                                    
                             
-"name": "Canal MOTOGP(Aqui) [COLOR white]  Gran Premio Michelin de la República Argentina CristalAzul", 
+"noname": "Canal MOTOGP(Aqui) [COLOR white] 19:15/20:00h Gran Premio Michelin de la República Argentina CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://23.237.196.99:680/hls/moto/hls.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
