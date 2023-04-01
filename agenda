@@ -97,16 +97,30 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://190.83.119.254:8000/play/a0xq/index.m3u8
                             https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
-                            
-                            
-"noname": "Canal F1(Aqui) [COLOR white] Gran Premio de Australia de Fórmula 1 CristalAzul", 
+
+
+"name": "Canal NASCAR(Aqui) [COLOR white] 22:30h Nascar Truck Series - Richmond Texas Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd71.mycdn.me/hls/3962870041114.m3u8/sig/vrCvi4uA1lw/expires/1680405448423/srcIp/37.14.131.253/urls/45.136.20.57/clientType/13/srcAg/CHROME_ANDROID/mid/4836713638682/3962870041114_fullhd/index.m3u8"',
+                            "url": "http://pull-l3-cny.douyincdn.com/hls/nasca.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://streaming10.huberwebmedia.at/LiveApp/streams/nascar_720p.m3u8
+                            
+                                                        
+"name": "Canal NASCAR(Aqui) [COLOR white] 22:30h Nascar Truck Series - Richmond Texas Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
+                            "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://3.p2plink.xyz:8088/hls/supercars.m3u8?
+                            
+                            
+"name": "Canal F1(Aqui) [COLOR white] 1:55h Gran Premio de Australia de Fórmula 1 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://vkvsd60.mycdn.me/hls/3970555513370.m3u8/sig/Kt-Ek_2EYhM/expires/1680476512800/srcIp/37.14.131.253/urls/45.136.20.35/clientType/13/srcAg/CHROME_ANDROID/mid/4842705267482/3970555513370_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                            
                             
                            
-"noname": "Canal F1(Aqui) [COLOR white] Gran Premio de Australia de Fórmula 1 CristalAzul", 
+"noname": "Canal F1(Aqui) [COLOR white] 1:55h Gran Premio de Australia de Fórmula 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://134.209.238.38/hls/ff1.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -125,22 +139,8 @@
                             "url": "http://23.237.196.99:680/hls/moto/hls.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-         
-         
-"name": "Canal NASCAR(Aqui) [COLOR white] 22:30h Nascar Truck Series - Richmond Texas Carrera CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://pull-l3-cny.douyincdn.com/hls/nasca.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://streaming10.huberwebmedia.at/LiveApp/streams/nascar_720p.m3u8
-                            
-                                                        
-"name": "Canal NASCAR(Aqui) [COLOR white] 22:30h Nascar Truck Series - Richmond Texas Carrera CristalAzul", 
-                            "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
-                            "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://3.p2plink.xyz:8088/hls/supercars.m3u8?                            
-                            
-                            
+ 
+ 
 "noname": "Canal NASCAR(Aqui) [COLOR white] NASCAR Cup Series 2023 Ambetter Health 400 at Atlanta CristalAzul", 
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd45.mycdn.me/hls/3872321505818.m3u8/sig/LCPQFa0VO_k/expires/1679529190777/srcIp/37.14.131.253/urls/45.136.20.47/clientType/13/srcAg/CHROME_ANDROID/mid/4760713308954/3872321505818_fullhd/index.m3u8"', 
