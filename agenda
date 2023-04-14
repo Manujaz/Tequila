@@ -1110,14 +1110,14 @@
                             "embed": "SOL M.*?sica">'.http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/89.chunklist_w4667732286.m3u8
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] 11 INTERNACIONAL CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] 11 INTERNACIONAL CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
                             "url": "https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                                                         
-"name": "CanalFavorito (Aqui) [COLOR white] CARS TV CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] CARS TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1131,7 +1131,7 @@
                             "embed": "SOL M.*?sica">'.                             
                                                                                                                                                                                                                                                                                       
                                                                                                                                          
-"name": "CanalFavorito (Aqui) [COLOR white] MMA 1 TV CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] MMA 1 TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
