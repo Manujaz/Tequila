@@ -138,25 +138,18 @@
                             "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb/variant.m3u8?url=df06c3e1a43ccad9bba8ab1326095de3-d90d60eae77933cf684c455869f75c0f9d01187dbaed5ad3d2f4807c494f0889485a18bfa4a071837294d7d517d5f1beeb4ae06f5945a373839bd7881fc35b5b625be1ca6e7ca8c2bd2000ddfa3763f2fa68c8b3dae40eaef22889797e2a376f951a5c2d5cd5113825d27b5ff1c4b1d28443ec4a62dfe3adff96e7f809444cc875702aaf3c78e544a2ad0c357cdde7935834759913d30e220744e1a4cc0a2624&x-plex-token=jXT5YRFxJg2x2wozavjz"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
+   
                             
-                                                                                   
 "name": "Canal INDY(Aqui) [COLOR white] 18:00h Indycar Long Beach. Warm-Up + Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://manifest-gcp-us-east4-vop1.fastly.mux.com/ek7qyqKXZhk7Jdl7s1vCWoQzxpdB017ofXzwYVgAA3dcHrOzRt8Nw01F1kzQ02ew2Lf1cDUjrUoZ01BFWnbASWuBE1zZM8kJiJtw/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1681747200&live=1&skid=default&signature=NjQzZDZkMDBfN2I5YjZiYTA3OTdjODJhYmRlMjNiOWY0MTE1YWU2ZDk1YmQ0ZDFhM2FkZWVmN2JjMzkyNGNkNjlhOWRmNTE3OA==&vsid=01POlBO00haRvXYRuHI6psBECKItBiDIlvRvthU014Bt7qgFIPSLidnSdlTdgBp2QPEyV8j1WTyF8c"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                            
-                            
-                             
-"noname": "Canal IMSA(Aqui) [COLOR white] IMSA Porsche Carrera Cup - Long Beach. Carrera CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'. http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8 
                             
                             
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Cup Series Martinsville. Carrera CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Cup Series Martinsville. Carrera CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://dumb.dd12streams.com/hls/0/stream.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                              
@@ -166,6 +159,13 @@
                             "url": "http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                                                        
+"noname": "Canal IMSA(Aqui) [COLOR white] 01:20h IMSA Porsche Carrera Cup Long Beach. Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
                             
                             
 "noname": "Canal IMSA(Aqui) [COLOR white] 23:00h IMSA Acura Grand Prix of Long Beach Carrera CristalAzul",
