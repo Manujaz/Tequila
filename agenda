@@ -126,9 +126,9 @@
                             "embed": "SOL M.*?sica">'.                             
                             
                                                         
-"name": "Canal USA(Aqui) [COLOR white] FloRacing TV USA LIVE CristalAzul", 
+"name": "Canal F4(Aqui) [COLOR white] 12:10h Italian Formula 4 Championship. Imola Carrera 1 CristalAzul", 
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
-                            "url": "https://2d53e1514676402fb2f51651d836a5cb.mediatailor.us-west-2.amazonaws.com/v1/manifest/b73527ee50f67959160f140a39a8a79538ea54a1/frequency2/b3314871-68a7-4ec4-94f1-2f2c86f5d397/1.m3u8"', 
+                            "url": "https://d34rccqbd35nnr.cloudfront.net/out/v1/c21f2b475aab4fcdabbdf03772520cfb/push5eu_1.m3u8?start=2023-04-22T10:05:00+00:00"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                           
                                
@@ -140,7 +140,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal INDY(Aqui) [COLOR white] 18:00h Indycar Long Beach. Warm-Up + Carrera CristalAzul", 
+"noname": "Canal INDY(Aqui) [COLOR white]  CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
