@@ -119,7 +119,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal WRC(Aqui) [COLOR white] 7:08h WRC Croatia 2023 Dia 4 CristalAzul", 
+"noname": "Canal WRC(Aqui) [COLOR white] 7:08h WRC Croatia 2023 Dia 4 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://s@daddy.yurendtv.biz.id/https://vkvsd70.mycdn.me/hls/4175631419930.m3u8/sig/3iqjGMCsQCc/expires/1682308336681/srcIp/37.14.131.253/urls/185.226.52.66/clientType/13/srcAg/CHROME_ANDROID/mid/5017335442202/4175631419930_fullhd/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -177,16 +177,23 @@
                             "embed": "SOL M.*?sica">'.                               
                             
                             
-"noname": "Canal NASCAR(Aqui) [COLOR white]  CristalAzul", 
+"NOname": "Canal NASCAR(Aqui) [COLOR white]------FUTBOL EN DIRECTO------ CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal SPRINT(Aqui) [COLOR white] CristalAzul", 
+"name": "[COLOR white] -----------------FUTBOL EN DIRECTO----------------------"                            
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
+                            
+                            
+"name": "Canal LALIGA(Aqui) [COLOR white] 16:15h La Liga FC Barcelona vs At. Madrid CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://s@daddy.yurendtv.biz.id/https://vkvsd19.mycdn.me/hls/4180227328538.m3u8/sig/CYckYX5ZCp8/expires/1682344378288/srcIp/37.14.131.253/urls/45.136.21.65/clientType/13/srcAg/CHROME_ANDROID/mid/5021148326682/4180227328538_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
     
