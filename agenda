@@ -105,7 +105,7 @@
                             "embed": "SOL M.*?sica">'.                            
  
  
-"name": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
+"noname": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -126,21 +126,21 @@
                             "embed": "SOL M.*?sica">'. http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                          
                             
 
-"name": "Canal F4(Aqui) [COLOR white] 10:00h Italian Formula 4 Championship. Imola Carrera 2 CristalAzul", 
+"noname": "Canal F4(Aqui) [COLOR white] 10:00h Italian Formula 4 Championship. Imola Carrera 2 CristalAzul", 
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "https://d34rccqbd35nnr.cloudfront.net/out/v1/c21f2b475aab4fcdabbdf03772520cfb/push5eu_1.m3u8?start=2023-04-22T10:05:00+00:00"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal SBK(Aqui) [COLOR white] 11:00h SBK Supersport 300 CristalAzul", 
+"noname": "Canal SBK(Aqui) [COLOR white] 11:00h SBK Supersport 300 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/eventual/oca/irtve19_main_720.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"name": "Canal LEMANS(Aqui) [COLOR white] 11:00h Michelin Le Mans Cup Barcelona Carrera CristalAzul", 
+"noname": "Canal LEMANS(Aqui) [COLOR white] 11:00h Michelin Le Mans Cup Barcelona Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2023-04-23T09:10:00+00:00"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -152,9 +152,7 @@
                             "url": "http://185.215.224.46/hls/battery.m3u8?Manujaz"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
-                            
-                            
-                             
+                                                                                    
                             
 "noname": "Canal NASCAR(Aqui) [COLOR white] 16:30h Nascar Cup Series Talladega. Practice/Qualifying CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -415,42 +413,42 @@
                             "embed": "SOL M.*?sica">'.https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8 http://45.90.106.7:7780/play/UWn751M3@Pq4J/index.m3u8
 
 
-"name": "CanalFavoritos (Aqui) [COLOR white] DAZN  CristalAzul",
+"noname": "CanalFavoritos (Aqui) [COLOR white] DAZN  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://s@daddy.yurendtv.biz.id/http://desastre3.deficoin.life/play/dazn1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavoritos (Aqui) [COLOR white] DAZN LALIGA CristalAzul",
+"noname": "CanalFavoritos (Aqui) [COLOR white] DAZN LALIGA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://50.7.89.130:8080/bxw70g/video.m3u8?token=ZKF89T31BF"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavoritos (Aqui) [COLOR white] M.LALIGA CristalAzul",
+"noname": "CanalFavoritos (Aqui) [COLOR white] M.LALIGA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://s@daddy.yurendtv.biz.id/http://desastre3.deficoin.life/play/laliga/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavoritos (Aqui) [COLOR white] M.DEPORTES CristalAzul",
+"noname": "CanalFavoritos (Aqui) [COLOR white] M.DEPORTES CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://s@daddy.yurendtv.biz.id/http://desastre3.deficoin.life/play/deportes/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
 
-"name": "CanalFavoritos (Aqui) [COLOR white] M.LIGA SMARTBANK CristalAzul",
+"noname": "CanalFavoritos (Aqui) [COLOR white] M.LIGA SMARTBANK CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://s@daddy.yurendtv.biz.id/http://desastre3.deficoin.life/play/smartbank/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.  
                                                         
                            
-"name": "CanalFavoritos (Aqui) [COLOR white] M.LIGA DE CAMPEONES CristalAzul",
+"noname": "CanalFavoritos (Aqui) [COLOR white] M.LIGA DE CAMPEONES CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://s@daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium435/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
