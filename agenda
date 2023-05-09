@@ -20,23 +20,9 @@
  =================================================
 
 
-"name": "Canal TENIS(Aqui) [COLOR white] Open Madrid Mutua RTEPLAY CristalAzul",
+"noname": "Canal TENIS(Aqui) [COLOR white] Open Madrid Mutua RTEPLAY CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8"', 
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"name": "Canal TENIS(Aqui) [COLOR white] Open Madrid Mutua CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestream.akamaized.net/rtvesec/oca/irtve17_main_720.m3u8"', 
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-                            
-                            
-"name": "Canal TENIS(Aqui) [COLOR white] Open Madrid Mutua CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestream.akamaized.net/rtvesec/oca/irtve18_main_720.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -45,14 +31,21 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream.akamaized.net/rtvesec/oca/irtve17_main_720.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://rtvelivestream.akamaized.net/rtvesec/oca/irtve18_main_720.m3u8                            
+                            "embed": "SOL M.*?sica">'. 
                             
+                            
+"noname": "Canal TENIS(Aqui) [COLOR white] Open Madrid Mutua CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                             
                             
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8
+                            "embed": "SOL M.*?sica">'.
                             
 
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
@@ -111,84 +104,77 @@
                             "embed": "SOL M.*?sica">'.http://168.228.194.32:4000/play/a076/index.m3u8
                                                                                                               
                                                                                                                                
-"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 10 CristalAzul",
+"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 10 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://51.15.9.155/EUROSPORT_2/index.m3u8"',
+                            "url": "http://51.15.9.155/EUROSPORT_1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 11 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 10 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/g.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
-"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 12 CristalAzul",
+"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 11 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/g.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
  
  
-"name": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
+"noname": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                                                       
                                                                                                                                              
-"noname": "Canal WRC(Aqui) [COLOR white]  HORAS LIVE CALENTANDO MOTORES PARA EL WRC VODAFONE RALLY PORTUGAL 2023 CristalAzul", 
+"noname": "Canal WRC(Aqui) [COLOR white] WRC VODAFONE RALLY PORTUGAL 2023 CristalAzul", 
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
-                            "url": "https://s@daddy.yurendtv.biz.id/https://vkvsd30.mycdn.me/hls/4260144417306.m3u8/sig/EWQSEQFpIPU/expires/1683107978870/srcIp/37.14.131.253/urls/185.226.52.93/clientType/13/srcAg/CHROME_ANDROID/mid/5086481034010/4260144417306_fullhd/index.m3u8"', 
+                            "url": "https://s@daddy.yurendtv.biz.id/"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal KARTING(Aqui) [COLOR white] 9:50h KARTING Champions of the Future. Ronda 3 Trinec CristalAzul", 
+"noname": "Canal WRC(Aqui) [COLOR white] WRC VODAFONE RALLY PORTUGAL 2023 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8?start=2023-05-05T08:30:00+00:00"', 
+                            "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                             
                             
 "noname": "Canal FE(Aqui) [COLOR white] 9:25h Formula E - Monaco - Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cdn.video.swagzone.win/hls/battery/index.m3u8"', 
+                            "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                                                                                    
                             
 "noname": "Canal NASCAR(Aqui) [COLOR white] 9:55h NASCAR Whelen Euro Series. Valencia Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d34rccqbd35nnr.cloudfront.net/out/v1/c21f2b475aab4fcdabbdf03772520cfb/push5eu_1.m3u8?start=2023-05-06T07:50:00+00:00"', 
+                            "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                          
+                           
                             
-                            
-"noname": "Canal ERC(Aqui) [COLOR white] 10:45h ERC Rally Gran Canarias CristalAzul", 
-                            "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
-                            "url": "https://s@daddy.yurendtv.biz.id/https://vkvsd3.mycdn.me/hls/4308336577050.m3u8/sig/e5WLdYsjtp4/expires/1683448397035/srcIp/37.14.131.253/urls/185.226.53.53/clientType/13/srcAg/CHROME_ANDROID/mid/5129830607642/4308336577050_fullhd/index.m3u8"', 
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
-"noname": "Canal WSBK(Aqui) [COLOR white] 21:00h G.P. Cataluña, Circuito de Montmeló SuperBikes + SuperSport - Libres 1-2 CristalAzul", 
+"noname": "Canal WSBK(Aqui) [COLOR white]  CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn.video.swagzone.win/hls/wsbk/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "Canal FE(Aqui) [COLOR white] h Formula E - Monaco - Qualifying CristalAzul", 
+"noname": "Canal FE(Aqui) [COLOR white]  CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cdn.video.swagzone.win/hls/battery/index.m3u8?Manujaz"', 
+                            "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2023-04-23T09:10:00+00:00                                                                                  
  http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8 
  
-"name": "Canal F1(Aqui) [COLOR white] 21:00h F1 Miami Grand Prix - Carrera CristalAzul", 
+"noname": "Canal F1(Aqui) [COLOR white] 21:00h F1 Miami Grand Prix - Carrera CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd14.mycdn.me/hls/4331750230554.m3u8/sig/SzSkuZtcw20/expires/1683580625322/srcIp/37.14.131.253/urls/185.226.53.83/clientType/13/srcAg/CHROME_ANDROID/mid/5151154055962/4331750230554_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -216,7 +202,7 @@
                             "embed": "SOL M.*?sica">'.                               
                             
                             
-"NOname": "Canal NASCAR(Aqui) [COLOR white]------FUTBOL EN DIRECTO------ CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white]------FUTBOL EN DIRECTO------ CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
