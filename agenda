@@ -143,16 +143,9 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://s@daddy.yurendtv.biz.id/https://vkvsd30.mycdn.me/hls/4396827937306.m3u8/sig/cCCpUcqkI9U/expires/1683962128742/srcIp/84.78.249.12/urls/45.136.20.62/clientType/13/srcAg/CHROME_ANDROID/mid/5212446993178/4396827937306_fullhd/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
+                            "embed": "SOL M.*?sica">'.
                             
-                            
-"noname": "Canal INDY(Aqui) [COLOR white] INDYCAR Indianápolis 2023 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-                                                                                   
-                            
+                           
 "noname": "Canal NASCAR(Aqui) [COLOR white] 21:10h NASCAR Craftsman Truck Series Race At Darlington CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://128.199.114.2:8080/hls/nasca.m3u8"', 
@@ -174,7 +167,15 @@
                             "embed": "SOL M.*?sica">'. https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2023-04-23T09:10:00+00:00                                                                                  
  http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8 
  
-"noname": "Canal F1(Aqui) [COLOR white] 21:00h F1 Miami Grand Prix - Carrera CristalAzul", 
+ 
+ "name": "Canal INDY(Aqui) [COLOR white] 22:00h INDYCAR Indianápolis 2023 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://manifest-gcp-us-east1-vop1.fastly.mux.com/aUV64bW9IbOLGWiJoO4yB3rcFrNDbR4ZX02cJdOvBuNkcN6wlhj00600G3nTpoE55hBTADw9RkCAD2o01mbB1aGXSF8Y11l8XIII/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1684007700&live=1&skid=default&signature=NjQ1ZmViMTRfN2VhY2E0YzkzZTRmYjVlMzZhOTE5NGEzZDJmM2JhOTllMTMzZjJhMjM4OWU5N2MzMjU0Mzc5YzBiNDllNjY0ZQ==&vsid=01uUfNvbV00HPde3yaCEnjGvRSv1CilFnf00AnJDYANVeGAj02xm76w00VX3JxI006Ud8j21Rx4nj4hKI"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+                            
+ 
+"noname": "Canal F1(Aqui) [COLOR white] CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd14.mycdn.me/hls/4331750230554.m3u8/sig/SzSkuZtcw20/expires/1683580625322/srcIp/37.14.131.253/urls/185.226.53.83/clientType/13/srcAg/CHROME_ANDROID/mid/5151154055962/4331750230554_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
