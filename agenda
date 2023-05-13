@@ -145,21 +145,21 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                            
+                          
+"name": "Canal INDYCAR(Aqui) [COLOR white] 19:35h GP IndyCar de Indianápolis. Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://manifest-gcp-us-east1-vop1.cfcdn.mux.com/3IpiTqFp24bJoFqtrLjpLf8l700jUfCNxVcM02tZ48QGUaH3eKscjCED9zlr7RLsYzhrp2BBmeYlKIdPmuFUC2rsDM0000ILREQf/rendition.m3u8?cdn=cloudflare&exclude_pdt=false&expires=1684083540&live=1&skid=default&signature=NjQ2MTEzNTRfOWVlMTAwNTQ1Y2QwODcxMjlkNGY3NTEzNTQxMWEzODgxN2QyMTUzNThjMmJjNDZmYjg4NzZlNjIyMGMyNzViYg==&vsid=7SRZzpGv5HJ4DLNVhDjHn01R3FG71s971GQouOtHDmO2XCmiS01IYhh2NTCEQfcYA1Im5XwScW5HM"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                          
+                           
+
 "noname": "Canal CUP(Aqui) [COLOR white] 20:50h Mazda X5 Cup Laguna Seca. Carrera 1 CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
-                           
-"noname": "Canal INDYCAR(Aqui) [COLOR white] 21:35h GP IndyCar de Indianápolis. Carrera CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                          
-                           
-                            
+                            "embed": "SOL M.*?sica">'.
+
+
 "noname": "Canal CUP(Aqui) [COLOR white] 19:35h Porsche Cup Brasil. Ronda 3 Interlagos Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2vrten0tw5eja.cloudfront.net/out/v1/41430feaf20f4896974c4b3c8208d502/push15br_1.m3u8?start=2023-05-12T17:30:00+00:00"',
