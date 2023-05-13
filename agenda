@@ -153,19 +153,19 @@
                             "embed": "SOL M.*?sica">'. http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                          
                            
 
+"name": "Canal CUP(Aqui) [COLOR white] 20:00h Porsche Cup Brasil. Ronda 3 Interlagos CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8?start=2023-05-12T19:30:00+00:00"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. 
+
+
 "noname": "Canal CUP(Aqui) [COLOR white] 20:50h Mazda X5 Cup Laguna Seca. Carrera 1 CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
-
-"noname": "Canal CUP(Aqui) [COLOR white] 19:35h Porsche Cup Brasil. Ronda 3 Interlagos Qualifying CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d2vrten0tw5eja.cloudfront.net/out/v1/41430feaf20f4896974c4b3c8208d502/push15br_1.m3u8?start=2023-05-12T17:30:00+00:00"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                            
                             
 "noname": "Canal DRIFT(Aqui) [COLOR white] 21:45h Formula Drift. Ronda 2 Atlanta - ProSpec CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -174,15 +174,14 @@
                             "embed": "SOL M.*?sica">'. https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2023-04-23T09:10:00+00:00                                                                                  
  http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8 
  
- 
- "noname": "Canal INDY(Aqui) [COLOR white] 22:00h INDYCAR Indianápolis 2023 CristalAzul", 
+"noname": "Canal INDY(Aqui) [COLOR white] 22:00h INDYCAR Indianápolis 2023 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://manifest-gcp-us-east1-vop1.fastly.mux.com/aUV64bW9IbOLGWiJoO4yB3rcFrNDbR4ZX02cJdOvBuNkcN6wlhj00600G3nTpoE55hBTADw9RkCAD2o01mbB1aGXSF8Y11l8XIII/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1684007700&live=1&skid=default&signature=NjQ1ZmViMTRfN2VhY2E0YzkzZTRmYjVlMzZhOTE5NGEzZDJmM2JhOTllMTMzZjJhMjM4OWU5N2MzMjU0Mzc5YzBiNDllNjY0ZQ==&vsid=01uUfNvbV00HPde3yaCEnjGvRSv1CilFnf00AnJDYANVeGAj02xm76w00VX3JxI006Ud8j21Rx4nj4hKI"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                                                                                         
                             
-"noname": "Canal NASCAR(Aqui) [COLOR white] 16:30h Nascar Cup Series Talladega. Practice/Qualifying CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white]  CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://185.215.224.46/hls/nasca.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
