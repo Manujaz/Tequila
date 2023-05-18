@@ -146,9 +146,9 @@
                             "embed": "SOL M.*?sica">'. http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                            
                             
                             
-"noname": "Canal CUP(Aqui) [COLOR white] 18:05h INDYCAR Series 500 CristalAzul", 
+"name": "Canal CUP(Aqui) [COLOR white] 18:05h INDYCAR Series 500 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "https://manifest-gcp-us-east4-vop1.cfcdn.mux.com/iBx9pZRw974q00EXqeuaNm01NIjzYGNzyvB9SeTJD5xktKWauBQa7OmF5NaKlCEjK01AXNTF9vFyIILGz42N10100mXZlPef00DFKs/rendition.m3u8?cdn=cloudflare&exclude_pdt=false&expires=1684512480&live=1&skid=default&signature=NjQ2NzllZTBfOWFhMWNlNThhNzQwMzUwODg2M2Y5YjZhZWNmYjM2N2JkNzU3MjU2ZDlmOGQ5NjRmZDdmMzk0YjgyYzg2NjhiNA==&vsid=fvtNTJU01TK7E5OTIGeK700r01H00se8RUEuZ1a7Mqe00FIbCTxX300ZNBGTmkRL024CujpeXy9pC01ShWg"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                        
