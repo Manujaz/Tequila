@@ -146,9 +146,9 @@
                             "embed": "SOL M.*?sica">'. http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                            
                             
                             
-"noname": "Canal INDY(Aqui) [COLOR white] 18:05h 500 Millas de Indianápolis CristalAzul", 
+"name": "Canal INDY(Aqui) [COLOR white] 18:10h 500 Millas de Indianápolis CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://manifest-gcp-us-east4-vop1.cfcdn.mux.com/iBx9pZRw974q00EXqeuaNm01NIjzYGNzyvB9SeTJD5xktKWauBQa7OmF5NaKlCEjK01AXNTF9vFyIILGz42N10100mXZlPef00DFKs/rendition.m3u8?cdn=cloudflare&exclude_pdt=false&expires=1684512480&live=1&skid=default&signature=NjQ2NzllZTBfOWFhMWNlNThhNzQwMzUwODg2M2Y5YjZhZWNmYjM2N2JkNzU3MjU2ZDlmOGQ5NjRmZDdmMzk0YjgyYzg2NjhiNA==&vsid=fvtNTJU01TK7E5OTIGeK700r01H00se8RUEuZ1a7Mqe00FIbCTxX300ZNBGTmkRL024CujpeXy9pC01ShWg"', 
+                            "url": "https://manifest-gcp-us-east1-vop1.fastly.mux.com/b02kdPIgJRpSE8W8NcTRFElRF1UzYXv6FPy6pK01auGSv8Jv8Wv4H02Kgjj802C4FknqJ6z79tynlH18hflkh1N7BWVRSC7MC1ST/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1684598040&live=1&skid=default&signature=NjQ2OGVkMThfMDY4MWJjNWY2ZjEzM2QxYTljZTFjMzg2ZDhmMTM4MzgzMDgxYWNjMmI3NjQ2NzZjYWIyYTUwOGZmNWQ2NjgxNw==&vsid=Rvpi6zrXgZeHh01gBs00bWstf9VJ6OtoquJwTmCcUIYhbRdmzRsasBcyNYtR8JCC5jha9BL71qRwQ"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                        
