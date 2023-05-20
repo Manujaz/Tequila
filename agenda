@@ -137,6 +137,13 @@
                             "url": "https://vkvsd3.mycdn.me/hls/4503524936218.m3u8/sig/JVxrTYF3sMo/expires/1684651079943/srcIp/37.14.131.253/urls/185.226.52.45/clientType/13/srcAg/CHROME_ANDROID/mid/5312209496858/4503524936218_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+                            
+                            
+"noname": "Canal INDY(Aqui) [COLOR white] 14:35h 500 Millas de Indianápolis CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.                            
 
 
 "name": "Canal 24H(Aqui) [COLOR white] 14:55h 24 Horas de Nürburgring. Carrera CristalAzul", 
@@ -151,14 +158,7 @@
                             "url": "https://d1a5pof9bie5vb.cloudfront.net/2023/WORLD_DIRTY_LAGUNA_SECA_14MAY2023_LST/WORLD_DIRTY_LAGUNA_SECA_14MAY2023_LST_master_08.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                            
-                            
-                            
-"noname": "Canal INDY(Aqui) [COLOR white] 14:35h 500 Millas de Indianápolis CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://manifest-gcp-us-east1-vop1.fastly.mux.com/b02kdPIgJRpSE8W8NcTRFElRF1UzYXv6FPy6pK01auGSv8Jv8Wv4H02Kgjj802C4FknqJ6z79tynlH18hflkh1N7BWVRSC7MC1ST/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1684598040&live=1&skid=default&signature=NjQ2OGVkMThfMDY4MWJjNWY2ZjEzM2QxYTljZTFjMzg2ZDhmMTM4MzgzMDgxYWNjMmI3NjQ2NzZjYWIyYTUwOGZmNWQ2NjgxNw==&vsid=Rvpi6zrXgZeHh01gBs00bWstf9VJ6OtoquJwTmCcUIYhbRdmzRsasBcyNYtR8JCC5jha9BL71qRwQ"', 
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                                                       
+                                                        
 
 "noname": "Canal INDY(Aqui) [COLOR white] 14:55h INDYCAR Series 500 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
