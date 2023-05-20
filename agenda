@@ -139,16 +139,16 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal INDY(Aqui) [COLOR white] 14:35h 500 Millas de Indianápolis CristalAzul", 
+"name": "Canal INDY(Aqui) [COLOR white] 500 Millas de Indianápolis CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://manifest-gcp-us-east4-vop1.cfcdn.mux.com/3ZCdTydyJ4wiYiVV7avYxUsYGVhXqAN01RI022vgHnxNyxxp01GcKPKNyqsYFkc9JssaokWGhhnegw4IeQClWbevhwMOxkThXnT/rendition.m3u8?cdn=cloudflare&exclude_pdt=false&expires=1684671480&live=1&skid=default&signature=NjQ2YTBiZjhfM2IxOTk5OTdmOTU2NGZkMTBlNGQxODM2NjMzOGI0NTQ3ZjRmZGUyYTFlNTQ2YzY3YTk3MzFkYjBmYmU3ZmFlZQ==&vsid=lJ8mVG1QX00kh17dCKyTW91JhDVuq5ADV0202yLlydi7B5H9VdIvd01SX6sB6hUQKAu01kaFaAd01mogk"', 
+                            "url": "https://manifest-gcp-us-east4-vop1.fastly.mux.com/OLZI02L51Lfyqoojtph5WLlaDdrYVe101e3iV6P02yxG00WJkExHo9I9008j4IbB003026I02VioowJxjswCZhmbFdqX9tUE2m99eUJs/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1684684800&live=1&skid=default&signature=NjQ2YTQwMDBfNTFkZDM1MTQwOTk0ZWRlMTQzY2Y2YjVjZTA2ZWFmYTc3NTNjNzhkMzM2MzNjMWJkOGM2MDdkNmI4ODM0MGIwMA==&vsid=DXwnpHRsJ97xQANR01WbdBfa9GETLfM2exf1Sa1xU3A8cSPxrD00xCf1VegtvCnr6MUFJ9ZqVmGQ8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
 
 
-"name": "Canal 24H(Aqui) [COLOR white] 14:55h 24 Horas de Nürburgring. Carrera CristalAzul", 
+"name": "Canal 24H(Aqui) [COLOR white] 24 Horas de Nürburgring. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
-                            "url": "https://ddn49b9kduilt.cloudfront.net/out/v1/a6e6d44c28d84123ac60e29b1d313021/push9eu_1.m3u8?start=2023-05-18T11:00:00.000Z"',
+                            "url": "https://ddn49b9kduilt.cloudfront.net/out/v1/a6e6d44c28d84123ac60e29b1d313021/push9eu_1.m3u8?start=2023-05-20T12:45:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -174,9 +174,9 @@
                             "embed": "SOL M.*?sica">'. https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2023-04-23T09:10:00+00:00                                                                                  
  http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8 
  
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:30h Nascar Truck Series. All-Star at North Wilkesboro. Libres CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] Nascar Truck Series. All-Star at North Wilkesboro CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://fra1.angelthump.com/hls/MjAyMy0wNS0xOVQxOTowMjoxMy4xNjlaZGQxMg==_dd12/index.m3u8"', 
+                            "url": "https://fra1.angelthump.com/hls/MjAyMy0wNS0yMFQxNjozMTozMC41MDNaZGQxMg==_dd12_medium/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
                                                                                         
