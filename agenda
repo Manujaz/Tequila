@@ -132,14 +132,14 @@
                             "embed": "SOL M.*?sica">'.https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                                                       
 
-"name": "Canal ERC(Aqui) [COLOR white] 8:45h ERC ORLEN 79th Rally Poland CristalAzul", 
+"name": "Canal ERC(Aqui) [COLOR white] 8:00h ERC ORLEN 79th Rally Poland CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd3.mycdn.me/hls/4503524936218.m3u8/sig/JVxrTYF3sMo/expires/1684651079943/srcIp/37.14.131.253/urls/185.226.52.45/clientType/13/srcAg/CHROME_ANDROID/mid/5312209496858/4503524936218_fullhd/index.m3u8"',
+                            "url": "https://vkvsd3.mycdn.me/hls/4518106434074.m3u8/sig/PMDM_EgQ3X4/expires/1684732507032/srcIp/37.14.131.253/urls/45.136.21.62/clientType/13/srcAg/CHROME_ANDROID/mid/5325677865754/4518106434074_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "Canal INDY(Aqui) [COLOR white] 500 Millas de Indianápolis CristalAzul", 
+"noname": "Canal INDY(Aqui) [COLOR white] 500 Millas de Indianápolis CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://manifest-gcp-us-east4-vop1.fastly.mux.com/OLZI02L51Lfyqoojtph5WLlaDdrYVe101e3iV6P02yxG00WJkExHo9I9008j4IbB003026I02VioowJxjswCZhmbFdqX9tUE2m99eUJs/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1684684800&live=1&skid=default&signature=NjQ2YTQwMDBfNTFkZDM1MTQwOTk0ZWRlMTQzY2Y2YjVjZTA2ZWFmYTc3NTNjNzhkMzM2MzNjMWJkOGM2MDdkNmI4ODM0MGIwMA==&vsid=DXwnpHRsJ97xQANR01WbdBfa9GETLfM2exf1Sa1xU3A8cSPxrD00xCf1VegtvCnr6MUFJ9ZqVmGQ8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -174,7 +174,7 @@
                             "embed": "SOL M.*?sica">'. https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2023-04-23T09:10:00+00:00                                                                                  
  http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8 
  
-"name": "Canal NASCAR(Aqui) [COLOR white] Nascar Truck Series. All-Star at North Wilkesboro CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] Nascar Truck Series. All-Star at North Wilkesboro CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://fra1.angelthump.com/hls/MjAyMy0wNS0yMFQxNjozMTozMC41MDNaZGQxMg==_dd12_medium/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -258,14 +258,14 @@
                             "embed": "SOL M.*?sica">'.                            
                               
                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-"name": "[COLOR white] -----------------NOCHE DE PELEA----------------------"                            
+"noname": "[COLOR white] -----------------NOCHE DE PELEA----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.  
                             
                                                        
-"name": "Canal UFC(Aqui) [COLOR white] 23:30h Premilinares + Pelea UFC Fight Night ->Dern vs Hill CristalAzul",
+"noname": "Canal UFC(Aqui) [COLOR white] 23:30h Premilinares + Pelea UFC Fight Night ->Dern vs Hill CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd14.mycdn.me/hls/4513958857242.m3u8/sig/KUU1VVe5kFk/expires/1684704097303/srcIp/37.14.131.253/urls/45.136.21.55/clientType/13/srcAg/CHROME_ANDROID/mid/5321396333338/4513958857242_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos. php",
