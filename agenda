@@ -138,8 +138,22 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
- 
-"name": "Canal 24H(Aqui) [COLOR white] 24 Horas de Nürburgring. Carrera CristalAzul", 
+                            
+"name": "Canal TRUCKS(Aqui) [COLOR white] 13:25h FIA European Truck Racing Championship Misano. Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d16j8hv91h3y11.cloudfront.net/out/v1/3891334cce9a48acb8ee410140ba393c/push6eu_1.m3u8?start=2023-05-20T13:40:00.000Z"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"noname": "Canal INDY(Aqui) [COLOR white] 14:55h INDYCAR Series 500 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+                            
+                            
+"name": "Canal 24H(Aqui) [COLOR white] --DIRECTO-- 24 Horas de Nürburgring. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "https://ddn49b9kduilt.cloudfront.net/out/v1/a6e6d44c28d84123ac60e29b1d313021/push9eu_1.m3u8?start=2023-05-20T12:45:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -158,14 +172,7 @@
                             "url": "https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1280x720.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                            
-                                                        
-
-"noname": "Canal INDY(Aqui) [COLOR white] 14:55h INDYCAR Series 500 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://g1o.empek.xyz/o/500.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-
+    
                             
 "name": "Canal KARTS(Aqui) [COLOR white] FIA Karting Europe Racing CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -173,17 +180,10 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2023-04-23T09:10:00+00:00                                                                                  
  http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8 
- 
-"noname": "Canal NASCAR(Aqui) [COLOR white] Nascar Truck Series. All-Star at North Wilkesboro CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://fra1.angelthump.com/hls/MjAyMy0wNS0yMFQxNjozMTozMC41MDNaZGQxMg==_dd12_medium/index.m3u8"', 
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-                                                                                        
                             
 "noname": "Canal NASCAR(Aqui) [COLOR white] 21:30h Nascar Truck Series. All-Star at North Wilkesboro. Libres CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dumb.dd12streams.com/hls/0/stream.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                               
