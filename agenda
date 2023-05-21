@@ -146,13 +146,6 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal INDY(Aqui) [COLOR white] 14:55h INDYCAR Series 500 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-                            
-                            
 "name": "Canal 24H(Aqui) [COLOR white] --DIRECTO-- 24 Horas de Nürburgring. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "https://ddn49b9kduilt.cloudfront.net/out/v1/a6e6d44c28d84123ac60e29b1d313021/push9eu_1.m3u8?start=2023-05-20T12:45:00.000Z"',
@@ -179,23 +172,23 @@
                             "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8?start=2023-05-21T07:55:00.000Z"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2023-04-23T09:10:00+00:00                                                                                  
- http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8 
+ 
                             
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:30h Nascar Truck Series. All-Star at North Wilkesboro. Libres CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 23:30h Nascar Truck Series. All-Star at North Wilkesboro. Carrera CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                               
                                                         
-"noname": "Canal NASCAR(Aqui) [COLOR white] 22:00h Nascar Xfinity Series. Talladega Carrera CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 23:30h Nascar Truck Series. All-Star at North Wilkesboro. Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://185.215.224.46/hls/nasca.m3u8"',
+                            "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
                             
                             
-"noname": "Canal NASCAR(Aqui) [COLOR white] 22:00h Nascar Xfinity Series. Talladega Carrera CristalAzul",
+"noname": "Canal NASCAR(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
