@@ -153,9 +153,9 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal INDY(Aqui) [COLOR white] 19:05h 500 Millas de Indianápolis Libres 8 CristalAzul", 
+"name": "Canal INDY(Aqui) [COLOR white] 500 Millas de Indianápolis Libres CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://manifest-gcp-us-east1-vop1.cfcdn.mux.com/6PHS026wEO1WRxHMnaPiSctQW5QAQZg9JE2BXFsL2UcMkSlOtda1ZrE2Lf2rQzUSPtPpkwhmoqizt4by01o00rxPVRgzJvfCGkS/rendition.m3u8?cdn=cloudflare&exclude_pdt=false&expires=1684861200&live=1&skid=default&signature=NjQ2Y2YxMTBfZTA1MmM4YjQyY2U2YmUzOGY5MjBmM2M4NjQyNjlhYTc2NmNjODYyODUzNTY5ZGRkMmQwZDRkMjVkNjhjNGZmYQ==&vsid=vrDGV2MeI02WhugUWfTLhGziDpfakvBUlc4CTwx00fPryKTJFeXNGCAJz3xUbCHyhJZBSr4MbBq00o"', 
+                            "url": "https://cdn.woah-patio.one/hls/0/stream.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                             
                             
