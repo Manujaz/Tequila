@@ -132,7 +132,7 @@
                             "embed": "SOL M.*?sica">'.https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                                                       
 
-"name": "Canal F1(Aqui) [COLOR white] 13:55h Fórmula 1 GP de Mónaco - Carrera CristalAzul", 
+"noname": "Canal F1(Aqui) [COLOR white] 13:55h Fórmula 1 GP de Mónaco - Carrera CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd14.mycdn.me/hls/4595149048346.m3u8/sig/mRwTzsRBvWQ/expires/1685363444185/srcIp/85.48.248.82/urls/185.226.52.45/clientType/13/srcAg/CHROME_ANDROID/mid/5389985065754/4595149048346_high/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -159,9 +159,9 @@
                             "embed": "SOL M.*?sica">'.
                             
                             
-"noname": "Canal INDY(Aqui) [COLOR white] 500 Millas de Indianápolis -Pit Stop Competition CristalAzul", 
+"name": "Canal INDY(Aqui) [COLOR white] 18:30h 500 Millas de Indianápolis Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://manifest-gcp-us-east1-vop1.cfcdn.mux.com/OJjwJaGk7bL8uEvs8m4DjqW7o6RrqIh8dj8SYn00nRukXivo6nVvrP2YyNgzurKrSljqShjVF9XCUe00kI9suFxUiIXVtFO5oa/rendition.m3u8?cdn=cloudflare&exclude_pdt=false&expires=1685212920&live=1&skid=default&signature=NjQ3MjRlZjhfN2ZjMjU2ODYxNWY2NDllMzExYTJiMWFlMmNkMmYzYTVmZDRlODlkZjdlNjRhYTY2YzUyOTE5ZGFmMjQ1MjZiNQ==&vsid=4fNVXq5ItNDLl7kr9dlx6ZmGbPeC4QXB012GWRUGO17tkcrTnoTqMcovu4AXH2K9EdRDWBRRsoTg"', 
+                            "url": "https://cdn.dd12-static.top/hls/0/stream.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
