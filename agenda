@@ -132,7 +132,7 @@
                             "embed": "SOL M.*?sica">'.https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                                                       
 
-"name": "Canal WRC(Aqui) [COLOR white] 08:00h WRC Rally Italia Sardegna 2023 Dia 2 CristalAzul", 
+"noname": "Canal WRC(Aqui) [COLOR white] 08:00h WRC Rally Italia Sardegna 2023 Dia 2 CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd14.mycdn.me/hls/4657533094426.m3u8/sig/eVgXPklZwpc/expires/1685856666185/srcIp/37.14.44.189/urls/185.226.52.49/clientType/13/srcAg/CHROME_ANDROID/mid/5413106952986/4657533094426_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -167,21 +167,21 @@
                             "embed": "SOL M.*?sica">'.https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1280x720.m3u8
                             
                               
-"noname": "Canal INDY(Aqui) [COLOR white] 19:25h INDYCAR CHEVROLET DETROIT GRAND PRIX - Qualifying CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 22:30h NASCAR Xfinity Portland Pacific Office Automation 147 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "https://admdn5.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                            
     
                             
-"noname": "Canal KARTS(Aqui) [COLOR white] FIA Karting Europe Racing CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 22:30h NASCAR Xfinity Portland Pacific Office Automation 147 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8?start=2023-05-21T07:55:00.000Z"', 
+                            "url": "https://cdn.woah-patio.one/hls/0/stream.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2023-04-23T09:10:00+00:00                                                                                  
                               
                                                         
-"noname": "Canal NASCAR(Aqui) [COLOR white] 23:30h Nascar Truck Series. All-Star at North Wilkesboro. Carrera CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 22:30h NASCAR Xfinity Portland Pacific Office Automation 147 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
