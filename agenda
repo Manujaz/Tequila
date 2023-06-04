@@ -132,9 +132,9 @@
                             "embed": "SOL M.*?sica">'.https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                                                       
 
-"noname": "Canal WRC(Aqui) [COLOR white] 07:00h WRC Rally Italia Sardegna 2023 Dia 3 CristalAzul", 
+"name": "Canal WRC(Aqui) [COLOR white] 07:00h WRC Rally Italia Sardegna 2023 Dia 3 CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://vkvsd3.mycdn.me/hls/4665361828378.m3u8/sig/_VzaMPsUVUk/expires/1685938595306/srcIp/37.14.44.189/urls/185.226.52.99/clientType/13/srcAg/CHROME_ANDROID/mid/5418447547162/4665361828378_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1920x1080.m3u8
                             
@@ -146,14 +146,14 @@
                             "embed": "SOL M.*?sica">'.https://damb2tknfsomm.cloudfront.net/uploaded/W389AgzG3WJW95bwVjeZbNrwWQJ9V8aX/playlist.m3u8
 
 
-"name": "Canal CUP(Aqui) [COLOR white] 18:05h Porsche Cup Brasil. Ronda 4 Goiânia - Carrera 1 CristalAzul",
+"noname": "Canal CUP(Aqui) [COLOR white] 18:05h Porsche Cup Brasil. Ronda 4 Goiânia - Carrera 1 CristalAzul",
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2vrten0tw5eja.cloudfront.net/out/v1/41430feaf20f4896974c4b3c8208d502/push15br_1.m3u8?start=2023-06-03T16:00:00.000Z"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                         
-"name": "Canal NASCAR(Aqui) [COLOR white] 18:25h Nascar Cup Series - Gateway Park - Practice/Qualifying CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 18:25h Nascar Cup Series - Gateway Park - Practice/Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "http://1601580044.rsc.cdn77.org/live/39/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
