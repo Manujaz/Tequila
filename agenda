@@ -125,7 +125,7 @@
                             "embed": "SOL M.*?sica">'.                            
  
  
-"name": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
+"noname": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -139,14 +139,14 @@
                             "embed": "SOL M.*?sica">'.https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1920x1080.m3u8
                                                         
                             
-"name": "Canal F1(Aqui) [COLOR white] 12:30h Formula 1 AWS Gran Premio de España 2023 CristalAzul", 
+"noname": "Canal F1(Aqui) [COLOR white] 12:30h Formula 1 AWS Gran Premio de España 2023 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ds1.cr8soccer.online/stream/ch10/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                            
 
 
-"name": "Canal CUP(Aqui) [COLOR white] 18:00h Porsche Cup Brasil. Ronda 4 Goiânia - Carrera 2 CristalAzul",
+"noname": "Canal CUP(Aqui) [COLOR white] 18:00h Porsche Cup Brasil. Ronda 4 Goiânia - Carrera 2 CristalAzul",
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2vrten0tw5eja.cloudfront.net/out/v1/41430feaf20f4896974c4b3c8208d502/push15br_1.m3u8?start=2023-06-03T16:00:00.000Z"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -160,21 +160,21 @@
                             "embed": "SOL M.*?sica">'. http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8                            
     
                            
-"name": "Canal INDY(Aqui) [COLOR white] 21:00h INDYNXT CHEVROLET DETROIT GRAND PRIX - CARRERA CristalAzul", 
+"noname": "Canal INDY(Aqui) [COLOR white] 21:00h INDYNXT CHEVROLET DETROIT GRAND PRIX - CARRERA CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd14.mycdn.me/hls/4673114671642.m3u8/sig/rRDDkkOl6tw/expires/1685994504625/srcIp/37.14.44.189/urls/45.136.20.57/clientType/13/srcAg/CHROME_ANDROID/mid/5421995928346/4673114671642_fullhd/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2023-04-23T09:10:00+00:00                                                                                  
                               
                                                         
-"name": "Canal NASCAR(Aqui) [COLOR white] 21:30h NASCAR Xfinity Portland Pacific Office Automation 147 CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 21:30h NASCAR Xfinity Portland Pacific Office Automation 147 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 22:10h IMSA Pilot Challenge - Detroit - Carrera                           
                               
 
-"name": "Canal IMSA(Aqui) [COLOR white] 21:30h NASCAR Xfinity Portland Pacific Office Automation 147 CristalAzul", 
+"noname": "Canal IMSA(Aqui) [COLOR white] 21:30h NASCAR Xfinity Portland Pacific Office Automation 147 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://3243bfdbcf39bd729df2ce7a22299154.angelthump.com/hls/MjAyMy0wNi0wNFQxNzo0ODoxOS42NjdaZGQxMg==_dd12_src/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -215,8 +215,7 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
-                            
-"noname": "Canal (Aqui) [COLOR white] CristalAzul", 
+ "noname": "Canal (Aqui) [COLOR white] CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
