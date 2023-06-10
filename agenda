@@ -135,14 +135,14 @@
                             "embed": "SOL M.*?sica">'.                            
                             
  
-"name": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
+"noname": "[COLOR white] --------------MOTOR EN DIRECTO----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
                                                       
 
-"name": "Canal 24H (Aqui) [COLOR white] 24 Horas de Le Mans Carrera 3 CristalAzul", 
+"noname": "Canal 24H (Aqui) [COLOR white] 24 Horas de Le Mans Carrera 3 CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu.m3u8?start=2023-06-08T16:15:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -163,7 +163,7 @@
                             "embed": "SOL M.*?sica">'.
                              
                               
-"name": "Canal NASCAR (Aqui) [COLOR white] 2:00h Nascar Xfinity Series - DoorDash CristalAzul", 
+"noname": "Canal NASCAR (Aqui) [COLOR white] 2:00h Nascar Xfinity Series - DoorDash CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn1.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
