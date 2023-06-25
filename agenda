@@ -144,12 +144,12 @@
 
 "name": "Canal WRC(Aqui) [COLOR white] 7:00h WRC SAFARI RALLY KENYA 2023 Dia 3 CristalAzul", 
                              "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd30.mycdn.me/hls/4798535895578.m3u8/sig/5NpI_YMF6t0/srcIp/37.14.130.210/urls/45.136.22.40/expires/1688067684440/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/5610316704538/id/4798535895578/4798535895578_fullhd/index.m3u8"',
+                            "url": "https://vkvsd14.mycdn.me/hls/4802311686682.m3u8/sig/c2HtP83BAaI/expires/1687750764133/srcIp/37.14.130.210/urls/185.226.53.54/clientType/13/srcAg/CHROME_ANDROID/mid/5628441406234/4802311686682_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                                                         
                             
-"name": "Canal DRIFT(Aqui) [COLOR white] 20:35h Formula Drift. Ronda 4 Englishtown ProSpec Qualifying CristalAzul", 
+"noname": "Canal DRIFT(Aqui) [COLOR white] 20:35h Formula Drift. Ronda 4 Englishtown ProSpec Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8?start=2023-06-22T16:30:00.000Z"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -163,21 +163,21 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal SUPERTROFEO(Aqui) [COLOR white] 17:10h Lamborghini Super Trofeo Carrera 2 de 2   CristalAzul", 
+"noname": "Canal SUPERTROFEO(Aqui) [COLOR white] 17:10h Lamborghini Super Trofeo Carrera 2 de 2   CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_05.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                              
                               
-"name": "Canal NASCAR(Aqui) [COLOR white] 18:00h Nascar Xfinity Series. Nashville - Qualifying CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 18:00h Nascar Xfinity Series. Nashville - Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn.woah-patio.one/hls/0/stream.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.                              
    
                            
-"name": "Canal NASCAR(Aqui) [COLOR white] 01:00h NASCAR CUP SERIES Ally 400 CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 01:00h NASCAR CUP SERIES Ally 400 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -191,7 +191,7 @@
                             "embed": "SOL M.*?sica">'.
                             
                                                       
-"name": "Canal NASCAR(Aqui) [COLOR white] 01:00h NASCAR CUP SERIES Ally 400 CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white] 01:00h NASCAR CUP SERIES Ally 400 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn.woah-patio.one/hls/0/stream.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
