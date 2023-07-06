@@ -147,18 +147,25 @@
                             "url": "https://d3t1an06exdpxa.cloudfront.net/out/v1/6fa0c4ea6c1b497f9949e98f3d24ddea/push4eu_1.m3u8?start=2023-07-06T11:22:00.000Z"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+
+
+"noname": "Canal IMSA(Aqui) [COLOR white] 23:31h IMSA CHEVROLET GRAND PRIX Canadian Tire Motorsport Park CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
                              
                               
-"noname": "Canal (Aqui) [COLOR white]  CristalAzul", 
+"name": "Canal NTI(Aqui) [COLOR white] 02:00h NTI TOWNSVILLE 500 - libres 1/2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "https://1358e17031084982bb2e0c48319cc663.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/Linear-599-1-Speed-Sport-1-Obsession-Media/e9104199-0142-45c6-bc54-35c02cea8168/1.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                              
+                            "embed": "SOL M.*?sica">'. 
    
                            
-"noname": "Canal NASCAR(Aqui) [COLOR white] 01:00h NASCAR CUP SERIES Ally 400 CristalAzul", 
+"name": "Canal DIRTCAR(Aqui) [COLOR white] 02:15h Super DIRTcar Series - Carrera CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',  
+                            "url": "https://playback2.akamaized.net/streams/30582454_10680677_lsindxnsuy7p7qusmsz_1/exp=1688761414~acl=%2f*~data=hdntl~hmac=ecece99005812471354fee78703901b88f5f83b29a238e9217b1cc751fafcf2c/media/30582454_10680677_lsindxnsuy7p7qusmsz_1@5256000p.m3u8?dw=14400&ts=1688673600"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -168,13 +175,6 @@
                             "url": "https://admdn1.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                            
-                                                      
-"noname": "Canal NASCAR(Aqui) [COLOR white] 01:00h NASCAR CUP SERIES Ally 400 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cdn.woah-patio.one/hls/0/stream.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                           
                               
 
 "noname": "Canal IMSA(Aqui) [COLOR white] 21:30h NASCAR Xfinity Portland Pacific Office Automation 147 CristalAzul", 
