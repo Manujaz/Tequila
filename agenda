@@ -157,16 +157,16 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal NASCAR(Aqui) [COLOR white] 21:00h NASCAR XFINITY SERIES Road America 180 Practice/Qualifying CristalAzul",
+"noname": "Canal NASCAR(Aqui) [COLOR white] 23:00h NASCAR XFINITY SERIES Road America 180 Practice/Qualifying CristalAzul",
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:00h NASCAR XFINITY SERIES Road America 180 Practice/Qualifying CristalAzul",
+"name": "Canal NASCAR(Aqui) [COLOR white] 23:00h NASCAR XFINITY SERIES Road America 180 Practice/Qualifying CristalAzul",
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "http://207.154.241.5:8080/hls/nascar.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
