@@ -142,17 +142,23 @@
                             "embed": "SOL M.*?sica">'.https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
 
 
+"name": "Canal GT(Aqui) [COLOR white] 08:35h GT World Challenge Europe. Ronda 6 Nürburgring - Libres CristalAzul",
+                            "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2023-07-29T06:30:00.000Z"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
 
-"name": "Canal F1(Aqui) [COLOR white] 15:55h Gran Premio de Bélgica de Fórmula 1 CristalAzul", 
+
+"noname": "Canal F1(Aqui) [COLOR white] 15:55h Gran Premio de Bélgica de Fórmula 1 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://qyfb8377447rtirq.fordems.live/live/for-demsf1/chunks.m3u8"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. 
 
 
-"name": "Canal ERC(Aqui) [COLOR white] 19:45h ERC RALLY DI ROMA CAPITALE CristalAzul", 
+"noname": "Canal ERC(Aqui) [COLOR white] 9:45h ERC RALLY DI ROMA CAPITALE CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd14.mycdn.me/hls/4878560463386.m3u8/sig/aD3vkYl1TQM/expires/1690652333290/srcIp/37.14.103.248/urls/45.136.21.44/clientType/13/srcAg/CHROME_ANDROID/mid/6048648604442/4878560463386_fullhd/index.m3u8"',  
+                            "url": ""',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -164,7 +170,7 @@
                             "embed": "SOL M.*?sica">'.https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
 
-"name": "Canal NASCAR(Aqui) [COLOR white] 23:00h NASCAR XFINITY SERIES Road America 180 Practice/Qualifying CristalAzul",
+"noname": "Canal NASCAR(Aqui) [COLOR white] 23:00h NASCAR XFINITY SERIES Road America 180 Practice/Qualifying CristalAzul",
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "http://pull.shuanl.cn/live/nascar.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
