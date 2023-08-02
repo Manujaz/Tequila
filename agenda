@@ -221,14 +221,14 @@
 
 "name": "Canal MS(Aqui) [COLOR white] MANUJAZ-MOTORSPORT STREAMIGOO! CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8"', 
+                            "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/640d2e26-50c9-4567-b4e6-224f648af9db/2.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
                                                       
-"name": "Canal MJ(Aqui) [COLOR white] MANUJAZ-MOTORSPORT STREAMIGOO! CristalAzul", 
+"noname": "Canal MS(Aqui) [COLOR white] MANUJAZ-MOTORSPORT STREAMIGOO! CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8"',  
+                            "url": ""',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
