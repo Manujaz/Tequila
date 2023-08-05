@@ -177,18 +177,18 @@
                             "embed": "SOL M.*?sica">'. https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 
 
-"name": "Canal NASCAR(Aqui) [COLOR white] 21:35h Nascar Xfinity Series - Michigan - Carrera CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"',  
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
 "noname": "Canal NASCAR(Aqui) [COLOR white] 21:00h NASCAR XFINITY SERIES Road America 400 CristalAzul",
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:35h Nascar Xfinity Series - Michigan - Carrera CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"',  
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
 
 
 "name": "Canal MX(Aqui) [COLOR white] 22:40h Mazda MX-5 Cup - Road America Carrera 2 CristalAzul",
@@ -198,9 +198,9 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:00h NASCAR XFINITY SERIES Road America 400 CristalAzul",
+"name": "Canal ROAD(Aqui) [COLOR white] 22:45h Lamborghini Super Trofeo - Road America - Carrera 1 CristalAzul",
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cdn.woah-patio.one/hls/0/stream.m3u8"', 
+                            "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
