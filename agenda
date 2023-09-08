@@ -156,25 +156,25 @@
                             "embed": "SOL M.*?sica">'.https://d3t1an06exdpxa.cloudfront.net/out/v1/6fa0c4ea6c1b497f9949e98f3d24ddea/push4eu_1.m3u8?start=2023-07-28T11:48:00.000Z
 
 
-"noname": "Canal LEMANS(Aqui) [COLOR white] 17:25h Michelin Le Mans Cup. Ronda 5 Circuito de Aragon - Carrera CristalAzul",
-                            "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2023-08-25T15:20:00.000Z"', 
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://admdn5.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-
-"noname": "Canal NASCAR(Aqui) [COLOR white] 01:00h Nascar Cup Series Indianapolis Carrera CristalAzul",  
+"name": "Canal TCR(Aqui) [COLOR white] Diferido 2023 TCR China Zhuzhou - Ronda 6 - FullRace CristalAzul",  
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"',  
+                            "url": "https://file.tcrworldtour.com/13738831864aa763390797/default_720.mp4"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://cdn.woah-patio.one/hls/0/stream.m3u8 https://cdn.woah-patio.one/hls/2/stream.m3u8
+
+
+"noname": "Canal INDY(Aqui) [COLOR white] 23:35h INDICAR Grand Prix de la Laguna Seca - Libres 1 CristalAzul",
+                            "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
+                            "url": ""', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://admdn5.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 
 "noname": "Canal INDY(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
 
 "noname": "Canal CUP(Aqui) [COLOR white] DIFERIDO - Porsche Carrera Cup Deutschland. Carrera 2 CristalAzul", 
