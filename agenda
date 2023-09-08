@@ -30,6 +30,13 @@
                             "embed": "SOL M.*?sica">'.
 
 
+"noname": "Canal TENIS(Aqui) [COLOR white] 01:00h US Open Semifinal 2 masculina. C. Alcaraz vs D. Medvedev CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'. http://51.15.9.155/EUROSPORT_2/index.m3u8 
+
+
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://content-ause2-up-1.uplynk.com/channel/d2c624a28fcc4101b2aea6a173a5185c/g.m3u8?tc=1&exp=1827961169&rn=1826888047&ct=c&cid=d2c624a28fcc4101b2aea6a173a5185c&boundary.adx=skip&sig=5d702f38c33aa5aa1578398ee5d3d3077c12ef1a959f0f2c43164279cff0291f&pbs=61361e4ae89f433ead62d98aa6fba973"', 
@@ -70,14 +77,7 @@
                             "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-                            
-                            
-"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 7 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://51.15.9.155/EUROSPORT_2/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
-                           
+                             
 
 "noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 8 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
@@ -163,9 +163,9 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal INDY(Aqui) [COLOR white] 23:35h INDICAR Grand Prix de la Laguna Seca - Libres 1 CristalAzul",
+"name": "Canal INDY(Aqui) [COLOR white] 23:35h INDICAR Grand Prix de la Laguna Seca - Libres 1 CristalAzul",
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "https://manifest-gcp-us-east4-vop1.cfcdn.mux.com/7O6PRdhpeL2OKeuaUQ6vT4c6Y5oROPdMWZ3SxWtZpQhFV301lBqOnGq2fSANgQJ2RLUyEHUoAugnPrE2c02d93cGy9101XyU004s/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1694294940&live=1&skid=default&signature=NjRmY2UzOWNfM2RiZDU5YmJmODM2YjQ2ZWQ4NWVkMWM4YTE5NTVmYzdjNWE4MzM2MWZiY2M3ZmJhNzA0MTRlYjVkNjQyODQyZQ==&vsid=OQfElT01dEyY00QOnyUuL5AiODssfq3GAZKnG4P9uMWQsK009pT5AcHDEf9TB6mAWdBp3yjNkjZIEs"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
