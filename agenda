@@ -184,6 +184,13 @@
                             "embed": "SOL M.*?sica">'.https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
 
+"name": "Canal MOTOGP(Aqui) [COLOR white] 14:00h MotoGP G.P.San Marino (Misano) Carrera CristalAzul",
+                            "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
+                            "url": "https://vkvsd198.mycdn.me/hls/5202766072346.m3u8/sig/PWhzuHBVk6E/srcIp/37.14.103.248/urls/185.226.52.55/expires/1694782772239/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6417608551194/id/5202766072346/5202766072346_fullhd/index.m3u8"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
 "noname": "Canal INDY(Aqui) [COLOR white] 23:35h INDICAR Grand Prix de la Laguna Seca - Libres 1 CristalAzul",
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "https://manifest-gcp-us-east4-vop1.cfcdn.mux.com/7O6PRdhpeL2OKeuaUQ6vT4c6Y5oROPdMWZ3SxWtZpQhFV301lBqOnGq2fSANgQJ2RLUyEHUoAugnPrE2c02d93cGy9101XyU004s/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1694294940&live=1&skid=default&signature=NjRmY2UzOWNfM2RiZDU5YmJmODM2YjQ2ZWQ4NWVkMWM4YTE5NTVmYzdjNWE4MzM2MWZiY2M3ZmJhNzA0MTRlYjVkNjQyODQyZQ==&vsid=OQfElT01dEyY00QOnyUuL5AiODssfq3GAZKnG4P9uMWQsK009pT5AcHDEf9TB6mAWdBp3yjNkjZIEs"', 
@@ -194,13 +201,6 @@
 "noname": "Canal NASCAR(Aqui) [COLOR white] 03:00h NASCAR TRUCK SERIES Kansas Lottery 200 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://admdn5.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',  
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"noname": "Canal MX(Aqui) [COLOR white] 22:40h Mazda MX-5 Cup - Road America Carrera 2 CristalAzul",
-                            "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
