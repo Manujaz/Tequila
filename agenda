@@ -219,18 +219,18 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal (Aqui) [COLOR white] CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/fe320f6f-fbc4-4b81-8549-1f7a5ff71ca0/0.m3u8"', 
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.http://minafire.com:8080/live/BonIzCKME7/zPHE7oQejS/1109.m3u8 
-
-
-"noname": "Canal (Aqui) [COLOR white] CristalAzul", 
+"name": "Canal EUROF(Aqui) [COLOR white] 17:10h Euroformula Open Championship Monza. Ronda 7 Carrera 3 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://1358e17031084982bb2e0c48319cc663.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/Linear-599-1-Speed-Sport-1-Obsession-Media/e9104199-0142-45c6-bc54-35c02cea8168/1.m3u8"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+
+
+"name": "Canal GTW(Aqui) [COLOR white] 19:30h GT World Challenge America championship Sebring International Raceway Carrera 2 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8?start=2023-09-24T12:30:00.000Z"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.http://minafire.com:8080/live/BonIzCKME7/zPHE7oQejS/1109.m3u8 
 
 
 "noname": "Canal (Aqui) [COLOR white]  CristalAzul", 
