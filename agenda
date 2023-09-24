@@ -191,14 +191,14 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal INDY(Aqui) [COLOR white] 23:35h INDICAR Grand Prix de la Laguna Seca - Libres 1 CristalAzul",
+"name": "Canal MXGP(Aqui) [COLOR white] 14:55/18:00h MXGP Campeonato del Mundo Gran Bretaña. Matterley Basin CristalAzul",
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
-                            "url": "https://manifest-gcp-us-east4-vop1.cfcdn.mux.com/7O6PRdhpeL2OKeuaUQ6vT4c6Y5oROPdMWZ3SxWtZpQhFV301lBqOnGq2fSANgQJ2RLUyEHUoAugnPrE2c02d93cGy9101XyU004s/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1694294940&live=1&skid=default&signature=NjRmY2UzOWNfM2RiZDU5YmJmODM2YjQ2ZWQ4NWVkMWM4YTE5NTVmYzdjNWE4MzM2MWZiY2M3ZmJhNzA0MTRlYjVkNjQyODQyZQ==&vsid=OQfElT01dEyY00QOnyUuL5AiODssfq3GAZKnG4P9uMWQsK009pT5AcHDEf9TB6mAWdBp3yjNkjZIEs"', 
+                            "url": "https://rtvelivestream.akamaized.net/rtvesec/oca/irtve22_main_1080.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 03:00h NASCAR TRUCK SERIES Kansas Lottery 200 CristalAzul", 
+"noname": "Canal NASCAR(Aqui) [COLOR white]  CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://admdn5.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
