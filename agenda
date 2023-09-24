@@ -212,9 +212,9 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal INDY(Aqui) [COLOR white] 00:25h INDYCAR AT NASHVILLE LIBRES 3 CristalAzul", 
+"name": "Canal GT4(Aqui) [COLOR white] 16:45h GT4 America championship Sebring International Raceway Carrera 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://manifest-gcp-us-east1-vop1.cfcdn.mux.com/L1wbKLKuqU4XRUy01Xl4y801RfDqbRKiiYQMv00AKz6022K59FY9CamwdOUi4mq47KhhlIUfECfc00PPm3r00NSgdAkCwmnhRmAmpI/rendition.m3u8?cdn=cloudflare&exclude_pdt=false&expires=1691336400&skid=default&signature=NjRjZmJlZDBfN2Q2NjQzY2VlOGEwYjAwMjk2YmE0MTM3MmQzZjE0ZGE0N2RjNmMzZjgxNDI3OTBmYmIwNGIxY2ZjYWY0NDdjNw==&vsid=lbCxKYzvUorczpxCInLwO021xgY02iKoUxcATr7x6pOa5Gw31zHRm01I8QgNVXFgXxBP1f9D6Su02PQ"',  
+                            "url": "https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8?start=2023-09-24T12:30:00.000Z"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
