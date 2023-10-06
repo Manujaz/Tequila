@@ -149,13 +149,6 @@
                             "embed": "SOL M.*?sica">'.https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
 
-"noname": "Canal ERC(Aqui) [COLOR white] 12:00h ERC RALLY HUNGRÍA 2023 Dia 1 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',  
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'. 
-
-
 "name": "Canal KARTING(Aqui) [COLOR white] 14:00h FIA Karting Europe. OK/Junior - Franciacorta CristalAzul",
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8?start=2023-10-06T11:55:00.000Z"', 
@@ -168,6 +161,13 @@
                             "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_2.m3u8?start=2023-09-30T06:55:00.000Z"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. https://rtvelivestream.akamaized.net/eventual/oca/irtve19_main_576.m3u8
+
+
+"name": "Canal ERC(Aqui) [COLOR white] 18:00h ERC IV. RALLY HUNGRÍA 2023 Dia 1 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://vkvsd194.mycdn.me/hls/5334783363610.m3u8/sig/JimjFIi-s_E/expires/1696690226342/srcIp/95.17.168.109/urls/45.136.22.89/clientType/14/srcAg/CHROME_ANDROID/mid/6500965296922/5334783363610_fullhd/index.m3u8"',  
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
 
 
 "noname": "Canal NASCAR(Aqui) [COLOR white] 21:30h NASCAR XFINITY SERIES Drive for the Cure 250 BlueCross. North Carolina CristalAzul", 
