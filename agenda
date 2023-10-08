@@ -142,14 +142,14 @@
                             "embed": "SOL M.*?sica">'.https://dd2zjam465om0.cloudfront.net/out/v1/46c8ebab8e694683b10f5b14fb0baa85/index_1.m3u8?Manujaz
 
 
-"name": "Canal ERC(Aqui) [COLOR white] 09:12h ERC IV. RALLY HUNGRÍA 2023 Dia 3 CristalAzul", 
+"noname": "Canal ERC(Aqui) [COLOR white] 09:12h ERC IV. RALLY HUNGRÍA 2023 Dia 3 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd93.mycdn.me/hls/5342073653786.m3u8/sig/cr3bWT0EWGo/srcIp/95.17.168.109/urls/185.226.52.66/expires/1697205339916/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6505587616538/id/5342073653786/5342073653786_fullhd/index.m3u8"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal KARTING(Aqui) [COLOR white] 10:45h FIA Karting Europe. OK/Junior - Franciacorta CristalAzul",
+"noname": "Canal KARTING(Aqui) [COLOR white] 10:45h FIA Karting Europe. OK/Junior - Franciacorta CristalAzul",
                             "image": "https://imagizer.imageshacXfinity k.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8?start=2023-10-06T11:55:00.000Z"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -189,10 +189,11 @@
                             "url": "https://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/push7eu_1.m3u8?start=2023-10-07T12:55:00.000Z"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+
  
-"noname": "Canal NASCAR(Aqui) [COLOR white] 17:00h NASCAR CUP SERIES CHARLOTTE ROVAL CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 20:00h NASCAR CUP SERIES CHARLOTTE. Bank of America ROVAL 400 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',  
+                            "url": "https://cdn.woah-patio.one/hls/1/stream.m3u8"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
