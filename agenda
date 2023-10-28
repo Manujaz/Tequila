@@ -177,14 +177,14 @@
                             "embed": "SOL M.*?sica">'.https://admdn5.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8 
 
 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 18:00h Stock Car Pro Series Sao Paulo.Velocitta II Qualifying CristalAzul", 
+"name": "Canal SERIES(Aqui) [COLOR white] 18:00h Stock Car Pro Series Sao Paulo.Velocitta II Qualifying CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""', 
+                            "url": "https://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/push7eu_1.m3u8?start=2023-10-28T15:55:00.000Z"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://www.foxsports.com/live/fs1
 
 
-"noname": "Canal F1(Aqui) [COLOR white] 19:30h Gran Premio F1 Ciudad de Mexico Libres 2 CristalAzul", 
+"name": "Canal F1(Aqui) [COLOR white] 19:30h Gran Premio F1 Ciudad de Mexico Libres 2 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -205,9 +205,9 @@
                             "embed": "SOL M.*?sica">'.
 
  
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:30h NASCAR XFINITY SERIES Dead on Tools 250 CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:30h NASCAR XFINITY SERIES Dead on Tools 250 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',  
+                            "url": "https://cdn.woah-patio.one/hls/1/stream.m3u8"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
