@@ -184,9 +184,23 @@
                             "embed": "SOL M.*?sica">'.https://www.foxsports.com/live/fs1
 
 
-"noname": "Canal F1(Aqui) [COLOR white] 19:30h Gran Premio F1 Ciudad de Mexico Carrera CristalAzul", 
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:30h NASCAR XFINITY SERIES Dead on Tools 250 CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',  
+                            "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+ 
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:30h NASCAR XFINITY SERIES Dead on Tools 250 CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://s3.woah-patio.one/jumpingoverthegreat/hls/1/stream.m3u8"',  
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"name": "Canal F1-GPMEXICO(Aqui) [COLOR white] 19:30h Gran Premio F1 Ciudad de Mexico Carrera VIVA MEXICO CABRONES CristalAzul", 
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://vkvsd43.mycdn.me/hls/5444510485018.m3u8/sig/Hfoq-Xgsx_w/expires/1698686945074/srcIp/95.17.168.109/urls/45.136.20.88/clientType/14/srcAg/CHROME_ANDROID/mid/6569109170970/5444510485018_fullhd/index.m3u8"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -194,20 +208,6 @@
 "noname": "Canal F1(Aqui) [COLOR white] 19:30h Gran Premio F1 Mexico CristalAzul", 
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',  
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:30h NASCAR XFINITY SERIES Dead on Tools 250 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"', 
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
- 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:30h NASCAR XFINITY SERIES Dead on Tools 250 CristalAzul", 
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://s3.woah-patio.one/jumpingoverthegreat/hls/1/stream.m3u8"',  
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
