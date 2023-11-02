@@ -904,7 +904,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
                             "embed": "SOL M.*?sica">'.http://46.29.169.15:4001/play/a00q/index.m3u8
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] MAVTV SPORT USA CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] MAVTV SPORT USA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8?null=on"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -960,7 +960,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
                             "embed": "SOL M.*?sica">'.http://201.182.242.135:12001/play/a09d/index.m3u8                            
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ESPN 2 LAT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ESPN 2 LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://45.5.119.202:8000/play/a01b/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -988,21 +988,21 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
                             "embed": "SOL M.*?sica">'.                           
                             
                                                         
-"name": "CanalFavorito (Aqui) [COLOR white] BEIN SPORT XTRA Ñ LAT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] BEIN SPORT XTRA Ñ LAT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] CBS SPORTS NETWORK CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] CBS SPORTS NETWORK CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] CANAL 11 PORT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] CANAL 11 PORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1023,7 +1023,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] ACCDN SPORT CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ACCDN SPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/2559/3nBunA.jpg",
                             "url": "https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1044,21 +1044,21 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
                             "embed": "SOL M.*?sica">'.                             
                                                                                                                                                                                                                                                                                       
                                                                                                                                          
-"name": "CanalFavorito (Aqui) [COLOR white] PFL TV CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] PFL TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d856dff4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/5f145729-9180-46c8-82f2-03ae25b92079/5.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                            
-"name": "CanalFavorito (Aqui) [COLOR white] MMA 2 TV CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] MMA 2 TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://unbeaten-roku.amagi.tv/playlist.m3u8
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] SPORT TV PLUS CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] SPORT TV PLUS CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1079,28 +1079,28 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
                             "embed": "SOL M.*?sica">'.                            
                                                                                                                 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"name": "CanalFavorito(Aqui) [COLOR white] WORLD OF FREESPORT TV CristalAzul",
+"noname": "CanalFavorito(Aqui) [COLOR white] WORLD OF FREESPORT TV CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/203.m3u8                            
                             
                                                                                     
-"name": "CanalFavorito (Aqui) [COLOR white] NBC SPORT PHILADERPHIA CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] NBC SPORT PHILADERPHIA CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/chunks.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                                                                                                                                                                         
-"name": "CanalFavorito (Aqui) [COLOR white] BEINSPORTS 1 FR CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] BEINSPORTS 1 FR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://93.152.174.144:4000/play/bein1fr/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
                             
-"name": "CanalFavorito (Aqui) [COLOR white] BEINSPORTS 1 TEKR CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] BEINSPORTS 1 TEKR CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://srvccc.rise2549blood.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1121,7 +1121,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
                             "embed": "SOL M.*?sica">'.
                             
 
-"name": "CanalFavorito (Aqui) [COLOR white] ANDROS E-THOPHEE CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ANDROS E-THOPHEE CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -1163,7 +1163,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
                             "embed": "SOL M.*?sica">'.
                                                                                                                                                                         
                          
-"name": "CanalFavorito (Aqui) [COLOR white] ARENA SPORT 4 CristalAzul",
+"noname": "CanalFavorito (Aqui) [COLOR white] ARENA SPORT 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "http://94.250.2.6:7374/play/a012/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
