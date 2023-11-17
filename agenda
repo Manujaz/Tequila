@@ -135,14 +135,14 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal WRC(Aqui) [COLOR white] 23:04h WRC Rally de Japón 2023 CristalAzul",
+"name": "Canal WRC(Aqui) [COLOR white] 00:04h WRC Rally de Japón 2023 Dia 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd83.mycdn.me/hls/5531550943770.m3u8/sig/H2bSz9Ug-So/expires/1700253412104/srcIp/95.17.168.109/urls/45.136.21.45/clientType/14/srcAg/CHROME_ANDROID/mid/6623541406490/5531550943770_fullhd/index.m3u8"',
+                            "url": "https://vkvsd232.mycdn.me/hls/5536100583962.m3u8/sig/oJxEwLt6aOU/srcIp/95.17.168.109/urls/185.226.52.90/expires/1700723629190/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6626241686298/id/5536100583962/5536100583962_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal rally(Aqui) [COLOR white] 20:00h Rally Ciudad de Pozoblanco 2023 CristalAzul",
+"noname": "Canal rally(Aqui) [COLOR white] 20:00h Rally Ciudad de Pozoblanco 2023 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd164.mycdn.me/hls/5536100583962.m3u8/sig/fCA_com8R9U/srcIp/95.17.168.109/urls/45.136.22.87/expires/1700708655766/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6626241686298/id/5536100583962/5536100583962_high/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -156,7 +156,7 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal CUP(Aqui) [COLOR white] 20:35h Porsche Cup Brasil Ronda 9 Interlagos CristalAzul",
+"noname": "Canal CUP(Aqui) [COLOR white] 20:35h Porsche Cup Brasil Ronda 9 Interlagos CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2vrten0tw5eja.cloudfront.net/out/v1/41430feaf20f4896974c4b3c8208d502/push15br_1.m3u8?start=2023-11-17T19:35:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
