@@ -135,6 +135,13 @@
                             "embed": "SOL M.*?sica">'.
 
 
+"name": "Canal CUP(Aqui) [COLOR white] 21:35h Super Sprint Motorsport NZ Championship Ronda 1 Taupo CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d13hpouywdrj8a.cloudfront.net/out/v1/08068c856b81496a8ac105c692de3401/push11aus_1.m3u8?start=2023-11-18T20:30:00.000Z"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
 "noname": "Canal WRC(Aqui) [COLOR white] 00:04h WRC Rally de Japón 2023 Dia 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd232.mycdn.me/hls/5536100583962.m3u8/sig/oJxEwLt6aOU/srcIp/95.17.168.109/urls/185.226.52.90/expires/1700723629190/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6626241686298/id/5536100583962/5536100583962_fullhd/index.m3u8"',
@@ -142,16 +149,30 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal rally(Aqui) [COLOR white] 20:00h Rally Ciudad de Pozoblanco 2023 CristalAzul",
+"noname": "Canal MOTOGP(Aqui) [COLOR white] 13:45h Gran Premio de Qatar. Carrera CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd164.mycdn.me/hls/5536100583962.m3u8/sig/fCA_com8R9U/srcIp/95.17.168.109/urls/45.136.22.87/expires/1700708655766/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6626241686298/id/5536100583962/5536100583962_high/index.m3u8"',
+                            "url": "https://vkvsd232.mycdn.me/hls/5536100583962.m3u8/sig/oJxEwLt6aOU/srcIp/95.17.168.109/urls/185.226.52.90/expires/1700723629190/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6626241686298/id/5536100583962/5536100583962_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal MOTOGP(Aqui) [COLOR white] 11:30h Gran Premio de Qatar. Clasificacion CristalAzul",
+"noname": "Canal (Aqui) [COLOR white] CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd232.mycdn.me/hls/5536100583962.m3u8/sig/oJxEwLt6aOU/srcIp/95.17.168.109/urls/185.226.52.90/expires/1700723629190/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6626241686298/id/5536100583962/5536100583962_fullhd/index.m3u8"',
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"noname": "Canal (Aqui) [COLOR white] CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"noname": "Canal (Aqui) [COLOR white] CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
