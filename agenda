@@ -30,44 +30,44 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal TENIS(Aqui) [COLOR white] 01:00h US Open Semifinal 2 masculina. C. Alcaraz vs D. Medvedev CristalAzul",
+"noname": "Canal TENIS(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd62.mycdn.me/hls/5198318864922.m3u8/sig/Mcd_L3ue8zw/expires/1694295592716/srcIp/37.14.103.248/urls/45.136.20.46/clientType/14/srcAg/CHROME_ANDROID/mid/6414862920474/5198318864922_fullhd/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'. http://51.15.9.155/EUROSPORT_2/index.m3u8 
 
 
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr_1080.m3u8"', 
+                            "url": "https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr_1080.m3u8
                                                                                     
                            
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/2261240a-f65a-4a5a-8906-68aeae3d5ab1/3.m3u8"', 
+                            "url": "https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/2261240a-f65a-4a5a-8906-68aeae3d5ab1/4.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8
                             
 
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8"', 
+                            "url": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/44ab94fb-901a-4568-bafc-94b6dc7e1481/3.m3u8 
                             
                             
 "name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 4 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8"', 
+                            "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                              
                            
-"name": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 5 CristalAzul",
+"noname": "Canal TENIS(Aqui) [COLOR white] CANAL TENIS 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8"', 
+                            "url": ""', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -860,12 +860,12 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://mlb.mrgamingstreams.com/dirt.m3u8
 
 
-"noname": "CanalFavorito (Aqui) [COLOR white] DIRTVISION CristalAzul",
+"name": "CanalFavorito (Aqui) [COLOR white] TIGO-SPORT CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://mlb.mrgamingstreams.com/dirt.m3u8"',
+                            "url": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
@@ -1674,11 +1674,11 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
                             "embed": "SOL M.*?sica">'.
                             
 
-"noname": "Canal 3(Aqui) [COLOR white] ESPORTE INTERACTIVO CristalAzul",
+"name": "Canal 3(Aqui) [COLOR white] ESPORTE INTERACTIVO CristalAzul",
                             "image": "https://i.imgur.com/1uUlv8M.jpg",
                             "url": "https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.  
+                            "embed": "SOL M.*?sica">'. https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8 
  
  
 "noname": "Canal 4(Aqui) [COLOR white] GLORY KICKBOXING CristalAzul",
