@@ -170,7 +170,7 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal CUP(Aqui) [COLOR white] 13:00h Porsche Carrera Cup -Ronda 4 Abu Dhabi - Carrera 1 CristalAzul",
+"noname": "Canal CUP(Aqui) [COLOR white] 13:00h Porsche Carrera Cup -Ronda 4 Abu Dhabi - Carrera 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu_1.m3u8?start=2024-01-27T12:05:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -184,7 +184,7 @@
                             "embed": "SOL M.*?sica">'.https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1920x1080.m3u8
 
 
-"name": "Canal FE(Aqui) [COLOR white] 18:00h Formula E Diriyah ePrix - Carrera CristalAzul",
+"noname": "Canal FE(Aqui) [COLOR white] 18:00h Formula E Diriyah ePrix - Carrera CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd192.mycdn.me/hls/5891181578778.m3u8/sig/0wlpNKOvOnA/srcIp/37.14.45.69/urls/45.136.22.22/expires/1706796818716/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6842029189914/id/5891181578778/5891181578778_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -197,9 +197,10 @@
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
-"name": "Canal SPRINT(Aqui) [COLOR white] 19:40h IMSA WeatherTech Championship - Rolex 24 At Daytona 2024 CristalAzul",
+
+"name": "Canal IMSA(Aqui) [COLOR white] 19:40h IMSA WeatherTech Championship - Rolex 24 At Daytona 2024 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd192.mycdn.me/hls/5891181578778.m3u8/sig/0wlpNKOvOnA/srcIp/37.14.45.69/urls/45.136.22.22/expires/1706796818716/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6842029189914/id/5891181578778/5891181578778_fullhd/index.m3u8"',
+                            "url": "https://vkvsd11.mycdn.me/hls/5891181578778.m3u8/sig/SYoDvcjVH-E/srcIp/37.14.45.69/urls/45.136.20.85/expires/1706839415958/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6842029189914/id/5891181578778/5891181578778_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
