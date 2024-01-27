@@ -156,6 +156,13 @@
                             "embed": "SOL M.*?sica">'.
 
 
+"name": "Canal 24H(Aqui) [COLOR white] 09:35h 24H Series - Dubai Autodromo, Carrera CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2024-01-27T08:30:00.000Z"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
 "noname": "Canal ANDROS(Aqui) [COLOR white] 12:30h E-TROPHÉE ANDROS 2024 - Circuito de Super-Besse, Ronda 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
@@ -166,13 +173,6 @@
 "name": "Canal FE(Aqui) [COLOR white] 11:00/13:00h Formula E Diriyah ePrix Libres 2 + Carrera 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://01-24.webhd.ru/ddh1/premium31/tracks-v1a1/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"name": "Canal 24H(Aqui) [COLOR white] 11:30h 24H Series - Dubai Autodromo, Carrera 1 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2024-01-26T10:35:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
