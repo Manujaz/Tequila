@@ -149,9 +149,30 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal WRC(Aqui) [COLOR white] 08:51h WRC Rally Monte-carlo 2024 Todo listo Del 25 al 28 Enero CristalAzul",
+"name": "Canal WRC(Aqui) [COLOR white] 08:05h WRC Rally Monte-carlo 2024 Todo listo Del 25 al 28 Enero CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd165.mycdn.me/hls/5886677355034.m3u8/sig/-NDkGElM97M/srcIp/37.14.45.69/urls/45.136.20.35/expires/1706711463126/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6839307086618/id/5886677355034/5886677355034_fullhd/index.m3u8"',
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"noname": "Canal ANDROS(Aqui) [COLOR white] 12:30h E-TROPHÉE ANDROS 2024 - Circuito de Super-Besse, Ronda 5 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"name": "Canal FE(Aqui) [COLOR white] 11:00/13:00h Formula E Diriyah ePrix Libres 2 + Carrera 1 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://01-24.webhd.ru/ddh1/premium31/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"name": "Canal 24H(Aqui) [COLOR white] 11:30h 24H Series - Dubai Autodromo, Carrera 1 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2024-01-26T10:35:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -161,20 +182,6 @@
                             "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_05.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1920x1080.m3u8
-
-
-"name": "Canal FE(Aqui) [COLOR white] 11:00/13:00h Formula E Diriyah ePrix Libres 2 + Qualifying 1 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://01-24.webhd.ru/ddh1/premium31/tracks-v1a1/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"name": "Canal 24H(Aqui) [COLOR white] 11:30h 24H Series - Dubai Autodromo, Qualifying CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1qdnm2ez4zm37.cloudfront.net/out/v1/5ee6c42701114ed2a52af523b9923054/push1eu_1.m3u8?start=2024-01-26T10:35:00.000Z"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
 
 
 "noname": "Canal CUP(Aqui) [COLOR white]  CristalAzul",
