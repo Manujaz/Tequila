@@ -163,13 +163,6 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal FE(Aqui) [COLOR white] 11:00/13:00h Formula E Diriyah ePrix Libres 2 + Carrera 1 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://01-24.webhd.ru/ddh1/premium31/tracks-v1a1/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
 "name": "Canal ANDROS(Aqui) [COLOR white] 12:30h E-TROPHÉE ANDROS 2024 - Circuito de Super-Besse, Ronda 5 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://stream-07.ix7.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql56553cOl2que0_5k6vl-iYovgNBG4SjZiWTbblS_DPYBDg)/dm/3/x7og82j/s/live-4.m3u8#cell=lcore"',
@@ -189,6 +182,13 @@
                             "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_05.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1920x1080.m3u8
+
+
+"name": "Canal FE(Aqui) [COLOR white] 19:30h Formula E Diriyah ePrix - Carrera CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://quo2.dlive.click/RMuOrSOTegof4OHrKf1izA/1706401575/33372e31342e34352e3639/ff111/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
 
 
 "name": "Canal SPRINT(Aqui) [COLOR white] 19:35h IMSA WeatherTech Championship - Rolex 24 At Daytona 2024  CristalAzul",
