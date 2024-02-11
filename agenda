@@ -142,7 +142,7 @@
                             "embed": "SOL M.*?sica">'.http://s@bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 
 
-"name": "[COLOR white] -------------------MOTOR EN DIRECTO-----------------------"                            
+"name": "[COLOR white] -------------------DEPORTES EN DIRECTO-----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -151,21 +151,21 @@
 
 
 
-"name": "Canal WSK(Aqui) [COLOR white] 10:50h Directo WSK Super Master Series Ronda 2 - Cremona CristalAzul",
+"name": "Canal NFL(Aqui) [COLOR white] 00:30h Super Bowl Chiefs vs 49Erd - La Final de la NFL Allegiant Stadium CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8?start=2024-02-11T09:20:00.000Z"',
+                            "url": "https://vkvsd42.mycdn.me/hls/5963066706458.m3u8/sig/qAOSt0-gv7w/srcIp/37.14.45.69/urls/185.226.53.84/expires/1708149412548/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6886014135066/id/5963066706458/5963066706458_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal SP(Aqui) [COLOR white] 10:50h Super Sprint NZ Championship - Ronda 5 Euromarque Motorsport Park Christchurch CristalAzul",
+"noname": "Canal SP(Aqui) [COLOR white] 10:50h Super Sprint NZ Championship - Ronda 5 Euromarque Motorsport Park Christchurch CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3t1an06exdpxa.cloudfront.net/out/v1/6fa0c4ea6c1b497f9949e98f3d24ddea/push4eu_1.m3u8?start=2024-02-11T09:45:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal LEMANS(Aqui) [COLOR white] 11:35h Asian Le Mans - Carrera 5 4H en Abu Dhabi CristalAzul",
+"noname": "Canal LEMANS(Aqui) [COLOR white] 11:35h Asian Le Mans - Carrera 5 4H en Abu Dhabi CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu_1.m3u8?start=2024-02-11T11:30:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
