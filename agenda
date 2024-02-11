@@ -149,11 +149,6 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal LEMANS(Aqui) [COLOR white] 11:35h Asian Le Mans - Carrera 4 4H en Abu Dhabi CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu_1.m3u8?start=2024-02-10T10:30:00.000Z"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
 
 
 "name": "Canal WSK(Aqui) [COLOR white] 10:50h Directo WSK Super Master Series Ronda 2 - Cremona CristalAzul",
@@ -166,6 +161,13 @@
 "name": "Canal SP(Aqui) [COLOR white] 10:50h Super Sprint NZ Championship - Ronda 5 Euromarque Motorsport Park Christchurch CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3t1an06exdpxa.cloudfront.net/out/v1/6fa0c4ea6c1b497f9949e98f3d24ddea/push4eu_1.m3u8?start=2024-02-11T09:45:00.000Z"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"name": "Canal LEMANS(Aqui) [COLOR white] 11:35h Asian Le Mans - Carrera 5 4H en Abu Dhabi CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu_1.m3u8?start=2024-02-11T11:30:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
