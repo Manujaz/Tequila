@@ -149,7 +149,7 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal WRC(Aqui) [COLOR white] 08:20h Previo WRC Rally de Suecia 15 al 18 2024 CristalAzul",
+"noname": "Canal WRC(Aqui) [COLOR white] 08:20h Previo WRC Rally de Suecia 15 al 18 2024 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd58.mycdn.me/hls/5982457301530.m3u8/sig/ICeGLFftJr0/srcIp/37.14.45.69/urls/185.226.53.65/expires/1708523085552/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6898163919642/id/5982457301530/5982457301530_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -163,16 +163,16 @@
                             "embed": "SOL M.*?sica">'.23:05h
 
 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 01:30h NASCAR Truck Series Fresh From Florida 250 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://corp.cdn.easybroadcast.fr/live/nasca/playlist.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"noname": "Canal IMSA(Aqui) [COLOR white] 19:45h IMSA WeatherTech Championship - Rolex 24 At Daytona 2024 - Carrera CristalAzul",
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:30h NASCAR Truck Series Fresh From Florida 250 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d22t65jbw0v36j.cloudfront.net/imsa_international/master_03.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://d22t65jbw0v36j.cloudfront.net/imsa_international/master_03.m3u8
+
+
+"name": "Canal IMSA(Aqui) [COLOR white] 21:35h Super Sprint Motorsport New Zealand Championship, Ronda 6  CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1920x1080.m3u8
 
