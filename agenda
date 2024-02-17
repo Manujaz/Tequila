@@ -170,25 +170,25 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:10h NASCAR Cup Series Fresh From Florida 250 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cdn.teacast.eu/ch45/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcwNzkzMjA5NSZoYXNoX3ZhbHVlPVpXWmxOamt3WVRoak5HRTBOalV6WlRrNE5UZ3paamcxWVdFeFlqRmxNekUmZXhwaXJ5PTE3MDc5NDI4OTUmaXA9MjYwNzpmYjkwOmYyOTA6YzRiOTphZDM6ZDA1Nzo2NzE2OjJjMzI%3D"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.23:05h
-
-
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:30h NASCAR Truck Series Fresh From Florida 250 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "http://38.96.178.201/live/FS1/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://d22t65jbw0v36j.cloudfront.net/imsa_international/master_03.m3u8
-
-
 "name": "Canal 12H(Aqui) [COLOR white] 19:35h Liqui Moly-Bathurst 12 Horas, Circuit Mount Panorama Circuit Carrera CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d13hpouywdrj8a.cloudfront.net/out/v1/08068c856b81496a8ac105c692de3401/push11aus_1.m3u8?start=2024-02-17T18:30:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1920x1080.m3u8
+
+
+"name": "Canal NASCAR(Aqui) [COLOR white] 22:00h NASCAR Cup Series DAYTONA 500 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://ny.woah-patio.one/hls/0/stream.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://ny.woah-patio.one/hls/0/stream.m3u8
+
+
+"name": "Canal NASCAR(Aqui) [COLOR white] NASCAR Xfinity Series United Rentals 300 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://ny.woah-patio.one/hls/0/stream.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://d22t65jbw0v36j.cloudfront.net/imsa_international/master_03.m3u8
 
 
 "noname": "Canal IMSA(Aqui) [COLOR white] 19:40h IMSA WeatherTech Championship - Rolex 24h de Daytona 2024 CristalAzul",
