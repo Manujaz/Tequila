@@ -149,7 +149,7 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal WRC(Aqui) [COLOR white] 07:00h Previo WRC Rally de Suecia 15 al 18 2024 CristalAzul",
+"noname": "Canal WRC(Aqui) [COLOR white] 07:00h Previo WRC Rally de Suecia 15 al 18 2024 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd171.mycdn.me/hls/5991018596890.m3u8/sig/cQ70Fv_IxxE/srcIp/37.14.45.69/urls/45.136.22.22/expires/1708667617912/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6903417940762/id/5991018596890/5991018596890_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -184,23 +184,23 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 22:00h NASCAR Cup Series DAYTONA 500 CristalAzul",
+"name": "Canal NASCAR(Aqui) [COLOR white] 22:00h NASCAR Xfinity Series United Rentals 300 - Carrera CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://ny.woah-patio.one/hls/0/stream.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://ny.woah-patio.one/hls/0/stream.m3u8
-
-
-"noname": "Canal NASCAR(Aqui) [COLOR white] 22:00h NASCAR Xfinity Series United Rentals 300 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://cdn.teacast.eu/ch45/tracks-v1a1/mono.m3u8"',
+                            "url": "https://stream.youinroll.com:8443/live/nasca.m3u8?hls_ctx=24gk2y37https://vo-"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d22t65jbw0v36j.cloudfront.net/imsa_international/master_03.m3u8
 
 
-"noname": "Canal NASCAR(Aqui) [COLOR white] 22:00h NASCAR Xfinity Series United Rentals 300 CristalAzul",
+"name": "Canal NASCAR(Aqui) [COLOR white] 22:00h NASCAR Cup Series DAYTONA 500 - Carrera CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://dfwlive-v1-c2p3-sponsored.cf.dtvcdn.com/Content/HLS.cps/Live/channel(FS1HD-8242.dfw.720)/index.m3u8"',
+                            "url": "https://stream.youinroll.com:8443/live/nasca.m3u8?hls_ctx=940ajc8b"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://ny.woah-patio.one/hls/0/stream.m3u8
+
+
+"name": "Canal NASCAR(Aqui) [COLOR white] 22:00h NASCAR Xfinity Series United Rentals 300 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://stream.youinroll.com:8443/live/nasca.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
