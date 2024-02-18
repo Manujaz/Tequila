@@ -156,11 +156,25 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal CUP(Aqui) [COLOR white] 11:15h Gulf Radical Cup Ronda 5 first Carrera 1 Dubai Autodrom CristalAzul",
+"name": "Canal FR(Aqui) [COLOR white] 07:45h Formula Regional Middle East Championship. Ronda 5 Abu Dhabi - Carrera 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d3t1an06exdpxa.cloudfront.net/out/v1/6fa0c4ea6c1b497f9949e98f3d24ddea/push4eu_1.m3u8?start=2024-02-17T10:10:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+
+
+"name": "Canal CUP(Aqui) [COLOR white] 10:50h Gulf Radical Cup Ronda 5 first Carrera 1 Dubai Autodrom CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d3t1an06exdpxa.cloudfront.net/out/v1/6fa0c4ea6c1b497f9949e98f3d24ddea/push4eu_1.m3u8?start=2024-02-17T10:10:00.000Z"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"noname": "Canal W(Aqui) [COLOR white]  CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://ny.woah-patio.one/hls/0/stream.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://ny.woah-patio.one/hls/0/stream.m3u8
 
 
 "noname": "Canal F4(Aqui) [COLOR white] 12:10h UAE Formula 4 Ronda 5 Dubai - Carrera 1 Championship at the Dubai Autodrome CristalAzul",
@@ -168,13 +182,6 @@
                             "url": "https://d3t1an06exdpxa.cloudfront.net/out/v1/6fa0c4ea6c1b497f9949e98f3d24ddea/push4eu_1.m3u8?start=2024-02-17T10:10:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-
-
-"name": "Canal 12H(Aqui) [COLOR white] Liqui Moly-Bathurst 12 Horas, Circuit Mount Panorama Circuit Carrera CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d13hpouywdrj8a.cloudfront.net/out/v1/08068c856b81496a8ac105c692de3401/push11aus_1.m3u8?start=2024-02-17T18:30:00.000Z"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1920x1080.m3u8
 
 
 "noname": "Canal NASCAR(Aqui) [COLOR white] 22:00h NASCAR Cup Series DAYTONA 500 CristalAzul",
@@ -194,13 +201,6 @@
 "noname": "Canal NASCAR(Aqui) [COLOR white] 22:00h NASCAR Xfinity Series United Rentals 300 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://dfwlive-v1-c2p3-sponsored.cf.dtvcdn.com/Content/HLS.cps/Live/channel(FS1HD-8242.dfw.720)/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"noname": "Canal FR(Aqui) [COLOR white] DIFERIDO Formula Regional Middle East Championship. Ronda 2 Abu Dhabi - Carrera 1 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu_1.m3u8?start=2024-01-20T09:00:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
                             
