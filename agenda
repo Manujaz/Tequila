@@ -156,18 +156,18 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal F1(Aqui) [COLOR white] 14:30h Gran Premio de Arabia Saudita de F1 2024 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd167.mycdn.me/hls/6083925117466.m3u8/sig/oeveThCteCo/srcIp/37.14.45.69/urls/185.226.53.96/expires/1710353593510/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6970715810586/id/6083925117466/6083925117466_fullhd/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://cors-proxy.elfsight.com/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_04/index.m3u8
-
-
 "name": "Canal CUP(Aqui) [COLOR white] 13:20h Porsche Cup Brasil Racing, Ronda 1 Goiânia - Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2vrten0tw5eja.cloudfront.net/out/v1/41430feaf20f4896974c4b3c8208d502/push15br_1.m3u8?start=2024-03-09T12:00:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
+
+
+"name": "Canal F1(Aqui) [COLOR white] 18:00h Gran Premio de Arabia Saudita de F1 2024 Carrera CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://vkvsd22.mycdn.me/hls/6089278097946.m3u8/sig/6hT5t15nhQk/srcIp/37.14.45.69/urls/45.136.20.35/expires/1710433142682/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6973973801754/id/6089278097946/6089278097946_fullhd/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://cors-proxy.elfsight.com/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_04/index.m3u8
 
 
 "noname": "Canal WSK(Aqui) [COLOR white] 09:25h WSK Super Master Series Ronda 3 Franciacorta CristalAzul",
