@@ -149,6 +149,13 @@
                             "embed": "SOL M.*?sica">'.
 
 
+"name": "Canal CUP(Aqui) [COLOR white] 13:10h ROTAX MAX Challenge Winter Cup 3 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8?start=2024-03-10T09:40:00.000Z "',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://cors-proxy.elfsight.com/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_04/index.m3u8
+
+
 "noname": "Canal MOTOGP(Aqui) [COLOR white] 10:00h Gran Premio de Qatar de MotoGP 2024 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd22.mycdn.me/hls/6089278097946.m3u8/sig/6hT5t15nhQk/srcIp/37.14.45.69/urls/45.136.20.35/expires/1710433142682/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6973973801754/id/6089278097946/6089278097946_fullhd/index.m3u8"',
@@ -156,21 +163,14 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal CUP(Aqui) [COLOR white] 13:20h Porsche Cup Brasil Racing, Ronda 1 Goiânia - Qualifying CristalAzul",
+"noname": "Canal CUP(Aqui) [COLOR white] 13:20h Porsche Cup Brasil Racing, Ronda 1 Goiânia - Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2vrten0tw5eja.cloudfront.net/out/v1/41430feaf20f4896974c4b3c8208d502/push15br_1.m3u8?start=2024-03-09T12:00:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal F1(Aqui) [COLOR white] 18:00h Gran Premio de Arabia Saudita de F1 2024 Carrera CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd22.mycdn.me/hls/6089278097946.m3u8/sig/6hT5t15nhQk/srcIp/37.14.45.69/urls/45.136.20.35/expires/1710433142682/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6973973801754/id/6089278097946/6089278097946_fullhd/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://cors-proxy.elfsight.com/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_04/index.m3u8
-
-
-"name": "Canal NASCAR(Aqui) [COLOR white] 18:30h NASCAR Xfinity Series Phoenix Practice & Qualifying CristalAzul",
+"noname": "Canal NASCAR(Aqui) [COLOR white] 18:30h NASCAR Xfinity Series Phoenix Practice & Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cors-proxy.elfsight.com/http://176.97.112.145/hls/FoxSports2_high.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
