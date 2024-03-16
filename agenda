@@ -135,9 +135,9 @@
                             "embed": "SOL M.*?sica">'.  
                             
                                                        
-"noname": "Canal BOXEO(Aqui) [COLOR white] JOSHUA VS NGANNOU CristalAzul",
+"noname": "Canal MMA(Aqui) [COLOR white] JCK Fight Night 80 Bianye vs Hailaierke CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd171.mycdn.me/hls/5991018596890.m3u8/sig/cQ70Fv_IxxE/srcIp/37.14.45.69/urls/45.136.22.22/expires/1708667617912/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6903417940762/id/5991018596890/5991018596890_fullhd/index.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos. php",
                             "embed": "SOL M.*?sica">'.http://s@bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 
@@ -184,11 +184,18 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal FE(Aqui) [COLOR white] 11:25h Formula E - Free Libres 2/Qualifig CristalAzul",
+"name": "Canal FE(Aqui) [COLOR white] 17:40h Fórmula E-Prix de Diriyah - Previo/Carrera CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://vkvsd52.mycdn.me/hls/6122249456154.m3u8/sig/kOksfSFa5Vk/srcIp/37.14.45.69/urls/45.136.20.34/expires/1711065711337/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6993945176858/id/6122249456154/6122249456154_fullhd/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/16e62d68b3e54510850c975de6b84717/eu-central-1/6275361344001/profile_3/chunklist.m3u8
+
+
+"name": "Canal FE(Aqui) [COLOR white] 17:40h Fórmula E-Prix de Diriyah - Previo/Carrera CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/16e62d68b3e54510850c975de6b84717/eu-central-1/6275361344001/profile_3/chunklist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/16e62d68b3e54510850c975de6b84717/eu-central-1/6275361344001/profile_3/chunklist.m3u8
 
 
 "noname": "Canal IMSA(Aqui) [COLOR white] 14:40h IMSA WeatherTech SportsCar Championship, Mobil 1 Carrera CristalAzul",
@@ -196,13 +203,6 @@
                             "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-
-
-"noname": "Canal FE(Aqui) [COLOR white] 17:40h Fórmula E-Prix de Diriyah - Previo/Carrera CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/16e62d68b3e54510850c975de6b84717/eu-central-1/6275361344001/profile_3/chunklist.m3u8
 
 
 "name": "Canal D1NZ(Aqui) [COLOR white] Diferido Repco D1NZ Championship Ronda 3 action at Hampton Downs, Waikato CristalAzul",
