@@ -136,16 +136,16 @@
                             "embed": "SOL M.*?sica">'.https://cors-proxy.elfsight.com/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_04/index.m3u8
 
 
-"noname": "Canal CUP(Aqui) [COLOR white] 21:55h Porsche Carrera Cup America - Sebring - Carrera 1 CristalAzul",
+"noname": "Canal MOTOGP(Aqui) [COLOR white] 09:40h Gran Premio de Portugal de MotoGP 2024, Clasificación CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'.https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8
 
 
-"noname": "Canal CUP(Aqui) [COLOR white] 22:55h Lamborghini Super Trofeo - Sebring - Carrera  CristalAzul",
+"noname": "Canal F1(Aqui) [COLOR white] 06:00h Gran Premio de Australia de F1 2024 Circuito de Albert Park, Clasificación CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
