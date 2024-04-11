@@ -39,9 +39,16 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal INDYCAR(Aqui) [COLOR white] En Directo Indycar - Indianapolis - Test Session 1 CristalAzul",
+"name": "Canal INDYCAR(Aqui) [COLOR white] 16:00h Indycar - Indianapolis - Test Session 3 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://livecdn-iptv001.rumsport.com/stream/265/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"name": "Canal NASCAR(Aqui) [COLOR white] 22:00/00:00/02:30h Nascar Truck + Xfinity Series Texas - Practice/Qualifying CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://livecdn-iptv001.rumsport.com/stream/756/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -60,16 +67,9 @@
                             "embed": "SOL M.*?sica">'.https://cors-proxy.elfsight.com/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_04/index.m3u8
 
 
-"name": "Canal NASCAR(Aqui) [COLOR white] Diferido D1NZ Championship final round action at Baypark, Tauranga CristalAzul",
+"name": "Canal D1NZ(Aqui) [COLOR white] Diferido D1NZ Championship final round action at Baypark, Tauranga CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://cdn.motorsport.tv/2022/July/30/drift_d1nz_2022_d1nz_finale_2022.mp4/1920_1080_30_3600.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"noname": "Canal NHRA(Aqui) [COLOR white] 20:30h NHRA Southeast Division 2 Drag Racing Series, Qualifying 2 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd35.mycdn.me/hls/6151581403674.m3u8/sig/3GkHA8oyopw/srcIp/37.14.45.69/urls/185.226.52.53/expires/1711638605147/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7012606552858/id/6151581403674/6151581403674_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
