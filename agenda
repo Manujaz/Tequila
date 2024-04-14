@@ -39,6 +39,13 @@
                             "embed": "SOL M.*?sica">'.
 
 
+"name": "Canal KARTING(Aqui) [COLOR white] 12:10h ROTAX MAX Challenge Euro Trophy en Genk, Bélgica CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8?start=2024-04-14T08:10:00.000Z"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://cors-proxy.elfsight.com/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_04/index.m3u8
+
+
 "name": "Canal MOTOGP(Aqui) [COLOR white] 16:40h Gran Premio de Las Américas de MotoGP 2024 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd161.mycdn.me/hls/6246852921882.m3u8/sig/VbW-mtKY4CQ/expires/1713161850378/srcIp/37.14.45.69/urls/45.136.20.66/clientType/14/srcAg/CHROME_ANDROID/mid/7070928677658/6246852921882_fullhd/index.m3u8"',
@@ -55,30 +62,23 @@
 
 "name": "Canal NASCAR(Aqui) [COLOR white] 21:45h Nascar Cup Series - Texas - AutoTrader EchoPark Automotive 400 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vo-live-yuzzit-grabbyo.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_05/index.m3u8"',
+                            "url": "https://dd12-cdn.b-cdn.net/static-files/0/stream.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal NASCAR(Aqui) [COLOR white] Nascar Cup Series - Texas - AutoTrader EchoPark Automotive 400 CristalAzul",
+"name": "Canal NASCAR(Aqui) [COLOR white] 21:45h Nascar Cup Series - Texas - AutoTrader EchoPark Automotive 400 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vo-live-yuzzit-grabbyo.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_05/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://livecdn-iptv001.rumsport.com/stream/757/tracks-v1a1/mono.m3u8
 
 
-"noname": "Canal TCR(Aqui) [COLOR white] 17:20h TCR South America championship endurance, Interlagos - Brasil CristalAzul",
+"noname": "Canal TCR(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd35.mycdn.me/hls/6239205853722.m3u8/sig/TGoAcEjSCxg/srcIp/37.14.45.69/urls/185.226.52.63/expires/1713409385286/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7066393389850/id/6239205853722/6239205853722_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-
-
-"name": "Canal KARTING(Aqui) [COLOR white] 12:10h ROTAX MAX Challenge Euro Trophy en Genk, Bélgica CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d3h0r3uiskzl84.cloudfront.net/out/v1/b426c9b64cf142ff9debfffa04be6866/push3eu_1.m3u8?start=2024-04-14T08:10:00.000Z"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://cors-proxy.elfsight.com/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_04/index.m3u8
 
 
 "noname": "Canal D1NZ(Aqui) [COLOR white] 04:05h D1NZ Championship Ronda 3 action at Manfeild CristalAzul",
