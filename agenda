@@ -32,37 +32,9 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal WRC(Aqui) [COLOR white] 08:30h WRC Rally de Croacia 2024 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd183.mycdn.me/hls/6267312343578.m3u8/sig/nOr_elq_3OU/srcIp/37.14.45.69/urls/45.136.20.63/expires/1713955266780/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7083279002394/id/6267312343578/6267312343578_fullhd/index.m3u8"',
-                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"noname": "Canal ACURA(Aqui) [COLOR white] 16:00h Acura Grand Prix of Long Beach Street Circuit Qualifying CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://cors-proxy.elfsight.com/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_04/index.m3u8
-
-
-"noname": "Canal F1(Aqui) [COLOR white] ESP 05:30h Gran Premio de China de F1 2024 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://livecdn-iptv001.rumsport.com/stream/265/tracks-v1a1/mono.m3u8
-
-
-"name": "Canal F1(Aqui) [COLOR white] ING 05:30h Gran Premio de China de F1 2024 CristalAzul",
+"name": "Canal ACURA(Aqui) [COLOR white] 23:50h Acura Grand Prix of Long Beach Street Circuit Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://livecdn-iptv001.rumsport.com/stream/265/tracks-v1a1/mono.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://salamus2023.onlinehdhls.ru/ddh2/premium34/tracks-v1a1/mono.m3u8
-
-
-"name": "Canal WRC(Aqui) [COLOR white] 08:30h WRC Rally de Croacia 2024 Dia 1 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd183.mycdn.me/hls/6267312343578.m3u8/sig/nOr_elq_3OU/srcIp/37.14.45.69/urls/45.136.20.63/expires/1713955266780/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7083279002394/id/6267312343578/6267312343578_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -81,9 +53,37 @@
                             "embed": "SOL M.*?sica">'.
 
 
+"name": "Canal IMSA(Aqui) [COLOR white] 01:55h IMSA Weathertech - Grand Prix of Long Beach - Qualifying CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://live-tkr.cdnvideo.ru/tkr/imsa/playlist.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://livecdn-iptv001.rumsport.com/stream/265/tracks-v1a1/mono.m3u8
+
+
+"name": "Canal F1(Aqui) [COLOR white] ING 09:00h Gran Premio de China de F1 2024 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://livecdn-iptv001.rumsport.com/stream/265/tracks-v1a1/mono.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://salamus2023.onlinehdhls.ru/ddh2/premium34/tracks-v1a1/mono.m3u8
+
+
+"noname": "Canal WRC(Aqui) [COLOR white] 07:30h WRC Rally de Croacia 2024 Dia 2 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"noname": "Canal WRC(Aqui) [COLOR white] 08:30h WRC Rally de Croacia 2024 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
 "noname": "Canal D1NZ(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d13hpouywdrj8a.cloudfront.net/out/v1/08068c856b81496a8ac105c692de3401/push11aus_1.m3u8?start=2024-04-13T02:00:00.000Z"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -92,7 +92,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://bcovlive-a.akamaihd.net/16e62d68b3e54510850c975de6b84717/eu-central-1/6275361344001/profile_3/chunklist.m3u8
+                            "embed": "SOL M.*?sica">'.
 
 
 "noname": "Canal FE(Aqui) [COLOR white]  CristalAzul",
@@ -127,7 +127,7 @@
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://ny.woah-patio.one/hls/0/stream.m3u8
+                            "embed": "SOL M.*?sica">'.
 
 
 "noname": "Canal NASCAR(Aqui) [COLOR white]  CristalAzul",
