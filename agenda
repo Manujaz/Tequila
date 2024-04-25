@@ -25,7 +25,7 @@
 
 
 
-"name": "[COLOR white] -------------------MOTOR EN DIRECTO-----------------------"                            
+"noname": "[COLOR white] -------------------MOTOR EN DIRECTO-----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -53,35 +53,35 @@
                             "embed": "SOL M.*?sica">'.https://salamus2023.onlinehdhls.ru/ddh2/premium34/tracks-v1a1/mono.m3u8
 
 
-"name": "Canal WEC(Aqui) [COLOR white] 11:10/14:45h WEC - 6 Hours of Imola - Libres 3 + Qualifying CristalAzul",
+"noname": "Canal WEC(Aqui) [COLOR white] 11:10/14:45h WEC - 6 Hours of Imola - Libres 3 + Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://livecdn-iptv001.rumsport.com/stream/2302/tracks-v1a1/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal SERIES(Aqui) [COLOR white] 17:20h Stock Car Pro Series em Interlagos Carrera 2 CristalAzul",
+"noname": "Canal SERIES(Aqui) [COLOR white] 17:20h Stock Car Pro Series em Interlagos Carrera 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1ukoysrx157kf.cloudfront.net/out/v1/753102fe3b634fccac02dcce3438466c/push16br_5.m3u8?start=2024-04-21T14:35:00.000Z"',
                              "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal INDY(Aqui) [COLOR white] 17:25h Indycar - Long Beach - Practice 2/Qualifying CristalAzul",
+"noname": "Canal INDY(Aqui) [COLOR white] 17:25h Indycar - Long Beach - Practice 2/Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://livecdn-iptv001.rumsport.com/stream/265/tracks-v1a1/mono.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Cup Series - Talladega, Carrera CristalAzul",
+"noname": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Cup Series - Talladega, Carrera CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd218.mycdn.me/hls/6280258718234.m3u8/sig/wirg3wP6j5g/srcIp/37.14.45.69/urls/185.226.52.92/expires/1714183753973/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7091245951770/id/6280258718234/6280258718234_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Cup Series - Talladega, Carrera CristalAzul",
+"noname": "Canal NASCAR(Aqui) [COLOR white] 21:00h Nascar Cup Series - Talladega, Carrera CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vo-live-yuzzit-grabbyo.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_05/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -769,9 +769,9 @@
 
 "name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 2 CristalAzul",
                             "image": "https://s4.aconvert.com/convert/p3r68-cdx67/aofgh-rtzl4.jpg",
-                            "url": "https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1920x1080.m3u8"',
+                            "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
+                            "embed": "SOL M.*?sica">'. 
 
 
 "name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 3 CristalAzul",
@@ -804,16 +804,9 @@
 
 "name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 7 CristalAzul",
                             "image": "https://s4.aconvert.com/convert/p3r68-cdx67/aofgh-rtzl4.jpg",
-                            "url": "https://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8"',
+                            "url": "https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">.                          
-                            
-                            
-"name": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 8 CristalAzul",
-                            "image": "https://s4.aconvert.com/convert/p3r68-cdx67/aofgh-rtzl4.jpg",
-                            "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.                            
+                            "embed": "SOL M.*?sica">.                                              
                                                         
                             
 "noname": "Canal MOTOR(Aqui) [COLOR white] CANAL MOTOR 11 CristalAzul",
