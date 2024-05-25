@@ -56,18 +56,18 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal LST(Aqui) [COLOR white] 18:35h Lamborghini Super Trofeo - Laguna Seca - Carrera 2 CristalAzul",
+"name": "Canal GT(Aqui) [COLOR white] 16:30h BTCC SNETTERTON KWIK FIT BRITISH TOURING CAR CHAMPIONSHIP - Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"noname": "Canal NASCAR(Aqui) [COLOR white] 21:12h NASCAR Cup Series Goodyear 400 Darlington Raceway CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd208.mycdn.me/hls/6377401158170.m3u8/sig/ljb6Sj0g6sA/srcIp/37.14.45.69/urls/185.226.52.97/expires/1715994937161/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7151592483610/id/6377401158170/6377401158170_fullhd/index.m3u8"',
+                            "url": "https://bcovlive-a.akamaihd.net/f0451762d1e840d6bc13ee569085e5f3/eu-west-1/1582188683001/profile_0/chunklist.m3u8"',
                              "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.NASCAR Xfinity Series: Crown Royal Purple Bag Project 200
+
+
+"noname": "Canal GT(Aqui) [COLOR white] 16.55h GT British World championship en Donington Park, Qualifying CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8
 
 
 "noname": "Canal (Aqui) [COLOR white]  CristalAzul",
