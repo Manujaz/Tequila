@@ -72,14 +72,14 @@
 
 "name": "Canal F1(Aqui) [COLOR white] 15:00h GRAN PREMIO F1 MONACO 2024 Carrera CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd20.mycdn.me/hls/6410900146853.m3u8/sig/J0C2ri4tSME/srcIp/37.14.45.69/urls/45.136.20.64/expires/1717185259664/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7099771857829/id/6410900146853/6410900146853_fullhd/index.m3u8"',
+                            "url": "https://vkvsd20.mycdn.me/hls/6410900146853.m3u8/sig/J0C2ri4tSME/srcIp/37.14.45.69/urls/45.136.20.64/expires/1717185259664/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7099771857829/id/6410900146853/6410900146853_high/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal TCR(Aqui) [COLOR white] 15:10h TCR South America championship Racing Cascavel, Carrera 1 CristalAzul",
+"name": "Canal TCR(Aqui) [COLOR white] 15:10h TCR South America championship Racing Cascavel, Carrera 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d2vrten0tw5eja.cloudfront.net/out/v1/41430feaf20f4896974c4b3c8208d502/push15br_1.m3u8?start=2024-05-25T15:15:00.000Z"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://livecdn-iptv001.rumsport.com/stream/265/tracks-v1a1/mono.m3u8
 
