@@ -42,6 +42,13 @@
                             "embed": "SOL M.*?sica">'.https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8
 
 
+"name": "Canal CUP(Aqui) [COLOR white] 08:00h China Endurance Championship - GT Cup - Carrera Principal CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://liveq-play01.yiche.com/live/2114_348480_45e8d693-e646-4678-b8bf-e661fb01a6c9.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
 "noname": "Canal MOTOGP(Aqui) [COLOR white] 09:30h Gran Premio Catalunya de MotoGP 2024 Carrera CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
@@ -56,21 +63,21 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal GT(Aqui) [COLOR white] 16:30h BTCC SNETTERTON KWIK FIT BRITISH TOURING CAR CHAMPIONSHIP - Qualifying CristalAzul",
+"noname": "Canal GT(Aqui) [COLOR white] 16:30h BTCC SNETTERTON KWIK FIT BRITISH TOURING CAR CHAMPIONSHIP - Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://bcovlive-a.akamaihd.net/f0451762d1e840d6bc13ee569085e5f3/eu-west-1/1582188683001/profile_0/chunklist.m3u8"',
                              "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.NASCAR Xfinity Series: Crown Royal Purple Bag Project 200
 
 
-"name": "Canal GT(Aqui) [COLOR white] 17:00h GT British World championship en Donington Park, Qualifying CristalAzul",
+"noname": "Canal GT(Aqui) [COLOR white] 17:00h GT British World championship en Donington Park, Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/push7eu_1.m3u8?start=2024-05-25T14:55:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8
 
 
-"name": "Canal TCR(Aqui) [COLOR white] 17:20h TCR South America championship Racing Cascavel, Qualifying CristalAzul",
+"noname": "Canal TCR(Aqui) [COLOR white] 17:20h TCR South America championship Racing Cascavel, Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d2vrten0tw5eja.cloudfront.net/out/v1/41430feaf20f4896974c4b3c8208d502/push15br_1.m3u8?start=2024-05-25T15:15:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
