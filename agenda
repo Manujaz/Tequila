@@ -49,14 +49,21 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal 24H(Aqui) [COLOR white] 08:45h 24h Nürburgring Stunden-Rennen 2024 Classics CristalAzul",
+"name": "Canal 24H(Aqui) [COLOR white] 08:45h 24h Nürburgring Stunden-Rennen 2024 Classics CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d31fuznfn5pr6z.cloudfront.net/out/v1/45867a313be843fabaf38097824f3a5f/push8eu_1.m3u8?start=2024-06-01T06:40:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal KARTING(Aqui) [COLOR white] 10:40h Champions of the Future karting championship at the Slovakia Ring CristalAzul",
+"noname": "Canal KARTING(Aqui) [COLOR white] 09:50h Champions of the Future karting championship at the Slovakia Ring CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"noname": "Canal MOTOGP(Aqui) [COLOR white] 14:00h GP DE SAN MARINO DE MOTOGP EN MISANO CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -68,13 +75,6 @@
                             "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8
-
-
-"noname": "Canal INDY(Aqui) [COLOR white] 18:45h 108TH RUNNING OF THE INDIANAPOLIS 500🏁  CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd80.mycdn.me/hls/6446134266394.m3u8/sig/Eq1HqcICTTY/srcIp/37.14.45.69/urls/45.136.20.37/expires/1717199582360/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7189920033562/id/6446134266394/6446134266394_fullhd/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
 
 
 "noname": "Canal F1(Aqui) [COLOR white] 15:00h GRAN PREMIO F1 MONACO 2024 Carrera CristalAzul",
