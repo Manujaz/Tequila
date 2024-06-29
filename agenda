@@ -56,20 +56,6 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "Canal CUP(Aqui) [COLOR white] 15.40h GT World Challenge Europe series at the Circuit de Spa-Francorchamps, Super Pole Shootout CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8?ads.wurl_channel=1370&ads.wurl_name=Motorsporttv&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"noname": "Canal INDICA(Aqui) [COLOR white] 00:30h IndyCar en Laguna Seca (GP de Monterey, Carrera CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd191.mycdn.me/hls/6579780127258.m3u8/sig/WRZDMPYQe2c/srcIp/37.14.45.69/urls/185.226.53.95/expires/1719622714220/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7274174425882/id/6579780127258/6579780127258_fullhd/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
 "name": "Canal RALLY(Aqui) [COLOR white] 09:50h Campeonato Italiano Assoluto Rally Sparco - Moruri 1 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8"',
@@ -77,16 +63,30 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal IMSA(Aqui) [COLOR white] 22:40h IMSA Weathertech - Chevrolet Detroit Sports Car Classic - Qualifying CristalAzul",
+"name": "Canal CUP(Aqui) [COLOR white] 15.40h GT World Challenge Europe series at the Circuit de Spa-Francorchamps, Super Pole Shootout CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master.m3u8"',
+                            "url": "https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8?ads.wurl_channel=1370&ads.wurl_name=Motorsporttv&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"noname": "Canal CUP(Aqui) [COLOR white] 15:50h Porsche Cup Championship en Estoril, Portugal - Ronda 5, Carrera 1 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"noname": "Canal CUP(Aqui) [COLOR white] 16:00h Stock Car Pro Series Ronda 5 Velocitta II - Qualifying CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8
 
 
-"noname": "Canal F1(Aqui) [COLOR white] 15:00h GRAN PREMIO F1 MONACO 2024 Carrera CristalAzul",
+"noname": "Canal F1(Aqui) [COLOR white]  CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vk.com/video/@id718161690?z=video718161690_456239475"',
+                            "url": ""',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://livecdn-iptv001.rumsport.com/stream/265/tracks-v1a1/mono.m3u8
 
