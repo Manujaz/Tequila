@@ -65,7 +65,14 @@
 
 "noname": "Canal CUP(Aqui) INDYCAR[COLOR white] 18:00h IndyCar Grand Prix de Portland - Libres 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": ""',
+                            "url": "https://vkvsd160.mycdn.me/hls/6855879494170.m3u8/sig/repX_rplIY8/srcIp/37.14.45.69/urls/45.136.22.66/expires/1724947666777/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7460771277594/id/6855879494170/6855879494170_fullhd/index.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.
+
+
+"name": "Canal CUP(Aqui) [COLOR white] 18:15h VP Racing SportsCar Challenge - VIRginia Raceway - Carrera 1 CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://diipdi7zuw6g8.cloudfront.net/imsa_usblock/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
@@ -73,13 +80,6 @@
 "noname": "Canal TCR(Aqui) [COLOR white] 20:05h TCR South America - Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": ""',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.
-
-
-"noname": "Canal CUP(Aqui) [COLOR white] 15:50h Porsche Cup Championship en Estoril, Portugal - Ronda 5, Carrera 1 CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8?start=2024-06-29T13:45:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
