@@ -56,7 +56,14 @@
                             "embed": "SOL M.*?sica">'.https://diipdi7zuw6g8.cloudfront.net/imsa_usblock/master.m3u8
 
 
-"noname": "Canal CUP(Aqui) [COLOR white] 13:25h Porsche Cup Ronda 6 Brasil Interlagos II - Qualifying CristalAzul",
+"name": "Canal IMSA(Aqui) [COLOR white] 18:05h IMSA Weathertech - Michelin GT Challenge at VIR - Carrera CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://diipdi7zuw6g8.cloudfront.net/imsa_usblock/master_06.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8
+
+
+"name": "Canal CUP(Aqui) [COLOR white] 18:25h Porsche Cup Ronda 6 Brasil Interlagos II - Carrera CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://d1az6qm8em1hil.cloudfront.net/out/v1/cab3e527b7414718baa8ed5cd1f203d1/push13us_1.m3u8?start=2024-08-24T11:25:00.000Z"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -82,13 +89,6 @@
                             "url": "https://vkvsd92.mycdn.me/hls/6858683255322.m3u8/sig/3YnobvREF2M/expires/1724613217763/srcIp/37.14.45.69/urls/185.226.52.54/clientType/14/srcAg/CHROME_ANDROID/mid/7462422063898/6858683255322_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
-
-
-"noname": "Canal IMSA(Aqui) [COLOR white] 22:45h IMSA Weathertech - VIRginia Raceway - Qualifying CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://diipdi7zuw6g8.cloudfront.net/imsa_usblock/master.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8
 
 
 "noname": "Canal CUP(Aqui) [COLOR white] 00:00h Mazda MX-5 Cup - VIRginia Raceway - Carrera 1 CristalAzul",
