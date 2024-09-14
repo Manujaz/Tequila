@@ -35,7 +35,7 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"name": "[COLOR white] -------------------MOTOR EN DIRECTO-----------------------"                            
+"noname": "[COLOR white] -------------------MOTOR EN DIRECTO-----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -56,7 +56,7 @@
                             "embed": "SOL M.*?sica">'.https://diipdi7zuw6g8.cloudfront.net/imsa_usblock/master.m3u8
 
 
-"name": "Canal INDY(Aqui) [COLOR white] 20:15h Indycar - Nashville - Qualifying CristalAzul",
+"noname": "Canal INDY(Aqui) [COLOR white] 20:15h Indycar - Nashville - Qualifying CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://vkvsd178.mycdn.me/hls/6956270291482.m3u8/sig/GfU5zsk5tmI/srcIp/37.14.45.69/urls/185.226.53.96/expires/1726794762226/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7520397896474/id/6956270291482/6956270291482_fullhd/index.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
@@ -260,16 +260,16 @@
                                                                                                                             
                             
                               
-"noname": "[COLOR white] -----------------NOCHE DE PELEA----------------------"                            
+"name": "[COLOR white] -----------------NOCHE DE PELEA----------------------"                            
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
                             "url": "https://www.youtube.com/watch?v=4DPGjjCBcAg"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal BOXEO(Aqui) [COLOR white] 22:30h Crawford vs. Madrimov CristalAzul",
+"name": "Canal BOXEO(Aqui) [COLOR white] 00:00h Canelo vs Berlanga - Previo Preliminares + Pelea CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd83.mycdn.me/hls/6761817573914.m3u8/sig/rpRDApCqjvo/expires/1722807181314/srcIp/83.45.46.74/urls/45.136.21.66/clientType/14/srcAg/CHROME_ANDROID/mid/7398637644570/6761817573914_fullhd/index.m3u8"', 
+                            "url": "https://vkvsd204.mycdn.me/hls/6957107448346.m3u8/sig/9dszFkBHs0U/expires/1726433465682/srcIp/37.14.45.69/urls/45.136.20.58/clientType/14/srcAg/CHROME_ANDROID/mid/7520871721754/6957107448346_fullhd/index.m3u8"', 
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.  
                             
