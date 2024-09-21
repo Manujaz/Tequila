@@ -49,18 +49,18 @@
                             "embed": "SOL M.*?sica">'.
 
 
-"noname": "Canal F1(Aqui) [COLOR white] 11:00h Gran Premio de Azerbaiyán de F1 2024 - Previo + Carrera CristalAzul",
+"name": "Canal CUP(Aqui) [COLOR white] 18:00h Porsche Carrera Cup Carrera 2 CristalAzul",
                             "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd43.mycdn.me/hls/6958549568026.m3u8/sig/sianeV0aa7Q/expires/1726474741275/srcIp/37.14.45.69/urls/185.226.52.95/clientType/14/srcAg/CHROME_ANDROID/mid/7521786997530/6958549568026_fullhd/index.m3u8"',
-                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
-                            "embed": "SOL M.*?sica">'.https://diipdi7zuw6g8.cloudfront.net/imsa_usblock/master.m3u8
-
-
-"noname": "Canal MS(Aqui) [COLOR white] 21:00h Nascar + Indycar - Nashville - Carrera CristalAzul",
-                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
-                            "url": "https://vkvsd33.mycdn.me/hls/6961207970330.m3u8/sig/MUoyDEjqjxo/srcIp/37.14.45.69/urls/185.226.52.90/expires/1726884282178/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7523365235482/id/6961207970330/6961207970330_fullhd/index.m3u8"',
+                            "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master.m3u8"',
                             "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
                             "embed": "SOL M.*?sica">'.https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master_06.m3u8
+
+
+"name": "Canal IMSA(Aqui) [COLOR white] 19:00h IMSA Pilot Challenge - Indianapolis Motor Speedway 120a CristalAzul",
+                            "image": "https://imagizer.imageshack.com/img924/1737/3nBunA.jpg",
+                            "url": "https://d1cmhha2r9uuhi.cloudfront.net/imsa_domestic/master.m3u8"',
+                            "referer": "https://vergol.com/bgjhykdmbtj668/live/plusestrenos.php",
+                            "embed": "SOL M.*?sica">'.https://diipdi7zuw6g8.cloudfront.net/imsa_usblock/master.m3u8
 
 
 "noname": "Canal CUP(Aqui) [COLOR white] 18:25h Porsche Cup Ronda 6 Brasil Interlagos II - Carrera CristalAzul",
